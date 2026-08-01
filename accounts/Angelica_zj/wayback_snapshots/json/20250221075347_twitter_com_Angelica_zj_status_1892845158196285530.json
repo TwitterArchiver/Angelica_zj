@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1892403148154642433"
+      ],
+      "media_source_tweet_id": [
+        "1892403217520022000"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1892845158196285530",
+    "created_at": "2025-02-21T07:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T08:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892845158196285530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1156981009763540992",
+          "start": 3,
+          "username": "ShouldHaveAura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xfRKVAKQSE",
+          "end": 48,
+          "expanded_url": "https://x.com/ShouldHaveAura/status/1892403217520022000/video/1",
+          "media_key": "13_1892403148154642433",
+          "start": 25,
+          "url": "https://t.co/xfRKVAKQSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892845158196285530",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5353
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892403217520022000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShouldHaveAura: Meow https://t.co/xfRKVAKQSE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17340,
+        "height": 1280,
+        "media_key": "13_1892403148154642433",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1892403148154642433/img/zXebhvcKpk5kgyQl.jpg",
+        "public_metrics": {
+          "view_count": 164295
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1892403148154642433/vid/avc1/320x568/oUpVNTaAvagcf8N2.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1892403148154642433/vid/avc1/480x852/19GmwAgSlVL93itu.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1892403148154642433/vid/avc1/720x1280/fMkUZMRTIZ_dcvYw.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1892403148154642433/pl/KUA60KTwHCKF_ET1.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1892403148154642433"
+          ],
+          "media_source_tweet_id": [
+            "1892403217520022000"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1892845158196285530",
+        "created_at": "2025-02-21T07:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T08:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892845158196285530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1156981009763540992",
+              "start": 3,
+              "username": "ShouldHaveAura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xfRKVAKQSE",
+              "end": 48,
+              "expanded_url": "https://x.com/ShouldHaveAura/status/1892403217520022000/video/1",
+              "media_key": "13_1892403148154642433",
+              "start": 25,
+              "url": "https://t.co/xfRKVAKQSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892845158196285530",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5353
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892403217520022000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShouldHaveAura: Meow https://t.co/xfRKVAKQSE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1892403148154642433"
+          ]
+        },
+        "author_id": "1156981009763540992",
+        "conversation_id": "1892403217520022000",
+        "created_at": "2025-02-20T02:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T03:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892403217520022000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xfRKVAKQSE",
+              "end": 28,
+              "expanded_url": "https://x.com/ShouldHaveAura/status/1892403217520022000/video/1",
+              "media_key": "13_1892403148154642433",
+              "start": 5,
+              "url": "https://t.co/xfRKVAKQSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892403217520022000",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3837,
+          "impression_count": 533951,
+          "like_count": 38284,
+          "quote_count": 253,
+          "reply_count": 69,
+          "retweet_count": 5353
+        },
+        "reply_settings": "everyone",
+        "text": "Meow https://t.co/xfRKVAKQSE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25214,
+          "following_count": 941,
+          "like_count": 13934,
+          "listed_count": 37,
+          "media_count": 1279,
+          "tweet_count": 14527
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-01T17:32:23.000Z",
+        "description": "These cats with pawerful aura|| we don't own any content || Please Dm for credit ||III",
+        "id": "1156981009763540992",
+        "location": "DM for credit/removal",
+        "name": "Cats with pawerful aura",
+        "pinned_tweet_id": "1892403008560108020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892768609773965313/Lco9TflA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326697,
+          "following_count": 1,
+          "like_count": 86,
+          "listed_count": 877,
+          "media_count": 16564,
+          "tweet_count": 16939
+        },
+        "username": "ShouldHaveAura",
+        "verified": false
+      }
+    ]
+  }
+}

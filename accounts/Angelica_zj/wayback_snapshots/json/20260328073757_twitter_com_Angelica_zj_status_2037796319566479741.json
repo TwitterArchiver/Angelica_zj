@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2037575097716977896",
+    "created_at": "2026-03-28T07:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T08:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037796319566479741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1805343817966440448",
+          "start": 0,
+          "username": "HuatoF42103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037796319566479741",
+    "in_reply_to_user_id": "1805343817966440448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037722146211062175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuatoF42103 我转发的时候也犹豫了一下…对不起🧎‍♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2037575097716977896",
+        "created_at": "2026-03-28T07:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037796319566479741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1805343817966440448",
+              "start": 0,
+              "username": "HuatoF42103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037796319566479741",
+        "in_reply_to_user_id": "1805343817966440448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037722146211062175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuatoF42103 我转发的时候也犹豫了一下…对不起🧎‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805343817966440448",
+        "conversation_id": "2037575097716977896",
+        "created_at": "2026-03-28T02:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037722146211062175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037722146211062175",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037575097716977896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 好恶心，推特也不警告一下，直勾勾的被看见，我要洗眼睛去了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25207,
+          "following_count": 1048,
+          "like_count": 14673,
+          "listed_count": 40,
+          "media_count": 1556,
+          "tweet_count": 16851
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T20:54:53.000Z",
+        "description": "混合型系统，有创伤和创造行为，侧面。主要成员只有夏诺儿和夏诺语，包括一个幻想伙伴转意识体的存在，老副（小时候开始就这么叫的这可不赖我）。系统名《花海》\n主要爱好，写作，骑行，音游，diy数码，以及一些常见的数码产品。",
+        "id": "1805343817966440448",
+        "location": "浙江 宁波 慈溪",
+        "name": "花と風",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805344123525709824/8PQieLkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 49,
+          "like_count": 210,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 2444
+        },
+        "username": "HuatoF42103",
+        "verified": false
+      }
+    ]
+  }
+}

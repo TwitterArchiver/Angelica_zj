@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995791386700861441"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1995791415851340163",
+    "created_at": "2025-12-02T09:45:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T10:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995791415851340163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vYdmeLZS05",
+          "end": 106,
+          "expanded_url": "https://x.com/Angelica_zj/status/1995791415851340163/photo/1",
+          "media_key": "3_1995791386700861441",
+          "start": 83,
+          "url": "https://t.co/vYdmeLZS05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995791415851340163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实看到他作为一个假面骑士粉丝，我很难理解他为什么会说这些话，本以为他会理解各类作品中敬畏生命和对痛苦保持同情的精神，但此人的三观似乎这份精神完全相悖，太割裂太可悲 https://t.co/vYdmeLZS05"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995791386700861441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7J5sSoW0AEWuv5.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995791386700861441"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1995791415851340163",
+        "created_at": "2025-12-02T09:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T10:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995791415851340163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vYdmeLZS05",
+              "end": 106,
+              "expanded_url": "https://x.com/Angelica_zj/status/1995791415851340163/photo/1",
+              "media_key": "3_1995791386700861441",
+              "start": 83,
+              "url": "https://t.co/vYdmeLZS05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995791415851340163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实看到他作为一个假面骑士粉丝，我很难理解他为什么会说这些话，本以为他会理解各类作品中敬畏生命和对痛苦保持同情的精神，但此人的三观似乎这份精神完全相悖，太割裂太可悲 https://t.co/vYdmeLZS05"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25281,
+          "following_count": 997,
+          "like_count": 14337,
+          "listed_count": 40,
+          "media_count": 1446,
+          "tweet_count": 16099
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

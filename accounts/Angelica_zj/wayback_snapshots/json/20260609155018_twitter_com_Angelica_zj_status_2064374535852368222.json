@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2064374535852368222",
+    "created_at": "2026-06-09T15:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064374535852368222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "854250925480845312",
+          "start": 3,
+          "username": "liulingyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064374535852368222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064180515159334942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liulingyue: 其实我认为大陆14岁性同意这个条款最大的问题在于，一个几乎所有场景都将14岁视为需要严密监护、限制、规训的未成年人的规则体系内；唯独到了性关系方面，却突然要求这个人能作出高度复杂、后果极重的有效同意。\n所以它不像是给未成年人开放了身体自主权，而更…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2064374535852368222",
+        "created_at": "2026-06-09T15:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064374535852368222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "854250925480845312",
+              "start": 3,
+              "username": "liulingyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064374535852368222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064180515159334942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liulingyue: 其实我认为大陆14岁性同意这个条款最大的问题在于，一个几乎所有场景都将14岁视为需要严密监护、限制、规训的未成年人的规则体系内；唯独到了性关系方面，却突然要求这个人能作出高度复杂、后果极重的有效同意。\n所以它不像是给未成年人开放了身体自主权，而更…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "854250925480845312",
+        "conversation_id": "2064180515159334942",
+        "created_at": "2026-06-09T02:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064180515159334942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064180515159334942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 8612,
+          "like_count": 397,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "其实我认为大陆14岁性同意这个条款最大的问题在于，一个几乎所有场景都将14岁视为需要严密监护、限制、规训的未成年人的规则体系内；唯独到了性关系方面，却突然要求这个人能作出高度复杂、后果极重的有效同意。\n所以它不像是给未成年人开放了身体自主权，而更像是给成年人责任规制上的豁口。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25074,
+          "following_count": 1046,
+          "like_count": 14838,
+          "listed_count": 41,
+          "media_count": 1594,
+          "tweet_count": 17231
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-18T08:31:06.000Z",
+        "description": "速来接我回火星",
+        "id": "854250925480845312",
+        "name": "panchiao🚩🏴🏴‍☠️🏳️‍⚧️🏳‍🌈",
+        "pinned_tweet_id": "2022906791865258241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907841751840337924/31LJRKV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3882,
+          "following_count": 1442,
+          "like_count": 18947,
+          "listed_count": 15,
+          "media_count": 1018,
+          "tweet_count": 9071
+        },
+        "username": "liulingyue",
+        "verified": false
+      }
+    ]
+  }
+}

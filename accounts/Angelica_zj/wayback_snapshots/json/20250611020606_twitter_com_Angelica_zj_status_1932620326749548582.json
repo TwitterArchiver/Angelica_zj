@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932617219973738496"
+      ],
+      "media_source_tweet_id": [
+        "1932617238957469877"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1932620326749548582",
+    "created_at": "2025-06-11T02:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T03:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932620326749548582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1627307144151449602",
+          "start": 3,
+          "username": "antibaby_99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jr1AqzoBsR",
+          "end": 54,
+          "expanded_url": "https://x.com/antibaby_99/status/1932617238957469877/photo/1",
+          "media_key": "3_1932617219973738496",
+          "start": 31,
+          "url": "https://t.co/Jr1AqzoBsR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932620326749548582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932617238957469877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @antibaby_99: 你跟他的区别是你话多知道吗 https://t.co/Jr1AqzoBsR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 629,
+        "media_key": "3_1932617219973738496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtIJH0NWcAAjPSS.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932617219973738496"
+          ],
+          "media_source_tweet_id": [
+            "1932617238957469877"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1932620326749548582",
+        "created_at": "2025-06-11T02:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T03:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932620326749548582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1627307144151449602",
+              "start": 3,
+              "username": "antibaby_99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jr1AqzoBsR",
+              "end": 54,
+              "expanded_url": "https://x.com/antibaby_99/status/1932617238957469877/photo/1",
+              "media_key": "3_1932617219973738496",
+              "start": 31,
+              "url": "https://t.co/Jr1AqzoBsR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932620326749548582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932617238957469877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @antibaby_99: 你跟他的区别是你话多知道吗 https://t.co/Jr1AqzoBsR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932617219973738496"
+          ]
+        },
+        "author_id": "1627307144151449602",
+        "conversation_id": "1932617238957469877",
+        "created_at": "2025-06-11T01:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T02:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932617238957469877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jr1AqzoBsR",
+              "end": 37,
+              "expanded_url": "https://x.com/antibaby_99/status/1932617238957469877/photo/1",
+              "media_key": "3_1932617219973738496",
+              "start": 14,
+              "url": "https://t.co/Jr1AqzoBsR"
+            },
+            {
+              "display_url": "x.com/s17ac/status/1…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/s17ac/status/1932281134144164222",
+              "start": 38,
+              "url": "https://t.co/58UA8iufKG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932617238957469877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932281134144164222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你跟他的区别是你话多知道吗 https://t.co/Jr1AqzoBsR https://t.co/58UA8iufKG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25511,
+          "following_count": 996,
+          "like_count": 14476,
+          "listed_count": 36,
+          "media_count": 1366,
+          "tweet_count": 15398
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T14:00:41.000Z",
+        "description": "处于性无能守活寡只能在网上无能狂怒的阶段",
+        "id": "1627307144151449602",
+        "name": "dingleberry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929296897329500160/-OU_t7IZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23244,
+          "following_count": 236,
+          "like_count": 55320,
+          "listed_count": 57,
+          "media_count": 394,
+          "tweet_count": 16208
+        },
+        "username": "antibaby_99",
+        "verified": false
+      }
+    ]
+  }
+}

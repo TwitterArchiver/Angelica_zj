@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1825554017273221120"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1825554109111689696",
+    "created_at": "2024-08-19T15:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T16:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1825554109111689696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kbidw80cq8",
+          "end": 61,
+          "expanded_url": "https://twitter.com/Angelica_zj/status/1825554109111689696/video/1",
+          "media_key": "7_1825554017273221120",
+          "start": 38,
+          "url": "https://t.co/kbiDw80cq8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825554109111689696",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "兼职教小学生扩列的女宝给我做的qq人建模，谁懂这个含金量呢\n心软软啊🥺😭😭 https://t.co/kbiDw80cq8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12955,
+        "height": 720,
+        "media_key": "7_1825554017273221120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1825554017273221120/pu/img/PTtSgMTWKrrVnum2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1825554017273221120/pu/vid/avc1/360x270/glHTxKXe-SzQ_ykO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1825554017273221120/pu/vid/avc1/480x360/0N-5vc_aE03NCysh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1825554017273221120/pu/vid/avc1/960x720/XjqX8xj1XNF5prSr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1825554017273221120/pu/pl/1rycQqIlxuEmdLl6.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1825554017273221120"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1825554109111689696",
+        "created_at": "2024-08-19T15:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T16:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825554109111689696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kbidw80cq8",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Angelica_zj/status/1825554109111689696/video/1",
+              "media_key": "7_1825554017273221120",
+              "start": 38,
+              "url": "https://t.co/kbiDw80cq8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825554109111689696",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兼职教小学生扩列的女宝给我做的qq人建模，谁懂这个含金量呢\n心软软啊🥺😭😭 https://t.co/kbiDw80cq8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24409,
+          "following_count": 898,
+          "like_count": 13513,
+          "listed_count": 35,
+          "tweet_count": 13507
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

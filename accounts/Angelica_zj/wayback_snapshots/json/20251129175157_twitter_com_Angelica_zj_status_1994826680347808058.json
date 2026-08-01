@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994826658134507520"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1994826680347808058",
+    "created_at": "2025-11-29T17:51:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T18:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994826680347808058"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hk1q3C9LXW",
+          "end": 42,
+          "expanded_url": "https://x.com/Angelica_zj/status/1994826680347808058/photo/1",
+          "media_key": "3_1994826658134507520",
+          "start": 19,
+          "url": "https://t.co/hk1q3C9LXW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994826680347808058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么拍的玩具也能被盗图。咋都这样对我 https://t.co/hk1q3C9LXW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1994826658134507520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G68MRsqWQAAqkyH.jpg",
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994826658134507520"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994826680347808058",
+        "created_at": "2025-11-29T17:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T18:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994826680347808058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hk1q3C9LXW",
+              "end": 42,
+              "expanded_url": "https://x.com/Angelica_zj/status/1994826680347808058/photo/1",
+              "media_key": "3_1994826658134507520",
+              "start": 19,
+              "url": "https://t.co/hk1q3C9LXW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994826680347808058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么拍的玩具也能被盗图。咋都这样对我 https://t.co/hk1q3C9LXW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25267,
+          "following_count": 996,
+          "like_count": 14344,
+          "listed_count": 40,
+          "media_count": 1443,
+          "tweet_count": 16065
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

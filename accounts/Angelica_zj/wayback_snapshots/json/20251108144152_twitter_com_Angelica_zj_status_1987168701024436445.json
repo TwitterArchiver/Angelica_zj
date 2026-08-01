@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1987114326134509892",
+    "created_at": "2025-11-08T14:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T15:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987168701024436445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1546163550682771456",
+          "start": 0,
+          "username": "Plastic3rd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987168701024436445",
+    "in_reply_to_user_id": "1546163550682771456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987167740202000713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Plastic3rd 没人控制你看不得不能举报不能屏蔽，你也可以上诉X凭什么不像墙内一样搞清朗计划，无法接受无法解决就换平台，墙内一辈子都刷不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1987114326134509892",
+        "created_at": "2025-11-08T14:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T15:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987168701024436445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1546163550682771456",
+              "start": 0,
+              "username": "Plastic3rd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987168701024436445",
+        "in_reply_to_user_id": "1546163550682771456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987167740202000713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Plastic3rd 没人控制你看不得不能举报不能屏蔽，你也可以上诉X凭什么不像墙内一样搞清朗计划，无法接受无法解决就换平台，墙内一辈子都刷不到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546163550682771456",
+        "conversation_id": "1987114326134509892",
+        "created_at": "2025-11-08T14:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T15:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987167740202000713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987167740202000713",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987167073449963764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 對的，只要前人有做過的就全部都是對的，那你要不要去厄狄浦斯去操他自己的媽媽？，不是就他媽的規定上面就寫了不要發自殘和自殺是他媽的眼睛瞎是嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25316,
+          "following_count": 989,
+          "like_count": 14268,
+          "listed_count": 42,
+          "media_count": 1421,
+          "tweet_count": 15940
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T16:05:20.000Z",
+        "description": "我是誅原璋，朕要殺盡天下的原批",
+        "id": "1546163550682771456",
+        "name": "塑膠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546163674884485121/RJBNCCMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 51,
+          "like_count": 17,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 924
+        },
+        "username": "Plastic3rd",
+        "verified": false
+      }
+    ]
+  }
+}

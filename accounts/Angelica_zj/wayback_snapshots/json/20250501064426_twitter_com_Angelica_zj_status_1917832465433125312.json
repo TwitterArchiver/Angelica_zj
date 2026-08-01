@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1917634371982614629",
+    "created_at": "2025-05-01T06:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T07:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917832465433125312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1617162636415598593",
+          "start": 0,
+          "username": "DebbieS23013354"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917832465433125312",
+    "in_reply_to_user_id": "1617162636415598593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917672059200758125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DebbieS23013354 新买嘟！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1917634371982614629",
+        "created_at": "2025-05-01T06:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T07:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917832465433125312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1617162636415598593",
+              "start": 0,
+              "username": "DebbieS23013354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917832465433125312",
+        "in_reply_to_user_id": "1617162636415598593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917672059200758125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DebbieS23013354 新买嘟！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617162636415598593",
+        "conversation_id": "1917634371982614629",
+        "created_at": "2025-04-30T20:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T21:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917672059200758125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917672059200758125",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917634371982614629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 外套好好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25366,
+          "following_count": 987,
+          "like_count": 14270,
+          "listed_count": 39,
+          "media_count": 1325,
+          "tweet_count": 15072
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T14:10:09.000Z",
+        "description": "😈💩🫶🤡🙀👹🤲🫥😪🤥🤮🫲👋🫷🫀👄🫁🫂🫦👯👩‍🦼👯‍♀️🫶😋🫁🏝️🍊💰😂💩🏝️🥺🧦🚪",
+        "id": "1617162636415598593",
+        "location": "贾巴沃克岛🏝️",
+        "name": "3r EUSho",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623933446975541249/B_LXNXHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 317,
+          "like_count": 9176,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 2642
+        },
+        "username": "DebbieS23013354",
+        "verified": false
+      }
+    ]
+  }
+}

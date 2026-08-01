@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2042267062861750499",
+    "created_at": "2026-04-09T15:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042268311464051096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1833176965433720832",
+          "start": 0,
+          "username": "hoshinoharu5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042268311464051096",
+    "in_reply_to_user_id": "1833176965433720832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042267062861750499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@hoshinoharu5 可爱的我好难受"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042267055106539520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeXEPQbwAAHRpj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042267055102332928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeXEPPbkAAN9Ld.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2042267062861750499",
+        "created_at": "2026-04-09T15:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042268311464051096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1833176965433720832",
+              "start": 0,
+              "username": "hoshinoharu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042268311464051096",
+        "in_reply_to_user_id": "1833176965433720832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042267062861750499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@hoshinoharu5 可爱的我好难受"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042267055106539520",
+            "3_2042267055102332928"
+          ]
+        },
+        "author_id": "1833176965433720832",
+        "conversation_id": "2042267062861750499",
+        "created_at": "2026-04-09T15:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042267062861750499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PX9qjZsxE0",
+              "end": 42,
+              "expanded_url": "https://x.com/hoshinoharu5/status/2042267062861750499/photo/1",
+              "media_key": "3_2042267055106539520",
+              "start": 19,
+              "url": "https://t.co/PX9qjZsxE0"
+            },
+            {
+              "display_url": "pic.x.com/PX9qjZsxE0",
+              "end": 42,
+              "expanded_url": "https://x.com/hoshinoharu5/status/2042267062861750499/photo/1",
+              "media_key": "3_2042267055102332928",
+              "start": 19,
+              "url": "https://t.co/PX9qjZsxE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042267062861750499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "原图竟然如此萌吗…？xyq大人是神吧 https://t.co/PX9qjZsxE0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25053,
+          "following_count": 1049,
+          "like_count": 14709,
+          "listed_count": 40,
+          "media_count": 1568,
+          "tweet_count": 16955
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T16:13:50.000Z",
+        "description": "🚪9999999999999999999999999999999",
+        "id": "1833176965433720832",
+        "location": "地狱驻太平洋大使馆",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956850744730214400/1QCWYf25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 148,
+          "like_count": 4032,
+          "listed_count": 1,
+          "media_count": 948,
+          "tweet_count": 5667
+        },
+        "username": "hoshinoharu5",
+        "verified": false
+      }
+    ]
+  }
+}

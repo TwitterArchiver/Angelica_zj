@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1931518626596798973",
+    "created_at": "2025-06-08T10:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T11:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931659541646880916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "944871291483385856",
+          "start": 0,
+          "username": "iN4TvNWS0rZNW5R"
+        },
+        {
+          "end": 26,
+          "id": "1589809419822329857",
+          "start": 17,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931659541646880916",
+    "in_reply_to_user_id": "944871291483385856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931599887998861719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iN4TvNWS0rZNW5R @jianlvup 道家法术，属于优秀中国传统文化，是小初高必修课程👆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1931518626596798973",
+        "created_at": "2025-06-08T10:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T11:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931659541646880916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "944871291483385856",
+              "start": 0,
+              "username": "iN4TvNWS0rZNW5R"
+            },
+            {
+              "end": 26,
+              "id": "1589809419822329857",
+              "start": 17,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931659541646880916",
+        "in_reply_to_user_id": "944871291483385856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931599887998861719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iN4TvNWS0rZNW5R @jianlvup 道家法术，属于优秀中国传统文化，是小初高必修课程👆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "944871291483385856",
+        "conversation_id": "1931518626596798973",
+        "created_at": "2025-06-08T06:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T07:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931599887998861719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931599887998861719",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2557,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931518626596798973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 道法是甚麼?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25524,
+          "following_count": 996,
+          "like_count": 14509,
+          "listed_count": 36,
+          "media_count": 1363,
+          "tweet_count": 15388
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-24T10:04:05.000Z",
+        "description": "",
+        "id": "944871291483385856",
+        "location": "Taiwan",
+        "name": "世紀初怪人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1442896400212135939/jy8SZxez_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 868,
+          "like_count": 69677,
+          "listed_count": 4,
+          "media_count": 85,
+          "tweet_count": 5546
+        },
+        "username": "iN4TvNWS0rZNW5R",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 可互fo（私信） INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 逃生舱：待定\n搭档:@KawawaDiana8964\n朋友:@hhjnjkoguyunmo\n伙伴：@RealColidora3\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 113,
+                "start": 99,
+                "username": "RealColidora3"
+              },
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Jianlv117"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E6%90%9E%E7%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E6%90%9E%E7%AC%91%E8%A7%86%E9%A2%91-mvp",
+                "start": 0,
+                "url": "https://t.co/391J9kVPFC"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1931072420708065415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2604,
+          "following_count": 595,
+          "like_count": 10399,
+          "listed_count": 10,
+          "media_count": 554,
+          "tweet_count": 1260
+        },
+        "url": "https://t.co/391J9kVPFC",
+        "username": "jianlvup",
+        "verified": false
+      }
+    ]
+  }
+}

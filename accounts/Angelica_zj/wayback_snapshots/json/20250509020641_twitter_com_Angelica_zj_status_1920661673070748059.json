@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1920661673070748059",
+    "created_at": "2025-05-09T02:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T03:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920661673070748059"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1920661673070748059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我特别懒一人，倒也不缺钱，但对于各种生活用品总懒得买，类似衣服鞋将就着穿，没纸了就在各种衣服包里掏不知道什么时候的皱巴纸用\n作为一个设计专业学生，大一弄丢了鼠标后一直懒得买新的，两年都在笔记本触控板上手搓作业…\n谈恋爱之后好转一些，对象注意到后会帮着置办，等放假回家又打回原形了（嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1920661673070748059",
+        "created_at": "2025-05-09T02:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T03:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920661673070748059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920661673070748059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别懒一人，倒也不缺钱，但对于各种生活用品总懒得买，类似衣服鞋将就着穿，没纸了就在各种衣服包里掏不知道什么时候的皱巴纸用\n作为一个设计专业学生，大一弄丢了鼠标后一直懒得买新的，两年都在笔记本触控板上手搓作业…\n谈恋爱之后好转一些，对象注意到后会帮着置办，等放假回家又打回原形了（嗯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25392,
+          "following_count": 987,
+          "like_count": 14332,
+          "listed_count": 38,
+          "media_count": 1334,
+          "tweet_count": 15135
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

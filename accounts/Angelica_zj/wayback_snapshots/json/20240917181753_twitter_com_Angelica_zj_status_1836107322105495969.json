@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1836107322105495969",
+    "created_at": "2024-09-17T18:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T19:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1836107322105495969"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1836107322105495969",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和男朋友的思维差异其实很大\n昨晚聊起假期异地连视频睡觉，如果我比他先睡着的话，他表述的是看着我的睡颜只会觉得当下很幸福\n但反之他提早比我睡着，寂寞的深夜那些过去初识或磨合的痛苦就会猛烈冲击我，我反复回味，琢磨，以至于看到他安然熟睡的脸都会生出短暂且阴毒的恨意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1836107322105495969",
+        "created_at": "2024-09-17T18:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T19:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836107322105495969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836107322105495969",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和男朋友的思维差异其实很大\n昨晚聊起假期异地连视频睡觉，如果我比他先睡着的话，他表述的是看着我的睡颜只会觉得当下很幸福\n但反之他提早比我睡着，寂寞的深夜那些过去初识或磨合的痛苦就会猛烈冲击我，我反复回味，琢磨，以至于看到他安然熟睡的脸都会生出短暂且阴毒的恨意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24387,
+          "following_count": 907,
+          "like_count": 13570,
+          "listed_count": 34,
+          "tweet_count": 13610
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

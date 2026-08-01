@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2080360641810886709",
+    "created_at": "2026-07-24T05:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T06:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080520752969773114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1821494049943035904",
+          "start": 0,
+          "username": "FuckuOvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080520752969773114",
+    "in_reply_to_user_id": "1821494049943035904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080360641810886709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FuckuOvo 刷到好多个和他长得像的婴儿…好诡异"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080360619375542272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7s9gqXQAAsU7i.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2080360641810886709",
+        "created_at": "2026-07-24T05:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080520752969773114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1821494049943035904",
+              "start": 0,
+              "username": "FuckuOvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080520752969773114",
+        "in_reply_to_user_id": "1821494049943035904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080360641810886709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FuckuOvo 刷到好多个和他长得像的婴儿…好诡异"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080360619375542272"
+          ]
+        },
+        "author_id": "1821494049943035904",
+        "conversation_id": "2080360641810886709",
+        "created_at": "2026-07-23T18:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080360641810886709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/us37s6vHxy",
+              "end": 28,
+              "expanded_url": "https://x.com/FuckuOvo/status/2080360641810886709/photo/1",
+              "media_key": "3_2080360619375542272",
+              "start": 5,
+              "url": "https://t.co/us37s6vHxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080360641810886709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像一个人 https://t.co/us37s6vHxy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25021,
+          "following_count": 1049,
+          "like_count": 14911,
+          "listed_count": 41,
+          "media_count": 1607,
+          "tweet_count": 17411
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T10:30:20.000Z",
+        "description": "本质健全逼",
+        "id": "1821494049943035904",
+        "location": "🚪50",
+        "name": "幺幺，爸爸哭了",
+        "pinned_tweet_id": "2051011862117138918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080383961012830208/SCDqNKm-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 153,
+          "like_count": 6507,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1569
+        },
+        "url": "",
+        "username": "FuckuOvo",
+        "verified": false
+      }
+    ]
+  }
+}

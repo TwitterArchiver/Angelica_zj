@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1853088762080960726",
+    "created_at": "2024-11-03T17:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T18:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853120283147977070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708369098814476288",
+          "start": 0,
+          "username": "yayaleowooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853120283147977070",
+    "in_reply_to_user_id": "1708369098814476288",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853088762080960726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yayaleowooo 好奇怪…会不会是要检查你手臂疤痕之类的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1853088762080960726",
+        "created_at": "2024-11-03T17:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T18:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853120283147977070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708369098814476288",
+              "start": 0,
+              "username": "yayaleowooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853120283147977070",
+        "in_reply_to_user_id": "1708369098814476288",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853088762080960726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yayaleowooo 好奇怪…会不会是要检查你手臂疤痕之类的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708369098814476288",
+        "conversation_id": "1853088762080960726",
+        "created_at": "2024-11-03T14:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T15:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853088762080960726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1853088762080960726",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 283,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈给我打电话了说生日那天会给我发红包说让我自己看着办，她讲话好奇怪，包括之前让我拍照也是，好奇妙，她说我自己清楚为什么要双手比耶，可是我自己都不知道咋了这个动作，她还说我发给她的照片別p，我p啥了我，我就给腿上的刀疤码了一下🌚我妈说话好奇怪真的，其实我觉得我们可以正常聊天的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24630,
+          "following_count": 927,
+          "like_count": 13590,
+          "listed_count": 36,
+          "tweet_count": 13846
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T06:32:03.000Z",
+        "description": "什么都不是，混沌系,混沌星球，碎碎念都在推特了没人看也没有关系我喜欢自言自语",
+        "id": "1708369098814476288",
+        "location": "我都自残了你就让让我吧",
+        "name": "sivlfpd",
+        "pinned_tweet_id": "1800019570838868372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821103273425956864/mf2x4qoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167,
+          "following_count": 302,
+          "like_count": 5364,
+          "listed_count": 8,
+          "tweet_count": 2184
+        },
+        "username": "yayaleowooo",
+        "verified": false
+      }
+    ]
+  }
+}

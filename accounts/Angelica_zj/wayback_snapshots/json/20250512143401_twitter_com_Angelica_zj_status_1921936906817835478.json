@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1921080316195713529",
+    "created_at": "2025-05-12T14:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T15:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921936906817835478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1664686990200274944",
+          "start": 0,
+          "username": "zqluoairan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921936906817835478",
+    "in_reply_to_user_id": "1664686990200274944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921598038566453758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqluoairan 我吻吻(＞人＜)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1921080316195713529",
+        "created_at": "2025-05-12T14:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T15:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921936906817835478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1664686990200274944",
+              "start": 0,
+              "username": "zqluoairan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921936906817835478",
+        "in_reply_to_user_id": "1664686990200274944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921598038566453758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqluoairan 我吻吻(＞人＜)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664686990200274944",
+        "conversation_id": "1921080316195713529",
+        "created_at": "2025-05-11T16:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T17:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921598038566453758"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "明明",
+              "probability": 0.4986,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921598038566453758",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921080316195713529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 明明很萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25365,
+          "following_count": 988,
+          "like_count": 14366,
+          "listed_count": 37,
+          "media_count": 1334,
+          "tweet_count": 15173
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T17:34:52.000Z",
+        "description": "葵某人最大的垃圾桶但是欢迎来找我玩▽･ｪ･▽ﾉ”\n\n老公→@70wsbrowning",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "70wsbrowning"
+              }
+            ]
+          }
+        },
+        "id": "1664686990200274944",
+        "location": "白日妄想家",
+        "name": "葵",
+        "pinned_tweet_id": "1869407204711006612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809436879202422784/NLCNb769_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 299,
+          "like_count": 8634,
+          "listed_count": 2,
+          "media_count": 782,
+          "tweet_count": 3305
+        },
+        "username": "zqluoairan",
+        "verified": false
+      }
+    ]
+  }
+}

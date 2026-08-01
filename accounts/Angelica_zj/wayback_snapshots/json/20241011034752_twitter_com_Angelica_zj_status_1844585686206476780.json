@@ -1,0 +1,134 @@
+{
+  "data": {
+    "author_id": "1468567542264664067",
+    "conversation_id": "1844408651165073581",
+    "created_at": "2024-10-11T03:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-11T04:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844585686206476780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1268491001951219712",
+          "start": 0,
+          "username": "Xaiforever11"
+        }
+      ]
+    },
+    "id": "1844585686206476780",
+    "in_reply_to_user_id": "1268491001951219712",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 36,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844567279155155043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xaiforever11 贴贴爱酱o(｀ω´ )o爱你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1468567542264664067",
+        "conversation_id": "1844408651165073581",
+        "created_at": "2024-10-11T03:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-11T04:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844585686206476780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1268491001951219712",
+              "start": 0,
+              "username": "Xaiforever11"
+            }
+          ]
+        },
+        "id": "1844585686206476780",
+        "in_reply_to_user_id": "1268491001951219712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844567279155155043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xaiforever11 贴贴爱酱o(｀ω´ )o爱你！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24910,
+          "following_count": 932,
+          "like_count": 13675,
+          "listed_count": 36,
+          "media_count": 1235,
+          "tweet_count": 14046
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-04T10:33:24.000Z",
+        "description": "不闲聊 🚪188",
+        "id": "1268491001951219712",
+        "location": "布丁城堡",
+        "name": "愛",
+        "pinned_tweet_id": "1814834108276875620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779901522299822081/Oq4K0emK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5084,
+          "following_count": 395,
+          "like_count": 48358,
+          "listed_count": 6,
+          "media_count": 870,
+          "tweet_count": 12176
+        },
+        "username": "Xaiforever11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1990569389771591726",
+    "created_at": "2025-11-18T10:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T11:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990723950268055695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1327278498981896192",
+          "start": 0,
+          "username": "realCarlosEC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990723950268055695",
+    "in_reply_to_user_id": "1327278498981896192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990569389771591726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realCarlosEC 个人觉得吃药的作用没有大家想象中那么大。得找到根本原因，看状况很像是她给自己的压力过于大了，但一般青少年给自己的压力源头大多来源于父母的潜移默化，父母可能觉得自己从没唠叨从没说过重话，但其实你们的期待（甚至夸奖）对她来说也是一种负担。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1990569389771591726",
+        "created_at": "2025-11-18T10:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990723950268055695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1327278498981896192",
+              "start": 0,
+              "username": "realCarlosEC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990723950268055695",
+        "in_reply_to_user_id": "1327278498981896192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990569389771591726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realCarlosEC 个人觉得吃药的作用没有大家想象中那么大。得找到根本原因，看状况很像是她给自己的压力过于大了，但一般青少年给自己的压力源头大多来源于父母的潜移默化，父母可能觉得自己从没唠叨从没说过重话，但其实你们的期待（甚至夸奖）对她来说也是一种负担。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327278498981896192",
+        "conversation_id": "1990569389771591726",
+        "created_at": "2025-11-17T23:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T00:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990569389771591726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990569389771591726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 77845,
+          "like_count": 307,
+          "quote_count": 8,
+          "reply_count": 249,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "大女儿抑郁症严重了，每天默默流泪，说了多次自杀安乐死，昨天再次申请了休学。现在她需要多陪伴，尤其是我的陪伴，她和她妈妈几乎不聊天。我现在每天上班出门都觉得自己在做错事，我该做的是陪着她说说话，陪着她附近走走。现在每天做的事感觉失去了意义，甚至可笑。怎么办？她还很焦虑无法留下。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25296,
+          "following_count": 989,
+          "like_count": 14280,
+          "listed_count": 41,
+          "media_count": 1434,
+          "tweet_count": 16002
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T15:54:12.000Z",
+        "description": "46岁的日本语言学校学生 telegram群:https://t.co/OxQ97a9wj3 youtube:https://t.co/huZCJWKXHP telegram：https://t.co/953YIRE3tO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/pmcg2020",
+                "end": 46,
+                "expanded_url": "http://t.me/pmcg2020",
+                "start": 23,
+                "url": "https://t.co/OxQ97a9wj3"
+              },
+              {
+                "display_url": "youtube.com/channel/UC1PUA…",
+                "end": 78,
+                "expanded_url": "https://www.youtube.com/channel/UC1PUADY-gCwp96h6D_IIqpg",
+                "start": 55,
+                "url": "https://t.co/huZCJWKXHP"
+              },
+              {
+                "display_url": "t.me/carlos45online",
+                "end": 111,
+                "expanded_url": "http://t.me/carlos45online",
+                "start": 88,
+                "url": "https://t.co/953YIRE3tO"
+              }
+            ]
+          }
+        },
+        "id": "1327278498981896192",
+        "location": "Tokyo-to, Japan",
+        "name": "田中大河（たなか たいが ）",
+        "pinned_tweet_id": "1587618319770669056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752729961834901504/XFX3LO0l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6916,
+          "following_count": 1250,
+          "like_count": 5602,
+          "listed_count": 23,
+          "media_count": 578,
+          "tweet_count": 5177
+        },
+        "username": "realCarlosEC",
+        "verified": false
+      }
+    ]
+  }
+}

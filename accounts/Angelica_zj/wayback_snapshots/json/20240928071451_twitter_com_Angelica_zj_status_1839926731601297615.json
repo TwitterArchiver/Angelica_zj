@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1839922953338925358",
+    "created_at": "2024-09-28T07:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T08:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839926731601297615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1617162636415598593",
+          "start": 0,
+          "username": "DebbieS23013354"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839926731601297615",
+    "in_reply_to_user_id": "1617162636415598593",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839922953338925358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DebbieS23013354 也是让你尝着了😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1839922953338925358",
+        "created_at": "2024-09-28T07:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T08:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839926731601297615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1617162636415598593",
+              "start": 0,
+              "username": "DebbieS23013354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839926731601297615",
+        "in_reply_to_user_id": "1617162636415598593",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839922953338925358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DebbieS23013354 也是让你尝着了😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617162636415598593",
+        "conversation_id": "1839922953338925358",
+        "created_at": "2024-09-28T06:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T07:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839922953338925358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aiharashizuku/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/aiharashizuku/status/1839454881465114640",
+              "start": 23,
+              "url": "https://t.co/C3NNVb7v9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839922953338925358",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839454881465114640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這是真的 在空調房裡待一會再進去 超級超級燙 https://t.co/C3NNVb7v9r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24371,
+          "following_count": 905,
+          "like_count": 13621,
+          "listed_count": 35,
+          "tweet_count": 13660
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T14:10:09.000Z",
+        "description": "未發布此軟件就是在現實中幸福",
+        "id": "1617162636415598593",
+        "name": "Sai&kyitric",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623933446975541249/B_LXNXHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 259,
+          "like_count": 5876,
+          "listed_count": 0,
+          "tweet_count": 1856
+        },
+        "username": "DebbieS23013354",
+        "verified": false
+      }
+    ]
+  }
+}

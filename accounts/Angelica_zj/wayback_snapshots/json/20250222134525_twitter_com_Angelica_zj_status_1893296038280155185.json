@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1893257647798747632",
+    "created_at": "2025-02-22T13:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T14:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893296038280155185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1319678940101840897",
+          "start": 0,
+          "username": "Innocent_KaiKai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893296038280155185",
+    "in_reply_to_user_id": "1319678940101840897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893289821671772166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Innocent_KaiKai 喝烂醉哩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1893257647798747632",
+        "created_at": "2025-02-22T13:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T14:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893296038280155185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1319678940101840897",
+              "start": 0,
+              "username": "Innocent_KaiKai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893296038280155185",
+        "in_reply_to_user_id": "1319678940101840897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893289821671772166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Innocent_KaiKai 喝烂醉哩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319678940101840897",
+        "conversation_id": "1893257647798747632",
+        "created_at": "2025-02-22T13:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T14:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893289821671772166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893289821671772166",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893257647798747632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 这种事不应该碰一下就差不多醒了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25219,
+          "following_count": 944,
+          "like_count": 13945,
+          "listed_count": 37,
+          "media_count": 1280,
+          "tweet_count": 14535
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T16:36:06.000Z",
+        "description": "等你下课，然后去一起买好吃的。",
+        "id": "1319678940101840897",
+        "name": "Innocent_Kai",
+        "pinned_tweet_id": "1890762684489957451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891940905529073664/IqSyPBtR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 158,
+          "like_count": 1397,
+          "listed_count": 12,
+          "media_count": 10,
+          "tweet_count": 26022
+        },
+        "username": "Innocent_KaiKai",
+        "verified": false
+      }
+    ]
+  }
+}

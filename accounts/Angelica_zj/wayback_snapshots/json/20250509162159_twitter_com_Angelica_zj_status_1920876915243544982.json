@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1920845136843493529",
+    "created_at": "2025-05-09T16:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T17:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920876915243544982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1591862488265420800",
+          "start": 0,
+          "username": "mdzzzzzz3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920876915243544982",
+    "in_reply_to_user_id": "1591862488265420800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920868715781865780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mdzzzzzz3 可以参考前两条推文…嗯…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1920845136843493529",
+        "created_at": "2025-05-09T16:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T17:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920876915243544982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1591862488265420800",
+              "start": 0,
+              "username": "mdzzzzzz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920876915243544982",
+        "in_reply_to_user_id": "1591862488265420800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920868715781865780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mdzzzzzz3 可以参考前两条推文…嗯…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591862488265420800",
+        "conversation_id": "1920845136843493529",
+        "created_at": "2025-05-09T15:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T16:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920868715781865780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920868715781865780",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920845136843493529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 配个键鼠防止腱鞘炎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25388,
+          "following_count": 987,
+          "like_count": 14355,
+          "listed_count": 37,
+          "media_count": 1335,
+          "tweet_count": 15152
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-13T18:36:12.000Z",
+        "description": "简而言之，大数据推了一群傻逼",
+        "id": "1591862488265420800",
+        "name": "重生之我不是默尔索",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591863140127383552/_F-YLGjM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 28,
+          "like_count": 2421,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 232
+        },
+        "username": "mdzzzzzz3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990719357345771520",
+        "3_1990719357366788097"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1990719369127620620",
+    "created_at": "2025-11-18T09:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T10:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990719369127620620"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qwq2BuhKJK",
+          "end": 154,
+          "expanded_url": "https://x.com/Angelica_zj/status/1990719369127620620/photo/1",
+          "media_key": "3_1990719357345771520",
+          "start": 131,
+          "url": "https://t.co/Qwq2BuhKJK"
+        },
+        {
+          "display_url": "pic.x.com/Qwq2BuhKJK",
+          "end": 154,
+          "expanded_url": "https://x.com/Angelica_zj/status/1990719369127620620/photo/1",
+          "media_key": "3_1990719357366788097",
+          "start": 131,
+          "url": "https://t.co/Qwq2BuhKJK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990719369127620620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "姐姐家的猫是我这辈子见过最亲人的猫，我都算阅猫无数了，但这种见到陌生人都跟人身后蹭来蹭去，一躺人身边就开始咕噜噜踩奶的真的是第一次见\n它以前是配种猫，生过很多小宝宝，姐姐把它从猫咖带回家，说不想再让它生\n哎呀…真的很让人心疼，看到它现在能这么幸福也替它觉得幸运 https://t.co/Qwq2BuhKJK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1990719357345771520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6B0tU4WsAAgS8f.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990719357366788097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6B0tU9XYAEAJZN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990719357345771520",
+            "3_1990719357366788097"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1990719369127620620",
+        "created_at": "2025-11-18T09:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990719369127620620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qwq2BuhKJK",
+              "end": 154,
+              "expanded_url": "https://x.com/Angelica_zj/status/1990719369127620620/photo/1",
+              "media_key": "3_1990719357345771520",
+              "start": 131,
+              "url": "https://t.co/Qwq2BuhKJK"
+            },
+            {
+              "display_url": "pic.x.com/Qwq2BuhKJK",
+              "end": 154,
+              "expanded_url": "https://x.com/Angelica_zj/status/1990719369127620620/photo/1",
+              "media_key": "3_1990719357366788097",
+              "start": 131,
+              "url": "https://t.co/Qwq2BuhKJK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990719369127620620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐家的猫是我这辈子见过最亲人的猫，我都算阅猫无数了，但这种见到陌生人都跟人身后蹭来蹭去，一躺人身边就开始咕噜噜踩奶的真的是第一次见\n它以前是配种猫，生过很多小宝宝，姐姐把它从猫咖带回家，说不想再让它生\n哎呀…真的很让人心疼，看到它现在能这么幸福也替它觉得幸运 https://t.co/Qwq2BuhKJK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25296,
+          "following_count": 989,
+          "like_count": 14280,
+          "listed_count": 41,
+          "media_count": 1434,
+          "tweet_count": 15999
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

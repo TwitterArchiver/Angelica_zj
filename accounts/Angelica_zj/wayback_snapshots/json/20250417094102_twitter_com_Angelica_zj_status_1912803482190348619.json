@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1912772272294928820",
+    "created_at": "2025-04-17T09:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T10:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912803482190348619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912803482190348619",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912772272294928820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 可能有些人年轻加上身体不好，堕胎容易再也怀不上孩子，双方家长一合计就说把孩子生下来算了，再给安排个能养活自己的工作。在他们看来也就是提前完成了结婚传宗接代的主线任务"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1912772272294928820",
+        "created_at": "2025-04-17T09:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T10:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912803482190348619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912803482190348619",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912772272294928820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 可能有些人年轻加上身体不好，堕胎容易再也怀不上孩子，双方家长一合计就说把孩子生下来算了，再给安排个能养活自己的工作。在他们看来也就是提前完成了结婚传宗接代的主线任务"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1912772272294928820",
+        "created_at": "2025-04-17T07:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T08:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912772272294928820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912772272294928820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 902,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友的舍友怀孕了之后主动退学了，辅导员劝她休一年在回来对方直接拒绝了。\n\n这个舍友还在宿舍的时候怀孕大家都没看出来，而且她孕吐大家都以为是她身体不好，是她退学后半年发自己生孩子的朋友圈。\n\n她和她男朋友家境都很一般，不明白为什么意外怀孕了，会选择退学生下来。\n\n真的能吓到我这种恐育的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25339,
+          "following_count": 971,
+          "like_count": 14224,
+          "listed_count": 38,
+          "media_count": 1305,
+          "tweet_count": 14952
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🎀点击关注加入爱礼圣教/是重度水手服控/尤其喜欢中间服/喜欢一切猫猫/有一只2岁叫柴郡的布偶猫/长居南方丨🚪门槛77r 仅闲聊丨🦜是嘤鹉：@SENDOH214丨🪜自用梯：https://t.co/yyQ5wxPhe2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "SENDOH214"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "get.tachvip.com/#/register?cod…",
+                "end": 108,
+                "expanded_url": "https://get.tachvip.com/#/register?code=Ujz5tpFy",
+                "start": 85,
+                "url": "https://t.co/yyQ5wxPhe2"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天空",
+        "name": "爱礼",
+        "pinned_tweet_id": "1912457947332190547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41121,
+          "following_count": 994,
+          "like_count": 22622,
+          "listed_count": 47,
+          "media_count": 2016,
+          "tweet_count": 25953
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

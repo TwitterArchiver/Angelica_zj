@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1970731813044896140",
+    "created_at": "2025-09-25T10:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T11:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971159701145649473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1703076712400248832",
+          "start": 0,
+          "username": "qlinxing161843"
+        },
+        {
+          "end": 23,
+          "id": "1917745219841449985",
+          "start": 16,
+          "username": "wd6xxj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971159701145649473",
+    "in_reply_to_user_id": "1703076712400248832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971081785909108900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qlinxing161843 @wd6xxj 这件事在我看来唯一值得诟病的是她必须要遇见新的人，才能舍弃上一段消耗自己的感情，人生期望都压在一段段亲密关系上。给我一种没自己的事干整天围着性缘转的感觉\n当然，看客为男1感到被背叛更是奇怪，其实更大概率男1压根不在意这两年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1970731813044896140",
+        "created_at": "2025-09-25T10:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T11:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971159701145649473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1703076712400248832",
+              "start": 0,
+              "username": "qlinxing161843"
+            },
+            {
+              "end": 23,
+              "id": "1917745219841449985",
+              "start": 16,
+              "username": "wd6xxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971159701145649473",
+        "in_reply_to_user_id": "1703076712400248832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971081785909108900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qlinxing161843 @wd6xxj 这件事在我看来唯一值得诟病的是她必须要遇见新的人，才能舍弃上一段消耗自己的感情，人生期望都压在一段段亲密关系上。给我一种没自己的事干整天围着性缘转的感觉\n当然，看客为男1感到被背叛更是奇怪，其实更大概率男1压根不在意这两年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703076712400248832",
+        "conversation_id": "1970731813044896140",
+        "created_at": "2025-09-25T05:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T06:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971081785909108900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 20,
+              "id": "1917745219841449985",
+              "start": 13,
+              "username": "wd6xxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971081785909108900",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 520,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971039187794321897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj @wd6xxj 有點道理但看起來一樣是個婊子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25369,
+          "following_count": 989,
+          "like_count": 14280,
+          "listed_count": 42,
+          "media_count": 1385,
+          "tweet_count": 15702
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T16:01:55.000Z",
+        "description": "",
+        "id": "1703076712400248832",
+        "name": "77",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731733765272313856/skZve-kG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 5054,
+          "like_count": 81967,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1864
+        },
+        "username": "qlinxing161843",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T00:57:56.000Z",
+        "description": "",
+        "id": "1917745219841449985",
+        "name": "非常快4号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917745534728806400/YLJiblBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3180,
+          "following_count": 312,
+          "like_count": 17367,
+          "listed_count": 20,
+          "media_count": 1884,
+          "tweet_count": 5920
+        },
+        "username": "wd6xxj",
+        "verified": false
+      }
+    ]
+  }
+}

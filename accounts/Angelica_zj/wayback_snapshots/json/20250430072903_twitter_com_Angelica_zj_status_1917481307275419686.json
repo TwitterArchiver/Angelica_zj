@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1917249735586635900",
+    "created_at": "2025-04-30T07:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T08:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917481307275419686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1349776786654052352",
+          "start": 0,
+          "username": "wangyygg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917481307275419686",
+    "in_reply_to_user_id": "1349776786654052352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917258789155397714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangyygg 其实没有烦躁（）就是扎快了就容易一不小心（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1917249735586635900",
+        "created_at": "2025-04-30T07:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T08:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917481307275419686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1349776786654052352",
+              "start": 0,
+              "username": "wangyygg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917481307275419686",
+        "in_reply_to_user_id": "1349776786654052352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917258789155397714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangyygg 其实没有烦躁（）就是扎快了就容易一不小心（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1349776786654052352",
+        "conversation_id": "1917249735586635900",
+        "created_at": "2025-04-29T16:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T17:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917258789155397714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917258789155397714",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917249735586635900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 烦躁的时候不要扎 会更容易扎到的😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25365,
+          "following_count": 982,
+          "like_count": 14264,
+          "listed_count": 39,
+          "media_count": 1322,
+          "tweet_count": 15060
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-14T17:54:10.000Z",
+        "description": "唔 羊驼",
+        "id": "1349776786654052352",
+        "name": "不想單純の唔~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792249572422828032/tRTpNcKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 182,
+          "like_count": 5363,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 3477
+        },
+        "username": "wangyygg",
+        "verified": false
+      }
+    ]
+  }
+}

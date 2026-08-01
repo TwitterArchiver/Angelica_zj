@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1980566945889165433",
+    "created_at": "2025-10-22T13:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T14:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980987115451359523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1300084881913909249",
+          "start": 0,
+          "username": "Misaka_14376"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980987115451359523",
+    "in_reply_to_user_id": "1300084881913909249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980566945889165433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misaka_14376 第一次知道商家还会监测商品页面截图"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980566937592602624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3xjIuEXIAAJhOV.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1980566945889165433",
+        "created_at": "2025-10-22T13:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T14:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980987115451359523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300084881913909249",
+              "start": 0,
+              "username": "Misaka_14376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980987115451359523",
+        "in_reply_to_user_id": "1300084881913909249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980566945889165433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaka_14376 第一次知道商家还会监测商品页面截图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980566937592602624"
+          ]
+        },
+        "author_id": "1300084881913909249",
+        "conversation_id": "1980566945889165433",
+        "created_at": "2025-10-21T09:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T10:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980566945889165433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9hWzL172Xz",
+              "end": 36,
+              "expanded_url": "https://x.com/Misaka_14376/status/1980566945889165433/photo/1",
+              "media_key": "3_1980566937592602624",
+              "start": 13,
+              "url": "https://t.co/9hWzL172Xz"
+            },
+            {
+              "display_url": "x.com/Misaka_14376/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Misaka_14376/status/1980462171575521784",
+              "start": 37,
+              "url": "https://t.co/EuoksUuImP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980566945889165433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 105970,
+          "like_count": 179,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980462171575521784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得拼多多的妈还是死了 https://t.co/9hWzL172Xz https://t.co/EuoksUuImP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25339,
+          "following_count": 990,
+          "like_count": 14193,
+          "listed_count": 43,
+          "media_count": 1404,
+          "tweet_count": 15828
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-30T14:57:48.000Z",
+        "description": "学地理吗\n新手kiger/刻晴",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://www.4399.com",
+                "start": 0,
+                "url": "https://t.co/C0jajqtiNC"
+              }
+            ]
+          }
+        },
+        "id": "1300084881913909249",
+        "location": "可观测宇宙的中心",
+        "name": "丹霞",
+        "pinned_tweet_id": "1979518956944932907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907809621819166720/TwawBhpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3214,
+          "following_count": 801,
+          "like_count": 25922,
+          "listed_count": 15,
+          "media_count": 2190,
+          "tweet_count": 20244
+        },
+        "url": "https://t.co/C0jajqtiNC",
+        "username": "Misaka_14376",
+        "verified": false
+      }
+    ]
+  }
+}

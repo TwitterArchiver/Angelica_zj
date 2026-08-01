@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2002308664485646612",
+    "created_at": "2025-12-20T12:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T13:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002356782518112739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1306564925972652033",
+          "start": 0,
+          "username": "onelessx"
+        },
+        {
+          "end": 18,
+          "id": "1693450364341948416",
+          "start": 10,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002356782518112739",
+    "in_reply_to_user_id": "1306564925972652033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002349397447778804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@onelessx @igeekbb 影响演出的人不用担责还被提供无偿情绪价值，好好笑，之后只会有越来越多的小孩被怂恿演出中途爬上台😄舞台上那么多专业人员使用的道具，小孩受伤了家长还可以倒打一耙拿赔偿，好买卖啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2002308664485646612",
+        "created_at": "2025-12-20T12:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T13:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002356782518112739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1306564925972652033",
+              "start": 0,
+              "username": "onelessx"
+            },
+            {
+              "end": 18,
+              "id": "1693450364341948416",
+              "start": 10,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002356782518112739",
+        "in_reply_to_user_id": "1306564925972652033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002349397447778804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onelessx @igeekbb 影响演出的人不用担责还被提供无偿情绪价值，好好笑，之后只会有越来越多的小孩被怂恿演出中途爬上台😄舞台上那么多专业人员使用的道具，小孩受伤了家长还可以倒打一耙拿赔偿，好买卖啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1306564925972652033",
+        "conversation_id": "2002308664485646612",
+        "created_at": "2025-12-20T12:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T13:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002349397447778804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1693450364341948416",
+              "start": 0,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002349397447778804",
+        "in_reply_to_user_id": "1693450364341948416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 376,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002308664485646612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igeekbb 在其他國家，演員會隨機應變，和孩子劇情互動一下滿足一下孩子後，在模擬劇情下，交給駐唱工作人員，傳為佳話。\n中國人演員比較呆板，程式化。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25266,
+          "following_count": 1010,
+          "like_count": 14445,
+          "listed_count": 40,
+          "media_count": 1474,
+          "tweet_count": 16277
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-17T12:09:19.000Z",
+        "description": "Medical doctor + pharm R&D 🇹🇼 🇺🇦 🇮🇱🇺🇸",
+        "id": "1306564925972652033",
+        "name": "X filer",
+        "pinned_tweet_id": "1746435359120982459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1306569110692610049/byNPyhIx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2527,
+          "following_count": 5036,
+          "like_count": 47046,
+          "listed_count": 21,
+          "media_count": 1605,
+          "tweet_count": 24269
+        },
+        "username": "onelessx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60545,
+          "following_count": 1,
+          "like_count": 8875,
+          "listed_count": 246,
+          "media_count": 5902,
+          "tweet_count": 8931
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

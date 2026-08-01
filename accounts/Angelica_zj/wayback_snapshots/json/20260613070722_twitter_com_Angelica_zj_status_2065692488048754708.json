@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2065346640689426469",
+    "created_at": "2026-06-13T07:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T08:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065692488048754708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "848304331191336960",
+          "start": 0,
+          "username": "_______https"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065692488048754708",
+    "in_reply_to_user_id": "848304331191336960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065558164628820268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_______https 谢谢你😭😭好开心…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2065346640689426469",
+        "created_at": "2026-06-13T07:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065692488048754708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "848304331191336960",
+              "start": 0,
+              "username": "_______https"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065692488048754708",
+        "in_reply_to_user_id": "848304331191336960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065558164628820268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_______https 谢谢你😭😭好开心…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "848304331191336960",
+        "conversation_id": "2065346640689426469",
+        "created_at": "2026-06-12T22:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T23:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065558164628820268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065558164628820268",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065346640689426469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj I love it, I love it! Everything is so cute ՞ɞ̴̶̷ ·̥ ɞ̴̶̷՞♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25086,
+          "following_count": 1048,
+          "like_count": 14846,
+          "listed_count": 41,
+          "media_count": 1595,
+          "tweet_count": 17254
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-01T22:41:28.000Z",
+        "description": "illust: @4rror404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "4rror404"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/________._com",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/________._com",
+                "start": 0,
+                "url": "https://t.co/8S0JvFLqhW"
+              }
+            ]
+          }
+        },
+        "id": "848304331191336960",
+        "name": "ْ",
+        "pinned_tweet_id": "2059635792822325417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053700254248398848/Jyr7TP7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 107,
+          "like_count": 35285,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/8S0JvFLqhW",
+        "username": "_______https",
+        "verified": false
+      }
+    ]
+  }
+}

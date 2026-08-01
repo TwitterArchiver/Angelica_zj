@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2041494534237180316",
+    "created_at": "2026-04-07T19:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T20:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041595954105614820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962806687498412033",
+          "start": 0,
+          "username": "Bonniebb8888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041595954105614820",
+    "in_reply_to_user_id": "1962806687498412033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041589519804461202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bonniebb8888 无论啥圈子估计上了年纪心态就能平和些吧，年纪大了要是还聚众搞性压抑这套就太搞笑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2041494534237180316",
+        "created_at": "2026-04-07T19:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T20:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041595954105614820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962806687498412033",
+              "start": 0,
+              "username": "Bonniebb8888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041595954105614820",
+        "in_reply_to_user_id": "1962806687498412033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041589519804461202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bonniebb8888 无论啥圈子估计上了年纪心态就能平和些吧，年纪大了要是还聚众搞性压抑这套就太搞笑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962806687498412033",
+        "conversation_id": "2041494534237180316",
+        "created_at": "2026-04-07T18:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T19:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041589519804461202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041589519804461202",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041494534237180316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我靠 我妈很喜欢高达 她之前也加过一个胶佬微信群 都她那个年龄段的男的 氛围也不会这样😅真的越活越过去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25103,
+          "following_count": 1048,
+          "like_count": 14701,
+          "listed_count": 40,
+          "media_count": 1568,
+          "tweet_count": 16935
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T09:16:07.000Z",
+        "description": "嗯。",
+        "id": "1962806687498412033",
+        "name": "AnnaBella",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026010974826991616/AMnWcXCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 438,
+          "like_count": 9350,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 197
+        },
+        "username": "Bonniebb8888",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T09:16:07.000Z",
+        "description": "嗯。",
+        "id": "1962806687498412033",
+        "name": "AnnaBella",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026010974826991616/AMnWcXCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 438,
+          "like_count": 9350,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 197
+        },
+        "username": "Bonniebb8888",
+        "verified": true
+      }
+    ]
+  }
+}

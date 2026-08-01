@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1995791415851340163",
+    "created_at": "2025-12-02T11:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T12:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995813406092177436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1268491001951219712",
+          "start": 0,
+          "username": "Xaiforever11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995813406092177436",
+    "in_reply_to_user_id": "1268491001951219712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995805638257987643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xaiforever11 生活里只剩下了恨，把对国家政府的恨倾泻在每一个普通人身上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1995791415851340163",
+        "created_at": "2025-12-02T11:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T12:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995813406092177436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1268491001951219712",
+              "start": 0,
+              "username": "Xaiforever11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995813406092177436",
+        "in_reply_to_user_id": "1268491001951219712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995805638257987643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xaiforever11 生活里只剩下了恨，把对国家政府的恨倾泻在每一个普通人身上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1268491001951219712",
+        "conversation_id": "1995791415851340163",
+        "created_at": "2025-12-02T10:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995805638257987643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995805638257987643",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995791415851340163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 看名字就知道是什么人了😞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25280,
+          "following_count": 997,
+          "like_count": 14336,
+          "listed_count": 40,
+          "media_count": 1447,
+          "tweet_count": 16102
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-04T10:33:24.000Z",
+        "description": "我乃宇宙超级无敌霹雳邪魅嗜血温柔体贴沉鱼落雁统治地球潮流橘猫之王",
+        "id": "1268491001951219712",
+        "location": "亮晶晶布丁城堡",
+        "name": "愛",
+        "pinned_tweet_id": "1993607623854481876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971169064056913921/AOwEnHeR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5245,
+          "following_count": 398,
+          "like_count": 52222,
+          "listed_count": 7,
+          "media_count": 1085,
+          "tweet_count": 13267
+        },
+        "username": "Xaiforever11",
+        "verified": false
+      }
+    ]
+  }
+}

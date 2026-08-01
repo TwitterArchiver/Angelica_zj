@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1796643975539102010",
+    "created_at": "2024-05-31T20:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-31T21:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1796643975539102010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chigine1/statu…",
+          "end": 131,
+          "expanded_url": "https://twitter.com/chigine1/status/1796540636633747804",
+          "start": 108,
+          "url": "https://t.co/LA32oMd38E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796643975539102010",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796540636633747804",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我依稀记得早期asmr几乎都是软色情，还有助眠博主直播自慰娇喘声音之类的，以至于很长一段时间b站抖音什么的软件“ASMR”词条都是被屏蔽的，要打出““ASRM”之类的词才能搜出来助眠视频至于现在好像已经不算违禁词了 https://t.co/LA32oMd38E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1796643975539102010",
+        "created_at": "2024-05-31T20:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T21:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796643975539102010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chigine1/statu…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/chigine1/status/1796540636633747804",
+              "start": 108,
+              "url": "https://t.co/LA32oMd38E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796643975539102010",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796540636633747804",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我依稀记得早期asmr几乎都是软色情，还有助眠博主直播自慰娇喘声音之类的，以至于很长一段时间b站抖音什么的软件“ASMR”词条都是被屏蔽的，要打出““ASRM”之类的词才能搜出来助眠视频至于现在好像已经不算违禁词了 https://t.co/LA32oMd38E"
+      },
+      {
+        "attachments": {},
+        "author_id": "1792575947469975552",
+        "conversation_id": "1796501017775022134",
+        "created_at": "2024-05-31T13:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T14:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796540636633747804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1744315810548768768",
+              "start": 0,
+              "username": "SAKI_zuzuzu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796540636633747804",
+        "in_reply_to_user_id": "1744315810548768768",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5904,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796501017775022134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SAKI_zuzuzu_ b站的adsr现在全是软色情，我只是想睡觉，软色情让我怎么睡嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们  / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24666,
+          "following_count": 896,
+          "like_count": 13665,
+          "listed_count": 36,
+          "tweet_count": 13178
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-20T15:19:52.000Z",
+        "description": "2008年「感动中国」特别奖获得者，西兰公国勋爵，键政爱好者，音乐爱好者，大学理科生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/Chigine1736…",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/Chigine173603/",
+                "start": 0,
+                "url": "https://t.co/6ancav7ZOm"
+              }
+            ]
+          }
+        },
+        "id": "1792575947469975552",
+        "location": "上海精神卫生中心",
+        "name": "汪立三𝕮𝖍𝖎𝖌𝖎𝖓𝖊",
+        "pinned_tweet_id": "1792578077572186191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792576320792379393/PzuBvAzT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 301,
+          "like_count": 2664,
+          "listed_count": 0,
+          "tweet_count": 477
+        },
+        "url": "https://t.co/6ancav7ZOm",
+        "username": "Chigine1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1876785525945770218",
+    "created_at": "2025-01-08T10:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T11:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876932272756068781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1596657808656977920",
+          "start": 0,
+          "username": "caowenjian8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876932272756068781",
+    "in_reply_to_user_id": "1596657808656977920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876918607789121714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caowenjian8 感觉他的意思是，如果发生到他身上他也能自洽，haoba"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1876785525945770218",
+        "created_at": "2025-01-08T10:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T11:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876932272756068781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1596657808656977920",
+              "start": 0,
+              "username": "caowenjian8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876932272756068781",
+        "in_reply_to_user_id": "1596657808656977920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876918607789121714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caowenjian8 感觉他的意思是，如果发生到他身上他也能自洽，haoba"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596657808656977920",
+        "conversation_id": "1876785525945770218",
+        "created_at": "2025-01-08T09:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T10:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876918607789121714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876918607789121714",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876785525945770218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 牺牲到他自己头上就老实了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25112,
+          "following_count": 935,
+          "like_count": 13733,
+          "listed_count": 36,
+          "media_count": 1251,
+          "tweet_count": 14223
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T00:11:10.000Z",
+        "description": "三流摄影师，拍不出好看的照片会想自杀",
+        "id": "1596657808656977920",
+        "name": "每天都食吉士堡",
+        "pinned_tweet_id": "1753852000134217886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733855182373679104/wkNZ-QI4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 885,
+          "like_count": 23718,
+          "listed_count": 5,
+          "media_count": 428,
+          "tweet_count": 2671
+        },
+        "username": "caowenjian8",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1902353758929219899",
+    "created_at": "2025-03-19T13:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T14:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902353758929219899"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sean36438836/s…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/sean36438836/status/1902304169320497448",
+          "start": 63,
+          "url": "https://t.co/9IAQBuum1D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902353758929219899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902304169320497448",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我每次给人发完牛牛，我都会。很难过。会哭。非常奇怪。因为。我老是想，我把最隐私的东西给你看了。你能不能，别离开的那么快。 https://t.co/9IAQBuum1D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1902353758929219899",
+        "created_at": "2025-03-19T13:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T14:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902353758929219899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sean36438836/s…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/sean36438836/status/1902304169320497448",
+              "start": 63,
+              "url": "https://t.co/9IAQBuum1D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902353758929219899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902304169320497448",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我每次给人发完牛牛，我都会。很难过。会哭。非常奇怪。因为。我老是想，我把最隐私的东西给你看了。你能不能，别离开的那么快。 https://t.co/9IAQBuum1D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559411494630326273",
+        "conversation_id": "1902304169320497448",
+        "created_at": "2025-03-19T10:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T11:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902304169320497448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902304169320497448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 15558,
+          "like_count": 191,
+          "quote_count": 4,
+          "reply_count": 49,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "其实我每次给人发完牛牛，我都会。很难过。会哭。非常奇怪。因为。我老是想，我把最隐私的东西给你看了。你能不能，别离开的那么快。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25307,
+          "following_count": 949,
+          "like_count": 14058,
+          "listed_count": 37,
+          "media_count": 1289,
+          "tweet_count": 14701
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-16T05:28:33.000Z",
+        "description": "一絲不苟與徹底的精神錯亂僅有一步之遙｜活著，不要違背自己的本心 ｜ 能坚持就坚持｜ 直男｜翻一翻我主页宝宝试试我的考研辅导呢，挣点辛苦钱～",
+        "id": "1559411494630326273",
+        "location": "北京",
+        "name": "春告鳥",
+        "pinned_tweet_id": "1872612429743772158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744288191388307456/B7Jibj4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6420,
+          "following_count": 997,
+          "like_count": 30063,
+          "listed_count": 7,
+          "media_count": 950,
+          "tweet_count": 4325
+        },
+        "username": "Sean36438836",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1974858930838003826",
+    "created_at": "2025-10-05T22:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T23:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974968339937268115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1710947152334360576",
+          "start": 0,
+          "username": "puppylku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974968339937268115",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974968153592811919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puppylku 简直是简中网我见过最萌的黄推"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1974858930838003826",
+        "created_at": "2025-10-05T22:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T23:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974968339937268115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1710947152334360576",
+              "start": 0,
+              "username": "puppylku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974968339937268115",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974968153592811919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puppylku 简直是简中网我见过最萌的黄推"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1974858930838003826",
+        "created_at": "2025-10-05T22:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T23:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974968153592811919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1710947152334360576",
+              "start": 0,
+              "username": "puppylku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974968153592811919",
+        "in_reply_to_user_id": "1710947152334360576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974858930838003826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puppylku 妈呀我昨天也想说这个来着，把我萌翻天了，疯狂想和身边人推荐的程度（忍住了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25320,
+          "following_count": 990,
+          "like_count": 14282,
+          "listed_count": 42,
+          "media_count": 1390,
+          "tweet_count": 15737
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T09:16:12.000Z",
+        "description": "我的心欢迎你光临🇬🇧🇨🇳 女孩子来互关 很少看私信 多来点帅哥",
+        "id": "1710947152334360576",
+        "location": "London, England",
+        "name": "puppyluvu",
+        "pinned_tweet_id": "1904167211071123684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710947574843346944/cRL_tAky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3190,
+          "following_count": 103,
+          "like_count": 576,
+          "listed_count": 5,
+          "media_count": 42,
+          "tweet_count": 591
+        },
+        "username": "puppylku",
+        "verified": false
+      }
+    ]
+  }
+}

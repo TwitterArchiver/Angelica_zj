@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2025193913443619209",
+    "created_at": "2026-02-21T13:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T14:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025193913443619209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nocontexthuman…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/nocontexthumans/status/2025042797792043135",
+          "start": 72,
+          "url": "https://t.co/1aywkuP8XV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025193913443619209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025042797792043135",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有a那样的床边柜我都不知道怎么活。作为假期80%时间都在床上的人，躺着就可以随手取到任何需要的东西才是最完美的动线\n喜欢b的那种真的很勤快了 https://t.co/1aywkuP8XV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2024180718499246080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdVo49XsAAdf4g.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2025193913443619209",
+        "created_at": "2026-02-21T13:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025193913443619209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nocontexthuman…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/nocontexthumans/status/2025042797792043135",
+              "start": 72,
+              "url": "https://t.co/1aywkuP8XV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025193913443619209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025042797792043135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有a那样的床边柜我都不知道怎么活。作为假期80%时间都在床上的人，躺着就可以随手取到任何需要的东西才是最完美的动线\n喜欢b的那种真的很勤快了 https://t.co/1aywkuP8XV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024180718499246080"
+          ]
+        },
+        "author_id": "1138842105856573445",
+        "conversation_id": "2025042797792043135",
+        "created_at": "2026-02-21T03:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025042797792043135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c1SrhvEmEU",
+              "end": 32,
+              "expanded_url": "https://x.com/NoContextHumans/status/2025042797792043135/photo/1",
+              "media_key": "3_2024180718499246080",
+              "start": 9,
+              "url": "https://t.co/c1SrhvEmEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025042797792043135",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 886,
+          "impression_count": 1956229,
+          "like_count": 7367,
+          "quote_count": 1510,
+          "reply_count": 2350,
+          "retweet_count": 356
+        },
+        "reply_settings": "everyone",
+        "text": "A or B?🤔 https://t.co/c1SrhvEmEU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25285,
+          "following_count": 1038,
+          "like_count": 14631,
+          "listed_count": 40,
+          "media_count": 1525,
+          "tweet_count": 16681
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-12T16:14:51.000Z",
+        "description": "The ORIGINAL Out of Context Human Race page! Subscribe to us for $1!↗️ No Copyright intended.",
+        "id": "1138842105856573445",
+        "name": "Out of Context Human Race",
+        "pinned_tweet_id": "2024786117589967343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1207636309508014081/hfA24vWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4288857,
+          "following_count": 301,
+          "like_count": 100,
+          "listed_count": 9735,
+          "media_count": 43249,
+          "tweet_count": 50136
+        },
+        "username": "NoContextHumans",
+        "verified": true
+      }
+    ]
+  }
+}

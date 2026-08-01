@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1979138975110697274",
+    "created_at": "2025-10-18T14:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T15:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979550652973081077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1429455213333819393",
+          "start": 0,
+          "username": "MasterLi_Theold"
+        },
+        {
+          "end": 27,
+          "id": "1957104304034394112",
+          "start": 17,
+          "username": "cunyuanyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979550652973081077",
+    "in_reply_to_user_id": "1429455213333819393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979434465870123140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MasterLi_Theold @cunyuanyu 笑不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1979138975110697274",
+        "created_at": "2025-10-18T14:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T15:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979550652973081077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1429455213333819393",
+              "start": 0,
+              "username": "MasterLi_Theold"
+            },
+            {
+              "end": 27,
+              "id": "1957104304034394112",
+              "start": 17,
+              "username": "cunyuanyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979550652973081077",
+        "in_reply_to_user_id": "1429455213333819393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979434465870123140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MasterLi_Theold @cunyuanyu 笑不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429455213333819393",
+        "conversation_id": "1979138975110697274",
+        "created_at": "2025-10-18T06:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T07:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979434465870123140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 23,
+              "id": "1957104304034394112",
+              "start": 13,
+              "username": "cunyuanyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979434465870123140",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979213835509669936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj @cunyuanyu 那会儿是马一龙点赞女s被发现，愤而删除点赞列表"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25320,
+          "following_count": 990,
+          "like_count": 14271,
+          "listed_count": 43,
+          "media_count": 1398,
+          "tweet_count": 15792
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T14:47:44.000Z",
+        "description": "🇨🇳",
+        "id": "1429455213333819393",
+        "location": "Mainland China",
+        "name": "李老師爺✌️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1461260312951373829/Kw6BV2R3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 4715,
+          "like_count": 207484,
+          "listed_count": 14,
+          "media_count": 66,
+          "tweet_count": 3874
+        },
+        "username": "MasterLi_Theold",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T15:37:11.000Z",
+        "description": "不是口令红包就别给我发私信骚扰我了呗^ ^｜可以叫我笨笨",
+        "id": "1957104304034394112",
+        "name": "笨笨你又怎么了",
+        "pinned_tweet_id": "1977583008829063390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977770146329731072/03zzX-l8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 58,
+          "like_count": 1862,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1658
+        },
+        "username": "cunyuanyu",
+        "verified": false
+      }
+    ]
+  }
+}

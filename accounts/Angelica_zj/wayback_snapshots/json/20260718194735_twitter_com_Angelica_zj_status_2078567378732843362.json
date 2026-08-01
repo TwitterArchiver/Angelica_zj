@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2078567148079681633",
+    "created_at": "2026-07-18T19:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T20:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078567378732843362"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078567378732843362",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078567148079681633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来公司一年无论天气如何我几乎就没在公司单穿过短袖，要么搭外套要么套冰袖，我真的很努力了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2078567148079681633",
+        "created_at": "2026-07-18T19:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T20:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078567378732843362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078567378732843362",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078567148079681633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来公司一年无论天气如何我几乎就没在公司单穿过短袖，要么搭外套要么套冰袖，我真的很努力了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2078567148079681633",
+        "created_at": "2026-07-18T19:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T20:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078567148079681633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078567148079681633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "而且很多年轻同事都说刷到过我抖音，刚才突然意识到我抖音早期发过血图，我操你妈啊完蛋了，别炒我鱿鱼求你们了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25025,
+          "following_count": 1046,
+          "like_count": 14907,
+          "listed_count": 41,
+          "media_count": 1612,
+          "tweet_count": 17406
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

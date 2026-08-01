@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1894552378730582176",
+    "created_at": "2025-02-26T03:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T04:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894596372541972594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862933126466666496",
+          "start": 0,
+          "username": "moremoreagain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894596372541972594",
+    "in_reply_to_user_id": "1862933126466666496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894552378730582176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moremoreagain 亚硝酸钠较大的优势可能是没有后悔的余地，类似百草枯的效果，死相相对会体面一些。但相应的也会拉长痛苦的濒死时长\n极端痛苦却又无能为力的感觉好地狱，慎重考虑这种方式吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1894552378730582176",
+        "created_at": "2025-02-26T03:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T04:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894596372541972594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862933126466666496",
+              "start": 0,
+              "username": "moremoreagain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894596372541972594",
+        "in_reply_to_user_id": "1862933126466666496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894552378730582176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moremoreagain 亚硝酸钠较大的优势可能是没有后悔的余地，类似百草枯的效果，死相相对会体面一些。但相应的也会拉长痛苦的濒死时长\n极端痛苦却又无能为力的感觉好地狱，慎重考虑这种方式吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862933126466666496",
+        "conversation_id": "1894552378730582176",
+        "created_at": "2025-02-26T00:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T01:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894552378730582176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moremoreagain/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/moremoreagain/status/1885771130247745730",
+              "start": 16,
+              "url": "https://t.co/POykg47Fvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894552378730582176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885771130247745730",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我似乎明白亚硝酸钠的优势区间了 https://t.co/POykg47Fvz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25229,
+          "following_count": 949,
+          "like_count": 13962,
+          "listed_count": 37,
+          "media_count": 1283,
+          "tweet_count": 14558
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "来推特发癫｜偶尔抽象｜日记推（阴湿之物）｜礼（窝）貌（囊）｜不关心政治｜我从不否认自己是傻逼｜互联网重度依赖\nhttps://t.co/jLUjmSEaHT提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moremoreagain",
+                "end": 78,
+                "expanded_url": "https://ngl.link/moremoreagain",
+                "start": 55,
+                "url": "https://t.co/jLUjmSEaHT"
+              }
+            ]
+          }
+        },
+        "id": "1862933126466666496",
+        "name": "琥珀",
+        "pinned_tweet_id": "1884931805645803882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863409830171742208/hTjZ4qQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 618,
+          "like_count": 28273,
+          "listed_count": 4,
+          "media_count": 316,
+          "tweet_count": 12081
+        },
+        "username": "moremoreagain",
+        "verified": false
+      }
+    ]
+  }
+}

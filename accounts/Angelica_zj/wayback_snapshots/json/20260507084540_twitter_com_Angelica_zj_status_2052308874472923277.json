@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2051939445327135121",
+    "created_at": "2026-05-07T08:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052308874472923277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1837845886896164865",
+          "start": 0,
+          "username": "tlxkoishi514514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052308874472923277",
+    "in_reply_to_user_id": "1837845886896164865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052292941885166016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tlxkoishi514514 这种商业企划审美低下确实该骂，老中美育完蛋力。个人其实是想说这几年无端攻击地雷风格素人的风气太难评（闭目"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052292938831704064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs1jeobMAA96Jm.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052292939129503744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs1jfvbQAAVEyJ.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2051939445327135121",
+        "created_at": "2026-05-07T08:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052308874472923277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1837845886896164865",
+              "start": 0,
+              "username": "tlxkoishi514514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052308874472923277",
+        "in_reply_to_user_id": "1837845886896164865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052292941885166016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tlxkoishi514514 这种商业企划审美低下确实该骂，老中美育完蛋力。个人其实是想说这几年无端攻击地雷风格素人的风气太难评（闭目"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052292938831704064",
+            "3_2052292939129503744"
+          ]
+        },
+        "author_id": "1837845886896164865",
+        "conversation_id": "2051939445327135121",
+        "created_at": "2026-05-07T07:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052292941885166016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjnJUo91YR",
+              "end": 131,
+              "expanded_url": "https://x.com/tlxkoishi514514/status/2052292941885166016/photo/1",
+              "media_key": "3_2052292938831704064",
+              "start": 108,
+              "url": "https://t.co/xjnJUo91YR"
+            },
+            {
+              "display_url": "pic.x.com/xjnJUo91YR",
+              "end": 131,
+              "expanded_url": "https://x.com/tlxkoishi514514/status/2052292941885166016/photo/1",
+              "media_key": "3_2052292939129503744",
+              "start": 108,
+              "url": "https://t.co/xjnJUo91YR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052292941885166016",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051939445327135121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 之前刷到一个霓虹做的地雷主题的AVG……（p1）\n然后之前老中不是做了个国产地雷主题gal（p2）\n我就是感觉，老中关于地雷相关的审美全部来自于刻板印象那种\n总之我觉得国产地雷比日系地雷丑 https://t.co/xjnJUo91YR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25152,
+          "following_count": 1054,
+          "like_count": 14742,
+          "listed_count": 42,
+          "media_count": 1578,
+          "tweet_count": 17065
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T13:26:26.000Z",
+        "description": "我有良辰美景 对月迎风\n我有红泥火炉 新焙宴请",
+        "id": "1837845886896164865",
+        "location": "遗世独立之处",
+        "name": "神圣式自杀绝赞好评配信中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050108725609070592/EQ1wCTo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 679,
+          "like_count": 12358,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 3533
+        },
+        "username": "tlxkoishi514514",
+        "verified": false
+      }
+    ]
+  }
+}

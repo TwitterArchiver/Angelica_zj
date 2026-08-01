@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1928575039181295788",
+    "created_at": "2025-05-31T23:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T00:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928959871543574786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "111942564",
+          "start": 0,
+          "username": "boiledwater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928959871543574786",
+    "in_reply_to_user_id": "111942564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928575039181295788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boiledwater 好可惜，只差一年就能熬出头了，这么善良的小孩该有个幸福的前程的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1928575030486581248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsOsxa7XQAA3hR6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 716,
+        "media_key": "3_1928575030486511616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsOsxa7WMAAeZwJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1994,
+        "media_key": "3_1928575030494941184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsOsxa9W0AAuaPQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1928575039181295788",
+        "created_at": "2025-05-31T23:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T00:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928959871543574786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "111942564",
+              "start": 0,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928959871543574786",
+        "in_reply_to_user_id": "111942564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928575039181295788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boiledwater 好可惜，只差一年就能熬出头了，这么善良的小孩该有个幸福的前程的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928575030486581248",
+            "3_1928575030486511616",
+            "3_1928575030494941184"
+          ]
+        },
+        "author_id": "111942564",
+        "conversation_id": "1928575039181295788",
+        "created_at": "2025-05-30T22:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T23:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928575039181295788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GsaQTIZ1a8",
+              "end": 76,
+              "expanded_url": "https://x.com/boiledwater/status/1928575039181295788/photo/1",
+              "media_key": "3_1928575030486581248",
+              "start": 53,
+              "url": "https://t.co/GsaQTIZ1a8"
+            },
+            {
+              "display_url": "pic.x.com/GsaQTIZ1a8",
+              "end": 76,
+              "expanded_url": "https://x.com/boiledwater/status/1928575039181295788/photo/1",
+              "media_key": "3_1928575030486511616",
+              "start": 53,
+              "url": "https://t.co/GsaQTIZ1a8"
+            },
+            {
+              "display_url": "pic.x.com/GsaQTIZ1a8",
+              "end": 76,
+              "expanded_url": "https://x.com/boiledwater/status/1928575039181295788/photo/1",
+              "media_key": "3_1928575030494941184",
+              "start": 53,
+              "url": "https://t.co/GsaQTIZ1a8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928575039181295788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 18656,
+          "like_count": 229,
+          "quote_count": 7,
+          "reply_count": 23,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "看完孩子遗书和家长公告的人说：天啊现在的父母太难了！养孩子是玄学啊！\n\n是吗？请问你看见红线里的字了吗？ https://t.co/GsaQTIZ1a8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25544,
+          "following_count": 989,
+          "like_count": 14466,
+          "listed_count": 37,
+          "media_count": 1357,
+          "tweet_count": 15323
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T17:49:59.000Z",
+        "description": "打破原生家庭之环的人，只能是你自己。",
+        "id": "111942564",
+        "location": "Stockholm, Sverige",
+        "name": "Jess 今月定将照后人",
+        "pinned_tweet_id": "1732176179971436769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891758418559410176/QMKkxD7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42015,
+          "following_count": 1768,
+          "like_count": 29224,
+          "listed_count": 160,
+          "media_count": 4598,
+          "tweet_count": 35826
+        },
+        "username": "boiledwater",
+        "verified": true
+      }
+    ]
+  }
+}

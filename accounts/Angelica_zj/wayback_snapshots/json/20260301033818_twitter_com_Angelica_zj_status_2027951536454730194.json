@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2027932015694434661",
+    "created_at": "2026-03-01T03:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T04:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027951536454730194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "746265547860381696",
+          "start": 0,
+          "username": "Nancyshanghai"
+        },
+        {
+          "end": 29,
+          "id": "1593547850637791233",
+          "start": 15,
+          "username": "didengshengwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027951536454730194",
+    "in_reply_to_user_id": "746265547860381696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027938963106009242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nancyshanghai @didengshengwu ai味太重了，下次复制过来的时候改改再发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2027932015694434661",
+        "created_at": "2026-03-01T03:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T04:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027951536454730194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "746265547860381696",
+              "start": 0,
+              "username": "Nancyshanghai"
+            },
+            {
+              "end": 29,
+              "id": "1593547850637791233",
+              "start": 15,
+              "username": "didengshengwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027951536454730194",
+        "in_reply_to_user_id": "746265547860381696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027938963106009242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nancyshanghai @didengshengwu ai味太重了，下次复制过来的时候改改再发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "746265547860381696",
+        "conversation_id": "2027932015694434661",
+        "created_at": "2026-03-01T02:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027938963106009242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593547850637791233",
+              "start": 0,
+              "username": "didengshengwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027938963106009242",
+        "in_reply_to_user_id": "1593547850637791233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9859,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027932015694434661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didengshengwu “叔，这杯我先敬您，等下次改口费到位了，我再正式叫爸！”\n（说着把酒杯往丈人面前又递了递，眼神里全是“懂你意思”的狡黠，一桌人都笑翻了，既给了台阶又显得机灵。）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25309,
+          "following_count": 1041,
+          "like_count": 14669,
+          "listed_count": 40,
+          "media_count": 1529,
+          "tweet_count": 16724
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-24T08:55:46.000Z",
+        "description": "I post fun and far-reaching content as a teacher with many awards In GRE/GMAT/SAT/IELTS/TOEFL/IB/AP/IGCSE 公众号宁静怡知",
+        "id": "746265547860381696",
+        "location": "Hong Kong",
+        "name": "Nancy",
+        "pinned_tweet_id": "2027411369285562530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023856007542456320/ImJ23sI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2137,
+          "following_count": 2692,
+          "like_count": 12882,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 8178
+        },
+        "username": "Nancyshanghai",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "来都来了，顺手点个关注吧，我不喜欢戴面具，所以高等不起来。我会分享一些心理学和投资内容，欢迎交流！",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187705,
+          "following_count": 1316,
+          "like_count": 3284,
+          "listed_count": 744,
+          "media_count": 3557,
+          "tweet_count": 6589
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

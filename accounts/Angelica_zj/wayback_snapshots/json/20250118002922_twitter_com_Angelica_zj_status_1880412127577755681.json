@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1879871521323458632",
+    "created_at": "2025-01-18T00:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T01:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880412127577755681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2888263328",
+          "start": 0,
+          "username": "Sino_Research"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880412127577755681",
+    "in_reply_to_user_id": "2888263328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879871521323458632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sino_Research 冷知识，有钱人也会生女儿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1879871521323458632",
+        "created_at": "2025-01-18T00:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T01:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880412127577755681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2888263328",
+              "start": 0,
+              "username": "Sino_Research"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880412127577755681",
+        "in_reply_to_user_id": "2888263328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879871521323458632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sino_Research 冷知识，有钱人也会生女儿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2888263328",
+        "conversation_id": "1879871521323458632",
+        "created_at": "2025-01-16T12:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T13:39:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879871114090000530",
+          "1879871521323458632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879871521323458632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 629148,
+          "like_count": 1015,
+          "quote_count": 20,
+          "reply_count": 459,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "有些中国年轻女性，她们的朋友圈从不会出现男性，她们喜欢飞到世界各地旅游，穿着打扮艳丽，具体工作从来不透露，也没有固定的工作时间，喜欢炫耀奢侈品，这一类人的经济来源是什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25144,
+          "following_count": 935,
+          "like_count": 13769,
+          "listed_count": 37,
+          "media_count": 1259,
+          "tweet_count": 14287
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-03T07:48:37.000Z",
+        "description": "中国人研究院院长兼任中国人第二偶像，p.s 中国人第一偶像毛泽东。电报群：https://t.co/kygsrWrdWJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Sino_Research",
+                "end": 60,
+                "expanded_url": "https://t.me/Sino_Research",
+                "start": 37,
+                "url": "https://t.co/kygsrWrdWJ"
+              }
+            ]
+          }
+        },
+        "id": "2888263328",
+        "location": "Tokyo-to, Japan",
+        "name": "中国人研究院",
+        "pinned_tweet_id": "1772399297872437526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873900821928095744/CjuyZRI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49650,
+          "following_count": 212,
+          "like_count": 10686,
+          "listed_count": 173,
+          "media_count": 590,
+          "tweet_count": 6593
+        },
+        "username": "Sino_Research",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908057909914906624"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1908057925660323998",
+    "created_at": "2025-04-04T07:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T08:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908057925660323998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v07yYymmlc",
+          "end": 44,
+          "expanded_url": "https://x.com/Angelica_zj/status/1908057925660323998/photo/1",
+          "media_key": "3_1908057909914906624",
+          "start": 21,
+          "url": "https://t.co/v07yYymmlc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908057925660323998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "GQ的前传剧场还挺好看哆，我期待一下tv https://t.co/v07yYymmlc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908057909914906624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnrIj0taMAAWhHW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908057909914906624"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1908057925660323998",
+        "created_at": "2025-04-04T07:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T08:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908057925660323998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v07yYymmlc",
+              "end": 44,
+              "expanded_url": "https://x.com/Angelica_zj/status/1908057925660323998/photo/1",
+              "media_key": "3_1908057909914906624",
+              "start": 21,
+              "url": "https://t.co/v07yYymmlc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908057925660323998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "GQ的前传剧场还挺好看哆，我期待一下tv https://t.co/v07yYymmlc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25293,
+          "following_count": 959,
+          "like_count": 14140,
+          "listed_count": 38,
+          "media_count": 1300,
+          "tweet_count": 14806
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

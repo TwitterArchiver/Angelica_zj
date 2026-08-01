@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1979897312144175398",
+    "created_at": "2025-10-20T13:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T14:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980267491344695806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1958434631373692928",
+          "start": 0,
+          "username": "water2921534"
+        },
+        {
+          "end": 28,
+          "id": "1913491200046436352",
+          "start": 14,
+          "username": "lmbleedingovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980267491344695806",
+    "in_reply_to_user_id": "1958434631373692928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980259803617198185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@water2921534 @lmbleedingovo 我也想说，空调坏了就去修，没钱没空调吹就攒点钱买个风扇，不是所有住出租的都会把日子过成图里那样…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1979897312144175398",
+        "created_at": "2025-10-20T13:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T14:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980267491344695806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1958434631373692928",
+              "start": 0,
+              "username": "water2921534"
+            },
+            {
+              "end": 28,
+              "id": "1913491200046436352",
+              "start": 14,
+              "username": "lmbleedingovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980267491344695806",
+        "in_reply_to_user_id": "1958434631373692928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980259803617198185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@water2921534 @lmbleedingovo 我也想说，空调坏了就去修，没钱没空调吹就攒点钱买个风扇，不是所有住出租的都会把日子过成图里那样…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958434631373692928",
+        "conversation_id": "1979897312144175398",
+        "created_at": "2025-10-20T13:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T14:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980259803617198185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1913491200046436352",
+              "start": 0,
+              "username": "lmbleedingovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980259803617198185",
+        "in_reply_to_user_id": "1913491200046436352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979897312144175398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmbleedingovo 一定要脏脏的热热的吗，不能干干净净清清爽爽的穷吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25340,
+          "following_count": 991,
+          "like_count": 14200,
+          "listed_count": 43,
+          "media_count": 1402,
+          "tweet_count": 15818
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T07:43:05.000Z",
+        "description": "♀北京/985大三/许愿想睡着就睡着的某一天",
+        "id": "1958434631373692928",
+        "location": "不想上学",
+        "name": "火火",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979959753733246976/TFxy1zcM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 32,
+          "like_count": 464,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 96
+        },
+        "username": "water2921534",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T07:14:33.000Z",
+        "description": "我的日记本",
+        "id": "1913491200046436352",
+        "name": "lmbleeding",
+        "pinned_tweet_id": "1962852419119005837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955316383480451072/NC-l9xHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 291,
+          "like_count": 26,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1093
+        },
+        "username": "lmbleedingovo",
+        "verified": false
+      }
+    ]
+  }
+}

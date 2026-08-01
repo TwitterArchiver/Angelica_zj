@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1926369088219054131",
+    "created_at": "2025-05-25T00:59:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T01:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926443022650151369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1627307144151449602",
+          "start": 0,
+          "username": "antibaby_99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926443022650151369",
+    "in_reply_to_user_id": "1627307144151449602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926396041118515450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@antibaby_99 蹭蹭小缇宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1926369088219054131",
+        "created_at": "2025-05-25T00:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T01:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926443022650151369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1627307144151449602",
+              "start": 0,
+              "username": "antibaby_99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926443022650151369",
+        "in_reply_to_user_id": "1627307144151449602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926396041118515450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@antibaby_99 蹭蹭小缇宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627307144151449602",
+        "conversation_id": "1926369088219054131",
+        "created_at": "2025-05-24T21:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T22:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926396041118515450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926396041118515450",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926369088219054131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 早上好哇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25544,
+          "following_count": 991,
+          "like_count": 14435,
+          "listed_count": 37,
+          "media_count": 1346,
+          "tweet_count": 15270
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T14:00:41.000Z",
+        "description": "处于性无能守活寡只能在网上无能狂怒的阶段",
+        "id": "1627307144151449602",
+        "name": "二胎宝爸封蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924517531337031683/XaMF_9_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22987,
+          "following_count": 226,
+          "like_count": 54207,
+          "listed_count": 60,
+          "media_count": 468,
+          "tweet_count": 16161
+        },
+        "username": "antibaby_99",
+        "verified": false
+      }
+    ]
+  }
+}

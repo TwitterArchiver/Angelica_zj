@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2045248081042506194",
+    "created_at": "2026-04-19T03:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T04:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045701943692054847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1881018437733924864",
+          "start": 0,
+          "username": "cococola0901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045701943692054847",
+    "in_reply_to_user_id": "1881018437733924864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045602208126034140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cococola0901 对。我就是pdd入的，除了要等没别的毛病🙂‍↕️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2045248081042506194",
+        "created_at": "2026-04-19T03:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T04:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045701943692054847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1881018437733924864",
+              "start": 0,
+              "username": "cococola0901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045701943692054847",
+        "in_reply_to_user_id": "1881018437733924864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045602208126034140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cococola0901 对。我就是pdd入的，除了要等没别的毛病🙂‍↕️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881018437733924864",
+        "conversation_id": "2045248081042506194",
+        "created_at": "2026-04-18T20:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T21:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045602208126034140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045602208126034140",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045248081042506194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 据说pdd卡带价格暴跌，反正我日亚买的卡带比数字版还便宜……就是还没玩上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24934,
+          "following_count": 1050,
+          "like_count": 14728,
+          "listed_count": 41,
+          "media_count": 1573,
+          "tweet_count": 17001
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T16:38:47.000Z",
+        "description": "一个抑郁焦虑失眠躯体化重度患者",
+        "id": "1881018437733924864",
+        "location": "(՞⸝⸝o̴̶̷̥᷅   ̫ o̴̶̷̥᷅⸝⸝՞) ​​​",
+        "name": "天塌下来我当被子盖",
+        "pinned_tweet_id": "1989398158372471032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929796240516304898/dB0bZCC2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5877,
+          "following_count": 175,
+          "like_count": 8942,
+          "listed_count": 10,
+          "media_count": 905,
+          "tweet_count": 7892
+        },
+        "username": "cococola0901",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1980576918350315588",
+    "created_at": "2025-10-23T01:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T02:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981165870543233177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1826253739336028161",
+          "start": 0,
+          "username": "yanglolo993"
+        },
+        {
+          "end": 29,
+          "id": "1792133989719048192",
+          "start": 13,
+          "username": "switch247317661"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981165870543233177",
+    "in_reply_to_user_id": "1826253739336028161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981147381988282395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanglolo993 @switch247317661 看不懂字就多读书"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1980576918350315588",
+        "created_at": "2025-10-23T01:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T02:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981165870543233177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1826253739336028161",
+              "start": 0,
+              "username": "yanglolo993"
+            },
+            {
+              "end": 29,
+              "id": "1792133989719048192",
+              "start": 13,
+              "username": "switch247317661"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981165870543233177",
+        "in_reply_to_user_id": "1826253739336028161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981147381988282395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanglolo993 @switch247317661 看不懂字就多读书"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826253739336028161",
+        "conversation_id": "1980576918350315588",
+        "created_at": "2025-10-22T23:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T00:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981147381988282395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 29,
+              "id": "1792133989719048192",
+              "start": 13,
+              "username": "switch247317661"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981147381988282395",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980974601049100416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj @switch247317661 没事，那你去马路上随便流血吧😘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25346,
+          "following_count": 990,
+          "like_count": 14196,
+          "listed_count": 43,
+          "media_count": 1404,
+          "tweet_count": 15829
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T13:43:25.000Z",
+        "description": "",
+        "id": "1826253739336028161",
+        "name": "lolo yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826253779043602432/DUAwp-6T_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 372,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "yanglolo993",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T10:06:26.000Z",
+        "description": "I have a dream that one day man will rise up, live up to \nthe true meaning of its creed.",
+        "id": "1792133989719048192",
+        "location": "State of Arizona",
+        "name": "switch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816397035916136448/ZKsYU3M0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 220,
+          "like_count": 83249,
+          "listed_count": 9,
+          "media_count": 1052,
+          "tweet_count": 19103
+        },
+        "username": "switch247317661",
+        "verified": false
+      }
+    ]
+  }
+}

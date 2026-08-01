@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1864815679658168810",
+    "created_at": "2024-12-05T23:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T00:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1864815679658168810"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/angelica_zj/st…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/angelica_zj/status/1864807194631590089",
+          "start": 130,
+          "url": "https://t.co/2gXnlqD7iH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864815679658168810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864807194631590089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很想哭、猛然发现曾经关系好的网友已经去世很长时间了，很崩溃，对不起。每次发帖她都热情捧场、要是曾经我能更多更多在意她一点就好了，对不起，安慰我那么多条，我却在她生命最后连一条祝福都没有给到，对不起\n希望从肉体解脱的那一刻你是幸福的，希望天堂没有寒冷，爱你小鸟 https://t.co/2gXnlqD7iH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1864815679658168810",
+        "created_at": "2024-12-05T23:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T00:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864815679658168810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/angelica_zj/st…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/angelica_zj/status/1864807194631590089",
+              "start": 130,
+              "url": "https://t.co/2gXnlqD7iH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864815679658168810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864807194631590089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很想哭、猛然发现曾经关系好的网友已经去世很长时间了，很崩溃，对不起。每次发帖她都热情捧场、要是曾经我能更多更多在意她一点就好了，对不起，安慰我那么多条，我却在她生命最后连一条祝福都没有给到，对不起\n希望从肉体解脱的那一刻你是幸福的，希望天堂没有寒冷，爱你小鸟 https://t.co/2gXnlqD7iH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1864807194631590089",
+        "created_at": "2024-12-05T23:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T00:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864807194631590089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1864807194631590089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起我这几年的记忆力真的很差，也许因为生病，或者治疗副作用之类，很多之前互动过的网友都忘记了，对不起…要是能在不冒犯的情况下重新认识就好了，啊啊，加上微信也许会好很多，期待和大家交换联系方式\n总之爱你，爱你给予过我的 善意，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24758,
+          "following_count": 932,
+          "like_count": 13667,
+          "listed_count": 36,
+          "media_count": 1234,
+          "tweet_count": 14030
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

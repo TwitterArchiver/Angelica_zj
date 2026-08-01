@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981241222720065536"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1981241234405675158",
+    "created_at": "2025-10-23T06:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T07:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981241234405675158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WzkwQa88CV",
+          "end": 98,
+          "expanded_url": "https://x.com/Angelica_zj/status/1981241234405675158/photo/1",
+          "media_key": "3_1981241222720065536",
+          "start": 75,
+          "url": "https://t.co/WzkwQa88CV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981241234405675158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我特别喜欢北京妹送我的这个小小包，用来装她送我的口红和我新买的唇膏\n其实我和她一年的联系算不上多，但她和别的朋友出去玩总能想到我给我带小礼物，心软软 https://t.co/WzkwQa88CV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1981241222720065536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37IZR6XEAAGLj-.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981241222720065536"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1981241234405675158",
+        "created_at": "2025-10-23T06:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T07:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981241234405675158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WzkwQa88CV",
+              "end": 98,
+              "expanded_url": "https://x.com/Angelica_zj/status/1981241234405675158/photo/1",
+              "media_key": "3_1981241222720065536",
+              "start": 75,
+              "url": "https://t.co/WzkwQa88CV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981241234405675158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别喜欢北京妹送我的这个小小包，用来装她送我的口红和我新买的唇膏\n其实我和她一年的联系算不上多，但她和别的朋友出去玩总能想到我给我带小礼物，心软软 https://t.co/WzkwQa88CV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25345,
+          "following_count": 990,
+          "like_count": 14198,
+          "listed_count": 43,
+          "media_count": 1405,
+          "tweet_count": 15833
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

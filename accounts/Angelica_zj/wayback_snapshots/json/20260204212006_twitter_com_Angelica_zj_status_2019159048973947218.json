@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2019159048973947218",
+    "created_at": "2026-02-04T21:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T22:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019159048973947218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mita03011/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/mita03011/status/2018724456102040004",
+          "start": 11,
+          "url": "https://t.co/1NaZYPXNRX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019159048973947218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018724456102040004",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁和我拍我要当左边的 https://t.co/1NaZYPXNRX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018724437550641156",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPzLiebMAQGr40.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2019159048973947218",
+        "created_at": "2026-02-04T21:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T22:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019159048973947218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mita03011/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/mita03011/status/2018724456102040004",
+              "start": 11,
+              "url": "https://t.co/1NaZYPXNRX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019159048973947218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018724456102040004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁和我拍我要当左边的 https://t.co/1NaZYPXNRX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018724437550641156"
+          ]
+        },
+        "author_id": "1095331148941664256",
+        "conversation_id": "2018724456102040004",
+        "created_at": "2026-02-03T16:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T17:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018724456102040004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XlcxEiffWv",
+              "end": 46,
+              "expanded_url": "https://x.com/mita03011/status/2018724456102040004/photo/1",
+              "media_key": "3_2018724437550641156",
+              "start": 23,
+              "url": "https://t.co/XlcxEiffWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018724456102040004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 729,
+          "impression_count": 311322,
+          "like_count": 5763,
+          "quote_count": 10,
+          "reply_count": 129,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "朋友说想拍出本子封面的感觉，实在是太恶俗了… https://t.co/XlcxEiffWv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25219,
+          "following_count": 1035,
+          "like_count": 14566,
+          "listed_count": 40,
+          "media_count": 1514,
+          "tweet_count": 16586
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-12T14:37:50.000Z",
+        "description": "(*^▽^*)",
+        "id": "1095331148941664256",
+        "name": "幼悠哟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912414761242726400/R-hGdXDV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 5,
+          "like_count": 2,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "username": "mita03011",
+        "verified": false
+      }
+    ]
+  }
+}

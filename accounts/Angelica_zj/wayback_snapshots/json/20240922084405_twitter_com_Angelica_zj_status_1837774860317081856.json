@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1837725788160119161",
+    "created_at": "2024-09-22T08:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T09:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837774860317081856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600277431256256512",
+          "start": 0,
+          "username": "Oriyukiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837774860317081856",
+    "in_reply_to_user_id": "1600277431256256512",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837725788160119161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oriyukiiiii 我还挺想去玩呢TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1837725788160119161",
+        "created_at": "2024-09-22T08:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T09:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837774860317081856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600277431256256512",
+              "start": 0,
+              "username": "Oriyukiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837774860317081856",
+        "in_reply_to_user_id": "1600277431256256512",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837725788160119161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oriyukiiiii 我还挺想去玩呢TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600277431256256512",
+        "conversation_id": "1837725788160119161",
+        "created_at": "2024-09-22T05:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T06:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837725788160119161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/angelica_zj/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/angelica_zj/status/1837548267824963928",
+              "start": 17,
+              "url": "https://t.co/No6gbhnKXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837725788160119161",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 824,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837548267824963928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中央大街没啥意思 反正我是不爱去 https://t.co/No6gbhnKXs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24390,
+          "following_count": 904,
+          "like_count": 13586,
+          "listed_count": 35,
+          "tweet_count": 13624
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T23:54:14.000Z",
+        "description": "中推特供之便宜货的人间冒险。世界反折耳根协会会长现已卷土重来。来聊，承接：防水补漏、情感咨询、水泥型号推荐、排忧解难。心理咨询100r/h 加急200。🚪88，美女免费",
+        "id": "1600277431256256512",
+        "location": "无处不在",
+        "name": "石獅落麻雀",
+        "pinned_tweet_id": "1837497520836300891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828968257405235200/qMZ2VQQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3535,
+          "following_count": 257,
+          "like_count": 1006,
+          "listed_count": 4,
+          "tweet_count": 995
+        },
+        "username": "Oriyukiiiii",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2082881709264048289",
+    "created_at": "2026-07-30T17:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T18:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082881709264048289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1468567542264664067",
+          "start": 3,
+          "username": "Angelica_zj"
+        },
+        {
+          "end": 33,
+          "id": "1552619594199990272",
+          "start": 17,
+          "username": "chenzon62302270"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082881709264048289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082881050733167009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angelica_zj: @chenzon62302270 谢谢你，以目前来说不出天降横祸的话大概不会死的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2082881709264048289",
+        "created_at": "2026-07-30T17:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082881709264048289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1468567542264664067",
+              "start": 3,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 33,
+              "id": "1552619594199990272",
+              "start": 17,
+              "username": "chenzon62302270"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082881709264048289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082881050733167009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Angelica_zj: @chenzon62302270 谢谢你，以目前来说不出天降横祸的话大概不会死的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2077056752617763074",
+        "created_at": "2026-07-30T17:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082881050733167009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1552619594199990272",
+              "start": 0,
+              "username": "chenzon62302270"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082881050733167009",
+        "in_reply_to_user_id": "1552619594199990272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077814154644336746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenzon62302270 谢谢你，以目前来说不出天降横祸的话大概不会死的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25010,
+          "following_count": 1048,
+          "like_count": 14973,
+          "listed_count": 41,
+          "media_count": 1615,
+          "tweet_count": 17491
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T11:39:01.000Z",
+        "description": "复活喽",
+        "id": "1552619594199990272",
+        "location": "北京",
+        "name": "不吃腊肉（改革开放版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077813310674829312/6EL5w7qS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 330,
+          "like_count": 855,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 6077
+        },
+        "url": "",
+        "username": "chenzon62302270",
+        "verified": false
+      }
+    ]
+  }
+}

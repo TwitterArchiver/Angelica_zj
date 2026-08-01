@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1993510192018079753",
+    "created_at": "2025-11-26T03:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T04:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993525283576856772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1268491001951219712",
+          "start": 0,
+          "username": "Xaiforever11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993525283576856772",
+    "in_reply_to_user_id": "1268491001951219712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993510192018079753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xaiforever11 一万个同意，玩竞技类游戏压力好大，现在好多人玩个游戏戾气都重的像嘴里吃了屎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1993510192018079753",
+        "created_at": "2025-11-26T03:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T04:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993525283576856772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1268491001951219712",
+              "start": 0,
+              "username": "Xaiforever11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993525283576856772",
+        "in_reply_to_user_id": "1268491001951219712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993510192018079753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xaiforever11 一万个同意，玩竞技类游戏压力好大，现在好多人玩个游戏戾气都重的像嘴里吃了屎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1268491001951219712",
+        "conversation_id": "1993510192018079753",
+        "created_at": "2025-11-26T02:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T03:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993510192018079753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993510192018079753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好讨厌竞技类游戏，玩个猛兽派对都有人一直发笑哭那个嘲讽有病一样，我要玩一辈子单机了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25271,
+          "following_count": 997,
+          "like_count": 14340,
+          "listed_count": 40,
+          "media_count": 1440,
+          "tweet_count": 16054
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-04T10:33:24.000Z",
+        "description": "我乃宇宙超级无敌霹雳邪魅嗜血温柔体贴沉鱼落雁统治地球潮流橘猫之王",
+        "id": "1268491001951219712",
+        "location": "亮晶晶布丁城堡",
+        "name": "愛",
+        "pinned_tweet_id": "1990016516042207331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971169064056913921/AOwEnHeR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5239,
+          "following_count": 398,
+          "like_count": 51165,
+          "listed_count": 7,
+          "media_count": 1071,
+          "tweet_count": 13126
+        },
+        "username": "Xaiforever11",
+        "verified": false
+      }
+    ]
+  }
+}

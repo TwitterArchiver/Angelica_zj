@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1880125886739149288",
+    "created_at": "2025-01-18T01:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T02:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880430098144489779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1564990170922827778",
+          "start": 0,
+          "username": "ForestDengG"
+        },
+        {
+          "end": 21,
+          "id": "1433678976564662273",
+          "start": 13,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880430098144489779",
+    "in_reply_to_user_id": "1564990170922827778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880427430265159784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ForestDengG @hsn8086 或许是我见得少了，身边门当户对的婚姻彩礼嫁妆大多都是几万块钱意思一下带回小家，夫妻共用。而且婚后掌钱的就管家，哪有那么多算计"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1880125886739149288",
+        "created_at": "2025-01-18T01:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T02:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880430098144489779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1564990170922827778",
+              "start": 0,
+              "username": "ForestDengG"
+            },
+            {
+              "end": 21,
+              "id": "1433678976564662273",
+              "start": 13,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880430098144489779",
+        "in_reply_to_user_id": "1564990170922827778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880427430265159784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ForestDengG @hsn8086 或许是我见得少了，身边门当户对的婚姻彩礼嫁妆大多都是几万块钱意思一下带回小家，夫妻共用。而且婚后掌钱的就管家，哪有那么多算计"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990170922827778",
+        "conversation_id": "1880125886739149288",
+        "created_at": "2025-01-18T01:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T02:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880427430265159784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 21,
+              "id": "1433678976564662273",
+              "start": 13,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880427430265159784",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880426779284021589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj @hsn8086 事实上大多数不对等，普遍男方付出的多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25144,
+          "following_count": 935,
+          "like_count": 13773,
+          "listed_count": 37,
+          "media_count": 1259,
+          "tweet_count": 14291
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T14:55:18.000Z",
+        "description": "",
+        "id": "1564990170922827778",
+        "name": "ForestDengD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564990812919721991/ILERbaWE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 160,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 67
+        },
+        "username": "ForestDengG",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1875403771435700438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30455,
+          "following_count": 902,
+          "like_count": 36336,
+          "listed_count": 86,
+          "media_count": 5137,
+          "tweet_count": 9959
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

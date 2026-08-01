@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1819404343319449898",
+    "created_at": "2024-08-02T16:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-02T17:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819405312245559492"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1819405312245559492",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819404343319449898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个习惯从初中和父母的相处里就产生了，与其面临真相时受到重创，“自己清楚的认识到亲密关系中残酷的种种”对我来说才能更好的保护自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1819404343319449898",
+        "created_at": "2024-08-02T16:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T17:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819405312245559492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1819405312245559492",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819404343319449898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个习惯从初中和父母的相处里就产生了，与其面临真相时受到重创，“自己清楚的认识到亲密关系中残酷的种种”对我来说才能更好的保护自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1819404343319449898",
+        "created_at": "2024-08-02T16:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T17:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819404343319449898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1819404343319449898",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道么我特别喜欢找出一些曾经的我没有被爱或者是没有被尊重的证据，甚至脑补并添油加醋，痛苦到一定程度脑子会麻麻的，很舒服\n自虐爽啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24487,
+          "following_count": 900,
+          "like_count": 13507,
+          "listed_count": 35,
+          "tweet_count": 13435
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1998237097694839146",
+    "created_at": "2025-12-09T18:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T19:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998453313369432200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1085703459528196096",
+          "start": 0,
+          "username": "tubalajilc"
+        },
+        {
+          "end": 24,
+          "id": "1944839793533444098",
+          "start": 12,
+          "username": "mangoqwq404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998453313369432200",
+    "in_reply_to_user_id": "1085703459528196096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998433003035566440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tubalajilc @mangoqwq404 我也，现在有的匿名平台规模都很小，而且有些很像约炮软件。没有当树洞的欲望。\n我觉得最好的是本身就很火的平台出个匿名功能，感觉会玩的很爽（不过大概率也会滋生很多网络暴力就是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1998237097694839146",
+        "created_at": "2025-12-09T18:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T19:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998453313369432200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1085703459528196096",
+              "start": 0,
+              "username": "tubalajilc"
+            },
+            {
+              "end": 24,
+              "id": "1944839793533444098",
+              "start": 12,
+              "username": "mangoqwq404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998453313369432200",
+        "in_reply_to_user_id": "1085703459528196096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998433003035566440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tubalajilc @mangoqwq404 我也，现在有的匿名平台规模都很小，而且有些很像约炮软件。没有当树洞的欲望。\n我觉得最好的是本身就很火的平台出个匿名功能，感觉会玩的很爽（不过大概率也会滋生很多网络暴力就是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1085703459528196096",
+        "conversation_id": "1998237097694839146",
+        "created_at": "2025-12-09T16:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T17:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998433003035566440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944839793533444098",
+              "start": 0,
+              "username": "mangoqwq404"
+            },
+            {
+              "end": 25,
+              "id": "1468567542264664067",
+              "start": 13,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998433003035566440",
+        "in_reply_to_user_id": "1944839793533444098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998415656233111622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mangoqwq404 @Angelica_zj 有全匿名又很火的平台就好了，有暴露癖但不敢说，有人知道我推。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25284,
+          "following_count": 1001,
+          "like_count": 14386,
+          "listed_count": 40,
+          "media_count": 1456,
+          "tweet_count": 16153
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-17T01:00:50.000Z",
+        "description": "",
+        "id": "1085703459528196096",
+        "name": "lwca",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910532574042353664/8u7-2foJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 167,
+          "like_count": 55,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 45
+        },
+        "username": "tubalajilc",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T19:22:05.000Z",
+        "description": "：我是一位友好的伪人。话语中会出现混乱及颠倒、错字。请多多包庇，还在学习人类的言语方式中。\n我和p哥已经认识快十年了，我来这里是碎碎念疏解感情的，不是来约的不是来约的不是来约的",
+        "id": "1944839793533444098",
+        "location": "野猫的寿命在三年左右",
+        "name": "Mango",
+        "pinned_tweet_id": "1990373989966106947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990373044137914369/vi3qIJ_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 40,
+          "like_count": 1616,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 847
+        },
+        "username": "mangoqwq404",
+        "verified": false
+      }
+    ]
+  }
+}

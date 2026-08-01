@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1903792608683708775",
+    "created_at": "2025-03-23T15:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T16:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903835446330978649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769171984406241280",
+          "start": 0,
+          "username": "tong_chuyang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903835446330978649",
+    "in_reply_to_user_id": "1769171984406241280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903823019967123809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tong_chuyang 右鞠躬这个故事我觉得不错的是小黄帽，暗叩明，和“土什么人”做的中日双字翻译版本（这个和读原文差不多）\n小黄帽的视频很精良，给故事做了动画，我觉得恐怖氛围温和了一些。暗叩明版本是我第一次听，把我吓得不行。后来去听了原版，原文里日本人讲话很弯绕磨叽，不过代入感也挺强的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1903792608683708775",
+        "created_at": "2025-03-23T15:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T16:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903835446330978649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769171984406241280",
+              "start": 0,
+              "username": "tong_chuyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903835446330978649",
+        "in_reply_to_user_id": "1769171984406241280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903823019967123809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong_chuyang 右鞠躬这个故事我觉得不错的是小黄帽，暗叩明，和“土什么人”做的中日双字翻译版本（这个和读原文差不多）\n小黄帽的视频很精良，给故事做了动画，我觉得恐怖氛围温和了一些。暗叩明版本是我第一次听，把我吓得不行。后来去听了原版，原文里日本人讲话很弯绕磨叽，不过代入感也挺强的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769171984406241280",
+        "conversation_id": "1903792608683708775",
+        "created_at": "2025-03-23T14:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T15:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903823019967123809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903823019967123809",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903792608683708775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 宝宝听的什么能分享一下吗🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25311,
+          "following_count": 954,
+          "like_count": 14079,
+          "listed_count": 38,
+          "media_count": 1290,
+          "tweet_count": 14735
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T01:21:20.000Z",
+        "description": "都快点来关注我看我每天碎碎念😡\n（我是男的，清水推，没有暴露癖不发身材和寄吧，有愿意和我聊天的欢迎私信）\n（虽然这样好像一点流量都没有😭）",
+        "id": "1769171984406241280",
+        "name": "我没有良心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775809871642009600/LymjfB2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 44,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 136
+        },
+        "username": "tong_chuyang",
+        "verified": false
+      }
+    ]
+  }
+}

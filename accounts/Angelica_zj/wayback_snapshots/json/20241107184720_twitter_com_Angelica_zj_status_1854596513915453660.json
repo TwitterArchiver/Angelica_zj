@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1854596503198937088"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1854596513915453660",
+    "created_at": "2024-11-07T18:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T19:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854596513915453660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W7IJL78qRA",
+          "end": 93,
+          "expanded_url": "https://x.com/Angelica_zj/status/1854596513915453660/photo/1",
+          "media_key": "3_1854596503198937088",
+          "start": 70,
+          "url": "https://t.co/W7IJL78qRA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854596513915453660",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每每试图deep talk又无功而返的感觉好泄气\n传统意义的正常人通常都会把我真实情感的流露看作抑郁犯病的开端，从而警铃大作迅速的中断话题 https://t.co/W7IJL78qRA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_1854596503198937088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbzZsY7asAAkouJ.jpg",
+        "width": 1018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854596503198937088"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1854596513915453660",
+        "created_at": "2024-11-07T18:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T19:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854596513915453660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W7IJL78qRA",
+              "end": 93,
+              "expanded_url": "https://x.com/Angelica_zj/status/1854596513915453660/photo/1",
+              "media_key": "3_1854596503198937088",
+              "start": 70,
+              "url": "https://t.co/W7IJL78qRA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854596513915453660",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每每试图deep talk又无功而返的感觉好泄气\n传统意义的正常人通常都会把我真实情感的流露看作抑郁犯病的开端，从而警铃大作迅速的中断话题 https://t.co/W7IJL78qRA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24657,
+          "following_count": 926,
+          "like_count": 13611,
+          "listed_count": 36,
+          "tweet_count": 13861
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

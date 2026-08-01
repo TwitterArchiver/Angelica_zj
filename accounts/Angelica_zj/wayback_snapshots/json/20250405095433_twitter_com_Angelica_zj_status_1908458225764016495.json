@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1908249532590415896",
+    "created_at": "2025-04-05T09:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T10:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908458225764016495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1725361908843528192",
+          "start": 0,
+          "username": "fen_mi27961"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908458225764016495",
+    "in_reply_to_user_id": "1725361908843528192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908441515812094279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fen_mi27961 压力确实挺大的（）但也没想到会和这个有关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1908249532590415896",
+        "created_at": "2025-04-05T09:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T10:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908458225764016495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1725361908843528192",
+              "start": 0,
+              "username": "fen_mi27961"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908458225764016495",
+        "in_reply_to_user_id": "1725361908843528192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908441515812094279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fen_mi27961 压力确实挺大的（）但也没想到会和这个有关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725361908843528192",
+        "conversation_id": "1908249532590415896",
+        "created_at": "2025-04-05T08:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T09:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908441515812094279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908441515812094279",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908249532590415896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 诶！宝宝是不是潜意识里压力过大！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25293,
+          "following_count": 962,
+          "like_count": 14161,
+          "listed_count": 38,
+          "media_count": 1300,
+          "tweet_count": 14832
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T03:56:13.000Z",
+        "description": "",
+        "id": "1725361908843528192",
+        "name": "洗衣服前要清空口袋煮牛奶不要盖锅盖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866406375280230400/NKuSfeYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 34,
+          "like_count": 1424,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 243
+        },
+        "username": "fen_mi27961",
+        "verified": false
+      }
+    ]
+  }
+}

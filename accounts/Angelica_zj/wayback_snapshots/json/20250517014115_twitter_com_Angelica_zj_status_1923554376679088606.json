@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1923554376679088606",
+    "created_at": "2025-05-17T01:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T02:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923554376679088606"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1923554376679088606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我太喜欢这个软件了…碎碎念完全没有在朋友圈的窘迫感，刷的动态也不会让我烦躁焦虑\n满足了我大部分的分享欲，在这里一天发一百条胡言乱语也没人骂我蛐蛐我，好安心\n就算骂我我也没那么烦躁来的，反正我和大家一辈子也不会见面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1923554376679088606",
+        "created_at": "2025-05-17T01:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T02:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923554376679088606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923554376679088606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我太喜欢这个软件了…碎碎念完全没有在朋友圈的窘迫感，刷的动态也不会让我烦躁焦虑\n满足了我大部分的分享欲，在这里一天发一百条胡言乱语也没人骂我蛐蛐我，好安心\n就算骂我我也没那么烦躁来的，反正我和大家一辈子也不会见面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25556,
+          "following_count": 990,
+          "like_count": 14398,
+          "listed_count": 37,
+          "media_count": 1338,
+          "tweet_count": 15227
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

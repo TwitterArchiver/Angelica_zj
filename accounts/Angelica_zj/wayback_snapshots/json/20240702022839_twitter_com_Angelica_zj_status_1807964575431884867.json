@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1807800935760216114",
+    "created_at": "2024-07-02T02:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T03:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807964575431884867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1565502439477825536",
+          "start": 0,
+          "username": "S19890604K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807964575431884867",
+    "in_reply_to_user_id": "1565502439477825536",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807829559510982938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S19890604K 点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1807800935760216114",
+        "created_at": "2024-07-02T02:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T03:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807964575431884867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1565502439477825536",
+              "start": 0,
+              "username": "S19890604K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807964575431884867",
+        "in_reply_to_user_id": "1565502439477825536",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807829559510982938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S19890604K 点了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1565502439477825536",
+        "conversation_id": "1807800935760216114",
+        "created_at": "2024-07-01T17:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T18:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807829559510982938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807829559510982938",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807800935760216114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 纯脑残对着引流贴那么上纲上线🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们  / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24638,
+          "following_count": 905,
+          "like_count": 13509,
+          "listed_count": 36,
+          "tweet_count": 13326
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T00:50:54.000Z",
+        "description": "",
+        "id": "1565502439477825536",
+        "location": "不闲聊 私信骚扰拉黑",
+        "name": "K",
+        "pinned_tweet_id": "1807898732530393537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805694641570037765/KMSZyTxq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 255,
+          "like_count": 6833,
+          "listed_count": 0,
+          "tweet_count": 5424
+        },
+        "username": "S19890604K",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1846968566488485888"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1846968571639087287",
+    "created_at": "2024-10-17T17:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-17T18:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1846968571639087287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aTV1qfDu10",
+          "end": 50,
+          "expanded_url": "https://x.com/Angelica_zj/status/1846968571639087287/photo/1",
+          "media_key": "3_1846968566488485888",
+          "start": 27,
+          "url": "https://t.co/aTV1qfDu10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1846968571639087287",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我也不喜欢洗衣服，只是衣服不洗容易被看出来脏，唉 https://t.co/aTV1qfDu10"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 812,
+        "media_key": "3_1846968566488485888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaHAICTb0AA5bfO.jpg",
+        "width": 1003
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1846968566488485888"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1846968571639087287",
+        "created_at": "2024-10-17T17:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-17T18:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1846968571639087287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTV1qfDu10",
+              "end": 50,
+              "expanded_url": "https://x.com/Angelica_zj/status/1846968571639087287/photo/1",
+              "media_key": "3_1846968566488485888",
+              "start": 27,
+              "url": "https://t.co/aTV1qfDu10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1846968571639087287",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我也不喜欢洗衣服，只是衣服不洗容易被看出来脏，唉 https://t.co/aTV1qfDu10"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24687,
+          "following_count": 924,
+          "like_count": 13626,
+          "listed_count": 35,
+          "tweet_count": 13788
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

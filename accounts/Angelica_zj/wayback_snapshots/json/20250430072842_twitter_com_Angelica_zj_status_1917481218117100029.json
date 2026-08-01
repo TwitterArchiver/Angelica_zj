@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1917249735586635900",
+    "created_at": "2025-04-30T07:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T08:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917481218117100029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756228930632298496",
+          "start": 0,
+          "username": "diegulunar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917481218117100029",
+    "in_reply_to_user_id": "1756228930632298496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917418429012926893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diegulunar 好！最近正在物色能扛伤的手指套😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1917249735586635900",
+        "created_at": "2025-04-30T07:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T08:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917481218117100029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756228930632298496",
+              "start": 0,
+              "username": "diegulunar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917481218117100029",
+        "in_reply_to_user_id": "1756228930632298496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917418429012926893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diegulunar 好！最近正在物色能扛伤的手指套😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756228930632298496",
+        "conversation_id": "1917249735586635900",
+        "created_at": "2025-04-30T03:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T04:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917418429012926893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917418429012926893",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917249735586635900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 宝宝可以买那种硅胶手指套看看？我看好像一些绣十字绣的会戴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25365,
+          "following_count": 982,
+          "like_count": 14264,
+          "listed_count": 39,
+          "media_count": 1322,
+          "tweet_count": 15059
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T08:09:49.000Z",
+        "description": "栀子香气🦋｜叫我蝶骨就好~｜喜欢的人♡：🐰🐰｜大概主要是恋爱推和日常碎碎念了",
+        "id": "1756228930632298496",
+        "name": "蝶骨",
+        "pinned_tweet_id": "1781617948811018736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806689967634055168/3G3iKTOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 90,
+          "like_count": 2485,
+          "listed_count": 0,
+          "media_count": 473,
+          "tweet_count": 1578
+        },
+        "username": "diegulunar",
+        "verified": false
+      }
+    ]
+  }
+}

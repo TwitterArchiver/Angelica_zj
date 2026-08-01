@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2041494534237180316",
+    "created_at": "2026-04-08T22:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T23:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042012530714034176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1994535480017522690",
+          "start": 0,
+          "username": "Jkkk1240397"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042012530714034176",
+    "in_reply_to_user_id": "1994535480017522690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041990372214337538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jkkk1240397 其实胶圈里年纪小点和年级更大的人都挺纯粹的，臭的永远是中间那群人，每个圈子都有每个圈子的嘉豪（等他们步入中年阳痿后或许就自动进化“纯粹”了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2041494534237180316",
+        "created_at": "2026-04-08T22:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T23:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042012530714034176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1994535480017522690",
+              "start": 0,
+              "username": "Jkkk1240397"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042012530714034176",
+        "in_reply_to_user_id": "1994535480017522690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041990372214337538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jkkk1240397 其实胶圈里年纪小点和年级更大的人都挺纯粹的，臭的永远是中间那群人，每个圈子都有每个圈子的嘉豪（等他们步入中年阳痿后或许就自动进化“纯粹”了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994535480017522690",
+        "conversation_id": "2041494534237180316",
+        "created_at": "2026-04-08T21:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T22:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041990372214337538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041990372214337538",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041494534237180316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 这个还真是二次元症状，我加过一些小比例车模群，开始以为氛围是模型圈子那种侃天侃地急绷典孝外加迷之二次元女头表情包，结果氛围超级好，超级小的小学生和叔叔辈的中登之间无障碍的热情交流"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25073,
+          "following_count": 1048,
+          "like_count": 14702,
+          "listed_count": 40,
+          "media_count": 1568,
+          "tweet_count": 16950
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T22:35:03.000Z",
+        "description": "幸福碎片🍄邪恶人格➡️@Ydlmdawang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "Ydlmdawang"
+              }
+            ]
+          }
+        },
+        "id": "1994535480017522690",
+        "name": "起航！寻找无尽的红苕稀饭！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036927750683140096/cyz6YGjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 10,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 163
+        },
+        "username": "Jkkk1240397",
+        "verified": false
+      }
+    ]
+  }
+}

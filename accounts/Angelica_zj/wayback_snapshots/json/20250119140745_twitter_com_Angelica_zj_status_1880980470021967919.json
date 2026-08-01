@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1880980470021967919",
+    "created_at": "2025-01-19T14:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T15:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880980470021967919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds01/status/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/hgds01/status/1880618228566962649",
+          "start": 18,
+          "url": "https://t.co/LBC6RcmWof"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880980470021967919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880618228566962649",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样，只不过我会开始反感对方😋 https://t.co/LBC6RcmWof"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1880980470021967919",
+        "created_at": "2025-01-19T14:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T15:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880980470021967919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds01/status/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/hgds01/status/1880618228566962649",
+              "start": 18,
+              "url": "https://t.co/LBC6RcmWof"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880980470021967919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880618228566962649",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样，只不过我会开始反感对方😋 https://t.co/LBC6RcmWof"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880618221189177344"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1880618228566962649",
+        "created_at": "2025-01-18T14:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T15:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880618228566962649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQMbplQsmi",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds01/status/1880618228566962649/photo/1",
+              "media_key": "3_1880618221189177344",
+              "start": 0,
+              "url": "https://t.co/yQMbplQsmi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880618228566962649",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 99459,
+          "like_count": 1868,
+          "quote_count": 23,
+          "reply_count": 13,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yQMbplQsmi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25151,
+          "following_count": 936,
+          "like_count": 13790,
+          "listed_count": 37,
+          "media_count": 1259,
+          "tweet_count": 14325
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "欢迎你的关注 接受投稿 过稿即回复",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1880618286381183445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56536,
+          "following_count": 2881,
+          "like_count": 40196,
+          "listed_count": 71,
+          "media_count": 1281,
+          "tweet_count": 5480
+        },
+        "username": "hgds01",
+        "verified": false
+      }
+    ]
+  }
+}

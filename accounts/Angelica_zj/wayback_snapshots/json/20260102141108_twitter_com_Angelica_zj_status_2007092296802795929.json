@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Nail Polish",
+          "id": "856605935296405504",
+          "name": "Nails"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nail Polish",
+          "id": "856605935296405504",
+          "name": "Nails"
+        }
+      }
+    ],
+    "conversation_id": "2007092296802795929",
+    "created_at": "2026-01-02T14:11:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T15:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007092296802795929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akutsuairi/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/akutsuairi/status/2007008135421292716",
+          "start": 5,
+          "url": "https://t.co/Mlb3zu7XXs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007092296802795929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007008135421292716",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要做！ https://t.co/Mlb3zu7XXs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 980,
+        "media_key": "3_2007008130128109568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9pTQsGbYAA3xb5.jpg",
+        "width": 736
+      },
+      {
+        "height": 640,
+        "media_key": "3_2007008130128125952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9pTQsGboAAgBS1.jpg",
+        "width": 640
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2007008130136465408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9pTQsIa4AAguii.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          }
+        ],
+        "conversation_id": "2007092296802795929",
+        "created_at": "2026-01-02T14:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T15:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007092296802795929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akutsuairi/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/akutsuairi/status/2007008135421292716",
+              "start": 5,
+              "url": "https://t.co/Mlb3zu7XXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007092296802795929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007008135421292716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要做！ https://t.co/Mlb3zu7XXs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007008130128109568",
+            "3_2007008130128125952",
+            "3_2007008130136465408"
+          ]
+        },
+        "author_id": "1618878793124573184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          }
+        ],
+        "conversation_id": "2007008135421292716",
+        "created_at": "2026-01-02T08:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T09:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007008135421292716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ji9zPoR0ZW",
+              "end": 42,
+              "expanded_url": "https://x.com/AkutsuAiri/status/2007008135421292716/photo/1",
+              "media_key": "3_2007008130128109568",
+              "start": 19,
+              "url": "https://t.co/ji9zPoR0ZW"
+            },
+            {
+              "display_url": "pic.x.com/ji9zPoR0ZW",
+              "end": 42,
+              "expanded_url": "https://x.com/AkutsuAiri/status/2007008135421292716/photo/1",
+              "media_key": "3_2007008130128125952",
+              "start": 19,
+              "url": "https://t.co/ji9zPoR0ZW"
+            },
+            {
+              "display_url": "pic.x.com/ji9zPoR0ZW",
+              "end": 42,
+              "expanded_url": "https://x.com/AkutsuAiri/status/2007008135421292716/photo/1",
+              "media_key": "3_2007008130136465408",
+              "start": 19,
+              "url": "https://t.co/ji9zPoR0ZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007008135421292716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3579,
+          "impression_count": 709406,
+          "like_count": 14902,
+          "quote_count": 287,
+          "reply_count": 1,
+          "retweet_count": 1334
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "セルフで黒豆ネイルでも( ◠‿◠ ) https://t.co/ji9zPoR0ZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25237,
+          "following_count": 1016,
+          "like_count": 14460,
+          "listed_count": 40,
+          "media_count": 1493,
+          "tweet_count": 16387
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T07:49:21.000Z",
+        "description": "ときめきの共有",
+        "id": "1618878793124573184",
+        "name": "Kae",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973277980882587648/30dUkmSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12714,
+          "following_count": 312,
+          "like_count": 16749,
+          "listed_count": 60,
+          "media_count": 658,
+          "tweet_count": 1068
+        },
+        "username": "AkutsuAiri",
+        "verified": false
+      }
+    ]
+  }
+}

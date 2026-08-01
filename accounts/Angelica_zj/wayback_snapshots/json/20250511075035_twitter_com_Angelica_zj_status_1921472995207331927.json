@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1921427115024527415",
+    "created_at": "2025-05-11T07:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T08:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921472995207331927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1612751243285516290",
+          "start": 0,
+          "username": "Gls9554307"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921472995207331927",
+    "in_reply_to_user_id": "1612751243285516290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921427115024527415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gls9554307 ？真的不是ai吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921427098901618688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqpHxCvXIAAyekm.jpg",
+        "width": 1527
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1921427115024527415",
+        "created_at": "2025-05-11T07:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T08:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921472995207331927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1612751243285516290",
+              "start": 0,
+              "username": "Gls9554307"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921472995207331927",
+        "in_reply_to_user_id": "1612751243285516290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921427115024527415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gls9554307 ？真的不是ai吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921427098901618688"
+          ]
+        },
+        "author_id": "1612751243285516290",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1921427115024527415",
+        "created_at": "2025-05-11T04:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T05:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921427115024527415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2BXjffNu2l",
+              "end": 30,
+              "expanded_url": "https://x.com/Gls9554307/status/1921427115024527415/photo/1",
+              "media_key": "3_1921427098901618688",
+              "start": 7,
+              "url": "https://t.co/2BXjffNu2l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921427115024527415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10762,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "钱难挣得很嘞 https://t.co/2BXjffNu2l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25391,
+          "following_count": 988,
+          "like_count": 14363,
+          "listed_count": 37,
+          "media_count": 1334,
+          "tweet_count": 15168
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T10:00:47.000Z",
+        "description": "📰瓜老师の笔记:  https://t.co/JXHYeJcEH6 ｜频道： https://t.co/dLfFhYRY9v | 不迷路推特号: https://t.co/CU32kPL5uk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "glsnote.org",
+                "end": 33,
+                "expanded_url": "http://www.glsnote.org",
+                "start": 10,
+                "url": "https://t.co/JXHYeJcEH6"
+              },
+              {
+                "display_url": "t.me/glsnote",
+                "end": 62,
+                "expanded_url": "http://t.me/glsnote",
+                "start": 39,
+                "url": "https://t.co/dLfFhYRY9v"
+              },
+              {
+                "display_url": "x.com/Adityaasss21",
+                "end": 96,
+                "expanded_url": "https://x.com/Adityaasss21",
+                "start": 73,
+                "url": "https://t.co/CU32kPL5uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ccav.online",
+                "end": 23,
+                "expanded_url": "https://ccav.online",
+                "start": 0,
+                "url": "https://t.co/v47BRpql1d"
+              }
+            ]
+          }
+        },
+        "id": "1612751243285516290",
+        "location": "Hong Kong",
+        "name": "还是瓜老师",
+        "pinned_tweet_id": "1919580023436054899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721211745241587712/EAjjuhcw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174637,
+          "following_count": 60,
+          "like_count": 53,
+          "listed_count": 160,
+          "media_count": 209,
+          "tweet_count": 1056
+        },
+        "url": "https://t.co/v47BRpql1d",
+        "username": "Gls9554307",
+        "verified": true
+      }
+    ]
+  }
+}

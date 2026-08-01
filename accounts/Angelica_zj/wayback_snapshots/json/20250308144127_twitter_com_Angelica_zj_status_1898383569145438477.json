@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1897603605492015303",
+    "created_at": "2025-03-08T14:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T15:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898383569145438477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4636017852",
+          "start": 0,
+          "username": "pafecchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898383569145438477",
+    "in_reply_to_user_id": "4636017852",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898286587567653316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pafecchi 💗💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1897603605492015303",
+        "created_at": "2025-03-08T14:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T15:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898383569145438477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4636017852",
+              "start": 0,
+              "username": "pafecchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898383569145438477",
+        "in_reply_to_user_id": "4636017852",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898286587567653316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pafecchi 💗💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4636017852",
+        "conversation_id": "1897603605492015303",
+        "created_at": "2025-03-08T08:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T09:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898286587567653316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898286587567653316",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897603605492015303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj かわいい！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25267,
+          "following_count": 950,
+          "like_count": 14031,
+          "listed_count": 37,
+          "media_count": 1287,
+          "tweet_count": 14649
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-23T08:06:40.000Z",
+        "description": "￤Fortnite￤￤Xbox勢￤￤tiktokLive￤彼氏💍@NTRx48￤ずっと嫁@Chigo_1211",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 32,
+                "username": "NTRx48"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "Chigo_1211"
+              }
+            ]
+          }
+        },
+        "id": "4636017852",
+        "location": "ばぶあにゅーぎにあ",
+        "name": "꙳♡̴⟡",
+        "pinned_tweet_id": "1889707262316560562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884229185402724356/d0fRZtb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 26,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 78
+        },
+        "username": "pafecchi",
+        "verified": false
+      }
+    ]
+  }
+}

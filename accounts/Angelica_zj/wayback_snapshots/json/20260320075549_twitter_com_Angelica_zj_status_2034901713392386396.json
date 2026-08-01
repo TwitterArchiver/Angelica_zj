@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2034829181838676051",
+    "created_at": "2026-03-20T07:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T08:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034901713392386396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1511322509638975492",
+          "start": 0,
+          "username": "chaye66720459"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034901713392386396",
+    "in_reply_to_user_id": "1511322509638975492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034873165500096956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chaye66720459 这太坏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2034829181838676051",
+        "created_at": "2026-03-20T07:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T08:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034901713392386396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1511322509638975492",
+              "start": 0,
+              "username": "chaye66720459"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034901713392386396",
+        "in_reply_to_user_id": "1511322509638975492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034873165500096956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chaye66720459 这太坏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511322509638975492",
+        "conversation_id": "2034829181838676051",
+        "created_at": "2026-03-20T06:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T07:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034873165500096956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034873165500096956",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 626,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034829181838676051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 罚你写1万字的毕业论文，记得要有20个参考文献"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25233,
+          "following_count": 1048,
+          "like_count": 14644,
+          "listed_count": 40,
+          "media_count": 1545,
+          "tweet_count": 16809
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T12:39:12.000Z",
+        "description": "王维别睡觉了,杜甫喊你去玩女校书\nShare something interesting",
+        "id": "1511322509638975492",
+        "location": "Koto-ku, Tokyo",
+        "name": "佚名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012123877816860674/wsErmMAR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 876,
+          "like_count": 4161,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 246
+        },
+        "username": "chaye66720459",
+        "verified": false
+      }
+    ]
+  }
+}

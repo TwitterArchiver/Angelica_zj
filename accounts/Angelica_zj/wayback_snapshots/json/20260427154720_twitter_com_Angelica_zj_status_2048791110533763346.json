@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2048491721915322821",
+    "created_at": "2026-04-27T15:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T16:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048791110533763346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1560434375195369474",
+          "start": 0,
+          "username": "xuzi40104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048791110533763346",
+    "in_reply_to_user_id": "1560434375195369474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048648029520134558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuzi40104 哈哈哈哈都会画的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2048491721915322821",
+        "created_at": "2026-04-27T15:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048791110533763346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1560434375195369474",
+              "start": 0,
+              "username": "xuzi40104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048791110533763346",
+        "in_reply_to_user_id": "1560434375195369474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048648029520134558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuzi40104 哈哈哈哈都会画的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560434375195369474",
+        "conversation_id": "2048491721915322821",
+        "created_at": "2026-04-27T06:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048648029520134558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048648029520134558",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048491721915322821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 把不登校画上去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25146,
+          "following_count": 1053,
+          "like_count": 14721,
+          "listed_count": 41,
+          "media_count": 1574,
+          "tweet_count": 17034
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T01:12:18.000Z",
+        "description": "",
+        "id": "1560434375195369474",
+        "location": "距离你401m",
+        "name": "雪绪",
+        "pinned_tweet_id": "1954963547198505439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619516314405707776/HUYfmVL0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 216,
+          "like_count": 9048,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 3685
+        },
+        "username": "xuzi40104",
+        "verified": false
+      }
+    ]
+  }
+}

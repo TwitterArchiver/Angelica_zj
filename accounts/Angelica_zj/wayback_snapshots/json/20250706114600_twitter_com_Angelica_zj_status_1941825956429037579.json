@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1941774936000856387",
+    "created_at": "2025-07-06T11:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T12:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941825956429037579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1821494049943035904",
+          "start": 0,
+          "username": "FuckuOvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941825956429037579",
+    "in_reply_to_user_id": "1821494049943035904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941819304166432897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FuckuOvo 对😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1941774936000856387",
+        "created_at": "2025-07-06T11:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T12:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941825956429037579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1821494049943035904",
+              "start": 0,
+              "username": "FuckuOvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941825956429037579",
+        "in_reply_to_user_id": "1821494049943035904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941819304166432897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FuckuOvo 对😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821494049943035904",
+        "conversation_id": "1941774936000856387",
+        "created_at": "2025-07-06T11:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T12:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941819304166432897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941819304166432897",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941774936000856387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 幸福的角落"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25461,
+          "following_count": 996,
+          "like_count": 14449,
+          "listed_count": 36,
+          "media_count": 1379,
+          "tweet_count": 15506
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T10:30:20.000Z",
+        "description": "笨人的心境犹如一滩死水\n我有精神病\n不对所发表的任何言论负责，我只是喜欢乱说话",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fuckuovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fuckuovo",
+                "start": 0,
+                "url": "https://t.co/mTojXJJOYh"
+              }
+            ]
+          }
+        },
+        "id": "1821494049943035904",
+        "location": "我要死了",
+        "name": "蘑菇酱",
+        "pinned_tweet_id": "1938632139010109649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934602837519945728/xCf-MM6m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 142,
+          "like_count": 5968,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 1673
+        },
+        "url": "https://t.co/mTojXJJOYh",
+        "username": "FuckuOvo",
+        "verified": false
+      }
+    ]
+  }
+}

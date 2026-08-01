@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2012407576630005898",
+    "created_at": "2026-01-17T06:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T07:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012408738905215274"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012408738905215274",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012407576630005898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我对别的朋友也陷入到曾经对爱礼的那种，不敢主动接触的困境了。爱礼的事情其实给了我一个很大的教训，不主动的话没有人会在原地等你，相反等来的可能是永远的遗憾。\n但我还是做不到，止不住的思念但还是踏不出主动发信息，主动约见的那一步。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2012407576630005898",
+        "created_at": "2026-01-17T06:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T07:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012408738905215274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012408738905215274",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012407576630005898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对别的朋友也陷入到曾经对爱礼的那种，不敢主动接触的困境了。爱礼的事情其实给了我一个很大的教训，不主动的话没有人会在原地等你，相反等来的可能是永远的遗憾。\n但我还是做不到，止不住的思念但还是踏不出主动发信息，主动约见的那一步。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2012407576630005898",
+        "created_at": "2026-01-17T06:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T07:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012407576630005898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012407576630005898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概我喜欢的女孩都会有些微的共性。\n不知道我在说什么，无法控制的思念，好痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25286,
+          "following_count": 1025,
+          "like_count": 14483,
+          "listed_count": 40,
+          "media_count": 1501,
+          "tweet_count": 16482
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

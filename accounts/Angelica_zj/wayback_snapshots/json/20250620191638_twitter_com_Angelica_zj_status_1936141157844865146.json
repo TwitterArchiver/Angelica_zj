@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1936018946685345889",
+    "created_at": "2025-06-20T19:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T20:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936141157844865146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1387442024115171335",
+          "start": 0,
+          "username": "Alice41110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936141157844865146",
+    "in_reply_to_user_id": "1387442024115171335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936018946685345889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alice41110 她这样这是什么像残疾一样的不可治愈的疾病吗。难道不是她有病明明可以治，大家劝她看医生，结果她骂人大傻逼😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1936018946685345889",
+        "created_at": "2025-06-20T19:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T20:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936141157844865146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1387442024115171335",
+              "start": 0,
+              "username": "Alice41110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936141157844865146",
+        "in_reply_to_user_id": "1387442024115171335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936018946685345889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alice41110 她这样这是什么像残疾一样的不可治愈的疾病吗。难道不是她有病明明可以治，大家劝她看医生，结果她骂人大傻逼😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1387442024115171335",
+        "conversation_id": "1936018946685345889",
+        "created_at": "2025-06-20T11:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T12:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936018946685345889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936018946685345889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10830,
+          "like_count": 159,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一个女孩陷入一段你觉得是toxic的关系里居然是你可以拿过来攻击这个女孩的理由 这在我看来像攻击残疾人无法正常出行一样残忍到荒谬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25501,
+          "following_count": 994,
+          "like_count": 14496,
+          "listed_count": 37,
+          "media_count": 1370,
+          "tweet_count": 15455
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-28T16:22:20.000Z",
+        "description": "But on earth indifference is the least",
+        "id": "1387442024115171335",
+        "location": "不接推广",
+        "name": "Alice411",
+        "pinned_tweet_id": "1922382228476088369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1422895274448408579/Q9gYCNNc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35884,
+          "following_count": 455,
+          "like_count": 30474,
+          "listed_count": 72,
+          "media_count": 2874,
+          "tweet_count": 28316
+        },
+        "username": "Alice41110",
+        "verified": false
+      }
+    ]
+  }
+}

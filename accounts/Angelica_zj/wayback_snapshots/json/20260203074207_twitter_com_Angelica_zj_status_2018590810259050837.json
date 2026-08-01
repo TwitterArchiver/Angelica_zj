@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2018436698665828685",
+    "created_at": "2026-02-03T07:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T08:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018590810259050837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1820013159157268480",
+          "start": 0,
+          "username": "fugglerrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018590810259050837",
+    "in_reply_to_user_id": "1820013159157268480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018581846712582650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fugglerrr 卧槽最难绷的一集…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2018436698665828685",
+        "created_at": "2026-02-03T07:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T08:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018590810259050837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1820013159157268480",
+              "start": 0,
+              "username": "fugglerrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018590810259050837",
+        "in_reply_to_user_id": "1820013159157268480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018581846712582650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fugglerrr 卧槽最难绷的一集…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820013159157268480",
+        "conversation_id": "2018436698665828685",
+        "created_at": "2026-02-03T07:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T08:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018581846712582650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018581846712582650",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018436698665828685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 笑死我了 当时咒回也被他们骂了好久 我说当时jump的不都画了贺图么 怎么不骂其他的 结果小鬼回复我姜萍什么时候画了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25223,
+          "following_count": 1036,
+          "like_count": 14560,
+          "listed_count": 40,
+          "media_count": 1514,
+          "tweet_count": 16579
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T08:25:37.000Z",
+        "description": "",
+        "id": "1820013159157268480",
+        "name": "fugglerrr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968666945299079168/7CHlNB2t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 357,
+          "like_count": 893,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "fugglerrr",
+        "verified": false
+      }
+    ]
+  }
+}

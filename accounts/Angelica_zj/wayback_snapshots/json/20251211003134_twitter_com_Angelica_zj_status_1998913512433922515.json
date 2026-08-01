@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1998913512433922515",
+    "created_at": "2025-12-11T00:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T01:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998913512433922515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xsarnayyy/stat…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/xsarnayyy/status/1998403103679463483",
+          "start": 23,
+          "url": "https://t.co/7zL1lycvlT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998913512433922515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998403103679463483",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有些没有实感…我不知道怎么讲，我总感觉她还在 https://t.co/7zL1lycvlT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1998913512433922515",
+        "created_at": "2025-12-11T00:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T01:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998913512433922515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xsarnayyy/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/xsarnayyy/status/1998403103679463483",
+              "start": 23,
+              "url": "https://t.co/7zL1lycvlT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998913512433922515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998403103679463483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有些没有实感…我不知道怎么讲，我总感觉她还在 https://t.co/7zL1lycvlT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1402630718870614020",
+        "conversation_id": "1998403103679463483",
+        "created_at": "2025-12-09T14:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T15:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998403103679463483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1499709348616241155",
+              "start": 2,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998403103679463483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 64001,
+          "like_count": 139,
+          "quote_count": 41,
+          "reply_count": 83,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "讣告@caomeiweimaomao 于12月6日，去往猫猫的星球"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25272,
+          "following_count": 1005,
+          "like_count": 14384,
+          "listed_count": 40,
+          "media_count": 1457,
+          "tweet_count": 16160
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-09T14:16:46.000Z",
+        "description": "成分复杂/",
+        "id": "1402630718870614020",
+        "location": "8米",
+        "name": "星瑶",
+        "pinned_tweet_id": "1978385675402572282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830883450011697154/vteRgqZM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 436,
+          "like_count": 10916,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 386
+        },
+        "username": "xsarnayyy",
+        "verified": false
+      }
+    ]
+  }
+}

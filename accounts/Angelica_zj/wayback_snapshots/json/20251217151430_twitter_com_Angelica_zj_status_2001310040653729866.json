@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2001310040653729866",
+    "created_at": "2025-12-17T15:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T16:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001310040653729866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/delusions6515/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/delusions6515/status/1999422760666431586",
+          "start": 20,
+          "url": "https://t.co/Z13At9qVxX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001310040653729866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999422760666431586",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "b了好久有天发现自己也被它毕业了，笑死 https://t.co/Z13At9qVxX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999422757373902852",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79gZ4kagAQHN9C.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2001310040653729866",
+        "created_at": "2025-12-17T15:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T16:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001310040653729866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/delusions6515/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/delusions6515/status/1999422760666431586",
+              "start": 20,
+              "url": "https://t.co/Z13At9qVxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001310040653729866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999422760666431586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "b了好久有天发现自己也被它毕业了，笑死 https://t.co/Z13At9qVxX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999422757373902852"
+          ]
+        },
+        "author_id": "1652301381670428672",
+        "conversation_id": "1999422760666431586",
+        "created_at": "2025-12-12T10:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999422760666431586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bOJX4eUUsO",
+              "end": 40,
+              "expanded_url": "https://x.com/Delusions6515/status/1999422760666431586/photo/1",
+              "media_key": "3_1999422757373902852",
+              "start": 17,
+              "url": "https://t.co/bOJX4eUUsO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999422760666431586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1402,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "fo这位的互fo我见一个取关一个 https://t.co/bOJX4eUUsO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25290,
+          "following_count": 1008,
+          "like_count": 14430,
+          "listed_count": 40,
+          "media_count": 1469,
+          "tweet_count": 16246
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T13:19:34.000Z",
+        "description": "呜喵～ | 负能量(过去有，现在很少) | 习惯性锁推 | 死也没死成 | 炸柜MtF，卧薪尝胆中 (Update: 墓前是个家长不管党) | Jvav学习中... | 妹妹: @shaoxiancao520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "shaoxiancao520"
+              }
+            ]
+          }
+        },
+        "id": "1652301381670428672",
+        "name": "Delusions",
+        "pinned_tweet_id": "1999003382653292629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958481701786849282/x3FSgEYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 448,
+          "like_count": 1695,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 434
+        },
+        "username": "Delusions6515",
+        "verified": false
+      }
+    ]
+  }
+}

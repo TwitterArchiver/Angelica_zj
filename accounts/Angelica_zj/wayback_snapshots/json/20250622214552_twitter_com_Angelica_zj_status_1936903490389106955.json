@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1936607393921835501",
+    "created_at": "2025-06-22T21:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T22:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936903490389106955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1730181663869788160",
+          "start": 0,
+          "username": "IIILanyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936903490389106955",
+    "in_reply_to_user_id": "1730181663869788160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936607393921835501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IIILanyi 其实很多女权人士也不会用社会审美来规训自己的（）因为不想把精力花在外表上只想干净利落所以不留长发不化妆；不会保持苗条身材只追求健康；因为读书多所以戴眼镜的多。以上就是男人归类的“傅首尔面相”。他们攻击不到她们稳定的内核，才会简单粗暴的从外表审判她们不是个好女人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1936607393921835501",
+        "created_at": "2025-06-22T21:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T22:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936903490389106955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1730181663869788160",
+              "start": 0,
+              "username": "IIILanyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936903490389106955",
+        "in_reply_to_user_id": "1730181663869788160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936607393921835501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IIILanyi 其实很多女权人士也不会用社会审美来规训自己的（）因为不想把精力花在外表上只想干净利落所以不留长发不化妆；不会保持苗条身材只追求健康；因为读书多所以戴眼镜的多。以上就是男人归类的“傅首尔面相”。他们攻击不到她们稳定的内核，才会简单粗暴的从外表审判她们不是个好女人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730181663869788160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "1936607393921835501",
+        "created_at": "2025-06-22T02:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T03:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936607393921835501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936607393921835501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 32097,
+          "like_count": 509,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我看到好多男的喜欢说打女拳的都是丑的胖的\n现实是：\n他们喜欢骂的那些美妆博主\n哪个不是把自己收拾的好好的 积极向上的\n我身边长得胖的女生反而没有一个打女拳的 甚至有些特别渴男(比如李姐这种\n可能因为她们不怎么受异性青睐 比较缺爱\n反观打男拳的\n哪个不是丑得逆天\n看看孙吧创始人就知道了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25497,
+          "following_count": 993,
+          "like_count": 14500,
+          "listed_count": 37,
+          "media_count": 1371,
+          "tweet_count": 15463
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T11:07:41.000Z",
+        "description": "不接合作/骂我的接所有女性的霉运",
+        "id": "1730181663869788160",
+        "name": "叶澜依",
+        "pinned_tweet_id": "1806756200685678702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749107215586435072/mZngb4JH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13555,
+          "following_count": 1,
+          "like_count": 3732,
+          "listed_count": 14,
+          "media_count": 331,
+          "tweet_count": 2265
+        },
+        "username": "IIILanyi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1932114416948129874",
+    "created_at": "2025-06-10T04:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T05:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932292470148378721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1777664743723208704",
+          "start": 0,
+          "username": "iam_aMirror"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932292470148378721",
+    "in_reply_to_user_id": "1777664743723208704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932114416948129874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iam_aMirror 卖课的，一张图开局就是钓，估计光是赚推上这些性压抑男的的钱都赚的盆满钵满了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1932114416948129874",
+        "created_at": "2025-06-10T04:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T05:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932292470148378721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1777664743723208704",
+              "start": 0,
+              "username": "iam_aMirror"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932292470148378721",
+        "in_reply_to_user_id": "1777664743723208704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932114416948129874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iam_aMirror 卖课的，一张图开局就是钓，估计光是赚推上这些性压抑男的的钱都赚的盆满钵满了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777664743723208704",
+        "conversation_id": "1932114416948129874",
+        "created_at": "2025-06-09T16:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T17:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932114416948129874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/twterdiyisq/st…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/twterdiyisq/status/1930954909442322853",
+              "start": 25,
+              "url": "https://t.co/tZdRKN6EA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932114416948129874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 44609,
+          "like_count": 287,
+          "quote_count": 0,
+          "reply_count": 76,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930954909442322853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操啊这个账号看得我好恶心。。就是骗小女孩。。。 https://t.co/tZdRKN6EA8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25522,
+          "following_count": 995,
+          "like_count": 14505,
+          "listed_count": 36,
+          "media_count": 1364,
+          "tweet_count": 15392
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T11:48:03.000Z",
+        "description": "直女1i 不接广告推广.没门.不约.无坐标. 碎碎念@Mirror_0000Gs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Mirror_0000Gs"
+              }
+            ]
+          }
+        },
+        "id": "1777664743723208704",
+        "name": "ian",
+        "pinned_tweet_id": "1919024092528640025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920071664215449600/XJw1Uxyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12930,
+          "following_count": 343,
+          "like_count": 1700,
+          "listed_count": 37,
+          "media_count": 161,
+          "tweet_count": 1749
+        },
+        "username": "iam_aMirror",
+        "verified": false
+      }
+    ]
+  }
+}

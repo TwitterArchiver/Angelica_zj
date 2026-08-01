@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1985565284066033979",
+    "created_at": "2025-11-04T07:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T08:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985616443673833926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "234311409",
+          "start": 0,
+          "username": "ManofPluto"
+        },
+        {
+          "end": 24,
+          "id": "1743233646369329152",
+          "start": 12,
+          "username": "iMiniPotato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985616443673833926",
+    "in_reply_to_user_id": "234311409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985613112331194515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ManofPluto @iMiniPotato 不该给，不给也是最终期望，但这一切的前提都是要解决根本问题；目前问题没解决，收彩礼也只能做到短期弥补损失，所以越来越多的人选择不结婚来长期规避风险。这没有什么难懂的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1985565284066033979",
+        "created_at": "2025-11-04T07:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T08:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985616443673833926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "234311409",
+              "start": 0,
+              "username": "ManofPluto"
+            },
+            {
+              "end": 24,
+              "id": "1743233646369329152",
+              "start": 12,
+              "username": "iMiniPotato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985616443673833926",
+        "in_reply_to_user_id": "234311409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985613112331194515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ManofPluto @iMiniPotato 不该给，不给也是最终期望，但这一切的前提都是要解决根本问题；目前问题没解决，收彩礼也只能做到短期弥补损失，所以越来越多的人选择不结婚来长期规避风险。这没有什么难懂的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "234311409",
+        "conversation_id": "1985565284066033979",
+        "created_at": "2025-11-04T07:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T08:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985613112331194515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1743233646369329152",
+              "start": 0,
+              "username": "iMiniPotato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985613112331194515",
+        "in_reply_to_user_id": "1743233646369329152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985596633539887498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iMiniPotato 😅我反而不太懂这位菇凉要表达什么，她的意思是因为一个社会都是歧视女性的，所以向一个个体要彩礼很合理，但我不禁要问是不是给了彩礼就可以合理地歧视女性？不过其实我也不纠结这个，彩礼给得起就给，给不起就不给，其实没什么好讨论的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25317,
+          "following_count": 989,
+          "like_count": 14250,
+          "listed_count": 42,
+          "media_count": 1416,
+          "tweet_count": 15906
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-05T10:22:52.000Z",
+        "description": "I take a shrug then walk away",
+        "id": "234311409",
+        "location": "In your mind",
+        "name": "SamuelPanda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1207374947/QQ______normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 114,
+          "like_count": 51886,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 11789
+        },
+        "username": "ManofPluto",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T11:31:13.000Z",
+        "description": "想要拥有表达的自由就要有被讨厌的勇气",
+        "id": "1743233646369329152",
+        "location": "Australia",
+        "name": "仿生云烧会梦见电子土豆吗",
+        "pinned_tweet_id": "1963231920298545394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745138620812701698/bUxgNwHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66407,
+          "following_count": 119,
+          "like_count": 16711,
+          "listed_count": 165,
+          "media_count": 6077,
+          "tweet_count": 23668
+        },
+        "username": "iMiniPotato",
+        "verified": false
+      }
+    ]
+  }
+}

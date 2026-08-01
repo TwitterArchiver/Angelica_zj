@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1868897605381767281",
+    "created_at": "2024-12-17T05:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T06:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868897605381767281"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yqua_/status/1…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/yqua_/status/1868450216036171803",
+          "start": 34,
+          "url": "https://t.co/rbjmQmepmI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868897605381767281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868450216036171803",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每次看到有意思的同构都好仙木，虽然专业搞设计但做异形同构想象力巨差 https://t.co/rbjmQmepmI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1868897605381767281",
+        "created_at": "2024-12-17T05:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T06:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868897605381767281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yqua_/status/1…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/yqua_/status/1868450216036171803",
+              "start": 34,
+              "url": "https://t.co/rbjmQmepmI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868897605381767281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868450216036171803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每次看到有意思的同构都好仙木，虽然专业搞设计但做异形同构想象力巨差 https://t.co/rbjmQmepmI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868329672628695042"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "conversation_id": "1868450216036171803",
+        "created_at": "2024-12-16T00:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T01:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868450216036171803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJFWRKMf6e",
+              "end": 52,
+              "expanded_url": "https://x.com/yqua_/status/1868450216036171803/photo/1",
+              "media_key": "3_1868329672628695042",
+              "start": 29,
+              "url": "https://t.co/yJFWRKMf6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868450216036171803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 77158,
+          "like_count": 1409,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "铁丝网象征着监禁\n飞鸟象征着自由\n\n两者的转化真有深意吧 https://t.co/yJFWRKMf6e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25012,
+          "following_count": 934,
+          "like_count": 13699,
+          "listed_count": 36,
+          "media_count": 1242,
+          "tweet_count": 14109
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "断糖MtX🏳️‍⚧️🍥｜Language：CN/EN/JP｜社长：@saikin_xijun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "saikin_xijun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUM0f"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "天泰路",
+        "name": "铨🍥",
+        "pinned_tweet_id": "1863553708816261124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14451,
+          "following_count": 4254,
+          "like_count": 161356,
+          "listed_count": 63,
+          "media_count": 3935,
+          "tweet_count": 19198
+        },
+        "url": "https://t.co/6W3mmCUM0f",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

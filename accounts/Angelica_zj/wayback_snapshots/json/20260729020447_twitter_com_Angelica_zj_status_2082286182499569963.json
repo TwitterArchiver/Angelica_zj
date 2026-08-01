@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082286167777587201",
+        "3_2082286167773351936"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2082286182499569963",
+    "created_at": "2026-07-29T02:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T03:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082286182499569963"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 24,
+          "tag": "今天早上吃什么"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CEDo40SXa8",
+          "end": 65,
+          "expanded_url": "https://x.com/Angelica_zj/status/2082286182499569963/photo/1",
+          "media_key": "3_2082286167777587201",
+          "start": 42,
+          "url": "https://t.co/CEDo40SXa8"
+        },
+        {
+          "display_url": "pic.x.com/CEDo40SXa8",
+          "end": 65,
+          "expanded_url": "https://x.com/Angelica_zj/status/2082286182499569963/photo/1",
+          "media_key": "3_2082286167773351936",
+          "start": 42,
+          "url": "https://t.co/CEDo40SXa8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082286182499569963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天早餐是无聊的俩素包所以把午餐一起拿出来拍了 #今天早上吃什么\n顺便分享今日包挂 https://t.co/CEDo40SXa8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082286167777587201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXEPLcXsAEGkqF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082286167773351936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXEPLbXEAAfk2p.jpg",
+        "width": 1842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082286167777587201",
+            "3_2082286167773351936"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082286182499569963",
+        "created_at": "2026-07-29T02:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082286182499569963"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 24,
+              "tag": "今天早上吃什么"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CEDo40SXa8",
+              "end": 65,
+              "expanded_url": "https://x.com/Angelica_zj/status/2082286182499569963/photo/1",
+              "media_key": "3_2082286167777587201",
+              "start": 42,
+              "url": "https://t.co/CEDo40SXa8"
+            },
+            {
+              "display_url": "pic.x.com/CEDo40SXa8",
+              "end": 65,
+              "expanded_url": "https://x.com/Angelica_zj/status/2082286182499569963/photo/1",
+              "media_key": "3_2082286167773351936",
+              "start": 42,
+              "url": "https://t.co/CEDo40SXa8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082286182499569963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天早餐是无聊的俩素包所以把午餐一起拿出来拍了 #今天早上吃什么\n顺便分享今日包挂 https://t.co/CEDo40SXa8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25007,
+          "following_count": 1047,
+          "like_count": 14946,
+          "listed_count": 41,
+          "media_count": 1614,
+          "tweet_count": 17461
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

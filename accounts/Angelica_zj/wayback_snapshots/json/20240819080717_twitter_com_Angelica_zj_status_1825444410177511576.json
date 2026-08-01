@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1825444410177511576",
+    "created_at": "2024-08-19T08:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T09:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1825444410177511576"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1825444410177511576",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大概是花了很多时间精力对身边人尽可能的好，偶尔主动的越界，想这样和人通过更深入的交流从而阴暗的索取情绪价值，来填补内心的空虚麻痹痛苦\n但过了这个劲之后就不再有能力分散出那么多的精力，慢慢的和当时的朋友也逐渐疏离了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1825444410177511576",
+        "created_at": "2024-08-19T08:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T09:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825444410177511576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1825444410177511576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概是花了很多时间精力对身边人尽可能的好，偶尔主动的越界，想这样和人通过更深入的交流从而阴暗的索取情绪价值，来填补内心的空虚麻痹痛苦\n但过了这个劲之后就不再有能力分散出那么多的精力，慢慢的和当时的朋友也逐渐疏离了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24407,
+          "following_count": 896,
+          "like_count": 13511,
+          "listed_count": 35,
+          "tweet_count": 13501
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

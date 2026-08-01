@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1868287224670040422",
+    "created_at": "2024-12-15T13:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T14:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868287224670040422"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ilcfq/status/1…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/ilcfq/status/1867882790198690029",
+          "start": 3,
+          "url": "https://t.co/lkBwcKCg3F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868287224670040422",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867882790198690029",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好冷 https://t.co/lkBwcKCg3F"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1868287224670040422",
+        "created_at": "2024-12-15T13:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T14:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868287224670040422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ilcfq/status/1…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/ilcfq/status/1867882790198690029",
+              "start": 3,
+              "url": "https://t.co/lkBwcKCg3F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868287224670040422",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867882790198690029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好冷 https://t.co/lkBwcKCg3F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867882785710702592",
+            "3_1867882785710710784"
+          ]
+        },
+        "author_id": "536095963",
+        "conversation_id": "1867882790198690029",
+        "created_at": "2024-12-14T10:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T11:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867882790198690029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WaJf3oTFye",
+              "end": 23,
+              "expanded_url": "https://x.com/ilCfQ/status/1867882790198690029/photo/1",
+              "media_key": "3_1867882785710702592",
+              "start": 0,
+              "url": "https://t.co/WaJf3oTFye"
+            },
+            {
+              "display_url": "pic.x.com/WaJf3oTFye",
+              "end": 23,
+              "expanded_url": "https://x.com/ilCfQ/status/1867882790198690029/photo/1",
+              "media_key": "3_1867882785710710784",
+              "start": 0,
+              "url": "https://t.co/WaJf3oTFye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867882790198690029",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 654,
+          "impression_count": 78232,
+          "like_count": 4447,
+          "quote_count": 57,
+          "reply_count": 4,
+          "retweet_count": 428
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WaJf3oTFye"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24997,
+          "following_count": 934,
+          "like_count": 13691,
+          "listed_count": 36,
+          "media_count": 1240,
+          "tweet_count": 14099
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-25T07:49:41.000Z",
+        "description": "ты самая вредная вредина из всех вредин. https://t.co/6MjdnjcZ3H Repost is prohibited. @nemuru_404  @lsts90",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "nemuru_404"
+              },
+              {
+                "end": 107,
+                "start": 100,
+                "username": "lsts90"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "writening.net/page?fTs8tr",
+                "end": 64,
+                "expanded_url": "https://writening.net/page?fTs8tr",
+                "start": 41,
+                "url": "https://t.co/6MjdnjcZ3H"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ja.wikipedia.org/wiki/%E3%82%B0…",
+                "end": 23,
+                "expanded_url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%82%BC832c",
+                "start": 0,
+                "url": "https://t.co/J6FzAqQMab"
+              }
+            ]
+          }
+        },
+        "id": "536095963",
+        "location": "Chernobyl'",
+        "name": "笹原郁斗",
+        "pinned_tweet_id": "1860362206229258452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807318105905098752/n130lM2c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12723,
+          "following_count": 93,
+          "like_count": 24133,
+          "listed_count": 184,
+          "media_count": 8629,
+          "tweet_count": 78140
+        },
+        "url": "https://t.co/J6FzAqQMab",
+        "username": "ilCfQ",
+        "verified": false
+      }
+    ]
+  }
+}

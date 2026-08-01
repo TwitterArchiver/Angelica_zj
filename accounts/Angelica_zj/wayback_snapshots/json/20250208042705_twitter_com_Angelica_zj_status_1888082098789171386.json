@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1888079280917340173",
+    "created_at": "2025-02-08T04:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T05:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888082098789171386"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1888082098789171386",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888079280917340173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我怪不了任何人，爸妈在情理上已经对我够好了，妈妈也担心我不平衡，跟我说如果我有机会也一定把最好的条件给我。可大概，妈妈，我这辈子都不会胆敢觊觎这种动辄花费百万的机会的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1888079280917340173",
+        "created_at": "2025-02-08T04:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T05:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888082098789171386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888082098789171386",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888079280917340173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我怪不了任何人，爸妈在情理上已经对我够好了，妈妈也担心我不平衡，跟我说如果我有机会也一定把最好的条件给我。可大概，妈妈，我这辈子都不会胆敢觊觎这种动辄花费百万的机会的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1888079280917340173",
+        "created_at": "2025-02-08T04:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T05:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888079280917340173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888079280917340173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到弟弟身上才知道，原来不争气也是会被家里全力托举的，原来不想读应试教育就会给他考虑走国际线路，原来心理健康问题也可以成为转学的原因\n我不该嫉妒，但想到自己畏首畏尾的性格，考学的煎熬，过去痛苦的不被正视，心里还是很痛\n满手刀疤的意义似乎就是让他们吸取教训后得以实践在第二个孩子身上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25162,
+          "following_count": 939,
+          "like_count": 13878,
+          "listed_count": 37,
+          "media_count": 1271,
+          "tweet_count": 14450
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

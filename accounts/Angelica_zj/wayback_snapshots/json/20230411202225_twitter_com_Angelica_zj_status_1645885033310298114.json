@@ -1,0 +1,186 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1645780854483062784",
+    "created_at": "2023-04-11T20:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2023-04-11T20:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1645885033310298114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1628188219820118016",
+          "start": 0,
+          "username": "lingyin527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1645885033310298114",
+    "in_reply_to_user_id": "1628188219820118016",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1645834886199013380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingyin527 人能有很多朋友来与自己不同的个性相适配，不适配的话题就不谈。但人没办法找多个对象，想和一个与自己灵魂契合的人厮守身要么花大量时间寻找等待，要么就对自我灵魂进行大刀阔斧的修改。和朋友们在不同板块思想层面深度交流根本不是难事，还很轻松愉悦。当然如果你说的深度交流是指性交的话那当我没说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1645780854483062784",
+        "created_at": "2023-04-11T20:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-11T20:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1645885033310298114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1628188219820118016",
+              "start": 0,
+              "username": "lingyin527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1645885033310298114",
+        "in_reply_to_user_id": "1628188219820118016",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1645834886199013380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingyin527 人能有很多朋友来与自己不同的个性相适配，不适配的话题就不谈。但人没办法找多个对象，想和一个与自己灵魂契合的人厮守身要么花大量时间寻找等待，要么就对自我灵魂进行大刀阔斧的修改。和朋友们在不同板块思想层面深度交流根本不是难事，还很轻松愉悦。当然如果你说的深度交流是指性交的话那当我没说"
+      },
+      {
+        "attachments": {},
+        "author_id": "1628188219820118016",
+        "conversation_id": "1645780854483062784",
+        "created_at": "2023-04-11T17:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-11T17:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1645834886199013380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1645834886199013380",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1645780854483062784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 适合就好吧，就我来说，当我对象跨越很远的距离来找我的那一刻，心里的满足感是特别高的，这点朋友可能能做到，但是很难，挚友非常难找，但是男女朋友可能相对来说交流深一点，能在更短的时间知道双方适不适合，朋友磨合期就太久了，人生有几个十年啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 🐙🐙小章鱼意思是抱抱 / ⚠️自伤血腥重口负能注意避雷⚠️ / 情绪状态极不稳定 / 性取向是水仙 / 二号9⃣️：@AAAAG_Angelica",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 65,
+                "username": "AAAAG_Angelica"
+              }
+            ]
+          }
+        },
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1589442994507493376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15526,
+          "following_count": 878,
+          "listed_count": 20,
+          "tweet_count": 9172
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T00:21:48.000Z",
+        "description": "普通人，想变成一个有趣的人，也想变成一个有用的人，还想变成一个可以被人爱的人，有女朋友，很爱她，社恐勿扰，来发癫，喜欢研究我不懂的领域",
+        "id": "1628188219820118016",
+        "location": "Tianjin",
+        "name": "lingying.凌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640037230306525186/wQ8n6ebn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 24,
+          "listed_count": 0,
+          "tweet_count": 200
+        },
+        "username": "lingyin527",
+        "verified": false
+      }
+    ]
+  }
+}

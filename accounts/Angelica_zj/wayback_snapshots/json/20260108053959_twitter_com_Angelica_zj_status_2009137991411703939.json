@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2009137991411703939",
+    "created_at": "2026-01-08T05:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T06:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009137991411703939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ksonzaleks6270…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ksonzaleks62700/status/2008857699967226025",
+          "start": 6,
+          "url": "https://t.co/wNNggqxq2e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009137991411703939",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008857699967226025",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "智齿幻痛了 https://t.co/wNNggqxq2e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 862,
+        "media_key": "3_2008857598099939328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-DlV5MXYAAU4KV.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2009137991411703939",
+        "created_at": "2026-01-08T05:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T06:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009137991411703939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ksonzaleks6270…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ksonzaleks62700/status/2008857699967226025",
+              "start": 6,
+              "url": "https://t.co/wNNggqxq2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009137991411703939",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008857699967226025",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "智齿幻痛了 https://t.co/wNNggqxq2e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008857598099939328"
+          ]
+        },
+        "author_id": "1846372440244658176",
+        "conversation_id": "2008857699967226025",
+        "created_at": "2026-01-07T11:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T12:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008857699967226025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1JvOft07KU",
+              "end": 32,
+              "expanded_url": "https://x.com/KsonzAleks62700/status/2008857699967226025/photo/1",
+              "media_key": "3_2008857598099939328",
+              "start": 9,
+              "url": "https://t.co/1JvOft07KU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008857699967226025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2464,
+          "impression_count": 2023380,
+          "like_count": 144054,
+          "quote_count": 496,
+          "reply_count": 172,
+          "retweet_count": 7132
+        },
+        "reply_settings": "everyone",
+        "text": "お前は東大に行け https://t.co/1JvOft07KU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25264,
+          "following_count": 1019,
+          "like_count": 14478,
+          "listed_count": 40,
+          "media_count": 1496,
+          "tweet_count": 16426
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T02:07:57.000Z",
+        "description": "女/毎日え。ち。配信してます。フォローしていきます。慣れたらいっぱいお話ししたいです。気楽に絡んでくれたら嬉しいです。待ってますね～",
+        "id": "1846372440244658176",
+        "name": "鈴🌸",
+        "pinned_tweet_id": "2008857699967226025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007801396268011520/uf0rkTF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 1973,
+          "like_count": 17,
+          "listed_count": 5,
+          "media_count": 52,
+          "tweet_count": 461
+        },
+        "username": "KsonzAleks62700",
+        "verified": false
+      }
+    ]
+  }
+}

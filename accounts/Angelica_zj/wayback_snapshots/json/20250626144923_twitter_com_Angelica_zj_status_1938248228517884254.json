@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1938248228517884254",
+    "created_at": "2025-06-26T14:49:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T15:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938248228517884254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shylwumiao/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/shylwumiao/status/1938177712600011095",
+          "start": 21,
+          "url": "https://t.co/F6ca8GX0pK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938248228517884254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938177712600011095",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "都来约，有概率是我来给你们做设计稿，嘻嘻 https://t.co/F6ca8GX0pK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1938177703108354048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuXKWiFbIAAwkLA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938177703125127168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuXKWiJbEAAgcru.jpg",
+        "width": 942
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1938177703137656832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuXKWiMaQAAk0Kg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1938177703146098690",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuXKWiObEAIhNzR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1938248228517884254",
+        "created_at": "2025-06-26T14:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T15:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938248228517884254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shylwumiao/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/shylwumiao/status/1938177712600011095",
+              "start": 21,
+              "url": "https://t.co/F6ca8GX0pK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938248228517884254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938177712600011095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都来约，有概率是我来给你们做设计稿，嘻嘻 https://t.co/F6ca8GX0pK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938177703108354048",
+            "3_1938177703125127168",
+            "3_1938177703137656832",
+            "3_1938177703146098690"
+          ]
+        },
+        "author_id": "875356544535207936",
+        "conversation_id": "1938177712600011095",
+        "created_at": "2025-06-26T10:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T11:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938177712600011095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tmtIDoLMhS",
+              "end": 100,
+              "expanded_url": "https://x.com/ShylWuMiao/status/1938177712600011095/photo/1",
+              "media_key": "3_1938177703108354048",
+              "start": 77,
+              "url": "https://t.co/tmtIDoLMhS"
+            },
+            {
+              "display_url": "pic.x.com/tmtIDoLMhS",
+              "end": 100,
+              "expanded_url": "https://x.com/ShylWuMiao/status/1938177712600011095/photo/1",
+              "media_key": "3_1938177703125127168",
+              "start": 77,
+              "url": "https://t.co/tmtIDoLMhS"
+            },
+            {
+              "display_url": "pic.x.com/tmtIDoLMhS",
+              "end": 100,
+              "expanded_url": "https://x.com/ShylWuMiao/status/1938177712600011095/photo/1",
+              "media_key": "3_1938177703137656832",
+              "start": 77,
+              "url": "https://t.co/tmtIDoLMhS"
+            },
+            {
+              "display_url": "pic.x.com/tmtIDoLMhS",
+              "end": 100,
+              "expanded_url": "https://x.com/ShylWuMiao/status/1938177712600011095/photo/1",
+              "media_key": "3_1938177703146098690",
+              "start": 77,
+              "url": "https://t.co/tmtIDoLMhS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938177712600011095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 611,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "各位老师～\n大学生创业之痛车工作室开张啦\n暂时还没想好名字…\n可接设计/打印痛车膜业务\n深圳地区可以贴膜施工\n各类镀晶打蜡汽车洗美业务也接\n\n欢迎咨询～ https://t.co/tmtIDoLMhS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25472,
+          "following_count": 995,
+          "like_count": 14467,
+          "listed_count": 36,
+          "media_count": 1373,
+          "tweet_count": 15484
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-15T14:17:18.000Z",
+        "description": "傻乐与焦虑状态反复心境情感障碍/性身份障碍/日常推/碎碎念/是个疯子～有医生开的证明～/我的车车（#Peugeot307 & #XpengP7i ），我的猫咪（小🍊叫沃沃，狸花叫马路 去喵星了，🐄猫叫特斯拉），我的爱人@B0coh ～，痛车工作室小透明",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 49,
+                "tag": "Peugeot307"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "tag": "XpengP7i"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 115,
+                "start": 109,
+                "username": "B0coh"
+              }
+            ]
+          }
+        },
+        "id": "875356544535207936",
+        "location": "猫小窝",
+        "name": "呜喵哇～",
+        "pinned_tweet_id": "1938177712600011095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929660311994617860/YQU5v8PF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 867,
+          "like_count": 35535,
+          "listed_count": 1,
+          "media_count": 1076,
+          "tweet_count": 5955
+        },
+        "username": "ShylWuMiao",
+        "verified": false
+      }
+    ]
+  }
+}

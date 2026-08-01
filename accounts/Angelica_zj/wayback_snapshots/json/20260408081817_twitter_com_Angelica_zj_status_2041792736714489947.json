@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2041736403420377525",
+    "created_at": "2026-04-08T08:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T09:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041792736714489947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1151859760431427584",
+          "start": 0,
+          "username": "AnusChinese"
+        },
+        {
+          "end": 27,
+          "id": "1346974977434771460",
+          "start": 13,
+          "username": "N0rthern_Land"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041792736714489947",
+    "in_reply_to_user_id": "1151859760431427584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041760018614354345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnusChinese @N0rthern_Land 完全把胶圈里本就存在的女性不当人，这就是国男"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2041736403420377525",
+        "created_at": "2026-04-08T08:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041792736714489947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1151859760431427584",
+              "start": 0,
+              "username": "AnusChinese"
+            },
+            {
+              "end": 27,
+              "id": "1346974977434771460",
+              "start": 13,
+              "username": "N0rthern_Land"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041792736714489947",
+        "in_reply_to_user_id": "1151859760431427584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041760018614354345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnusChinese @N0rthern_Land 完全把胶圈里本就存在的女性不当人，这就是国男"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1151859760431427584",
+        "conversation_id": "2041736403420377525",
+        "created_at": "2026-04-08T06:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041760018614354345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1346974977434771460",
+              "start": 0,
+              "username": "N0rthern_Land"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041760018614354345",
+        "in_reply_to_user_id": "1346974977434771460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041736403420377525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N0rthern_Land 还不是你们非要加入别人的圈子，还要别人按照你喜欢的方法来。不喜欢可以滚啊，怎么你看不惯的东西都是在压迫你了，织女女同真的是三倍傻屄。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25099,
+          "following_count": 1048,
+          "like_count": 14697,
+          "listed_count": 40,
+          "media_count": 1568,
+          "tweet_count": 16939
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-18T14:22:22.000Z",
+        "description": "我翻墙出来骂女人。",
+        "id": "1151859760431427584",
+        "location": "People's Republic of China",
+        "name": "I eat filipinas with my ass",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025070741352579074/d8ZZGQdm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 13,
+          "like_count": 2968,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 4156
+        },
+        "username": "AnusChinese",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T00:20:49.000Z",
+        "description": "从那不勒斯到今天走了有多远/🏳️‍🌈/看黄男粉红别关注我/女朋友@ayashikinoco/私信和误ban解除请发在里账：@Private_plot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "ayashikinoco"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "Private_plot"
+              }
+            ]
+          }
+        },
+        "id": "1346974977434771460",
+        "name": "南长尾山雀",
+        "pinned_tweet_id": "1777993830031302950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995463213237125120/wvHDfzkU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62915,
+          "following_count": 844,
+          "like_count": 110127,
+          "listed_count": 151,
+          "media_count": 3566,
+          "tweet_count": 34947
+        },
+        "username": "N0rthern_Land",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063939557184155648"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "2063939586997326196",
+    "created_at": "2026-06-08T11:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063939586997326196"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oeEK8ZcWP4",
+          "end": 57,
+          "expanded_url": "https://x.com/Angelica_zj/status/2063939586997326196/photo/1",
+          "media_key": "3_2063939557184155648",
+          "start": 34,
+          "url": "https://t.co/oeEK8ZcWP4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063939586997326196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于开始自设实体化之路！准备先从自制努努开始，等挣钱了就自组bjd https://t.co/oeEK8ZcWP4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1548,
+        "media_key": "3_2063939557184155648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSWF4_WsAAxnzt.jpg",
+        "width": 1548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063939557184155648"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "2063939586997326196",
+        "created_at": "2026-06-08T11:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063939586997326196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oeEK8ZcWP4",
+              "end": 57,
+              "expanded_url": "https://x.com/Angelica_zj/status/2063939586997326196/photo/1",
+              "media_key": "3_2063939557184155648",
+              "start": 34,
+              "url": "https://t.co/oeEK8ZcWP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063939586997326196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于开始自设实体化之路！准备先从自制努努开始，等挣钱了就自组bjd https://t.co/oeEK8ZcWP4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25077,
+          "following_count": 1046,
+          "like_count": 14827,
+          "listed_count": 41,
+          "media_count": 1595,
+          "tweet_count": 17226
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

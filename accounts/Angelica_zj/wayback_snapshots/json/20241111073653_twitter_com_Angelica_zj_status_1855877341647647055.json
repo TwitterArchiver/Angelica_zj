@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1855877335482085376"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1855877341647647055",
+    "created_at": "2024-11-11T07:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T08:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1855877341647647055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f7FcyBVYQm",
+          "end": 34,
+          "expanded_url": "https://x.com/Angelica_zj/status/1855877341647647055/photo/1",
+          "media_key": "3_1855877335482085376",
+          "start": 11,
+          "url": "https://t.co/f7FcyBVYQm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855877341647647055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "体验一把雨林里的猴子 https://t.co/f7FcyBVYQm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1855877335482085376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcFmmpAbsAAfbly.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855877335482085376"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1855877341647647055",
+        "created_at": "2024-11-11T07:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T08:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855877341647647055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f7FcyBVYQm",
+              "end": 34,
+              "expanded_url": "https://x.com/Angelica_zj/status/1855877341647647055/photo/1",
+              "media_key": "3_1855877335482085376",
+              "start": 11,
+              "url": "https://t.co/f7FcyBVYQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855877341647647055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "体验一把雨林里的猴子 https://t.co/f7FcyBVYQm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24629,
+          "following_count": 929,
+          "like_count": 13634,
+          "listed_count": 35,
+          "tweet_count": 13877
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

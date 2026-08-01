@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1928342843741065567",
+    "created_at": "2025-06-04T05:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T06:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930130304343388180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1206333929499676673",
+          "start": 0,
+          "username": "zzzbaby01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930130304343388180",
+    "in_reply_to_user_id": "1206333929499676673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928342843741065567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzbaby01 怎么没打猎奇标签"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2093933,
+        "height": 720,
+        "media_key": "13_1928341006661079041",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928341006661079041/img/5wWxtcbWbRG--adH.jpg",
+        "public_metrics": {
+          "view_count": 29255
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928341006661079041/vid/avc1/480x270/xxbVOnwJceA2m8uI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928341006661079041/vid/avc1/640x360/WRfsgJ_Nimx5m6Js.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928341006661079041/vid/avc1/1280x720/e2W8fD_agqwHPT-O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928341006661079041/pl/pzfLR9AUGuEoCrYU.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1928342843741065567",
+        "created_at": "2025-06-04T05:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T06:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930130304343388180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1206333929499676673",
+              "start": 0,
+              "username": "zzzbaby01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930130304343388180",
+        "in_reply_to_user_id": "1206333929499676673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928342843741065567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzbaby01 怎么没打猎奇标签"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928341006661079041"
+          ]
+        },
+        "author_id": "1206333929499676673",
+        "conversation_id": "1928342843741065567",
+        "created_at": "2025-05-30T06:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T07:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928342843741065567"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "男喘"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "女性向"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "卡泡实录"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i1HNPYBmnT",
+              "end": 90,
+              "expanded_url": "https://x.com/zzzbaby01/status/1928342843741065567/video/1",
+              "media_key": "13_1928341006661079041",
+              "start": 67,
+              "url": "https://t.co/i1HNPYBmnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928342843741065567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 72231,
+          "like_count": 570,
+          "quote_count": 11,
+          "reply_count": 77,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "《卡泡实录》\n🏷简介\n纯男声版，公开音频已取得对方同意。食用时，建议尝试对话互动，以获得更好的代入感。\n#男喘 #女性向 #卡泡实录 https://t.co/i1HNPYBmnT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25544,
+          "following_count": 992,
+          "like_count": 14484,
+          "listed_count": 36,
+          "media_count": 1359,
+          "tweet_count": 15348
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-15T22:03:26.000Z",
+        "description": "新人男喘 | 青叔音 | 废话模式@jiangnan_mini | 匿名⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "jiangnan_mini"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiangnan94150",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiangnan94150",
+                "start": 0,
+                "url": "https://t.co/oX1wfb5C6G"
+              }
+            ]
+          }
+        },
+        "id": "1206333929499676673",
+        "location": "生活向美而行",
+        "name": "江南",
+        "pinned_tweet_id": "1928333400147927110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920736823711600640/1f8fDI03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33157,
+          "following_count": 17,
+          "like_count": 476,
+          "listed_count": 58,
+          "media_count": 11,
+          "tweet_count": 162
+        },
+        "url": "https://t.co/oX1wfb5C6G",
+        "username": "zzzbaby01",
+        "verified": false
+      }
+    ]
+  }
+}

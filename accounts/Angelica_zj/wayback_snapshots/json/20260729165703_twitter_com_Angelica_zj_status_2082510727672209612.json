@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2082286182499569963",
+    "created_at": "2026-07-29T16:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T17:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082510727672209612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1552944714185289728",
+          "start": 0,
+          "username": "xiahouyixuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082510727672209612",
+    "in_reply_to_user_id": "1552944714185289728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082493222996361611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiahouyixuan 完全没胃口呀啊啊夏天快过去吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2082286182499569963",
+        "created_at": "2026-07-29T16:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082510727672209612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1552944714185289728",
+              "start": 0,
+              "username": "xiahouyixuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082510727672209612",
+        "in_reply_to_user_id": "1552944714185289728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082493222996361611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiahouyixuan 完全没胃口呀啊啊夏天快过去吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552944714185289728",
+        "conversation_id": "2082286182499569963",
+        "created_at": "2026-07-29T15:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082493222996361611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082493222996361611",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082286182499569963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 该吃夜宵了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25016,
+          "following_count": 1047,
+          "like_count": 14949,
+          "listed_count": 41,
+          "media_count": 1614,
+          "tweet_count": 17470
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T09:10:56.000Z",
+        "description": "啊啊啊啊啊啊啊啊啊啊啊啊啊啊",
+        "id": "1552944714185289728",
+        "location": "幻想乡",
+        "name": "xa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026515663590928386/kd71pFEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 562,
+          "like_count": 6426,
+          "listed_count": 3,
+          "media_count": 716,
+          "tweet_count": 4215
+        },
+        "url": "",
+        "username": "xiahouyixuan",
+        "verified": false
+      }
+    ]
+  }
+}

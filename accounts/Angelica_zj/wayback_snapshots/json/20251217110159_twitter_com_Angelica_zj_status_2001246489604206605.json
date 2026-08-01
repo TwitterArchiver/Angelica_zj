@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2001244991868522526",
+    "created_at": "2025-12-17T11:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T12:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001246489604206605"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2001246489604206605",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001244991868522526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我记得之前明明就是个清爽大学生的样子…不知道怎么变成这样了，在这件事上的处理也特别不负责，他们作为大网红大艺术家明明有很多有经验的人脉可以给建议帮忙定损，但非要选择交给网友评判还句句引导，他们不可能不知道现在大环境有多厌童，说这些话会给孩子及家庭带来多大的网络暴力，好可怕…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2001244991868522526",
+        "created_at": "2025-12-17T11:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T12:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001246489604206605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001246489604206605",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001244991868522526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我记得之前明明就是个清爽大学生的样子…不知道怎么变成这样了，在这件事上的处理也特别不负责，他们作为大网红大艺术家明明有很多有经验的人脉可以给建议帮忙定损，但非要选择交给网友评判还句句引导，他们不可能不知道现在大环境有多厌童，说这些话会给孩子及家庭带来多大的网络暴力，好可怕…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2001244991868522526",
+        "created_at": "2025-12-17T10:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T11:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001244991868522526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangwenhaha051…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/wangwenhaha0518/status/2001163486538424623",
+              "start": 141,
+              "url": "https://t.co/CYJN57Alb7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001244991868522526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001163486538424623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前其实我挺喜欢张煜东和他们工作室的，疫情那段时间总在b站看他们的视频，后来好久没关注，出这件事夫妻俩发视频声讨，我都认出来是他，看起来特别阴鸷，而且站在大肚子妻子后面一声不吭像个可怕的鹌鹑，被骂了也让妻子一个人回应。我也才知道他已经和工作室其他人切割了，结婚都没请他曾经这些朋友 https://t.co/CYJN57Alb7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25283,
+          "following_count": 1008,
+          "like_count": 14428,
+          "listed_count": 40,
+          "media_count": 1468,
+          "tweet_count": 16242
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

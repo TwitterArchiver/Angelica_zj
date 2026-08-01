@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1890802333971325344",
+    "created_at": "2025-02-17T00:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T01:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891289632630800761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1507396901594820608",
+          "start": 0,
+          "username": "hgds01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891289632630800761",
+    "in_reply_to_user_id": "1507396901594820608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890802333971325344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds01 都一样可爱啊🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1890802333971325344",
+        "created_at": "2025-02-17T00:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T01:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891289632630800761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891289632630800761",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890802333971325344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds01 都一样可爱啊🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890802323263504384"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1890802333971325344",
+        "created_at": "2025-02-15T16:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T17:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890802333971325344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5fxhwJqboH",
+              "end": 27,
+              "expanded_url": "https://x.com/hgds01/status/1890802333971325344/photo/1",
+              "media_key": "3_1890802323263504384",
+              "start": 4,
+              "url": "https://t.co/5fxhwJqboH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890802333971325344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 64207,
+          "like_count": 1268,
+          "quote_count": 6,
+          "reply_count": 21,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "我也是 https://t.co/5fxhwJqboH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25216,
+          "following_count": 942,
+          "like_count": 13898,
+          "listed_count": 37,
+          "media_count": 1279,
+          "tweet_count": 14497
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "‼️广告自辩‼️/感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删/自用VPN👇https://t.co/ZLKkKdgl7s",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tw02.damoplane.one/#/register?cod…",
+                "end": 85,
+                "expanded_url": "https://tw02.damoplane.one/#/register?code=WE2Wrjl5",
+                "start": 62,
+                "url": "https://t.co/ZLKkKdgl7s"
+              }
+            ]
+          }
+        },
+        "id": "1507396901594820608",
+        "location": "‼️置顶推广自辨‼️",
+        "name": "恋",
+        "pinned_tweet_id": "1891116093478928761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63830,
+          "following_count": 2880,
+          "like_count": 40701,
+          "listed_count": 78,
+          "media_count": 1517,
+          "tweet_count": 5733
+        },
+        "username": "hgds01",
+        "verified": false
+      }
+    ]
+  }
+}

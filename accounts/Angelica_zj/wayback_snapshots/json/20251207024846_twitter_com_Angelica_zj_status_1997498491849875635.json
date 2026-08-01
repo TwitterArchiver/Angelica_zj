@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1997179676650013126",
+    "created_at": "2025-12-07T02:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T03:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997498491849875635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1588189703840231424",
+          "start": 0,
+          "username": "GdbyrGfhgbh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997498491849875635",
+    "in_reply_to_user_id": "1588189703840231424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997388968099295244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GdbyrGfhgbh 我是觉得你把所谓的“颜值价值”看的太重了，人在决定婚姻的时候一定会权衡利弊，除了严重性压抑群体外没有谁是傻子。\n你硬要这么说的话我只能祝性压抑国男和好吃懒做只想上嫁的国女锁死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1997179676650013126",
+        "created_at": "2025-12-07T02:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T03:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997498491849875635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1588189703840231424",
+              "start": 0,
+              "username": "GdbyrGfhgbh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997498491849875635",
+        "in_reply_to_user_id": "1588189703840231424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997388968099295244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GdbyrGfhgbh 我是觉得你把所谓的“颜值价值”看的太重了，人在决定婚姻的时候一定会权衡利弊，除了严重性压抑群体外没有谁是傻子。\n你硬要这么说的话我只能祝性压抑国男和好吃懒做只想上嫁的国女锁死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588189703840231424",
+        "conversation_id": "1997179676650013126",
+        "created_at": "2025-12-06T19:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T20:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997388968099295244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997388968099295244",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997179676650013126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 其实颜值够，年轻可以找个不错的，不一定非是富豪什么的，难道非得自己打拼到自己价值降低?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25273,
+          "following_count": 998,
+          "like_count": 14343,
+          "listed_count": 40,
+          "media_count": 1453,
+          "tweet_count": 16122
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-03T15:22:07.000Z",
+        "description": "",
+        "id": "1588189703840231424",
+        "name": "忠国",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995933043064983552/OMRwPzq9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 432,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 326
+        },
+        "username": "GdbyrGfhgbh",
+        "verified": false
+      }
+    ]
+  }
+}

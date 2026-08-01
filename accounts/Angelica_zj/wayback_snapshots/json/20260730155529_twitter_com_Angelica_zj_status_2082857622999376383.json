@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2082844898676379702",
+    "created_at": "2026-07-30T15:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082857622999376383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1114119017524891648",
+          "start": 0,
+          "username": "KUYAXIKUYAXI"
+        },
+        {
+          "end": 24,
+          "id": "1509425669633044483",
+          "start": 14,
+          "username": "SENDOH214"
+        },
+        {
+          "end": 41,
+          "id": "1499709348616241155",
+          "start": 25,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082857622999376383",
+    "in_reply_to_user_id": "1114119017524891648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082850235282501666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KUYAXIKUYAXI @SENDOH214 @caomeiweimaomao 嘿嘿是的呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2082844898676379702",
+        "created_at": "2026-07-30T15:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082857622999376383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1114119017524891648",
+              "start": 0,
+              "username": "KUYAXIKUYAXI"
+            },
+            {
+              "end": 24,
+              "id": "1509425669633044483",
+              "start": 14,
+              "username": "SENDOH214"
+            },
+            {
+              "end": 41,
+              "id": "1499709348616241155",
+              "start": 25,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082857622999376383",
+        "in_reply_to_user_id": "1114119017524891648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082850235282501666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KUYAXIKUYAXI @SENDOH214 @caomeiweimaomao 嘿嘿是的呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1114119017524891648",
+        "conversation_id": "2082844898676379702",
+        "created_at": "2026-07-30T15:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082850235282501666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 23,
+              "id": "1509425669633044483",
+              "start": 13,
+              "username": "SENDOH214"
+            },
+            {
+              "end": 40,
+              "id": "1499709348616241155",
+              "start": 24,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082850235282501666",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082844898676379702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj @SENDOH214 @caomeiweimaomao 简直就是艺术品啊🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25010,
+          "following_count": 1048,
+          "like_count": 14969,
+          "listed_count": 41,
+          "media_count": 1615,
+          "tweet_count": 17483
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-05T10:54:07.000Z",
+        "description": "对我来说，无痛死去才是最好的祝福。",
+        "id": "1114119017524891648",
+        "location": "恶魔岛",
+        "name": "病弱の牢爻（三代目）",
+        "pinned_tweet_id": "1839307765539549408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999487455284854792/vyCVBcTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 157,
+          "like_count": 20912,
+          "listed_count": 2,
+          "media_count": 757,
+          "tweet_count": 12348
+        },
+        "url": "",
+        "username": "KUYAXIKUYAXI",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-31T07:01:53.000Z",
+        "description": "🐈猫猫：@caomeiweimaomao🏀/🏐️ 名侦探柯南/灌篮高手/弹丸论破/逆转裁判",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "caomeiweimaomao"
+              }
+            ]
+          }
+        },
+        "id": "1509425669633044483",
+        "location": "墓地",
+        "name": "嘤",
+        "pinned_tweet_id": "1912498044802855404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883919482856542208/lOMs9T_w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 269,
+          "like_count": 27483,
+          "listed_count": 1,
+          "media_count": 395,
+          "tweet_count": 4043
+        },
+        "url": "",
+        "username": "SENDOH214",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🎀写故事的人丨🦜嘤鹉：@SENDOH214丨🚪55",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "SENDOH214"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天国",
+        "name": "爱礼",
+        "pinned_tweet_id": "1929894091644645497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38718,
+          "following_count": 1014,
+          "like_count": 23313,
+          "listed_count": 57,
+          "media_count": 2922,
+          "tweet_count": 31991
+        },
+        "url": "",
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

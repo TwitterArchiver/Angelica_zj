@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2037190198631514213",
+    "created_at": "2026-03-27T07:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T08:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037427579108618302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1832011514527490048",
+          "start": 0,
+          "username": "yoyoxiiiix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037427579108618302",
+    "in_reply_to_user_id": "1832011514527490048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037190198631514213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyoxiiiix 死前如果能让人吸点是否为一件美事呢，毕竟很多人一辈子没尝过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2037190198631514213",
+        "created_at": "2026-03-27T07:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037427579108618302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1832011514527490048",
+              "start": 0,
+              "username": "yoyoxiiiix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037427579108618302",
+        "in_reply_to_user_id": "1832011514527490048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037190198631514213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyoxiiiix 死前如果能让人吸点是否为一件美事呢，毕竟很多人一辈子没尝过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832011514527490048",
+        "conversation_id": "2037190198631514213",
+        "created_at": "2026-03-26T15:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037190198631514213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037190198631514213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 16849,
+          "like_count": 413,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "前情提要：狗不能吃巧克力\n\n我真的討厭一些博流量的內容創作者拍什麼小狗死前喂巧克力，配文什麼吃完巧克力再上天堂blaabla \n這到底在自我感動什麼\n人跟狗就是不一樣\n你的零食牠的毒藥\n\n這大概就等於人死之前家人給一罐農藥，邊哭邊說你這一輩子都沒喝過農藥，這是你最後機會了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25210,
+          "following_count": 1047,
+          "like_count": 14671,
+          "listed_count": 40,
+          "media_count": 1554,
+          "tweet_count": 16844
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T11:02:44.000Z",
+        "description": "",
+        "id": "1832011514527490048",
+        "location": "🇨🇦🇹🇼",
+        "name": "Alisey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031148360300703744/ktYs7gSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 166,
+          "like_count": 6698,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 160
+        },
+        "username": "yoyoxiiiix",
+        "verified": false
+      }
+    ]
+  }
+}

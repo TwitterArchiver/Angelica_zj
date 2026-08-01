@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903145624746561536"
+      ],
+      "media_source_tweet_id": [
+        "1903145634573754879"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1903164411314884898",
+    "created_at": "2025-03-21T19:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T20:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903164411314884898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1808811687811952643",
+          "start": 3,
+          "username": "gnACKU1avx95040"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l6Cdvz2zXS",
+          "end": 71,
+          "expanded_url": "https://x.com/gnACKU1avx95040/status/1903145634573754879/photo/1",
+          "media_key": "3_1903145624746561536",
+          "start": 48,
+          "url": "https://t.co/l6Cdvz2zXS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903164411314884898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903145634573754879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gnACKU1avx95040: 看看你是真男娘还是假男娘💕大家也可以选择支持哪一种💕 https://t.co/l6Cdvz2zXS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1903145624746561536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmlU3MbbkAAETEX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903145624746561536"
+          ],
+          "media_source_tweet_id": [
+            "1903145634573754879"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1903164411314884898",
+        "created_at": "2025-03-21T19:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T20:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903164411314884898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1808811687811952643",
+              "start": 3,
+              "username": "gnACKU1avx95040"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l6Cdvz2zXS",
+              "end": 71,
+              "expanded_url": "https://x.com/gnACKU1avx95040/status/1903145634573754879/photo/1",
+              "media_key": "3_1903145624746561536",
+              "start": 48,
+              "url": "https://t.co/l6Cdvz2zXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903164411314884898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903145634573754879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gnACKU1avx95040: 看看你是真男娘还是假男娘💕大家也可以选择支持哪一种💕 https://t.co/l6Cdvz2zXS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903145624746561536"
+          ]
+        },
+        "author_id": "1808811687811952643",
+        "conversation_id": "1903145634573754879",
+        "created_at": "2025-03-21T18:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T19:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903145634573754879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l6Cdvz2zXS",
+              "end": 50,
+              "expanded_url": "https://x.com/gnACKU1avx95040/status/1903145634573754879/photo/1",
+              "media_key": "3_1903145624746561536",
+              "start": 27,
+              "url": "https://t.co/l6Cdvz2zXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903145634573754879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1074,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "看看你是真男娘还是假男娘💕大家也可以选择支持哪一种💕 https://t.co/l6Cdvz2zXS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25303,
+          "following_count": 953,
+          "like_count": 14072,
+          "listed_count": 37,
+          "media_count": 1290,
+          "tweet_count": 14729
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T10:35:01.000Z",
+        "description": "꒰ঌ₊⁺♡̶₊⁺໒꒱ 不线下好友🚪888｜男娘｜骂我的都是畜生QAQ💦 ｜˚‧🐈‍⬛ 🎼₊⁺ ♡̶₊⁺⑉",
+        "id": "1808811687811952643",
+        "location": "我经常哭",
+        "name": "₊⁺苦婆婆₊⁺",
+        "pinned_tweet_id": "1890502209579708815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875157026789380096/d4TY4kuT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4925,
+          "following_count": 193,
+          "like_count": 349,
+          "listed_count": 16,
+          "media_count": 69,
+          "tweet_count": 631
+        },
+        "username": "gnACKU1avx95040",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888610406773755905"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1888610419256025359",
+    "created_at": "2025-02-09T15:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T16:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888610419256025359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6ij5BVrFHV",
+          "end": 32,
+          "expanded_url": "https://x.com/Angelica_zj/status/1888610419256025359/photo/1",
+          "media_key": "3_1888610406773755905",
+          "start": 9,
+          "url": "https://t.co/6ij5BVrFHV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888610419256025359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老铁还是个恋足癖 https://t.co/6ij5BVrFHV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1888610406773755905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjWxKJ7bEAEiVwc.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888610406773755905"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1888610419256025359",
+        "created_at": "2025-02-09T15:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T16:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888610419256025359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ij5BVrFHV",
+              "end": 32,
+              "expanded_url": "https://x.com/Angelica_zj/status/1888610419256025359/photo/1",
+              "media_key": "3_1888610406773755905",
+              "start": 9,
+              "url": "https://t.co/6ij5BVrFHV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888610419256025359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老铁还是个恋足癖 https://t.co/6ij5BVrFHV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25220,
+          "following_count": 941,
+          "like_count": 13874,
+          "listed_count": 37,
+          "media_count": 1275,
+          "tweet_count": 14462
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

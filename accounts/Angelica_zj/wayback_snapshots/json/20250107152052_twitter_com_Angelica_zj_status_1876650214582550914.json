@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1591350979043393537",
+    "created_at": "2025-01-07T15:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T16:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876650214582550914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1875202431950458880",
+          "start": 0,
+          "username": "uSekncNre466579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876650214582550914",
+    "in_reply_to_user_id": "1875202431950458880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876614084873040285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uSekncNre466579 浏览器到处都能搜到吧，又不是国内禁播"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1591350979043393537",
+        "created_at": "2025-01-07T15:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T16:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876650214582550914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1875202431950458880",
+              "start": 0,
+              "username": "uSekncNre466579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876650214582550914",
+        "in_reply_to_user_id": "1875202431950458880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876614084873040285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uSekncNre466579 浏览器到处都能搜到吧，又不是国内禁播"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875202431950458880",
+        "conversation_id": "1591350979043393537",
+        "created_at": "2025-01-07T12:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T13:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876614084873040285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876614084873040285",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1591354604788518914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 在哪里看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25103,
+          "following_count": 935,
+          "like_count": 13730,
+          "listed_count": 36,
+          "media_count": 1250,
+          "tweet_count": 14217
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T15:28:05.000Z",
+        "description": "人机勿扰",
+        "id": "1875202431950458880",
+        "location": "山东",
+        "name": "枫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875504503421857795/123F2tE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "uSekncNre466579",
+        "verified": false
+      }
+    ]
+  }
+}

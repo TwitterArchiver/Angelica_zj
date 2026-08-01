@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1897363896551547295",
+    "created_at": "2025-03-05T19:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T20:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897366341323300969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675867625656840192",
+          "start": 0,
+          "username": "rinkawa_sakurai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897366341323300969",
+    "in_reply_to_user_id": "1675867625656840192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897364728231657892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinkawa_sakurai 我也是，翻两年没用的小号才想起来这么一档子人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1897363896551547295",
+        "created_at": "2025-03-05T19:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T20:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897366341323300969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675867625656840192",
+              "start": 0,
+              "username": "rinkawa_sakurai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897366341323300969",
+        "in_reply_to_user_id": "1675867625656840192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897364728231657892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinkawa_sakurai 我也是，翻两年没用的小号才想起来这么一档子人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675867625656840192",
+        "conversation_id": "1897363896551547295",
+        "created_at": "2025-03-05T19:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T20:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897364728231657892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897364728231657892",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897363896551547295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我超 突然想起来还有这号人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25252,
+          "following_count": 950,
+          "like_count": 14026,
+          "listed_count": 37,
+          "media_count": 1286,
+          "tweet_count": 14636
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T14:02:33.000Z",
+        "description": "06/上海/赛博百合mtx/INFP/吸血鬼/死宅萌豚lolicon/ADHD/CS广东在读/中文.日本語",
+        "id": "1675867625656840192",
+        "name": "櫻井凛川 Ver.4.8964",
+        "pinned_tweet_id": "1886053362770317428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854830320325214211/2T95kFE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 601,
+          "like_count": 10220,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 3443
+        },
+        "username": "rinkawa_sakurai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980691691687346176",
+        "3_1980691691649515520",
+        "3_1980691691691462656"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1980691706241774005",
+    "created_at": "2025-10-21T17:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T18:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980691706241774005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vWufH56vTX",
+          "end": 47,
+          "expanded_url": "https://x.com/Angelica_zj/status/1980691706241774005/photo/1",
+          "media_key": "3_1980691691687346176",
+          "start": 24,
+          "url": "https://t.co/vWufH56vTX"
+        },
+        {
+          "display_url": "pic.x.com/vWufH56vTX",
+          "end": 47,
+          "expanded_url": "https://x.com/Angelica_zj/status/1980691706241774005/photo/1",
+          "media_key": "3_1980691691649515520",
+          "start": 24,
+          "url": "https://t.co/vWufH56vTX"
+        },
+        {
+          "display_url": "pic.x.com/vWufH56vTX",
+          "end": 47,
+          "expanded_url": "https://x.com/Angelica_zj/status/1980691706241774005/photo/1",
+          "media_key": "3_1980691691691462656",
+          "start": 24,
+          "url": "https://t.co/vWufH56vTX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980691706241774005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三百多的卡带钱，在这一刻值回来了两百块，好幸福 https://t.co/vWufH56vTX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1980691691687346176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3zUmXSXgAAPCMW.jpg",
+        "width": 1280
+      },
+      {
+        "height": 418,
+        "media_key": "3_1980691691649515520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3zUmXJWQAAPgWv.jpg",
+        "width": 744
+      },
+      {
+        "height": 1706,
+        "media_key": "3_1980691691691462656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3zUmXTWUAAp20T.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980691691687346176",
+            "3_1980691691649515520",
+            "3_1980691691691462656"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980691706241774005",
+        "created_at": "2025-10-21T17:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T18:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980691706241774005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWufH56vTX",
+              "end": 47,
+              "expanded_url": "https://x.com/Angelica_zj/status/1980691706241774005/photo/1",
+              "media_key": "3_1980691691687346176",
+              "start": 24,
+              "url": "https://t.co/vWufH56vTX"
+            },
+            {
+              "display_url": "pic.x.com/vWufH56vTX",
+              "end": 47,
+              "expanded_url": "https://x.com/Angelica_zj/status/1980691706241774005/photo/1",
+              "media_key": "3_1980691691649515520",
+              "start": 24,
+              "url": "https://t.co/vWufH56vTX"
+            },
+            {
+              "display_url": "pic.x.com/vWufH56vTX",
+              "end": 47,
+              "expanded_url": "https://x.com/Angelica_zj/status/1980691706241774005/photo/1",
+              "media_key": "3_1980691691691462656",
+              "start": 24,
+              "url": "https://t.co/vWufH56vTX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980691706241774005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三百多的卡带钱，在这一刻值回来了两百块，好幸福 https://t.co/vWufH56vTX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25341,
+          "following_count": 990,
+          "like_count": 14194,
+          "listed_count": 43,
+          "media_count": 1404,
+          "tweet_count": 15823
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

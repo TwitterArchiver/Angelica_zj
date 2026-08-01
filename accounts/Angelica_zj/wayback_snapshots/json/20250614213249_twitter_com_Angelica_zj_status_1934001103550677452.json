@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1933795176818094228",
+    "created_at": "2025-06-14T21:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T22:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934001103550677452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1507396901594820608",
+          "start": 0,
+          "username": "hgds01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934001103550677452",
+    "in_reply_to_user_id": "1507396901594820608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933795176818094228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds01 其实也方便遇到烂人之后开撕的时候有证据可发（没有扫兴的意思"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 850,
+        "media_key": "3_1933795167653539840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtY4dZRbMAA5scv.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1933795176818094228",
+        "created_at": "2025-06-14T21:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T22:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934001103550677452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934001103550677452",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933795176818094228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds01 其实也方便遇到烂人之后开撕的时候有证据可发（没有扫兴的意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933795167653539840"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1933795176818094228",
+        "created_at": "2025-06-14T07:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T08:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933795176818094228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KFpHUrEho0",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds01/status/1933795176818094228/photo/1",
+              "media_key": "3_1933795167653539840",
+              "start": 0,
+              "url": "https://t.co/KFpHUrEho0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933795176818094228",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 57044,
+          "like_count": 876,
+          "quote_count": 17,
+          "reply_count": 29,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KFpHUrEho0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25521,
+          "following_count": 997,
+          "like_count": 14471,
+          "listed_count": 36,
+          "media_count": 1366,
+          "tweet_count": 15420
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1929579130711875675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82070,
+          "following_count": 2915,
+          "like_count": 43614,
+          "listed_count": 102,
+          "media_count": 2455,
+          "tweet_count": 6756
+        },
+        "username": "hgds01",
+        "verified": true
+      }
+    ]
+  }
+}

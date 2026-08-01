@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1927972720454602779",
+    "created_at": "2025-05-29T06:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T07:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927972720454602779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaojingcanxue…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/xiaojingcanxue/status/1927589285936447930",
+          "start": 23,
+          "url": "https://t.co/SRL5pBk1sF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927972720454602779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927589285936447930",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吓死了，我那一兜子被发现了是不是得给我浸猪笼 https://t.co/SRL5pBk1sF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1846,
+        "media_key": "3_1927589245037772800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsAsNJ9XAAAPL1i.jpg",
+        "width": 1142
+      },
+      {
+        "height": 1765,
+        "media_key": "3_1927589261710110720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsAsOIEWsAAM-cC.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1004,
+        "media_key": "3_1927589278852304896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsAsPH7X0AAfDFx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1927972720454602779",
+        "created_at": "2025-05-29T06:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T07:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927972720454602779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaojingcanxue…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/xiaojingcanxue/status/1927589285936447930",
+              "start": 23,
+              "url": "https://t.co/SRL5pBk1sF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927972720454602779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927589285936447930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吓死了，我那一兜子被发现了是不是得给我浸猪笼 https://t.co/SRL5pBk1sF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927589245037772800",
+            "3_1927589261710110720",
+            "3_1927589278852304896"
+          ]
+        },
+        "author_id": "44186175",
+        "conversation_id": "1927589285936447930",
+        "created_at": "2025-05-28T04:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T05:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927589285936447930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bpi5YMCXbx",
+              "end": 78,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1927589285936447930/photo/1",
+              "media_key": "3_1927589245037772800",
+              "start": 55,
+              "url": "https://t.co/Bpi5YMCXbx"
+            },
+            {
+              "display_url": "pic.x.com/Bpi5YMCXbx",
+              "end": 78,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1927589285936447930/photo/1",
+              "media_key": "3_1927589261710110720",
+              "start": 55,
+              "url": "https://t.co/Bpi5YMCXbx"
+            },
+            {
+              "display_url": "pic.x.com/Bpi5YMCXbx",
+              "end": 78,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1927589285936447930/photo/1",
+              "media_key": "3_1927589278852304896",
+              "start": 55,
+              "url": "https://t.co/Bpi5YMCXbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927589285936447930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 535412,
+          "like_count": 1573,
+          "quote_count": 27,
+          "reply_count": 160,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "黑龙江工程学院，男老师进女宿舍查寝，称发现某些同学“内衣脏乱”，“柜子里藏成人用品“，批评她们”不知廉耻“。 https://t.co/Bpi5YMCXbx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25553,
+          "following_count": 991,
+          "like_count": 14454,
+          "listed_count": 37,
+          "media_count": 1350,
+          "tweet_count": 15306
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中国新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233040,
+          "following_count": 1838,
+          "like_count": 188,
+          "listed_count": 1217,
+          "media_count": 26363,
+          "tweet_count": 33563
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

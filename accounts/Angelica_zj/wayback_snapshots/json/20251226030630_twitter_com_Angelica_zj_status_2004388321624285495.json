@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004388309632466944"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "2004171181931520228",
+    "created_at": "2025-12-26T03:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T04:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004388321624285495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1459206178529890307",
+          "start": 0,
+          "username": "DuchessCoconut_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M4hnLqPbM5",
+          "end": 46,
+          "expanded_url": "https://x.com/Angelica_zj/status/2004388321624285495/photo/1",
+          "media_key": "3_2004388309632466944",
+          "start": 23,
+          "url": "https://t.co/M4hnLqPbM5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004388321624285495",
+    "in_reply_to_user_id": "1459206178529890307",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004171181931520228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DuchessCoconut_ 美景配美波 https://t.co/M4hnLqPbM5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004388309632466944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9EEjEOWwAAGshe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004388309632466944"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "2004171181931520228",
+        "created_at": "2025-12-26T03:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T04:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004388321624285495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1459206178529890307",
+              "start": 0,
+              "username": "DuchessCoconut_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M4hnLqPbM5",
+              "end": 46,
+              "expanded_url": "https://x.com/Angelica_zj/status/2004388321624285495/photo/1",
+              "media_key": "3_2004388309632466944",
+              "start": 23,
+              "url": "https://t.co/M4hnLqPbM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004388321624285495",
+        "in_reply_to_user_id": "1459206178529890307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004171181931520228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DuchessCoconut_ 美景配美波 https://t.co/M4hnLqPbM5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459206178529890307",
+        "conversation_id": "2004171181931520228",
+        "created_at": "2025-12-25T12:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T13:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004171181931520228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004171181931520228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 31643,
+          "like_count": 194,
+          "quote_count": 1,
+          "reply_count": 56,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "受不了去旅游自己不怎么出镜就摆着那个棉花娃娃在那边拍的神人了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25268,
+          "following_count": 1011,
+          "like_count": 14459,
+          "listed_count": 40,
+          "media_count": 1484,
+          "tweet_count": 16333
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-12T17:07:26.000Z",
+        "description": "历史学与文学的愚昧拥趸者🧐|铁笼和枷锁都无法束缚的无翼猫头鹰🦉|轻小说创作者（真的吗）✒️|弄oc的请看看咱小怪盗和其他孩子谢谢👻|oc相关图都是约稿我不会画画TT🎨|精神状态常年不乐观💀|感觉人类很可怕所以私信不太回🚫|会直接无差别屏蔽发言让人反感或不安的账号👁️|请注意账号存在工作场所不适宜内容🔞",
+        "id": "1459206178529890307",
+        "location": "星馐阁",
+        "name": "椰子公爵🥥",
+        "pinned_tweet_id": "1942593215066169560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995759583470780416/Q97o0bSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9043,
+          "following_count": 155,
+          "like_count": 16014,
+          "listed_count": 20,
+          "media_count": 3691,
+          "tweet_count": 15359
+        },
+        "username": "DuchessCoconut_",
+        "verified": false
+      }
+    ]
+  }
+}

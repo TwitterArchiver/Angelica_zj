@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2081322982346313730",
+    "created_at": "2026-07-27T10:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081689090169200672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1031261960",
+          "start": 0,
+          "username": "metirodecabeza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081689090169200672",
+    "in_reply_to_user_id": "1031261960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081682591128973511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@metirodecabeza 成都舒服呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2081322982346313730",
+        "created_at": "2026-07-27T10:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081689090169200672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1031261960",
+              "start": 0,
+              "username": "metirodecabeza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081689090169200672",
+        "in_reply_to_user_id": "1031261960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081682591128973511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@metirodecabeza 成都舒服呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1031261960",
+        "conversation_id": "2081322982346313730",
+        "created_at": "2026-07-27T10:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081682591128973511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081682591128973511",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081322982346313730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 成都我来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25012,
+          "following_count": 1048,
+          "like_count": 14934,
+          "listed_count": 41,
+          "media_count": 1611,
+          "tweet_count": 17453
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-23T20:15:11.000Z",
+        "description": "进来的关注一下噢，一枚爱分享日常的小丫头，找我唠嗑 👉 @StacyP8181",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "StacyP8181"
+              }
+            ]
+          }
+        },
+        "id": "1031261960",
+        "location": "成都",
+        "name": "Extremo Duro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076244438456909824/9Ahk9h4R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 100,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "metirodecabeza",
+        "verified": false
+      }
+    ]
+  }
+}

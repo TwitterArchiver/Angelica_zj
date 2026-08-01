@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2006549752477872327",
+    "created_at": "2026-01-01T02:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T03:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006549752477872327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yenai139/statu…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/yenai139/status/2006223217166323802",
+          "start": 22,
+          "url": "https://t.co/5z2K3qXZzD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006549752477872327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006223217166323802",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真是做不了m了，两组话都在不同程度的挑衅我 https://t.co/5z2K3qXZzD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2006549752477872327",
+        "created_at": "2026-01-01T02:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T03:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006549752477872327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yenai139/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/yenai139/status/2006223217166323802",
+              "start": 22,
+              "url": "https://t.co/5z2K3qXZzD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006549752477872327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006223217166323802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真是做不了m了，两组话都在不同程度的挑衅我 https://t.co/5z2K3qXZzD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975616422492721152",
+        "conversation_id": "2006223217166323802",
+        "created_at": "2025-12-31T04:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T05:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006223217166323802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006223217166323802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 161739,
+          "like_count": 2337,
+          "quote_count": 22,
+          "reply_count": 33,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "细品一下年上说话的韵味\n\n“好乖”“很棒”“很听话”“好姑娘”\n是带着欣慰的对你的夸赞\n\n“真棒呢”“我怎么不知道你这么厉害”“从哪学的”\n是说明你要完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25234,
+          "following_count": 1015,
+          "like_count": 14458,
+          "listed_count": 40,
+          "media_count": 1489,
+          "tweet_count": 16369
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T17:38:11.000Z",
+        "description": "一个爱碎碎念的单机女人\n没人认识就大胆乱说了\n不必关注我，我很无聊的/\n不过还是谢谢你愿意听我说废话／\n一些评论真的看不见！点赞说明看到你咯／\n不要骂我我会哭的／\n或许有一点属性但《仅限》喜欢的人／\n面 瘫 冷 脸 单 机 王／\n意面好好吃／\n不.要.问.我.哪.里.人／\n主玩PC燕云／\n最后，我有很喜欢很喜欢的人哦♡",
+        "id": "1975616422492721152",
+        "location": "不见山",
+        "name": "椰奶好好喝",
+        "pinned_tweet_id": "1987362988098265428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975923907665465345/lSDz7UHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 25,
+          "like_count": 756,
+          "listed_count": 0,
+          "media_count": 304,
+          "tweet_count": 1941
+        },
+        "username": "yenai139",
+        "verified": false
+      }
+    ]
+  }
+}

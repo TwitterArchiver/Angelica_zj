@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1886344795783831754",
+    "created_at": "2025-02-05T05:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T06:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887006759644225708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887006759644225708",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886344795783831754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 前半句是“陪了我”后半句说的是“我陪了”，想表达的是忘掉自己做舔狗的两年吧，没什么问题啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1886344795783831754",
+        "created_at": "2025-02-05T05:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T06:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887006759644225708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887006759644225708",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886344795783831754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 前半句是“陪了我”后半句说的是“我陪了”，想表达的是忘掉自己做舔狗的两年吧，没什么问题啊…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886344546738671617"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1886344795783831754",
+        "created_at": "2025-02-03T09:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T10:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886344795783831754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQnCCnWUwc",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1886344795783831754/photo/1",
+              "media_key": "3_1886344546738671617",
+              "start": 0,
+              "url": "https://t.co/hQnCCnWUwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886344795783831754",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 248,
+          "impression_count": 719406,
+          "like_count": 3445,
+          "quote_count": 6,
+          "reply_count": 120,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hQnCCnWUwc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25152,
+          "following_count": 940,
+          "like_count": 13864,
+          "listed_count": 37,
+          "media_count": 1270,
+          "tweet_count": 14442
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1846240135534596297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35400,
+          "following_count": 904,
+          "like_count": 36494,
+          "listed_count": 96,
+          "media_count": 5852,
+          "tweet_count": 10894
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

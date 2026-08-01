@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1802452458939236538",
+    "created_at": "2024-06-16T21:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T22:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1802452458939236538"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1802452458939236538",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "懦弱的人最容易遇到npd式的霸凌，普通无能的人一定会因为你的忍让和付出而新鲜的感受到权利的味道，从而激发出人性的劣根\n会怜惜你的人太少了，世界上道德感弱的人才是大多数"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1802452458939236538",
+        "created_at": "2024-06-16T21:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T22:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802452458939236538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802452458939236538",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "懦弱的人最容易遇到npd式的霸凌，普通无能的人一定会因为你的忍让和付出而新鲜的感受到权利的味道，从而激发出人性的劣根\n会怜惜你的人太少了，世界上道德感弱的人才是大多数"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们  / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24633,
+          "following_count": 899,
+          "like_count": 13481,
+          "listed_count": 36,
+          "tweet_count": 13268
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

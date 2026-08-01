@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1997179676650013126",
+    "created_at": "2025-12-07T02:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T03:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997496198815436983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1471004896220487685",
+          "start": 0,
+          "username": "Alexander22608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997496198815436983",
+    "in_reply_to_user_id": "1471004896220487685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997492647397847094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alexander22608 你是男的的话，你愿意娶一个好吃懒做只想靠结婚改变命运的人是吗，然后把自己的财产分一半给对方？\n你愿意的话我也支持你造福姊妹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1997179676650013126",
+        "created_at": "2025-12-07T02:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T03:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997496198815436983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1471004896220487685",
+              "start": 0,
+              "username": "Alexander22608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997496198815436983",
+        "in_reply_to_user_id": "1471004896220487685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997492647397847094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alexander22608 你是男的的话，你愿意娶一个好吃懒做只想靠结婚改变命运的人是吗，然后把自己的财产分一半给对方？\n你愿意的话我也支持你造福姊妹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471004896220487685",
+        "conversation_id": "1997179676650013126",
+        "created_at": "2025-12-07T02:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T03:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997492647397847094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997492647397847094",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997491150153019510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 所以普通人更要尽早找个如意郎君啊😂美女什么时候都有条件不错的男人愿意娶，普通人可不是啊😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25273,
+          "following_count": 998,
+          "like_count": 14343,
+          "listed_count": 40,
+          "media_count": 1453,
+          "tweet_count": 16121
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T06:31:20.000Z",
+        "description": "",
+        "id": "1471004896220487685",
+        "location": "Shanghai",
+        "name": "cyberpunk2023",
+        "pinned_tweet_id": "1961013107549253659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555041209780953088/ZX10fwnk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 396,
+          "like_count": 11177,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 5108
+        },
+        "username": "Alexander22608",
+        "verified": true
+      }
+    ]
+  }
+}

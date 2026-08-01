@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1981600653291180516",
+    "created_at": "2025-10-24T07:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T08:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981619512014479519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1186679251065401345",
+          "start": 0,
+          "username": "FireBunny001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981619512014479519",
+    "in_reply_to_user_id": "1186679251065401345",
+    "lang": "is",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981602427196576189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FireBunny001 hughug"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1981600653291180516",
+        "created_at": "2025-10-24T07:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T08:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981619512014479519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1186679251065401345",
+              "start": 0,
+              "username": "FireBunny001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981619512014479519",
+        "in_reply_to_user_id": "1186679251065401345",
+        "lang": "is",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981602427196576189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FireBunny001 hughug"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1186679251065401345",
+        "conversation_id": "1981600653291180516",
+        "created_at": "2025-10-24T06:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T07:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981602427196576189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981602427196576189",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981600653291180516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我也，23年玩的挺开心，也是经历了最痛苦的事情的一年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25345,
+          "following_count": 990,
+          "like_count": 14198,
+          "listed_count": 43,
+          "media_count": 1407,
+          "tweet_count": 15838
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-22T16:22:50.000Z",
+        "description": "我要很多爱，或者很多钱",
+        "id": "1186679251065401345",
+        "location": "无锡",
+        "name": "火兔🍥（劝人买房第一人）",
+        "pinned_tweet_id": "1749803549696143718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976843887533768704/K6Ks_2kT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 389,
+          "like_count": 3350,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 1714
+        },
+        "username": "FireBunny001",
+        "verified": false
+      }
+    ]
+  }
+}

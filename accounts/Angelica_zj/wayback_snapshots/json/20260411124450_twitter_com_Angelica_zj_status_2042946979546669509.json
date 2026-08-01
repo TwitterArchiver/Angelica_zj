@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2042635479456112862",
+    "created_at": "2026-04-11T12:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T13:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042946979546669509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1314081408982290432",
+          "start": 0,
+          "username": "Irelia7376"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042946979546669509",
+    "in_reply_to_user_id": "1314081408982290432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042792345972953381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Irelia7376 哈哈哈哈好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2042635479456112862",
+        "created_at": "2026-04-11T12:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042946979546669509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1314081408982290432",
+              "start": 0,
+              "username": "Irelia7376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042946979546669509",
+        "in_reply_to_user_id": "1314081408982290432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042792345972953381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irelia7376 哈哈哈哈好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1314081408982290432",
+        "conversation_id": "2042635479456112862",
+        "created_at": "2026-04-11T02:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042792345972953381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042792345972953381",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042635479456112862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 你好，卡卡西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24990,
+          "following_count": 1048,
+          "like_count": 14715,
+          "listed_count": 40,
+          "media_count": 1570,
+          "tweet_count": 16974
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-08T05:53:23.000Z",
+        "description": "風立ちぬ、いざ生きめやも",
+        "id": "1314081408982290432",
+        "name": "人生とはとこしえのうらみのみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985665308015935488/6_OPfP1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 117,
+          "like_count": 3074,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1192
+        },
+        "username": "Irelia7376",
+        "verified": false
+      }
+    ]
+  }
+}

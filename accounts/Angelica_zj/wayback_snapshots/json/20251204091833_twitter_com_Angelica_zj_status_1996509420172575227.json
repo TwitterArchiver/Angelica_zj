@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1995844413470523412",
+    "created_at": "2025-12-04T09:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T10:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996509420172575227"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "豪萌",
+          "probability": 0.7713,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1928901940932653060",
+          "start": 0,
+          "username": "idk1103712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996509420172575227",
+    "in_reply_to_user_id": "1928901940932653060",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996022879935455566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idk1103712 豪萌！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1995844413470523412",
+        "created_at": "2025-12-04T09:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T10:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996509420172575227"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "豪萌",
+              "probability": 0.7713,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1928901940932653060",
+              "start": 0,
+              "username": "idk1103712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996509420172575227",
+        "in_reply_to_user_id": "1928901940932653060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996022879935455566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idk1103712 豪萌！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928901940932653060",
+        "conversation_id": "1995844413470523412",
+        "created_at": "2025-12-03T01:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T02:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996022879935455566"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "七海",
+              "probability": 0.6663,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996022879935455566",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995844413470523412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 七海可爱捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25278,
+          "following_count": 996,
+          "like_count": 14343,
+          "listed_count": 40,
+          "media_count": 1448,
+          "tweet_count": 16106
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T19:50:41.000Z",
+        "description": "操你妈血逼你在你妈肚子里的时候老子给你挤洗头膏呢母狗",
+        "id": "1928901940932653060",
+        "name": "女子妻子",
+        "pinned_tweet_id": "1994422121003651387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989446283946594306/_qYD2wWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 365,
+          "like_count": 2539,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 993
+        },
+        "username": "idk1103712",
+        "verified": false
+      }
+    ]
+  }
+}

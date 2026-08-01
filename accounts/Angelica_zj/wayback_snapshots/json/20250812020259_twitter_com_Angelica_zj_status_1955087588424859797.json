@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1954932081949347843",
+    "created_at": "2025-08-12T02:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T03:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955087588424859797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1560434375195369474",
+          "start": 0,
+          "username": "xuzi40104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955087588424859797",
+    "in_reply_to_user_id": "1560434375195369474",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954957880991551828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuzi40104 收到🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1954932081949347843",
+        "created_at": "2025-08-12T02:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T03:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955087588424859797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1560434375195369474",
+              "start": 0,
+              "username": "xuzi40104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955087588424859797",
+        "in_reply_to_user_id": "1560434375195369474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954957880991551828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuzi40104 收到🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560434375195369474",
+        "conversation_id": "1954932081949347843",
+        "created_at": "2025-08-11T17:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T18:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954957880991551828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954957880991551828",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954932081949347843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 不要点我发的私信链接，我就是点了一个才自动群发的，现在私信上限了只能来这里通知你们了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25415,
+          "following_count": 989,
+          "like_count": 14330,
+          "listed_count": 39,
+          "media_count": 1388,
+          "tweet_count": 15596
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T01:12:18.000Z",
+        "description": "雪绪",
+        "id": "1560434375195369474",
+        "location": "距离你401m",
+        "name": "不要点我发的链接",
+        "pinned_tweet_id": "1954963547198505439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619516314405707776/HUYfmVL0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 214,
+          "like_count": 9521,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 4505
+        },
+        "username": "xuzi40104",
+        "verified": false
+      }
+    ]
+  }
+}

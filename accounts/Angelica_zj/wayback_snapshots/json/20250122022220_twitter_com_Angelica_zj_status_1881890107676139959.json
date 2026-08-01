@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1881890107676139959",
+    "created_at": "2025-01-22T02:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T03:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881890107676139959"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bibabu47051/st…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/bibabu47051/status/1881784030783525041",
+          "start": 31,
+          "url": "https://t.co/680wyMJ4sB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881890107676139959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881784030783525041",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要不是看过同校“A8富二代男”的瓜都不知道A7A8A9是啥 https://t.co/680wyMJ4sB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1881890107676139959",
+        "created_at": "2025-01-22T02:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T03:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881890107676139959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bibabu47051/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/bibabu47051/status/1881784030783525041",
+              "start": 31,
+              "url": "https://t.co/680wyMJ4sB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881890107676139959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881784030783525041",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要不是看过同校“A8富二代男”的瓜都不知道A7A8A9是啥 https://t.co/680wyMJ4sB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782563450620624896",
+        "conversation_id": "1881736944142737492",
+        "created_at": "2025-01-21T19:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T20:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881784030783525041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1387442024115171335",
+              "start": 0,
+              "username": "Alice41110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881784030783525041",
+        "in_reply_to_user_id": "1387442024115171335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881736944142737492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alice41110 是我，同龄人：开超跑买房结婚跻身A7A8A9；我：拿着张余额几块钱的卡阿巴阿巴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25138,
+          "following_count": 936,
+          "like_count": 13829,
+          "listed_count": 37,
+          "media_count": 1260,
+          "tweet_count": 14364
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T00:13:50.000Z",
+        "description": "喜欢一切美好的人和事物｜一直奋斗于直面现实和活在当下 | Love ppl who worth my love and love me | 性冷淡，别来找骂｜ 私信不回就是不想回，正常交友感兴趣会回",
+        "id": "1782563450620624896",
+        "location": "Massachusetts, USA",
+        "name": "bibabu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814002338446663680/68uSy-M7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5463,
+          "following_count": 546,
+          "like_count": 20418,
+          "listed_count": 12,
+          "media_count": 809,
+          "tweet_count": 5194
+        },
+        "username": "bibabu47051",
+        "verified": false
+      }
+    ]
+  }
+}

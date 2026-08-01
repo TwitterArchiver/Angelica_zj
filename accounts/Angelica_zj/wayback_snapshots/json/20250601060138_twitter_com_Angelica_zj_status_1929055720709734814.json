@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1929055720709734814",
+    "created_at": "2025-06-01T06:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T07:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929055720709734814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/codyhunk/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/codyhunk/status/1928798325588865527",
+          "start": 8,
+          "url": "https://t.co/luxNSdHUdq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929055720709734814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928798325588865527",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我感觉能好吃呢 https://t.co/luxNSdHUdq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1498,
+        "media_key": "3_1928798315547930624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsR32UmbMAAFnsv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1929055720709734814",
+        "created_at": "2025-06-01T06:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T07:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929055720709734814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/codyhunk/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/codyhunk/status/1928798325588865527",
+              "start": 8,
+              "url": "https://t.co/luxNSdHUdq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929055720709734814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928798325588865527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉能好吃呢 https://t.co/luxNSdHUdq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928798315547930624"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1928798325588865527",
+        "created_at": "2025-05-31T12:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T13:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928798325588865527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6w5wNxOXa8",
+              "end": 23,
+              "expanded_url": "https://x.com/codyhunk/status/1928798325588865527/photo/1",
+              "media_key": "3_1928798315547930624",
+              "start": 0,
+              "url": "https://t.co/6w5wNxOXa8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928798325588865527",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 43964,
+          "like_count": 774,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6w5wNxOXa8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25534,
+          "following_count": 989,
+          "like_count": 14470,
+          "listed_count": 37,
+          "media_count": 1357,
+          "tweet_count": 15324
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "大家好叫我半藏就好，喜欢和大家交朋友，平时分享沙雕图。爱打游戏不红温，互fo记得在顶置留言",
+        "id": "1911628907842818049",
+        "location": "距你0.2km",
+        "name": "岛田半藏（互fo私",
+        "pinned_tweet_id": "1928162397178442173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912733546407686145/-TA4wnE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 356,
+          "like_count": 646,
+          "listed_count": 4,
+          "media_count": 1005,
+          "tweet_count": 1139
+        },
+        "username": "codyhunk",
+        "verified": false
+      }
+    ]
+  }
+}

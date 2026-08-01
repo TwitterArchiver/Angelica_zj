@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1936319838173134859",
+    "created_at": "2025-06-21T10:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T11:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936365598218580059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1490333538972958720",
+          "start": 0,
+          "username": "huddvjhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936365598218580059",
+    "in_reply_to_user_id": "1490333538972958720",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936323596567429358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huddvjhh 🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1936319838173134859",
+        "created_at": "2025-06-21T10:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T11:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936365598218580059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1490333538972958720",
+              "start": 0,
+              "username": "huddvjhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936365598218580059",
+        "in_reply_to_user_id": "1490333538972958720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936323596567429358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huddvjhh 🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490333538972958720",
+        "conversation_id": "1936319838173134859",
+        "created_at": "2025-06-21T07:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T08:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936323596567429358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936323596567429358",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936319838173134859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 宝宝～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25513,
+          "following_count": 994,
+          "like_count": 14500,
+          "listed_count": 37,
+          "media_count": 1371,
+          "tweet_count": 15462
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T14:36:32.000Z",
+        "description": "当日记本发，欢迎提问交友，会回关。 如果我没有和你及时互动，或者不小心“甩大牌”请私信或者提问箱抨击我，宝宝们，我不是故意的💖 沉默的日子也没在偷偷幸福是快死了～深交欢迎私联，不谈恋爱，不玩门槛那一套哈😙❤️全平台都是同一副贱人面孔，熟人见到更是无所谓 早已经和所有圣母割席 防断联小号：@LofiCM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 144,
+                "username": "LofiCM"
+              }
+            ]
+          }
+        },
+        "id": "1490333538972958720",
+        "name": "HeteroMorph……",
+        "pinned_tweet_id": "1931027909239554085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901586687270260736/6ZwcUToK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 784,
+          "like_count": 13052,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1851
+        },
+        "username": "huddvjhh",
+        "verified": false
+      }
+    ]
+  }
+}

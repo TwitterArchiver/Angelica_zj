@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1919976975701311602",
+    "created_at": "2025-05-09T22:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T23:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920967839273374046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "106697385",
+          "start": 0,
+          "username": "weiweistar"
+        },
+        {
+          "end": 28,
+          "id": "1893392317819604992",
+          "start": 12,
+          "username": "qiushenghuang61"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920967839273374046",
+    "in_reply_to_user_id": "106697385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920295578442887208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiweistar @qiushenghuang61 搞不搞笑，房子车都能拿出来发了还有什么缺的，真正缺这些的人才会阴暗的觉得别人发布的日常和人生节点喜事是炫耀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1919976975701311602",
+        "created_at": "2025-05-09T22:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T23:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920967839273374046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "106697385",
+              "start": 0,
+              "username": "weiweistar"
+            },
+            {
+              "end": 28,
+              "id": "1893392317819604992",
+              "start": 12,
+              "username": "qiushenghuang61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920967839273374046",
+        "in_reply_to_user_id": "106697385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920295578442887208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiweistar @qiushenghuang61 搞不搞笑，房子车都能拿出来发了还有什么缺的，真正缺这些的人才会阴暗的觉得别人发布的日常和人生节点喜事是炫耀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "106697385",
+        "conversation_id": "1919976975701311602",
+        "created_at": "2025-05-08T01:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T02:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920295578442887208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893392317819604992",
+              "start": 0,
+              "username": "qiushenghuang61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920295578442887208",
+        "in_reply_to_user_id": "1893392317819604992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 820,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919976975701311602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiushenghuang61 曾经有人跟我说过，炫耀什么就是缺少什么。没人炫耀去空气，没人炫耀水，因为都有都不缺，炫耀食物因为很少吃到，炫耀包，车，房子因为刚刚得到或者之前没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25400,
+          "following_count": 987,
+          "like_count": 14357,
+          "listed_count": 37,
+          "media_count": 1335,
+          "tweet_count": 15154
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-20T11:11:03.000Z",
+        "description": "经营基多İstanbul 民宿。",
+        "id": "106697385",
+        "location": "Quito, Ecuador",
+        "name": "TankMan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679985794096693250/-Dnlo8SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 66,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 200
+        },
+        "username": "weiweistar",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T20:08:20.000Z",
+        "description": "我也想妥協，可是妥協以後它們就會讓我跪下，跪下之後它們還會想要我的命：人，不一定要做正義的英雄，但不要去做那邪惡的幫凶！ https://t.co/Uo08N3mYKN，請各位收訊黃秋生Facebook！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@juexingzhe",
+                "end": 84,
+                "expanded_url": "https://youtube.com/@juexingzhe",
+                "start": 61,
+                "url": "https://t.co/Uo08N3mYKN"
+              }
+            ]
+          }
+        },
+        "id": "1893392317819604992",
+        "name": "黄秋生",
+        "pinned_tweet_id": "1920336961325207838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909760748206927872/793MKUau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8605,
+          "following_count": 180,
+          "like_count": 0,
+          "listed_count": 10,
+          "media_count": 611,
+          "tweet_count": 740
+        },
+        "username": "qiushenghuang61",
+        "verified": false
+      }
+    ]
+  }
+}

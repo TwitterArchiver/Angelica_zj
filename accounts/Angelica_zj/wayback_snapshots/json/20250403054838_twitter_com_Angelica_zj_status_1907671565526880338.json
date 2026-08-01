@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1907668982775374323",
+    "created_at": "2025-04-03T05:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T06:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907671565526880338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1761331037693710336",
+          "start": 0,
+          "username": "zayuyu07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907671565526880338",
+    "in_reply_to_user_id": "1761331037693710336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907671444005466624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zayuyu07 宝宝主人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1907668982775374323",
+        "created_at": "2025-04-03T05:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T06:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907671565526880338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1761331037693710336",
+              "start": 0,
+              "username": "zayuyu07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907671565526880338",
+        "in_reply_to_user_id": "1761331037693710336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907671444005466624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zayuyu07 宝宝主人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761331037693710336",
+        "conversation_id": "1907668982775374323",
+        "created_at": "2025-04-03T05:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T06:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907671444005466624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907671444005466624",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907668982775374323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 怎么会这么萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25284,
+          "following_count": 958,
+          "like_count": 14125,
+          "listed_count": 38,
+          "media_count": 1298,
+          "tweet_count": 14793
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T10:03:47.000Z",
+        "description": "我想我正在為愛贖罪｜@ZayuK07 其他帳號非本人｜Insta：zayuyu1226｜别期待我是什么好人｜07｜不互推不接广不卖号｜直的｜喜欢我就给我打钱｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "ZayuK07"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zayuyu12262",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zayuyu12262",
+                "start": 0,
+                "url": "https://t.co/7gpKA7QGit"
+              }
+            ]
+          }
+        },
+        "id": "1761331037693710336",
+        "location": "提問箱➡️",
+        "name": "ImNotKK",
+        "pinned_tweet_id": "1902375823400955933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887565566686158848/GygnvHRb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38804,
+          "following_count": 339,
+          "like_count": 17762,
+          "listed_count": 42,
+          "media_count": 388,
+          "tweet_count": 6104
+        },
+        "url": "https://t.co/7gpKA7QGit",
+        "username": "zayuyu07",
+        "verified": false
+      }
+    ]
+  }
+}

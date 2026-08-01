@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1997179676650013126",
+    "created_at": "2025-12-06T05:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T06:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997180993141375253"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1997180993141375253",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997179676650013126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "总把自己摆在乞讨的位置，还觉得所有女人都该这样，好反胃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1534,
+        "media_key": "3_1997179657557364736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7doUSlX0AAW1fc.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1997179676650013126",
+        "created_at": "2025-12-06T05:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T06:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997180993141375253"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997180993141375253",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997179676650013126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总把自己摆在乞讨的位置，还觉得所有女人都该这样，好反胃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997179657557364736"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1997179676650013126",
+        "created_at": "2025-12-06T05:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T06:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997179676650013126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z09OmfQPAT",
+              "end": 150,
+              "expanded_url": "https://x.com/Angelica_zj/status/1997179676650013126/photo/1",
+              "media_key": "3_1997179657557364736",
+              "start": 127,
+              "url": "https://t.co/z09OmfQPAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997179676650013126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些女的是不是真的以为，自己没能力没资源不上进，只靠年轻就能找到好男人。又不是刘亦菲迪丽热巴的长相，你以为的好男人凭啥把钱给你花…把自己的人生幸福全寄托在一个幻想中的良缘里，纯白日做梦\n自己过这怂样就算了，还要劝想努力的人跟你一样结婚生孩子，安的什么心 https://t.co/z09OmfQPAT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25273,
+          "following_count": 999,
+          "like_count": 14334,
+          "listed_count": 40,
+          "media_count": 1453,
+          "tweet_count": 16117
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

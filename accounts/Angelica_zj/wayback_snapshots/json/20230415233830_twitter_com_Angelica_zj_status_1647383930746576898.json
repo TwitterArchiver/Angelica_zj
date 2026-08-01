@@ -1,0 +1,93 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1647383930746576898",
+    "created_at": "2023-04-15T23:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2023-04-16T00:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1647383930746576898"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1647383930746576898",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真想跳楼了，早起不了一点。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1647383930746576898",
+        "created_at": "2023-04-15T23:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-16T00:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1647383930746576898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1647383930746576898",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真想跳楼了，早起不了一点。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 🐙🐙小章鱼意思是抱抱 / ⚠️自伤血腥重口负能注意避雷⚠️ / 情绪状态极不稳定 / 性取向是水仙 / 二号9⃣️：@AAAAG_Angelica",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 65,
+                "username": "AAAAG_Angelica"
+              }
+            ]
+          }
+        },
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1589442994507493376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15663,
+          "following_count": 870,
+          "listed_count": 20,
+          "tweet_count": 9238
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

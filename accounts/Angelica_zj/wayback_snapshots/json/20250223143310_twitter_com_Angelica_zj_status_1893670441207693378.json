@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1893606694904570144",
+    "created_at": "2025-02-23T14:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T15:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893670441207693378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "797439291752378368",
+          "start": 0,
+          "username": "lover_ning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893670441207693378",
+    "in_reply_to_user_id": "797439291752378368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893606694904570144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lover_ning 。什么啊。我以为两边是大腿，中间是巨大的蛋蛋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15500,
+        "height": 720,
+        "media_key": "13_1893606639065772032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1893606639065772032/img/9LyYPh2zaWDBXOSs.jpg",
+        "public_metrics": {
+          "view_count": 4424
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1893606639065772032/vid/avc1/342x270/-ROgpcT3LINttrxt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1893606639065772032/vid/avc1/456x360/5bDJ6yKu3_JZRCug.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1893606639065772032/vid/avc1/912x720/0T1wvai7MIeeUkDH.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1893606639065772032/pl/fag_XX7CDhPbN2CQ.m3u8?tag=14"
+          }
+        ],
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1893606694904570144",
+        "created_at": "2025-02-23T14:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T15:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893670441207693378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "797439291752378368",
+              "start": 0,
+              "username": "lover_ning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893670441207693378",
+        "in_reply_to_user_id": "797439291752378368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893606694904570144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lover_ning 。什么啊。我以为两边是大腿，中间是巨大的蛋蛋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1893606639065772032"
+          ]
+        },
+        "author_id": "797439291752378368",
+        "conversation_id": "1893606694904570144",
+        "created_at": "2025-02-23T10:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T11:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893606694904570144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XJFEyiIrcd",
+              "end": 23,
+              "expanded_url": "https://x.com/lover_ning/status/1893606694904570144/video/1",
+              "media_key": "13_1893606639065772032",
+              "start": 0,
+              "url": "https://t.co/XJFEyiIrcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893606694904570144",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11181,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XJFEyiIrcd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25216,
+          "following_count": 947,
+          "like_count": 13952,
+          "listed_count": 37,
+          "media_count": 1281,
+          "tweet_count": 14548
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 日常号@SUZUdesu111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "SUZUdesu111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "plink88.club/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://plink88.club?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/WetXPskS2K"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "免费VPN👉🏼",
+        "name": "SUZU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184162,
+          "following_count": 108,
+          "like_count": 34721,
+          "listed_count": 362,
+          "media_count": 2800,
+          "tweet_count": 27668
+        },
+        "url": "https://t.co/WetXPskS2K",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}

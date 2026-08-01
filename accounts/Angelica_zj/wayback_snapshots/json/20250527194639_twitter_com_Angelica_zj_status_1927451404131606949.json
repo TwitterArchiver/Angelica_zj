@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1927451404131606949",
+    "created_at": "2025-05-27T19:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T20:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927451404131606949"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1927451404131606949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人和人相处里还带着神秘感互相探索的阶段是最有意思也是最刺激的，在此之后沉淀下来的可能就是爱吧\n在我看来无论是好朋友还是伴侣，大概那种“即使知道之后相处的日子很无聊，但我还是愿意和你待在一起”的感觉是最棒的\n长期复杂社交会导致我的精神状况很糟糕，大概人是很需要长期关系的治愈的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1927451404131606949",
+        "created_at": "2025-05-27T19:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T20:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927451404131606949"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927451404131606949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人和人相处里还带着神秘感互相探索的阶段是最有意思也是最刺激的，在此之后沉淀下来的可能就是爱吧\n在我看来无论是好朋友还是伴侣，大概那种“即使知道之后相处的日子很无聊，但我还是愿意和你待在一起”的感觉是最棒的\n长期复杂社交会导致我的精神状况很糟糕，大概人是很需要长期关系的治愈的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25549,
+          "following_count": 991,
+          "like_count": 14450,
+          "listed_count": 37,
+          "media_count": 1349,
+          "tweet_count": 15292
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

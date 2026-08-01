@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1933697460037444089",
+    "created_at": "2025-06-14T10:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T11:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933833185940709411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1422093855235715076",
+          "start": 0,
+          "username": "bkyssj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933833185940709411",
+    "in_reply_to_user_id": "1422093855235715076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933697460037444089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bkyssj 住出租屋被骂吃拼好饭也被骂，这个世界能不能给穷人一点活路"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1933697460037444089",
+        "created_at": "2025-06-14T10:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T11:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933833185940709411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1422093855235715076",
+              "start": 0,
+              "username": "bkyssj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933833185940709411",
+        "in_reply_to_user_id": "1422093855235715076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933697460037444089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bkyssj 住出租屋被骂吃拼好饭也被骂，这个世界能不能给穷人一点活路"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422093855235715076",
+        "conversation_id": "1933697460037444089",
+        "created_at": "2025-06-14T01:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T02:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933697460037444089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933697460037444089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5817,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经济下行，又没有家里托举自己闯生活的年轻人是社会中的多数，他们靠自己合法合规工作赚钱生活，住出租屋有什么丢脸的我请问？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25516,
+          "following_count": 997,
+          "like_count": 14466,
+          "listed_count": 36,
+          "media_count": 1366,
+          "tweet_count": 15410
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-02T07:16:23.000Z",
+        "description": "脾气不好，没有耐心，不是陪聊，不讨论政治相关问题，不收门槛，不卖淫，不加任何联系方式。\n可以请我喝咖啡但别指望我惯着你，保持边界感。",
+        "id": "1422093855235715076",
+        "location": "不闲聊，不参与黄赌毒，不搞小团体，没你想要的，取关随意",
+        "name": "十三",
+        "pinned_tweet_id": "1830637968778039296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906614203173208064/c5rdpUdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17241,
+          "following_count": 297,
+          "like_count": 45015,
+          "listed_count": 55,
+          "media_count": 2262,
+          "tweet_count": 34803
+        },
+        "username": "bkyssj",
+        "verified": false
+      }
+    ]
+  }
+}

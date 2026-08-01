@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1938822984040661388",
+    "created_at": "2025-06-28T17:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T18:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939019436037730686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1770098301372944384",
+          "start": 0,
+          "username": "fang153631571"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939019436037730686",
+    "in_reply_to_user_id": "1770098301372944384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938822984040661388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fang153631571 想自由，想脱离原来的环境，想自己养活自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1938822984040661388",
+        "created_at": "2025-06-28T17:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T18:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939019436037730686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1770098301372944384",
+              "start": 0,
+              "username": "fang153631571"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939019436037730686",
+        "in_reply_to_user_id": "1770098301372944384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938822984040661388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fang153631571 想自由，想脱离原来的环境，想自己养活自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770098301372944384",
+        "conversation_id": "1938822984040661388",
+        "created_at": "2025-06-28T04:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T05:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938822984040661388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938822984040661388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 51391,
+          "like_count": 680,
+          "quote_count": 22,
+          "reply_count": 100,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "其实有一件事情我觉得很奇怪，你们是怎么样顺其自然的变成大人的？怎么样去谈恋爱的？怎么样决定怀孕的？怎么样去结婚的？怎么样去成为父母的？虽然已经毕业好几年了，但是我从来没有觉得自己会进入到另外的阶段，即使我会处事变得圆滑，但是我的内心依然感觉自己是个高中生，好像永远不会长大了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25489,
+          "following_count": 995,
+          "like_count": 14467,
+          "listed_count": 36,
+          "media_count": 1373,
+          "tweet_count": 15487
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T14:41:53.000Z",
+        "description": "很可爱，应该吧，我也不确定。♡自封颜文字大王，看到可爱的颜文字请艾特我 ♡匿名箱：https://t.co/TxpfrkrI5i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luna58220",
+                "end": 64,
+                "expanded_url": "https://ngl.link/luna58220",
+                "start": 41,
+                "url": "https://t.co/TxpfrkrI5i"
+              }
+            ]
+          }
+        },
+        "id": "1770098301372944384",
+        "name": "After 17",
+        "pinned_tweet_id": "1934298370098807186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896978422632443904/XrgrlBeC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 194,
+          "like_count": 7258,
+          "listed_count": 5,
+          "media_count": 404,
+          "tweet_count": 4607
+        },
+        "username": "fang153631571",
+        "verified": false
+      }
+    ]
+  }
+}

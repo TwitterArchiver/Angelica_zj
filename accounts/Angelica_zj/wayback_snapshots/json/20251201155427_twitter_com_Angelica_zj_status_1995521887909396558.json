@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1995521887909396558",
+    "created_at": "2025-12-01T15:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T16:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995521887909396558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/realnmudml/sta…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/realnmudml/status/1995297177313415671",
+          "start": 57,
+          "url": "https://t.co/96Ppf30QCl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995521887909396558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995297177313415671",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实看这个视频挺心痛的，喝下前的犹豫太真实，勾起了我非常糟糕的回忆。\n希望我的直觉是错误的，希望是作秀，希望平安 https://t.co/96Ppf30QCl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57063,
+        "height": 1280,
+        "media_key": "7_1995296769618649089",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1995296769618649089/pu/img/Rq2DWlPT10czKKqv.jpg",
+        "public_metrics": {
+          "view_count": 9649
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995296769618649089/pu/vid/avc1/320x568/YMzXA65C05ZbkAJP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995296769618649089/pu/vid/avc1/480x852/WCVe8BPlQtSak8zN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995296769618649089/pu/vid/avc1/720x1280/_YgoW0ex_4VKcul0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1995296769618649089/pu/pl/sO3eqQLwOJhMd1_G.m3u8?tag=12&v=1ed"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1995521887909396558",
+        "created_at": "2025-12-01T15:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T16:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995521887909396558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realnmudml/sta…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/realnmudml/status/1995297177313415671",
+              "start": 57,
+              "url": "https://t.co/96Ppf30QCl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995521887909396558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995297177313415671",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实看这个视频挺心痛的，喝下前的犹豫太真实，勾起了我非常糟糕的回忆。\n希望我的直觉是错误的，希望是作秀，希望平安 https://t.co/96Ppf30QCl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1995296769618649089"
+          ]
+        },
+        "author_id": "1796067856142213120",
+        "conversation_id": "1995297177313415671",
+        "created_at": "2025-12-01T01:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T02:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995297177313415671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PaBmR3XYDS",
+              "end": 29,
+              "expanded_url": "https://x.com/realnmudml/status/1995297177313415671/video/1",
+              "media_key": "7_1995296769618649089",
+              "start": 6,
+              "url": "https://t.co/PaBmR3XYDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995297177313415671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 28763,
+          "like_count": 89,
+          "quote_count": 12,
+          "reply_count": 73,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "早晨在宾馆 https://t.co/PaBmR3XYDS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25265,
+          "following_count": 996,
+          "like_count": 14325,
+          "listed_count": 40,
+          "media_count": 1445,
+          "tweet_count": 16086
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T06:35:42.000Z",
+        "description": "只是期待…被爱着｜od日记｜生命记录",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nmudmlclub",
+                "end": 23,
+                "expanded_url": "http://t.me/nmudmlclub",
+                "start": 0,
+                "url": "https://t.co/kJ98C5NRxK"
+              }
+            ]
+          }
+        },
+        "id": "1796067856142213120",
+        "name": "柠檬味的猫粮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839570777202704384/2VoygNni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 12,
+          "like_count": 108,
+          "listed_count": 6,
+          "media_count": 74,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/kJ98C5NRxK",
+        "username": "realnmudml",
+        "verified": false
+      }
+    ]
+  }
+}

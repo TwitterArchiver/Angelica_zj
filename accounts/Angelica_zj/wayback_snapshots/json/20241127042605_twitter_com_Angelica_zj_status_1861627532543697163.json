@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1861627532543697163",
+    "created_at": "2024-11-27T04:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T05:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1861627532543697163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/niyao7shengme/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/niyao7shengme/status/1861213324928565362",
+          "start": 15,
+          "url": "https://t.co/bY4uQ5sK2u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861627532543697163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861213324928565362",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "换乘还是出站再进站换的😀尼玛 https://t.co/bY4uQ5sK2u"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1861627532543697163",
+        "created_at": "2024-11-27T04:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T05:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861627532543697163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/niyao7shengme/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/niyao7shengme/status/1861213324928565362",
+              "start": 15,
+              "url": "https://t.co/bY4uQ5sK2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861627532543697163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861213324928565362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "换乘还是出站再进站换的😀尼玛 https://t.co/bY4uQ5sK2u"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823407676208115712",
+        "conversation_id": "1861080123321335956",
+        "created_at": "2024-11-26T01:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T02:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861213324928565362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1421851995355369477",
+              "start": 0,
+              "username": "Aichijiandanxyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861213324928565362",
+        "in_reply_to_user_id": "1421851995355369477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1493,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861080123321335956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aichijiandanxyz 我是真的 上大学了才坐上地铁 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24691,
+          "following_count": 932,
+          "like_count": 13635,
+          "listed_count": 36,
+          "tweet_count": 13982
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T17:14:15.000Z",
+        "description": "我是77 04大三 日常推 （偶尔擦边 但经常偶尔👉🏻👈🏻）私信请带投喂截图 只回过门相关 接转推  锁评为广  请自辨｜ 提问箱:https://t.co/cxNoYFTdCb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/7727639",
+                "end": 89,
+                "expanded_url": "https://ngl.link/7727639",
+                "start": 66,
+                "url": "https://t.co/cxNoYFTdCb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=swJQd",
+                "start": 0,
+                "url": "https://t.co/AiapX5uLYB"
+              }
+            ]
+          }
+        },
+        "id": "1823407676208115712",
+        "location": "推荐我自己长期使用的喵叽VPN加速器 高速 稳定 强推🔗：",
+        "name": "7᳐7这个8᳐੭",
+        "pinned_tweet_id": "1858884103455511009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827950985420967936/oYwD2jRq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4269,
+          "following_count": 25,
+          "like_count": 4808,
+          "listed_count": 5,
+          "tweet_count": 1999
+        },
+        "url": "https://t.co/AiapX5uLYB",
+        "username": "Niyao7shengme",
+        "verified": false
+      }
+    ]
+  }
+}

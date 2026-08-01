@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1935456137907945772",
+    "created_at": "2025-06-19T00:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T01:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935494502585905222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1568791831978323969",
+          "start": 0,
+          "username": "maopao_hfqy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935494502585905222",
+    "in_reply_to_user_id": "1568791831978323969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935460813159944553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maopao_hfqy 好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1935456137907945772",
+        "created_at": "2025-06-19T00:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T01:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935494502585905222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1568791831978323969",
+              "start": 0,
+              "username": "maopao_hfqy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935494502585905222",
+        "in_reply_to_user_id": "1568791831978323969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935460813159944553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maopao_hfqy 好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568791831978323969",
+        "conversation_id": "1935456137907945772",
+        "created_at": "2025-06-18T22:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T23:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935460813159944553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935460813159944553",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935456137907945772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 可能是他们馋鸡腿了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25533,
+          "following_count": 994,
+          "like_count": 14484,
+          "listed_count": 36,
+          "media_count": 1369,
+          "tweet_count": 15450
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-11T02:41:43.000Z",
+        "description": "豹豹泥好呀, 我素东野奈兔, 我来扩列了, INFP 雁三次南, 蝻勿扰,有玉玉症 空间会有负能和雪兔, 平时看蕾厕评蕾厕 雷:原神,贴吧,建人\n（呃啊。。。我只是在语c不要当真啊啊啊）😌🫰🏻 @sai1136527",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "sai1136527"
+              }
+            ]
+          }
+        },
+        "id": "1568791831978323969",
+        "location": "Toronto, Ontario",
+        "name": "东野奈兔",
+        "pinned_tweet_id": "1841149386270584968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806535551035609088/eDccGaZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10245,
+          "following_count": 1378,
+          "like_count": 40994,
+          "listed_count": 25,
+          "media_count": 1742,
+          "tweet_count": 9077
+        },
+        "username": "maopao_hfqy",
+        "verified": false
+      }
+    ]
+  }
+}

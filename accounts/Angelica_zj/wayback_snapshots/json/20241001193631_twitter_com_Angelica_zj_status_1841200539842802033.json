@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1841200539842802033",
+    "created_at": "2024-10-01T19:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T20:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1841200539842802033"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fury_jiang/sta…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/fury_jiang/status/1840778281697845471",
+          "start": 55,
+          "url": "https://t.co/wfEggVekZo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841200539842802033",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840778281697845471",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到底是谁在觉得所有女生都会成群结队…？有没有可能内向不爱社交的女生其实也占很大一部分，只是存在感比较弱而已… https://t.co/wfEggVekZo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1841200539842802033",
+        "created_at": "2024-10-01T19:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T20:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841200539842802033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fury_jiang/sta…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/fury_jiang/status/1840778281697845471",
+              "start": 55,
+              "url": "https://t.co/wfEggVekZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841200539842802033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840778281697845471",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底是谁在觉得所有女生都会成群结队…？有没有可能内向不爱社交的女生其实也占很大一部分，只是存在感比较弱而已… https://t.co/wfEggVekZo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649428851657789443",
+        "conversation_id": "1840762249897820440",
+        "created_at": "2024-09-30T15:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T16:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840778281697845471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1702610508829044736",
+              "start": 0,
+              "username": "Charles84769642"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840778281697845471",
+        "in_reply_to_user_id": "1702610508829044736",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9098,
+          "like_count": 211,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840762249897820440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Charles84769642 有没有可能男生去领就是好好的领甚至有点不好意思懂规矩一人一份 女生去领有的会组成马奇诺防线狠狠掠夺才是原因😅老板是做生意的又不是给女性做福利的 有时候看xxn的逆天程度比当代男拳不知道强多少倍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24400,
+          "following_count": 907,
+          "like_count": 13660,
+          "listed_count": 35,
+          "tweet_count": 13680
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T15:04:33.000Z",
+        "description": "累｜05｜可以叫我mono｜male（男）｜hiphop&kpop fan｜boxing & kickboxing & muay thai & mma lover（拳击 踢拳 泰拳 综合格斗爱好者）",
+        "id": "1649428851657789443",
+        "location": "幻想乡",
+        "name": "NANIMONO",
+        "pinned_tweet_id": "1825212016535261348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825972235598991360/muuGFvoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 582,
+          "like_count": 15669,
+          "listed_count": 0,
+          "tweet_count": 5676
+        },
+        "username": "fury_jiang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      }
+    ],
+    "conversation_id": "2028145609773838455",
+    "created_at": "2026-03-01T16:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T17:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028145609773838455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gxxqi44229114/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/gxxqi44229114/status/2028055383504527428",
+          "start": 13,
+          "url": "https://t.co/9PoU46eIdo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028145609773838455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028055383504527428",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看得我好那个我代了对不起 https://t.co/9PoU46eIdo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21033,
+        "height": 1280,
+        "media_key": "13_2028055275685769216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028055275685769216/img/YuL-wbacApgJX9Dr.jpg",
+        "public_metrics": {
+          "view_count": 1239528
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028055275685769216/vid/avc1/320x568/ArCkdxEsksalPm3Y.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028055275685769216/vid/avc1/480x852/GvjPIEnT2irmzQE6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028055275685769216/vid/avc1/720x1280/kumarpIZI5E-dNkd.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028055275685769216/pl/x21aY-hFgaxX8MgO.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2028145609773838455",
+        "created_at": "2026-03-01T16:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T17:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028145609773838455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gxxqi44229114/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/gxxqi44229114/status/2028055383504527428",
+              "start": 13,
+              "url": "https://t.co/9PoU46eIdo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028145609773838455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028055383504527428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看得我好那个我代了对不起 https://t.co/9PoU46eIdo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028055275685769216"
+          ]
+        },
+        "author_id": "1801248664796676096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2028055383504527428",
+        "created_at": "2026-03-01T10:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T11:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028055383504527428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/55YV3HZTBS",
+              "end": 76,
+              "expanded_url": "https://x.com/gxxqi44229114/status/2028055383504527428/video/1",
+              "media_key": "13_2028055275685769216",
+              "start": 53,
+              "url": "https://t.co/55YV3HZTBS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028055383504527428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13347,
+          "impression_count": 3976930,
+          "like_count": 19860,
+          "quote_count": 222,
+          "reply_count": 4,
+          "retweet_count": 612
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "【知名度SSS】\n\nK-POPアイドル\nファンとの交流が原因で脱会させられた動画が拡散されてしまうｗｗｗ https://t.co/55YV3HZTBS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25302,
+          "following_count": 1041,
+          "like_count": 14669,
+          "listed_count": 40,
+          "media_count": 1529,
+          "tweet_count": 16724
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T13:42:29.000Z",
+        "description": "1日1投稿にて晒し上げます。※DMにて晒し対応しております。サブ垢であり本アカです→@aupcd79443384",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "aupcd79443384"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "s-link.love/586024",
+                "end": 23,
+                "expanded_url": "https://s-link.love/586024",
+                "start": 0,
+                "url": "https://t.co/TCpLMgcpk1"
+              }
+            ]
+          }
+        },
+        "id": "1801248664796676096",
+        "location": "こちらからWebでは公開されていない動画など見れます。",
+        "name": "列さんの動画保存庫SUB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027191957068603392/iNqVjsdN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 815,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 236
+        },
+        "url": "https://t.co/TCpLMgcpk1",
+        "username": "gxxqi44229114",
+        "verified": false
+      }
+    ]
+  }
+}

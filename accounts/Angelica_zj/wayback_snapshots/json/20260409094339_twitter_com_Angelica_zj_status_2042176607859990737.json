@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2041494534237180316",
+    "created_at": "2026-04-09T09:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T10:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042176607859990737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1946920125376212992",
+          "start": 0,
+          "username": "Plasticastro"
+        },
+        {
+          "end": 24,
+          "id": "2014490051078430720",
+          "start": 14,
+          "username": "ppuuussyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042176607859990737",
+    "in_reply_to_user_id": "1946920125376212992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042175290840121571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Plasticastro @ppuuussyy 此人一口一个玩胶的不在乎这那殊不知技术好的胶佬都在搞单机，看都不会看一眼这种黄群狗，好可怜的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042175284267687936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdDmePboAARp81.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2041494534237180316",
+        "created_at": "2026-04-09T09:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042176607859990737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1946920125376212992",
+              "start": 0,
+              "username": "Plasticastro"
+            },
+            {
+              "end": 24,
+              "id": "2014490051078430720",
+              "start": 14,
+              "username": "ppuuussyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042176607859990737",
+        "in_reply_to_user_id": "1946920125376212992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042175290840121571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Plasticastro @ppuuussyy 此人一口一个玩胶的不在乎这那殊不知技术好的胶佬都在搞单机，看都不会看一眼这种黄群狗，好可怜的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042175284267687936"
+          ]
+        },
+        "author_id": "1946920125376212992",
+        "conversation_id": "2041494534237180316",
+        "created_at": "2026-04-09T09:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042175290840121571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2014490051078430720",
+              "start": 0,
+              "username": "ppuuussyy"
+            },
+            {
+              "end": 23,
+              "id": "1468567542264664067",
+              "start": 11,
+              "username": "Angelica_zj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d8HrOU7U6G",
+              "end": 89,
+              "expanded_url": "https://x.com/Plasticastro/status/2042175290840121571/photo/1",
+              "media_key": "3_2042175284267687936",
+              "start": 66,
+              "url": "https://t.co/d8HrOU7U6G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042175290840121571",
+        "in_reply_to_user_id": "2014490051078430720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042128869243732153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ppuuussyy @Angelica_zj 还以为是专注纸片女的二次元龟男没想到还是会对着现实的女人发情，龟中之龟了🤣👉👉👉🐢 https://t.co/d8HrOU7U6G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25058,
+          "following_count": 1048,
+          "like_count": 14704,
+          "listed_count": 40,
+          "media_count": 1568,
+          "tweet_count": 16952
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T13:08:45.000Z",
+        "description": "亲激女权6b2t 女本位 女权=权力power+权利right/神秘主义爱好者/吃饭GL中心 （屌畜vgbt全骟 只和女的辩论目的在于思想交流而非输赢对错） “语言边界即思想边界，悟性才是真正的巴别塔。”",
+        "id": "1946920125376212992",
+        "location": "Melbourne, Victoria",
+        "name": "Bins_PVCcccc洗手液",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946925658732404736/aM6pExXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 65,
+          "like_count": 3880,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 540
+        },
+        "username": "Plasticastro",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T00:07:34.000Z",
+        "description": "",
+        "id": "2014490051078430720",
+        "name": "ppuussyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014490717477888000/PmePdn6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 66,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 117
+        },
+        "username": "ppuuussyy",
+        "verified": false
+      }
+    ]
+  }
+}

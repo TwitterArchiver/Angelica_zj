@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2010350992441684364",
+    "created_at": "2026-01-12T09:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T10:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010641808200749091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3097356912",
+          "start": 0,
+          "username": "hinekurebow"
+        },
+        {
+          "end": 27,
+          "id": "1498096818609000451",
+          "start": 13,
+          "username": "liulanghan172"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010641808200749091",
+    "in_reply_to_user_id": "3097356912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010350992441684364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hinekurebow @liulanghan172 卧槽好怪萌死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 950,
+        "media_key": "3_2010331078977077249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YhdxNbQAE7rMz.jpg",
+        "width": 839
+      },
+      {
+        "height": 475,
+        "media_key": "3_2010331093346725888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YhemvasAAuFup.jpg",
+        "width": 950
+      },
+      {
+        "height": 475,
+        "media_key": "3_2010331104721649664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YhfRHaQAATarL.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2010350992441684364",
+        "created_at": "2026-01-12T09:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T10:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010641808200749091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3097356912",
+              "start": 0,
+              "username": "hinekurebow"
+            },
+            {
+              "end": 27,
+              "id": "1498096818609000451",
+              "start": 13,
+              "username": "liulanghan172"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010641808200749091",
+        "in_reply_to_user_id": "3097356912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010350992441684364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hinekurebow @liulanghan172 卧槽好怪萌死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010331078977077249",
+            "3_2010331093346725888",
+            "3_2010331104721649664"
+          ]
+        },
+        "author_id": "3097356912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          }
+        ],
+        "conversation_id": "2010350992441684364",
+        "created_at": "2026-01-11T14:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T15:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010350992441684364"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "うさぎ用パンツ帽子",
+              "probability": 0.2642,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "【商品】 パンツをかぶったような姿が可愛い！ うさぎ用パンツ帽子 1,757ビュー 488ビュー",
+              "display_url": "hinekurebou.crap.jp/?p=44231",
+              "end": 39,
+              "expanded_url": "http://hinekurebou.crap.jp/?p=44231",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/2010446569326493696/hqCXIqpv?format=jpg&name=orig",
+                  "width": 400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2010446569326493696/hqCXIqpv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "「うさぎ用パンツ帽子」発売中！ – フレミングの反り返る親指",
+              "unwound_url": "https://hinekurebou.crap.jp/?p=44231",
+              "url": "https://t.co/TEBqh3ZLsJ"
+            },
+            {
+              "display_url": "pic.x.com/22Uw6QqACB",
+              "end": 63,
+              "expanded_url": "https://x.com/hinekurebow/status/2010350992441684364/photo/1",
+              "media_key": "3_2010331078977077249",
+              "start": 40,
+              "url": "https://t.co/22Uw6QqACB"
+            },
+            {
+              "display_url": "pic.x.com/22Uw6QqACB",
+              "end": 63,
+              "expanded_url": "https://x.com/hinekurebow/status/2010350992441684364/photo/1",
+              "media_key": "3_2010331093346725888",
+              "start": 40,
+              "url": "https://t.co/22Uw6QqACB"
+            },
+            {
+              "display_url": "pic.x.com/22Uw6QqACB",
+              "end": 63,
+              "expanded_url": "https://x.com/hinekurebow/status/2010350992441684364/photo/1",
+              "media_key": "3_2010331104721649664",
+              "start": 40,
+              "url": "https://t.co/22Uw6QqACB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010350992441684364",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2278,
+          "impression_count": 773442,
+          "like_count": 15093,
+          "quote_count": 993,
+          "reply_count": 32,
+          "retweet_count": 2937
+        },
+        "reply_settings": "everyone",
+        "text": "「うさぎ用パンツ帽子」発売中！ https://t.co/TEBqh3ZLsJ https://t.co/22Uw6QqACB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25288,
+          "following_count": 1021,
+          "like_count": 14485,
+          "listed_count": 40,
+          "media_count": 1498,
+          "tweet_count": 16447
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-19T07:39:16.000Z",
+        "description": "ステキな商品を紹介「フレミングの反り返る親指」/Amazon.co.jpアソシエイト/hinekurebou.crap.jp",
+        "id": "3097356912",
+        "name": "ひねくれ坊",
+        "pinned_tweet_id": "1987676578441261079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/871847477078405120/fqeUC6mm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123079,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 1183,
+          "media_count": 13131,
+          "tweet_count": 13132
+        },
+        "username": "hinekurebow",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-28T00:46:06.000Z",
+        "description": "fanart(ᵔ_ᵔ)Thank you for following！/中文&Eng/📬nnowze8888@gmail.com",
+        "id": "1498096818609000451",
+        "name": "=NNowze=",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008894004780548096/3KtLY06j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 503,
+          "like_count": 5841,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 393
+        },
+        "username": "liulanghan172",
+        "verified": false
+      }
+    ]
+  }
+}

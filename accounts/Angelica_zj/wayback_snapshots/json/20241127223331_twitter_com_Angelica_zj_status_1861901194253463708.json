@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1861381285723414725",
+    "created_at": "2024-11-27T22:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T23:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861901194253463708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1470943033365438470",
+          "start": 0,
+          "username": "JRDianaForever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861901194253463708",
+    "in_reply_to_user_id": "1470943033365438470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861381285723414725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JRDianaForever 什么服丑役，他们这样明明爽的要死，自己舒服了还毫不费力的攻击了周围所有人\n难道不是因为大部分中老男都这样，为了行为合理化干脆就把这当成阳刚男标准吗，还能顺带鄙视一下自律上进注重形象的同性\n天知道我有多想这么毫不费力的活一次😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1861381285723414725",
+        "created_at": "2024-11-27T22:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T23:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861901194253463708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1470943033365438470",
+              "start": 0,
+              "username": "JRDianaForever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861901194253463708",
+        "in_reply_to_user_id": "1470943033365438470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861381285723414725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JRDianaForever 什么服丑役，他们这样明明爽的要死，自己舒服了还毫不费力的攻击了周围所有人\n难道不是因为大部分中老男都这样，为了行为合理化干脆就把这当成阳刚男标准吗，还能顺带鄙视一下自律上进注重形象的同性\n天知道我有多想这么毫不费力的活一次😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470943033365438470",
+        "conversation_id": "1861381285723414725",
+        "created_at": "2024-11-26T12:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T13:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861381285723414725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861381285723414725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 25699,
+          "like_count": 500,
+          "quote_count": 5,
+          "reply_count": 47,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "老中中年男所谓的“阳刚男”标准----男性不准化妆，不准护肤，把皮肤晒得黝黑，不准练腹肌，剪平头，爱国+仇日，大口吃饭，眼神犀利+吧唧嘴\n是否也是一种“服丑役”😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24720,
+          "following_count": 932,
+          "like_count": 13638,
+          "listed_count": 36,
+          "media_count": 1229,
+          "tweet_count": 13991
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T02:25:55.000Z",
+        "description": "永久锁推号@GabriolaDiana\n酷儿🏳️‍⚧️ 生态主义❄️ 反孔精英 嘉心糖专政\n⚠️遇到素质低的和魔怔的会拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "GabriolaDiana"
+              }
+            ]
+          }
+        },
+        "id": "1470943033365438470",
+        "location": "嘉心糖广场",
+        "name": "❄️然子🪷",
+        "pinned_tweet_id": "1663076707853541376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857360179819634688/YM7jFYl5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2664,
+          "following_count": 874,
+          "like_count": 22713,
+          "listed_count": 12,
+          "media_count": 1079,
+          "tweet_count": 14169
+        },
+        "username": "JRDianaForever",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1800757752245219545",
+    "created_at": "2024-06-12T05:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T06:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800757904796172488"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1800757904796172488",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800757752245219545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个号是第二个小号，没锁过推，早期关注的推油应该知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1800757752245219545",
+        "created_at": "2024-06-12T05:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T06:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800757904796172488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800757904796172488",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800757752245219545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个号是第二个小号，没锁过推，早期关注的推油应该知道"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800757744334667776"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1800757752245219545",
+        "created_at": "2024-06-12T05:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T06:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800757752245219545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/WrooJzGGd5",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Angelica_zj/status/1800757752245219545/photo/1",
+              "media_key": "3_1800757744334667776",
+              "start": 55,
+              "url": "https://t.co/WrooJzGGd5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800757752245219545",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过了一年多，我又梦到你了，我梦见你也很想我，你告诉大家你也很需要我\n\n醒来之后发现是梦好崩溃，一年没讲过话了 https://t.co/WrooJzGGd5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们  / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24641,
+          "following_count": 894,
+          "like_count": 13706,
+          "listed_count": 36,
+          "tweet_count": 13255
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

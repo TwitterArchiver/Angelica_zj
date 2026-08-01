@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1998905384778739729",
+    "created_at": "2025-12-11T00:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T01:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998906612103393420"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1998906612103393420",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998905384778739729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "或者是否有广西民族大学的校友能找老师确认一下，她是视觉传达专业"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1998905384778739729",
+        "created_at": "2025-12-11T00:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T01:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998906612103393420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998906612103393420",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998905384778739729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或者是否有广西民族大学的校友能找老师确认一下，她是视觉传达专业"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1998905384778739729",
+        "created_at": "2025-12-10T23:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T00:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998905384778739729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/guajavaduo/sta…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/guajavaduo/status/1998678349934207198",
+              "start": 93,
+              "url": "https://t.co/wVWPJ4X0lB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998905384778739729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998678349934207198",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有什么确切一些的消息吗，这几天我和嘤老师都在尝试联系她，但我还是抱希望于是近医院收了手机之类的，毕竟之前也有进医院没消息的情况\n目前看到的都是哀悼或者rip，有无联系上了家人的确切信息 https://t.co/wVWPJ4X0lB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25275,
+          "following_count": 1004,
+          "like_count": 14384,
+          "listed_count": 40,
+          "media_count": 1457,
+          "tweet_count": 16160
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

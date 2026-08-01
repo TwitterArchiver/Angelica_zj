@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1897137590350045620",
+    "created_at": "2025-03-05T04:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T05:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897137590350045620"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/deyuelikes/sta…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/deyuelikes/status/1897083820509422015",
+          "start": 66,
+          "url": "https://t.co/WGFP0bMc1L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897137590350045620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897083820509422015",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很奇怪的是ftm就很容易看起来or一相处就感觉很男\n我的ftm朋友告诉我，她获得认同的最轻松方式就是学男人的坏毛病，不光彩但效率高 https://t.co/WGFP0bMc1L"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1897137590350045620",
+        "created_at": "2025-03-05T04:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T05:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897137590350045620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/deyuelikes/sta…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/deyuelikes/status/1897083820509422015",
+              "start": 66,
+              "url": "https://t.co/WGFP0bMc1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897137590350045620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897083820509422015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很奇怪的是ftm就很容易看起来or一相处就感觉很男\n我的ftm朋友告诉我，她获得认同的最轻松方式就是学男人的坏毛病，不光彩但效率高 https://t.co/WGFP0bMc1L"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191311218230747139",
+        "conversation_id": "1896842408954130918",
+        "created_at": "2025-03-05T00:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T01:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897083820509422015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1585204501149110274",
+              "start": 0,
+              "username": "jiajia1216ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897083820509422015",
+        "in_reply_to_user_id": "1585204501149110274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1794,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896842408954130918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiajia1216ovo 我是真的觉得某些mtf和现实生活中真正的女孩子差距很大，只有少部分给我的感觉是真的生错了性别，大部分都是在扮演男性眼中被“性化”的女性，仿佛他们的灵魂本体就是一个飞机杯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25234,
+          "following_count": 950,
+          "like_count": 14017,
+          "listed_count": 37,
+          "media_count": 1286,
+          "tweet_count": 14619
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-04T11:08:31.000Z",
+        "description": "",
+        "id": "1191311218230747139",
+        "name": "吃饺子不吐饺子皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1191311428931612672/mCWzxgkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 244,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 49
+        },
+        "username": "deyuelikes",
+        "verified": false
+      }
+    ]
+  }
+}

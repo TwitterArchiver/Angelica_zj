@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2057469194547896691",
+    "created_at": "2026-05-22T22:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T23:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057956398495916358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1516255907142770688",
+          "start": 0,
+          "username": "inZanarkand_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057956398495916358",
+    "in_reply_to_user_id": "1516255907142770688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057862761879843026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inZanarkand_ 今天就去！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2057469194547896691",
+        "created_at": "2026-05-22T22:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T23:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057956398495916358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1516255907142770688",
+              "start": 0,
+              "username": "inZanarkand_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057956398495916358",
+        "in_reply_to_user_id": "1516255907142770688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057862761879843026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inZanarkand_ 今天就去！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516255907142770688",
+        "conversation_id": "2057469194547896691",
+        "created_at": "2026-05-22T16:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057862761879843026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057862761879843026",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057469194547896691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 该去买30周年冰箱贴了✓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25125,
+          "following_count": 1045,
+          "like_count": 14755,
+          "listed_count": 41,
+          "media_count": 1589,
+          "tweet_count": 17159
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T03:22:42.000Z",
+        "description": "We're both so alone\na warmth that we'd never known",
+        "id": "1516255907142770688",
+        "name": "Ancoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031659295826460672/c6LSy_3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 188,
+          "like_count": 4394,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 869
+        },
+        "username": "inZanarkand_",
+        "verified": false
+      }
+    ]
+  }
+}

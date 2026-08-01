@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1974844089532396002",
+    "created_at": "2025-10-05T14:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T15:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974847709149532604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743280825247170560",
+          "start": 0,
+          "username": "sleepwell_3_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974847709149532604",
+    "in_reply_to_user_id": "1743280825247170560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974845117010960565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sleepwell_3_ 让叶伊布替我上班😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1974844089532396002",
+        "created_at": "2025-10-05T14:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T15:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974847709149532604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743280825247170560",
+              "start": 0,
+              "username": "sleepwell_3_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974847709149532604",
+        "in_reply_to_user_id": "1743280825247170560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974845117010960565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sleepwell_3_ 让叶伊布替我上班😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743280825247170560",
+        "conversation_id": "1974844089532396002",
+        "created_at": "2025-10-05T14:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T15:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974845117010960565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974845117010960565",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974844089532396002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 哈哈好可爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25317,
+          "following_count": 989,
+          "like_count": 14282,
+          "listed_count": 42,
+          "media_count": 1389,
+          "tweet_count": 15734
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T14:38:41.000Z",
+        "description": "Sub｜brat｜DDLG｜焦虑型依恋｜废话推｜電子猫会遇见仿生小狗吗ovo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sleepwell_3_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sleepwell_3_",
+                "start": 0,
+                "url": "https://t.co/6m1kngxzFA"
+              }
+            ]
+          }
+        },
+        "id": "1743280825247170560",
+        "location": "请和我玩🤲🏻🤲🏻👉🏻",
+        "name": "流泪猫猫头",
+        "pinned_tweet_id": "1967983502995099657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969280166355746817/uvkYJKf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 19,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 225
+        },
+        "url": "https://t.co/6m1kngxzFA",
+        "username": "sleepwell_3_",
+        "verified": false
+      }
+    ]
+  }
+}

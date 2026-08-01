@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1869397356783013888",
+    "created_at": "2024-12-18T15:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T16:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869397356783013888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1556556844268548097",
+          "start": 3,
+          "username": "tangbao_TAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869397356783013888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869069320820863298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tangbao_TAT: 陕西女友不肯舔我奶子直到我往奶子上抹了油泼辣子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1869397356783013888",
+        "created_at": "2024-12-18T15:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T16:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869397356783013888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1556556844268548097",
+              "start": 3,
+              "username": "tangbao_TAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869397356783013888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869069320820863298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tangbao_TAT: 陕西女友不肯舔我奶子直到我往奶子上抹了油泼辣子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556556844268548097",
+        "conversation_id": "1869069320820863298",
+        "created_at": "2024-12-17T17:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T18:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869069320820863298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869069320820863298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "陕西女友不肯舔我奶子直到我往奶子上抹了油泼辣子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25010,
+          "following_count": 932,
+          "like_count": 13697,
+          "listed_count": 36,
+          "media_count": 1242,
+          "tweet_count": 14116
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T08:24:14.000Z",
+        "description": "无法摆渡自己的摆渡人",
+        "id": "1556556844268548097",
+        "location": "卡尔斯鲁厄",
+        "name": "早見桜",
+        "pinned_tweet_id": "1831992881264869835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812891863231467520/apKIrq-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 286,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 4927
+        },
+        "username": "tangbao_TAT",
+        "verified": false
+      }
+    ]
+  }
+}

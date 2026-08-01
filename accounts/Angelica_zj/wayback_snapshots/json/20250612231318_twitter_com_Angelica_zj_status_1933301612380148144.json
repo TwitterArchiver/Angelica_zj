@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1933113505223463379",
+    "created_at": "2025-06-12T23:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T00:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933301612380148144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1268491001951219712",
+          "start": 0,
+          "username": "Xaiforever11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933301612380148144",
+    "in_reply_to_user_id": "1268491001951219712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933113505223463379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xaiforever11 好厉害的宝宝，而且前后是两种感觉…都很美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1933113497568858112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtPMe-Ua0AAbFcd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1229,
+        "media_key": "3_1933113502337847296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtPMfQFb0AA_p6-.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1933113505223463379",
+        "created_at": "2025-06-12T23:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T00:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933301612380148144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1268491001951219712",
+              "start": 0,
+              "username": "Xaiforever11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933301612380148144",
+        "in_reply_to_user_id": "1268491001951219712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933113505223463379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xaiforever11 好厉害的宝宝，而且前后是两种感觉…都很美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933113497568858112",
+            "3_1933113502337847296"
+          ]
+        },
+        "author_id": "1268491001951219712",
+        "conversation_id": "1933113505223463379",
+        "created_at": "2025-06-12T10:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T11:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933113505223463379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HwIThxCoQ3",
+              "end": 38,
+              "expanded_url": "https://x.com/Xaiforever11/status/1933113505223463379/photo/1",
+              "media_key": "3_1933113497568858112",
+              "start": 15,
+              "url": "https://t.co/HwIThxCoQ3"
+            },
+            {
+              "display_url": "pic.x.com/HwIThxCoQ3",
+              "end": 38,
+              "expanded_url": "https://x.com/Xaiforever11/status/1933113505223463379/photo/1",
+              "media_key": "3_1933113502337847296",
+              "start": 15,
+              "url": "https://t.co/HwIThxCoQ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933113505223463379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇塞这件衣服变成宽松版了…… https://t.co/HwIThxCoQ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25518,
+          "following_count": 995,
+          "like_count": 14474,
+          "listed_count": 36,
+          "media_count": 1366,
+          "tweet_count": 15406
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-04T10:33:24.000Z",
+        "description": "",
+        "id": "1268491001951219712",
+        "location": "亮晶晶布丁城堡",
+        "name": "愛",
+        "pinned_tweet_id": "1787993626792034478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779901522299822081/Oq4K0emK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5255,
+          "following_count": 398,
+          "like_count": 48673,
+          "listed_count": 6,
+          "media_count": 903,
+          "tweet_count": 12394
+        },
+        "username": "Xaiforever11",
+        "verified": false
+      }
+    ]
+  }
+}

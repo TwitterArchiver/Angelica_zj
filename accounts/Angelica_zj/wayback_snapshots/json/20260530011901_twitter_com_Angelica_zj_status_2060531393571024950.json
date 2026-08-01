@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2060531393571024950",
+    "created_at": "2026-05-30T01:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T02:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060531393571024950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1833884449752350720",
+          "start": 3,
+          "username": "boss_ismee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060531393571024950",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7769
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060202145002213391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boss_ismee: 절대 자살하지 않겠다, 추해질때까지 바득바득 살아남아서 끝까지 세상에게 폐를 끼치겠노라"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2060531393571024950",
+        "created_at": "2026-05-30T01:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T02:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060531393571024950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1833884449752350720",
+              "start": 3,
+              "username": "boss_ismee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060531393571024950",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7769
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060202145002213391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boss_ismee: 절대 자살하지 않겠다, 추해질때까지 바득바득 살아남아서 끝까지 세상에게 폐를 끼치겠노라"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833884449752350720",
+        "conversation_id": "2060202145002213391",
+        "created_at": "2026-05-29T03:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060202145002213391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060202145002213391",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2327,
+          "impression_count": 1022192,
+          "like_count": 25778,
+          "quote_count": 657,
+          "reply_count": 350,
+          "retweet_count": 7769
+        },
+        "reply_settings": "everyone",
+        "text": "절대 자살하지 않겠다, 추해질때까지 바득바득 살아남아서 끝까지 세상에게 폐를 끼치겠노라"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25108,
+          "following_count": 1046,
+          "like_count": 14801,
+          "listed_count": 41,
+          "media_count": 1592,
+          "tweet_count": 17203
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T15:05:16.000Z",
+        "description": "지키고싶은 신념같은 건 없고, 지킬 수 있는 건 처녀밖에 없어.",
+        "id": "1833884449752350720",
+        "name": "펠릭스(도태된 사람)",
+        "pinned_tweet_id": "2060034613775569279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029934639180304386/kx2km-Jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 61,
+          "like_count": 30006,
+          "listed_count": 0,
+          "media_count": 1089,
+          "tweet_count": 10427
+        },
+        "username": "boss_ismee",
+        "verified": false
+      }
+    ]
+  }
+}

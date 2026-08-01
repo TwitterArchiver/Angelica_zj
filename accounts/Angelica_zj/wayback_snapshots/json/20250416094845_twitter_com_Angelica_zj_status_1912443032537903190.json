@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1911811432402092487",
+    "created_at": "2025-04-16T09:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T10:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912443032537903190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1403639017036464134",
+          "start": 0,
+          "username": "Cattary2"
+        },
+        {
+          "end": 26,
+          "id": "1748961614265720832",
+          "start": 10,
+          "username": "tintin961598369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912443032537903190",
+    "in_reply_to_user_id": "1403639017036464134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912430058377232506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cattary2 @tintin961598369 后面没联系了好可惜…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1911811432402092487",
+        "created_at": "2025-04-16T09:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T10:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912443032537903190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1403639017036464134",
+              "start": 0,
+              "username": "Cattary2"
+            },
+            {
+              "end": 26,
+              "id": "1748961614265720832",
+              "start": 10,
+              "username": "tintin961598369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912443032537903190",
+        "in_reply_to_user_id": "1403639017036464134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912430058377232506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cattary2 @tintin961598369 后面没联系了好可惜…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1403639017036464134",
+        "conversation_id": "1911811432402092487",
+        "created_at": "2025-04-16T08:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T09:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912430058377232506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1748961614265720832",
+              "start": 0,
+              "username": "tintin961598369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912430058377232506",
+        "in_reply_to_user_id": "1748961614265720832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911811432402092487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tintin961598369 有的有的！以前高中的时候遇到的网友，很有礼貌也很会调，我因为害羞其实涩涩内容很少，他很会安慰人和引导我（个人成长方面），高中的时候特别抑郁也是他陪着我，从来没有强制要求涩涩过，貌似当时是某个211的大学生，给我买东西也不会要我的地址，给我转钱让我自己买。不过后来也渐渐没联系了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25329,
+          "following_count": 972,
+          "like_count": 14228,
+          "listed_count": 38,
+          "media_count": 1304,
+          "tweet_count": 14945
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-12T09:03:25.000Z",
+        "description": "She will be loved",
+        "id": "1403639017036464134",
+        "name": "火锅炖小利",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743928202949730304/Lx8jEZI4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 93,
+          "like_count": 297,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 886
+        },
+        "username": "Cattary2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-21T06:52:09.000Z",
+        "description": "期待世界末日🦉",
+        "id": "1748961614265720832",
+        "name": "DD.典典",
+        "pinned_tweet_id": "1907120396849287190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749791661125984256/UKDnYrlM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 90,
+          "like_count": 297,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 41
+        },
+        "username": "tintin961598369",
+        "verified": false
+      }
+    ]
+  }
+}

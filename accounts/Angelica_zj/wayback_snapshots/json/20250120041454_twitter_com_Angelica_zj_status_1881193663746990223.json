@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1880659508755866048",
+    "created_at": "2025-01-20T04:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T05:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881193663746990223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1860187505511006211",
+          "start": 0,
+          "username": "jiangtaigong168"
+        },
+        {
+          "end": 25,
+          "id": "1332333765360816130",
+          "start": 17,
+          "username": "ASAN3ON"
+        },
+        {
+          "end": 38,
+          "id": "1600277431256256512",
+          "start": 26,
+          "username": "Oriyukiiiii"
+        },
+        {
+          "end": 50,
+          "id": "702827952803680256",
+          "start": 39,
+          "username": "allvulples"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881193663746990223",
+    "in_reply_to_user_id": "1860187505511006211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880978815029219653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangtaigong168 @ASAN3ON @Oriyukiiiii @allvulples 可子女也希望父母享受点好的呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1880659508755866048",
+        "created_at": "2025-01-20T04:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T05:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881193663746990223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1860187505511006211",
+              "start": 0,
+              "username": "jiangtaigong168"
+            },
+            {
+              "end": 25,
+              "id": "1332333765360816130",
+              "start": 17,
+              "username": "ASAN3ON"
+            },
+            {
+              "end": 38,
+              "id": "1600277431256256512",
+              "start": 26,
+              "username": "Oriyukiiiii"
+            },
+            {
+              "end": 50,
+              "id": "702827952803680256",
+              "start": 39,
+              "username": "allvulples"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881193663746990223",
+        "in_reply_to_user_id": "1860187505511006211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880978815029219653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangtaigong168 @ASAN3ON @Oriyukiiiii @allvulples 可子女也希望父母享受点好的呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860187505511006211",
+        "conversation_id": "1880659508755866048",
+        "created_at": "2025-01-19T14:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T15:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880978815029219653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1332333765360816130",
+              "start": 0,
+              "username": "ASAN3ON"
+            },
+            {
+              "end": 21,
+              "id": "1600277431256256512",
+              "start": 9,
+              "username": "Oriyukiiiii"
+            },
+            {
+              "end": 33,
+              "id": "702827952803680256",
+              "start": 22,
+              "username": "allvulples"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880978815029219653",
+        "in_reply_to_user_id": "1332333765360816130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1069,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880943353359106536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ASAN3ON @Oriyukiiiii @allvulples 有多少人会要求子女回报呀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25158,
+          "following_count": 936,
+          "like_count": 13800,
+          "listed_count": 37,
+          "media_count": 1259,
+          "tweet_count": 14330
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T05:04:24.000Z",
+        "description": "",
+        "id": "1860187505511006211",
+        "name": "姜太公",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875071093918269440/xbh7BNhD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 255,
+          "like_count": 1071,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1615
+        },
+        "username": "jiangtaigong168",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-27T14:41:45.000Z",
+        "description": "Chinese🇨🇳\n/RT good arts (mostly NSFW)",
+        "id": "1332333765360816130",
+        "name": "ASANEON",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1335082843672866817/NkDXIx4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 663,
+          "like_count": 2331,
+          "listed_count": 43,
+          "media_count": 381,
+          "tweet_count": 5810
+        },
+        "username": "ASAN3ON",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T23:54:14.000Z",
+        "description": "碎碎念构成的集合体。 “心怀梦想的人身上那种闪闪发光的温柔，对如今的我来说太痛了。”  https://t.co/Qm0OpuzJ0u提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oriyukiiiiii",
+                "end": 67,
+                "expanded_url": "https://ngl.link/oriyukiiiiii",
+                "start": 44,
+                "url": "https://t.co/Qm0OpuzJ0u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/Oriyuki",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/Oriyuki",
+                "start": 0,
+                "url": "https://t.co/DDg7CccjLo"
+              }
+            ]
+          }
+        },
+        "id": "1600277431256256512",
+        "location": "无处不在",
+        "name": "石獅落麻雀",
+        "pinned_tweet_id": "1837866926300975289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828968257405235200/qMZ2VQQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11790,
+          "following_count": 591,
+          "like_count": 3821,
+          "listed_count": 16,
+          "media_count": 1332,
+          "tweet_count": 4802
+        },
+        "url": "https://t.co/DDg7CccjLo",
+        "username": "Oriyukiiiii",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-25T12:10:16.000Z",
+        "description": "BIG BANG BAD BOYS AND GIRLS.",
+        "id": "702827952803680256",
+        "location": "Hong Kong",
+        "name": "Demonkeyse Manell",
+        "pinned_tweet_id": "1879519003506618716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873637459722211328/xhsKFaVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 2148,
+          "like_count": 17031,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 20746
+        },
+        "username": "allvulples",
+        "verified": false
+      }
+    ]
+  }
+}

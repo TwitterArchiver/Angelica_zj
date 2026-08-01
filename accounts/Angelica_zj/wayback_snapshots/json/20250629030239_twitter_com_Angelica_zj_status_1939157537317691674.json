@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1939157537317691674",
+    "created_at": "2025-06-29T03:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T04:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939157537317691674"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luoxiangzy/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/luoxiangzy/status/1938663762241728587",
+          "start": 16,
+          "url": "https://t.co/2EZ35NHYJq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939157537317691674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 216,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938663762241728587",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "成都还是太超前了，我支持一下呢 https://t.co/2EZ35NHYJq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9936,
+        "height": 1280,
+        "media_key": "13_1938663683883671552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938663683883671552/img/BeT2_c3MnrkEzWyz.jpg",
+        "public_metrics": {
+          "view_count": 335297
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938663683883671552/vid/avc1/320x568/60DkOPmLDNp1tZSW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938663683883671552/vid/avc1/480x852/XYlvHv-eOahlW9s2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938663683883671552/vid/avc1/720x1280/bFLGcMCENxRICbdr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938663683883671552/pl/m3xYq9hNdLyBUdQ3.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1939157537317691674",
+        "created_at": "2025-06-29T03:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T04:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939157537317691674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoxiangzy/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/luoxiangzy/status/1938663762241728587",
+              "start": 16,
+              "url": "https://t.co/2EZ35NHYJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939157537317691674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938663762241728587",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "成都还是太超前了，我支持一下呢 https://t.co/2EZ35NHYJq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938663683883671552"
+          ]
+        },
+        "author_id": "1346830626683580416",
+        "conversation_id": "1938663762241728587",
+        "created_at": "2025-06-27T18:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T19:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938663762241728587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3uU0v7HiHZ",
+              "end": 67,
+              "expanded_url": "https://x.com/LUOXIANGZY/status/1938663762241728587/video/1",
+              "media_key": "13_1938663683883671552",
+              "start": 44,
+              "url": "https://t.co/3uU0v7HiHZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938663762241728587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 182,
+          "impression_count": 633824,
+          "like_count": 872,
+          "quote_count": 5,
+          "reply_count": 46,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "2025/6/26/晚，四川成都舞厅，现场抽血，源头清查！艾滋病已经造成了极大的恐慌！ https://t.co/3uU0v7HiHZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25488,
+          "following_count": 995,
+          "like_count": 14460,
+          "listed_count": 36,
+          "media_count": 1374,
+          "tweet_count": 15492
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-06T14:47:08.000Z",
+        "description": "客观公正，不带立场灌输，只有事实信息和前瞻分析，我的频道： https://t.co/2yHqBkNNpE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@luoxiangzy",
+                "end": 53,
+                "expanded_url": "http://youtube.com/@luoxiangzy",
+                "start": 30,
+                "url": "https://t.co/2yHqBkNNpE"
+              }
+            ]
+          }
+        },
+        "id": "1346830626683580416",
+        "location": "法拉盛",
+        "name": "羅翔",
+        "pinned_tweet_id": "1936905874599297030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936091924076605440/whWwwC7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329085,
+          "following_count": 8629,
+          "like_count": 110896,
+          "listed_count": 780,
+          "media_count": 12304,
+          "tweet_count": 29132
+        },
+        "username": "LUOXIANGZY",
+        "verified": false
+      }
+    ]
+  }
+}

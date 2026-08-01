@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1902366764081856520",
+    "created_at": "2025-03-19T17:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T18:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902407264331612381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753470997422878720",
+          "start": 0,
+          "username": "404nocoriander"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902407264331612381",
+    "in_reply_to_user_id": "1753470997422878720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902366764081856520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@404nocoriander 初中的时候刷到过类似小妙招，据说痔疮膏对黑眼圈也有用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1902366764081856520",
+        "created_at": "2025-03-19T17:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T18:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902407264331612381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753470997422878720",
+              "start": 0,
+              "username": "404nocoriander"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902407264331612381",
+        "in_reply_to_user_id": "1753470997422878720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902366764081856520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@404nocoriander 初中的时候刷到过类似小妙招，据说痔疮膏对黑眼圈也有用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753470997422878720",
+        "conversation_id": "1902366764081856520",
+        "created_at": "2025-03-19T14:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T15:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902366764081856520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902366764081856520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2688,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有次在小红薯看到有人安利祛痘印好物是马应龙，没错就是擦痔疮那个马应龙 \n虽然有点邪门，但是我试了一下，真的比我这些年卖的所有产品都见效快。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25299,
+          "following_count": 948,
+          "like_count": 14060,
+          "listed_count": 37,
+          "media_count": 1290,
+          "tweet_count": 14704
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T17:30:39.000Z",
+        "description": "老公孩子热炕头",
+        "id": "1753470997422878720",
+        "location": "宛平南路600号",
+        "name": "Aaa.精神卫生中心菜医生",
+        "pinned_tweet_id": "1833349563069173894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801577511824068613/Doi4tSWZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2181,
+          "following_count": 221,
+          "like_count": 6413,
+          "listed_count": 6,
+          "media_count": 202,
+          "tweet_count": 4249
+        },
+        "username": "404nocoriander",
+        "verified": false
+      }
+    ]
+  }
+}

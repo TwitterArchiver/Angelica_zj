@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1875791689962680825",
+    "created_at": "2025-01-05T06:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T07:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1875791689962680825"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gi_sku/status/…",
+          "end": 145,
+          "expanded_url": "https://twitter.com/gi_sku/status/1875453716222075340",
+          "start": 122,
+          "url": "https://t.co/FBaErRZXKA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875791689962680825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875453716222075340",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说起来，每隔几个月or一两年，早上睡醒的时候阴蒂会随机触发持续酥麻感，这个时候夹腿和蹭床比直接用玩具刺激高潮舒服很多，而且高潮之后就没有任何感觉了\n\n小时候就有过这种经历，中间很长一段时间消失，到去年又莫名出现了两三次，到现在都不知道是为什么 https://t.co/FBaErRZXKA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1875791689962680825",
+        "created_at": "2025-01-05T06:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T07:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875791689962680825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gi_sku/status/…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/gi_sku/status/1875453716222075340",
+              "start": 122,
+              "url": "https://t.co/FBaErRZXKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875791689962680825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875453716222075340",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起来，每隔几个月or一两年，早上睡醒的时候阴蒂会随机触发持续酥麻感，这个时候夹腿和蹭床比直接用玩具刺激高潮舒服很多，而且高潮之后就没有任何感觉了\n\n小时候就有过这种经历，中间很长一段时间消失，到去年又莫名出现了两三次，到现在都不知道是为什么 https://t.co/FBaErRZXKA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791892649479385088",
+        "conversation_id": "1875453716222075340",
+        "created_at": "2025-01-04T08:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T09:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875453716222075340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875453716222075340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11824,
+          "like_count": 51,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "意淫的时候夹腿最爽。。抠逼都没夹腿爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25100,
+          "following_count": 932,
+          "like_count": 13718,
+          "listed_count": 36,
+          "media_count": 1250,
+          "tweet_count": 14204
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T18:04:51.000Z",
+        "description": "别来烦我。。。除了互关、不是口令的私信全屏蔽。。。。。",
+        "id": "1791892649479385088",
+        "name": "gi sku to",
+        "pinned_tweet_id": "1869335671548317964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875201466367168512/oewD2F-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18695,
+          "following_count": 159,
+          "like_count": 5424,
+          "listed_count": 33,
+          "media_count": 268,
+          "tweet_count": 5418
+        },
+        "username": "gi_sku",
+        "verified": false
+      }
+    ]
+  }
+}

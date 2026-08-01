@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2011158234237923370",
+    "created_at": "2026-01-14T03:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T04:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011283802031866024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1348683191763144704",
+          "start": 0,
+          "username": "icurina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011283802031866024",
+    "in_reply_to_user_id": "1348683191763144704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011158234237923370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@icurina aspa还是太全面了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2151,
+        "media_key": "3_2011158226784698368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-kRwG6bQAAZX8_.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2011158234237923370",
+        "created_at": "2026-01-14T03:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T04:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011283802031866024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1348683191763144704",
+              "start": 0,
+              "username": "icurina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011283802031866024",
+        "in_reply_to_user_id": "1348683191763144704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011158234237923370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icurina aspa还是太全面了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011158226784698368"
+          ]
+        },
+        "author_id": "1348683191763144704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1445361378210902020",
+              "name": "Giselle"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1445364004520488960",
+              "name": "Karina "
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1451605102922371082",
+              "name": "Ningning"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1445361378210902020",
+              "name": "Giselle"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1445364004520488960",
+              "name": "Karina "
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1451605102922371082",
+              "name": "Ningning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Hip-Hop",
+              "id": "1014161314971709441",
+              "name": "K-hip hop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Hip-Hop",
+              "id": "1014161314971709441",
+              "name": "K-hip hop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1445361378210902020",
+              "name": "Giselle"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1445364004520488960",
+              "name": "Karina "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1451605102922371082",
+              "name": "Ningning"
+            }
+          }
+        ],
+        "conversation_id": "2011158234237923370",
+        "created_at": "2026-01-13T19:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T20:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011158234237923370"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "giselle karina",
+              "probability": 0.8333,
+              "start": 32,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2NeTRtS2Z4",
+              "end": 70,
+              "expanded_url": "https://x.com/icurina/status/2011158234237923370/photo/1",
+              "media_key": "3_2011158226784698368",
+              "start": 47,
+              "url": "https://t.co/2NeTRtS2Z4"
+            },
+            {
+              "display_url": "x.com/mobubuka10/sta…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/mobubuka10/status/2010539544211607902",
+              "start": 71,
+              "url": "https://t.co/F72BTierzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011158234237923370",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 295,
+          "impression_count": 148938,
+          "like_count": 6529,
+          "quote_count": 27,
+          "reply_count": 3,
+          "retweet_count": 836
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010539544211607902",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "girl this is literally ningning giselle karina https://t.co/2NeTRtS2Z4 https://t.co/F72BTierzs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25286,
+          "following_count": 1025,
+          "like_count": 14460,
+          "listed_count": 40,
+          "media_count": 1499,
+          "tweet_count": 16459
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-11T17:28:34.000Z",
+        "description": "blonderina enthusiast | @drtwrkrina media acc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "drtwrkrina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/icurina",
+                "end": 23,
+                "expanded_url": "https://rentry.co/icurina",
+                "start": 0,
+                "url": "https://t.co/6M8hMR6tfx"
+              }
+            ]
+          }
+        },
+        "id": "1348683191763144704",
+        "location": "she/her  ",
+        "name": "👽",
+        "pinned_tweet_id": "1794398765039890530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960448151678279680/1-u-Olo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19353,
+          "following_count": 371,
+          "like_count": 22933,
+          "listed_count": 68,
+          "media_count": 8270,
+          "tweet_count": 18337
+        },
+        "url": "https://t.co/6M8hMR6tfx",
+        "username": "icurina",
+        "verified": false
+      }
+    ]
+  }
+}

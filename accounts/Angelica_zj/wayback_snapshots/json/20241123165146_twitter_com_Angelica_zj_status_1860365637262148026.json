@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860365628760293381",
+        "3_1860365628764487682"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1860365637262148026",
+    "created_at": "2024-11-23T16:51:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T17:51:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1860365637262148026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qVGHggYNmY",
+          "end": 30,
+          "expanded_url": "https://x.com/Angelica_zj/status/1860365637262148026/photo/1",
+          "media_key": "3_1860365628760293381",
+          "start": 7,
+          "url": "https://t.co/qVGHggYNmY"
+        },
+        {
+          "display_url": "pic.x.com/qVGHggYNmY",
+          "end": 30,
+          "expanded_url": "https://x.com/Angelica_zj/status/1860365637262148026/photo/1",
+          "media_key": "3_1860365628764487682",
+          "start": 7,
+          "url": "https://t.co/qVGHggYNmY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860365637262148026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在春天结婚了 https://t.co/qVGHggYNmY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1240,
+        "media_key": "3_1860365628760293381",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdFYrsaagAUaQNh.jpg",
+        "width": 1240
+      },
+      {
+        "height": 1414,
+        "media_key": "3_1860365628764487682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdFYrsbagAIMUT5.jpg",
+        "width": 1414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860365628760293381",
+            "3_1860365628764487682"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1860365637262148026",
+        "created_at": "2024-11-23T16:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T17:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860365637262148026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qVGHggYNmY",
+              "end": 30,
+              "expanded_url": "https://x.com/Angelica_zj/status/1860365637262148026/photo/1",
+              "media_key": "3_1860365628760293381",
+              "start": 7,
+              "url": "https://t.co/qVGHggYNmY"
+            },
+            {
+              "display_url": "pic.x.com/qVGHggYNmY",
+              "end": 30,
+              "expanded_url": "https://x.com/Angelica_zj/status/1860365637262148026/photo/1",
+              "media_key": "3_1860365628764487682",
+              "start": 7,
+              "url": "https://t.co/qVGHggYNmY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860365637262148026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在春天结婚了 https://t.co/qVGHggYNmY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24689,
+          "following_count": 930,
+          "like_count": 13631,
+          "listed_count": 35,
+          "tweet_count": 13950
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

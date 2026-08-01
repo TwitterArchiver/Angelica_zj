@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1862825219527950808",
+    "created_at": "2025-04-13T18:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T19:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911480489262911803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1883811574328213504",
+          "start": 0,
+          "username": "Mnx3m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911480489262911803",
+    "in_reply_to_user_id": "1883811574328213504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911471532339282041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mnx3m 车模好像没怎么在推上发过，囤的基本都是感兴趣的联名款"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1862825219527950808",
+        "created_at": "2025-04-13T18:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T19:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911480489262911803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1883811574328213504",
+              "start": 0,
+              "username": "Mnx3m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911480489262911803",
+        "in_reply_to_user_id": "1883811574328213504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911471532339282041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mnx3m 车模好像没怎么在推上发过，囤的基本都是感兴趣的联名款"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883811574328213504",
+        "conversation_id": "1862825219527950808",
+        "created_at": "2025-04-13T17:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T18:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911471532339282041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911471532339282041",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862825219527950808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我操还能在你这刷到车模，我操还是eva，我操还是明日香，我操牌子还是拓意，咦咦咦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25328,
+          "following_count": 968,
+          "like_count": 14204,
+          "listed_count": 38,
+          "media_count": 1305,
+          "tweet_count": 14917
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T09:38:09.000Z",
+        "description": "想当一个贴心地雷男…-🩸shtwt-能不能都来看我的发疯碎碎念谢谢-sub           有刺无刺トゲナシトゲアリ/Mygo!!!!!/Mujica/Aimer/EVA/白色相簿",
+        "id": "1883811574328213504",
+        "location": "距离你391.4km",
+        "name": "灯6188",
+        "pinned_tweet_id": "1911004941608730905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911388535954755584/NamWIs7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 19,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 138
+        },
+        "username": "Mnx3m",
+        "verified": false
+      }
+    ]
+  }
+}

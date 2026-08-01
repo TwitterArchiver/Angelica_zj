@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1907108729532588319",
+    "created_at": "2025-04-01T21:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T22:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907185689042813412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1485068728412913666",
+          "start": 0,
+          "username": "interesting_aIl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907185689042813412",
+    "in_reply_to_user_id": "1485068728412913666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907108729532588319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@interesting_aIl 照亮我的屎"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48033,
+        "height": 960,
+        "media_key": "7_1907108698578661376",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1907108698578661376/pu/img/ZUENIeIhWFujplB3.jpg",
+        "public_metrics": {
+          "view_count": 714761
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907108698578661376/pu/vid/avc1/320x426/MqBphhlg-PNBcTYe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907108698578661376/pu/vid/avc1/480x640/Cpt7wNq3MC_yqrrf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907108698578661376/pu/vid/avc1/720x960/AIMYyTUJ50YLFyL1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1907108698578661376/pu/pl/UTL_CcPWW2Oax-Jd.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1907108729532588319",
+        "created_at": "2025-04-01T21:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T22:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907185689042813412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1485068728412913666",
+              "start": 0,
+              "username": "interesting_aIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907185689042813412",
+        "in_reply_to_user_id": "1485068728412913666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907108729532588319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@interesting_aIl 照亮我的屎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1907108698578661376"
+          ]
+        },
+        "author_id": "1485068728412913666",
+        "conversation_id": "1907108729532588319",
+        "created_at": "2025-04-01T16:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T17:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907108729532588319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aAZslHZl1c",
+              "end": 43,
+              "expanded_url": "https://x.com/interesting_aIl/status/1907108729532588319/video/1",
+              "media_key": "7_1907108698578661376",
+              "start": 20,
+              "url": "https://t.co/aAZslHZl1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907108729532588319",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 738,
+          "impression_count": 634478,
+          "like_count": 1706,
+          "quote_count": 29,
+          "reply_count": 74,
+          "retweet_count": 162
+        },
+        "reply_settings": "everyone",
+        "text": "Smart luxury toilet https://t.co/aAZslHZl1c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25288,
+          "following_count": 958,
+          "like_count": 14120,
+          "listed_count": 38,
+          "media_count": 1297,
+          "tweet_count": 14781
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T01:56:50.000Z",
+        "description": "Posting interesting history, tech, art, and more.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ail_interestin…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ail_interesting/",
+                "start": 0,
+                "url": "https://t.co/LpphpR04gR"
+              }
+            ]
+          }
+        },
+        "id": "1485068728412913666",
+        "name": "Interesting As Fuck",
+        "pinned_tweet_id": "1906670884523216941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739919942223347712/nC3oBLdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994575,
+          "following_count": 117,
+          "like_count": 3344,
+          "listed_count": 3601,
+          "media_count": 11989,
+          "tweet_count": 12486
+        },
+        "url": "https://t.co/LpphpR04gR",
+        "username": "interesting_aIl",
+        "verified": true
+      }
+    ]
+  }
+}

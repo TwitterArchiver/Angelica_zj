@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2002978971374530915",
+    "created_at": "2025-12-22T10:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T11:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003057414359416883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1717496075433779200",
+          "start": 0,
+          "username": "hoba465109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003057414359416883",
+    "in_reply_to_user_id": "1717496075433779200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002978971374530915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoba465109 我最近看有人分享，睡前学习的话会比睡前玩手机的睡眠质量高很多（但我自己肯定做不到就是了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2002978971374530915].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2002978971374530915",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2002978971374530915"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2002978971374530915",
+        "created_at": "2025-12-22T10:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003057414359416883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1717496075433779200",
+              "start": 0,
+              "username": "hoba465109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003057414359416883",
+        "in_reply_to_user_id": "1717496075433779200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002978971374530915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoba465109 我最近看有人分享，睡前学习的话会比睡前玩手机的睡眠质量高很多（但我自己肯定做不到就是了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25271,
+          "following_count": 1011,
+          "like_count": 14452,
+          "listed_count": 40,
+          "media_count": 1476,
+          "tweet_count": 16294
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T10:59:19.000Z",
+        "description": "",
+        "id": "1717496075433779200",
+        "name": "Rio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002235899032317954/cyMMh0J0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 21568,
+          "following_count": 32,
+          "like_count": 1930,
+          "listed_count": 25,
+          "media_count": 39,
+          "tweet_count": 585
+        },
+        "username": "hoba465109",
+        "verified": false
+      }
+    ]
+  }
+}

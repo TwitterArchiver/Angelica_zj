@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2011015853878165740",
+    "created_at": "2026-01-14T08:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T09:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011350373559394366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1546702195709530112",
+          "start": 0,
+          "username": "ghkfjjdssfb6887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011350373559394366",
+    "in_reply_to_user_id": "1546702195709530112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011345928326975488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ghkfjjdssfb6887 好好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2011015853878165740",
+        "created_at": "2026-01-14T08:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T09:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011350373559394366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1546702195709530112",
+              "start": 0,
+              "username": "ghkfjjdssfb6887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011350373559394366",
+        "in_reply_to_user_id": "1546702195709530112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011345928326975488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ghkfjjdssfb6887 好好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546702195709530112",
+        "conversation_id": "2011015853878165740",
+        "created_at": "2026-01-14T07:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T08:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011345928326975488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011345928326975488",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011015853878165740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 其实没变质都可以用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25287,
+          "following_count": 1025,
+          "like_count": 14462,
+          "listed_count": 40,
+          "media_count": 1499,
+          "tweet_count": 16463
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-12T03:45:34.000Z",
+        "description": "那我就一直碎碎念到幸福尽头 (×ω×)",
+        "id": "1546702195709530112",
+        "name": "点咽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008679030477008896/NAHbJA39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 50,
+          "like_count": 4849,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 6509
+        },
+        "username": "ghkfjjdssfb6887",
+        "verified": false
+      }
+    ]
+  }
+}

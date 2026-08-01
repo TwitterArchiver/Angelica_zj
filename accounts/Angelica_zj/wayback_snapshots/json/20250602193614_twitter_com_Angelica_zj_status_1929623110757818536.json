@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1929453680757031091",
+    "created_at": "2025-06-02T19:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T20:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929623110757818536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798724969695977472",
+          "start": 0,
+          "username": "overdosewiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929623110757818536",
+    "in_reply_to_user_id": "1798724969695977472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929453680757031091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdosewiki 我以为下春药了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1984,
+        "media_key": "3_1929453675904405504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsbL5ULakAAX5tn.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1843,
+        "media_key": "3_1929453676508377088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsbL5WbacAArpMb.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1929453677791842304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsbL5bNakAATSSl.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1929453680757031091",
+        "created_at": "2025-06-02T19:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T20:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929623110757818536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798724969695977472",
+              "start": 0,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929623110757818536",
+        "in_reply_to_user_id": "1798724969695977472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929453680757031091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdosewiki 我以为下春药了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929453675904405504",
+            "3_1929453676508377088",
+            "3_1929453677791842304"
+          ]
+        },
+        "author_id": "1798724969695977472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1929453680757031091",
+        "created_at": "2025-06-02T08:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T09:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929453680757031091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bmuJOq0sKm",
+              "end": 37,
+              "expanded_url": "https://x.com/overdosewiki/status/1929453680757031091/photo/1",
+              "media_key": "3_1929453675904405504",
+              "start": 14,
+              "url": "https://t.co/bmuJOq0sKm"
+            },
+            {
+              "display_url": "pic.x.com/bmuJOq0sKm",
+              "end": 37,
+              "expanded_url": "https://x.com/overdosewiki/status/1929453680757031091/photo/1",
+              "media_key": "3_1929453676508377088",
+              "start": 14,
+              "url": "https://t.co/bmuJOq0sKm"
+            },
+            {
+              "display_url": "pic.x.com/bmuJOq0sKm",
+              "end": 37,
+              "expanded_url": "https://x.com/overdosewiki/status/1929453680757031091/photo/1",
+              "media_key": "3_1929453677791842304",
+              "start": 14,
+              "url": "https://t.co/bmuJOq0sKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929453680757031091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2331,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们，我上五高了.jpg https://t.co/bmuJOq0sKm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25548,
+          "following_count": 991,
+          "like_count": 14471,
+          "listed_count": 37,
+          "media_count": 1358,
+          "tweet_count": 15334
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "https://t.co/6fVCD4QQ92官方站点\n有关问题可以联系我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "方生方死 方死方生",
+        "name": "Overdosewiki",
+        "pinned_tweet_id": "1912323001305165928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899860345377665024/_7eudjIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2975,
+          "following_count": 15,
+          "like_count": 361,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 335
+        },
+        "url": "https://t.co/6fVCD4QQ92",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1970731813044896140",
+    "created_at": "2025-09-25T22:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T23:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971338893988594076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1296606780194086912",
+          "start": 0,
+          "username": "Tatt1375"
+        },
+        {
+          "end": 17,
+          "id": "1917745219841449985",
+          "start": 10,
+          "username": "wd6xxj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971338893988594076",
+    "in_reply_to_user_id": "1296606780194086912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971222367197426132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tatt1375 @wd6xxj 至少我没遇见过女人在对我毫无了解的情况下说我是婊子\n且我阐述的也只是基于原句用语的一种概率更大的可能，这句话性别互换我觉得也没什么问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1970731813044896140",
+        "created_at": "2025-09-25T22:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T23:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971338893988594076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1296606780194086912",
+              "start": 0,
+              "username": "Tatt1375"
+            },
+            {
+              "end": 17,
+              "id": "1917745219841449985",
+              "start": 10,
+              "username": "wd6xxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971338893988594076",
+        "in_reply_to_user_id": "1296606780194086912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971222367197426132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tatt1375 @wd6xxj 至少我没遇见过女人在对我毫无了解的情况下说我是婊子\n且我阐述的也只是基于原句用语的一种概率更大的可能，这句话性别互换我觉得也没什么问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1296606780194086912",
+        "conversation_id": "1970731813044896140",
+        "created_at": "2025-09-25T14:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T15:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971222367197426132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 20,
+              "id": "1917745219841449985",
+              "start": 13,
+              "username": "wd6xxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971222367197426132",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971039187794321897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj @wd6xxj 果然婊子還是最懂婊子嗎？😅\n\n真的神經病。做得不好的女人還去護航，你甚麼時候醒一下，生命中對你最差的，永遠都是你的同性，其他女人。\n\n一群互相爭奪互相殘殺互相輕視的女人，在網上裝甚麼好姐妹，真是虛偽得令人嘔心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25362,
+          "following_count": 989,
+          "like_count": 14279,
+          "listed_count": 42,
+          "media_count": 1385,
+          "tweet_count": 15705
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-21T00:35:38.000Z",
+        "description": "",
+        "id": "1296606780194086912",
+        "name": "Tatt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1296607129848041473/pCZle3ZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 56,
+          "like_count": 27455,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 6611
+        },
+        "username": "Tatt1375",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T00:57:56.000Z",
+        "description": "",
+        "id": "1917745219841449985",
+        "name": "非常快4号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917745534728806400/YLJiblBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3187,
+          "following_count": 313,
+          "like_count": 17376,
+          "listed_count": 20,
+          "media_count": 1885,
+          "tweet_count": 5922
+        },
+        "username": "wd6xxj",
+        "verified": false
+      }
+    ]
+  }
+}

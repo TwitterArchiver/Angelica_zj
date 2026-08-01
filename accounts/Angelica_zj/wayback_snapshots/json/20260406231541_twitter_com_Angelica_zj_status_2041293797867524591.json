@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041293789780959232"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      }
+    ],
+    "conversation_id": "2041293797867524591",
+    "created_at": "2026-04-06T23:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T00:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041293797867524591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LTDI2huguz",
+          "end": 86,
+          "expanded_url": "https://x.com/Angelica_zj/status/2041293797867524591/photo/1",
+          "media_key": "3_2041293789780959232",
+          "start": 63,
+          "url": "https://t.co/LTDI2huguz"
+        },
+        {
+          "display_url": "x.com/shangguanluan/…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/shangguanluan/status/2041006014078881993",
+          "start": 87,
+          "url": "https://t.co/TcHOq8yCvU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041293797867524591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041006014078881993",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "去年评论过一个父亲关于女儿患上抑郁症的疑问，再看到这条帖子心里就有不好的预感，翻出来发现真的是这个推主\n短短五个月的时间，唉 https://t.co/LTDI2huguz https://t.co/TcHOq8yCvU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041293789780959232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQh4vYa4AAY1Hi.jpg",
+        "width": 946
+      },
+      {
+        "height": 1090,
+        "media_key": "3_2041001207578386432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMXyNvaYAARMDP.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1153,
+        "media_key": "3_2041001247222943744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMX0hbaUAAyxBb.jpg",
+        "width": 1125
+      },
+      {
+        "height": 507,
+        "media_key": "3_2041001272283963392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMX1-ybIAA42Kc.jpg",
+        "width": 1032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041293789780959232"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2041293797867524591",
+        "created_at": "2026-04-06T23:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T00:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041293797867524591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LTDI2huguz",
+              "end": 86,
+              "expanded_url": "https://x.com/Angelica_zj/status/2041293797867524591/photo/1",
+              "media_key": "3_2041293789780959232",
+              "start": 63,
+              "url": "https://t.co/LTDI2huguz"
+            },
+            {
+              "display_url": "x.com/shangguanluan/…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/shangguanluan/status/2041006014078881993",
+              "start": 87,
+              "url": "https://t.co/TcHOq8yCvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041293797867524591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041006014078881993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去年评论过一个父亲关于女儿患上抑郁症的疑问，再看到这条帖子心里就有不好的预感，翻出来发现真的是这个推主\n短短五个月的时间，唉 https://t.co/LTDI2huguz https://t.co/TcHOq8yCvU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041001207578386432",
+            "3_2041001247222943744",
+            "3_2041001272283963392"
+          ]
+        },
+        "author_id": "95631742",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2041006014078881993",
+        "created_at": "2026-04-06T04:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041006014078881993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2SbevyA0i",
+              "end": 127,
+              "expanded_url": "https://x.com/shangguanluan/status/2041006014078881993/photo/1",
+              "media_key": "3_2041001207578386432",
+              "start": 104,
+              "url": "https://t.co/V2SbevyA0i"
+            },
+            {
+              "display_url": "pic.x.com/V2SbevyA0i",
+              "end": 127,
+              "expanded_url": "https://x.com/shangguanluan/status/2041006014078881993/photo/1",
+              "media_key": "3_2041001247222943744",
+              "start": 104,
+              "url": "https://t.co/V2SbevyA0i"
+            },
+            {
+              "display_url": "pic.x.com/V2SbevyA0i",
+              "end": 127,
+              "expanded_url": "https://x.com/shangguanluan/status/2041006014078881993/photo/1",
+              "media_key": "3_2041001272283963392",
+              "start": 104,
+              "url": "https://t.co/V2SbevyA0i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041006014078881993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "那个润到日本，女儿却抑郁症喝除草剂自杀的网友，已经注销推特。不知道是不是因为女儿的问题，哎。又是一个中产移民的悲剧。\n\n她肯定不是第一个，只是她恰好被大家发现了而已。但已经是一个疫情后这几年中产润剧的缩影。\n\n她带着孩子到厄瓜多尔，不知道是不是本想走线到美国，但是可能由于川普的移民政策收紧，走线失败，他们只能在厄瓜多尔停留。\n\n最后实在没有出路，选择通过留学签证到日本，然后慢慢换经管签证。可谁曾想，日本的移民政策也在收紧，要留下来也难上加难。\n\n最可悲的是她的女儿，本来是个多好的孩子，学习成绩一流——上了好大学，语言能力强，N2据说都是一次过。\n\n可是，或许是本来就性格敏感，要强，但是多年来的漂泊、流离，加上依然不可知的未来，抑郁症发作（还曾经问她能不能安乐死），最终导致了喝除草剂的悲剧。\n\n这位推友过去的确有一些支黑言论。哎，上推特的人，除非是币圈的，早年多少都有些反体制言论，这是很多人的来时路。再叠加上走线移民，留学签证移民，可谓buff叠满，只有强烈的移民焦虑才会这样。\n\n只是，移民，从来都是风险和收益对等的事情。它听起来多美好，多励志，同时就有多现实、多残酷。\n\n她只是这几年反体制中产润人的一个缩影。其他的例子还有很多。\n\n很多人千辛万苦出来，就是以为自己来到了真正“自由”的地方，可是，这几年，连美国也开始言论审查（台湾也一样）。有一些政庇无门，有一些因为语言能力低下，有一些没有生存技能。\n\n几年前走线去美国的，有些因为生存艰难，有些因为移民政策收紧，有好多人已经考虑回国了。有些也回不去，比如前段时间被ICE抓的很多民运人士，不知道未来如何。\n\n润，只是另一个生存问题的开始，不是生命问题的结束。润，生存、适应才是头等大事，“自由”只是一个副赠品（而且不保证质量）。既然是赌，就要准备输，因为你离开的未必就是一无是处的废墟，前方也未必是万事大吉的天堂。\n\n最重要的是，不要把自己遇到的所有问题，都归结到“制度”和“环境”问题，因为你在这里解决不了的，出去了也不可能自动解决。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 203,
+          "impression_count": 249242,
+          "like_count": 684,
+          "quote_count": 37,
+          "reply_count": 227,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "那个润到日本，女儿却抑郁症喝除草剂自杀的网友，已经注销推特。不知道是不是因为女儿的问题，哎。又是一个中产移民的悲剧。\n\n她肯定不是第一个，只是她恰好被大家发现了而已。但已经是一个疫情后这几年中产润剧的缩影。 https://t.co/V2SbevyA0i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25124,
+          "following_count": 1048,
+          "like_count": 14690,
+          "listed_count": 40,
+          "media_count": 1566,
+          "tweet_count": 16912
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-09T12:00:10.000Z",
+        "description": "一個寫字的。",
+        "id": "95631742",
+        "location": "Taipei City, Taiwan",
+        "name": "上官亂",
+        "pinned_tweet_id": "1987084876647109104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905797066305277952/u8wAc85q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69110,
+          "following_count": 1381,
+          "like_count": 3637,
+          "listed_count": 376,
+          "media_count": 1268,
+          "tweet_count": 9590
+        },
+        "username": "shangguanluan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1983035967629078928",
+    "created_at": "2025-10-28T04:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T05:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983035967629078928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600119610543857666",
+          "start": 3,
+          "username": "GabaProtin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983035967629078928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982708037724127319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GabaProtin: 其实推特上有一些网黄发的自己比较写实的外生殖器照片，\n从医生的角度来看存在一些健康问题，\n至少是健康隐患的。\n我觉得作为一个男性，还是应该爱护自己的屌的。\n只能说年轻人为了流量或者赚钱也是蛮拼的。\n少壮不护屌，\n老大尿不尽。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1983035967629078928",
+        "created_at": "2025-10-28T04:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T05:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983035967629078928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600119610543857666",
+              "start": 3,
+              "username": "GabaProtin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983035967629078928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982708037724127319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GabaProtin: 其实推特上有一些网黄发的自己比较写实的外生殖器照片，\n从医生的角度来看存在一些健康问题，\n至少是健康隐患的。\n我觉得作为一个男性，还是应该爱护自己的屌的。\n只能说年轻人为了流量或者赚钱也是蛮拼的。\n少壮不护屌，\n老大尿不尽。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600119610543857666",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1982708037724127319",
+        "created_at": "2025-10-27T07:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T08:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982708037724127319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982708037724127319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 44246,
+          "like_count": 302,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "其实推特上有一些网黄发的自己比较写实的外生殖器照片，\n从医生的角度来看存在一些健康问题，\n至少是健康隐患的。\n我觉得作为一个男性，还是应该爱护自己的屌的。\n只能说年轻人为了流量或者赚钱也是蛮拼的。\n少壮不护屌，\n老大尿不尽。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25344,
+          "following_count": 992,
+          "like_count": 14210,
+          "listed_count": 43,
+          "media_count": 1411,
+          "tweet_count": 15864
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T13:27:45.000Z",
+        "description": "Furry福瑞/Gay/Shanghai/M.D/90后小叔/不键政/AI Healthcare/Doctor/LGBT社会公益\n「愿你的一身混乱，能够平息」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhihu.com/column/weirdsea",
+                "end": 23,
+                "expanded_url": "https://www.zhihu.com/column/weirdsea",
+                "start": 0,
+                "url": "https://t.co/emj7DToICm"
+              }
+            ]
+          }
+        },
+        "id": "1600119610543857666",
+        "location": "Shanghai",
+        "name": "包包Dr.B🐬",
+        "pinned_tweet_id": "1718660582029795491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439385311592448/hiJxte-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4174,
+          "following_count": 891,
+          "like_count": 154,
+          "listed_count": 4,
+          "media_count": 637,
+          "tweet_count": 2358
+        },
+        "url": "https://t.co/emj7DToICm",
+        "username": "GabaProtin",
+        "verified": false
+      }
+    ]
+  }
+}

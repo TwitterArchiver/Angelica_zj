@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1909550247103115538",
+    "created_at": "2025-04-08T16:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T17:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909651001025741068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1821494049943035904",
+          "start": 0,
+          "username": "FuckuOvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909651001025741068",
+    "in_reply_to_user_id": "1821494049943035904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909550247103115538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FuckuOvo 小表情可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1909550218040766464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoAVzlsW8AAKksy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1909550218690879489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoAVzoHW4AE1O9O.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1909550247103115538",
+        "created_at": "2025-04-08T16:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T17:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909651001025741068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1821494049943035904",
+              "start": 0,
+              "username": "FuckuOvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909651001025741068",
+        "in_reply_to_user_id": "1821494049943035904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909550247103115538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FuckuOvo 小表情可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909550218040766464",
+            "3_1909550218690879489"
+          ]
+        },
+        "author_id": "1821494049943035904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1909550247103115538",
+        "created_at": "2025-04-08T10:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T11:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909550247103115538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/alEwjM7fqH",
+              "end": 86,
+              "expanded_url": "https://x.com/FuckuOvo/status/1909550247103115538/photo/1",
+              "media_key": "3_1909550218040766464",
+              "start": 63,
+              "url": "https://t.co/alEwjM7fqH"
+            },
+            {
+              "display_url": "pic.x.com/alEwjM7fqH",
+              "end": 86,
+              "expanded_url": "https://x.com/FuckuOvo/status/1909550247103115538/photo/1",
+              "media_key": "3_1909550218690879489",
+              "start": 63,
+              "url": "https://t.co/alEwjM7fqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909550247103115538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我买的喹硫平到了，然后它那个瓶子的贴字都被我撕了，因为我特别特别怕被室友看见，它的说明书很长很长，今天晚上打算吃半片看看效果 https://t.co/alEwjM7fqH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25284,
+          "following_count": 964,
+          "like_count": 14180,
+          "listed_count": 38,
+          "media_count": 1301,
+          "tweet_count": 14849
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T10:30:20.000Z",
+        "description": "💀哈喽哈喽我是小姆骨 生活推碎碎念（这个蘑菇会做饭，画画，做手工，目前正在研究怎么玩吉他和滑板），想学很多很多东西，有的时候会犯病，深夜可能会传播负能量很抱歉orz...正在治疗失眠中...祝愿大家生活愉快！\n本号由小蘑菇和姆骨粒两人共同运营",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fuckuovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fuckuovo",
+                "start": 0,
+                "url": "https://t.co/mTojXJJOYh"
+              }
+            ]
+          }
+        },
+        "id": "1821494049943035904",
+        "location": "🚪52｜88｜188｜无上限",
+        "name": "小蘑菇",
+        "pinned_tweet_id": "1909226760996004306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909255714436001792/X4mFqxuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 105,
+          "like_count": 4905,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 969
+        },
+        "url": "https://t.co/mTojXJJOYh",
+        "username": "FuckuOvo",
+        "verified": false
+      }
+    ]
+  }
+}

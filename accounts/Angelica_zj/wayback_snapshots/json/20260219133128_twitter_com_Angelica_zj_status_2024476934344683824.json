@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2024476934344683824",
+    "created_at": "2026-02-19T13:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T14:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024476934344683824"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kittylingo/sta…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/kittylingo/status/2024008181060350032",
+          "start": 38,
+          "url": "https://t.co/JZNJQT4QOC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024476934344683824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024008181060350032",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我领导就这样顶着一脖子草莓上班…跟他对接的时候我都不敢看他的脸怕绷不住表情 https://t.co/JZNJQT4QOC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2024476934344683824",
+        "created_at": "2026-02-19T13:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024476934344683824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kittylingo/sta…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/kittylingo/status/2024008181060350032",
+              "start": 38,
+              "url": "https://t.co/JZNJQT4QOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024476934344683824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024008181060350032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我领导就这样顶着一脖子草莓上班…跟他对接的时候我都不敢看他的脸怕绷不住表情 https://t.co/JZNJQT4QOC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807351021582299136",
+        "conversation_id": "2024008181060350032",
+        "created_at": "2026-02-18T06:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T07:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024008181060350032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024008181060350032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 535106,
+          "like_count": 2561,
+          "quote_count": 3,
+          "reply_count": 73,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "其实我真的不懂顶着那么大的 那么多的吻痕上课啥意思...尤其是上舞蹈课的时候...穿大领口衣服 盘头还要一直看镜子 真的不会尴尬吗...这跟告诉全班同学你被狠狠糙了有啥区别..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25277,
+          "following_count": 1038,
+          "like_count": 14619,
+          "listed_count": 40,
+          "media_count": 1523,
+          "tweet_count": 16671
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T09:50:49.000Z",
+        "description": "",
+        "id": "1807351021582299136",
+        "name": "恋痛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021915796360822784/pNSYsWaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6443,
+          "following_count": 69,
+          "like_count": 362,
+          "listed_count": 3,
+          "media_count": 21,
+          "tweet_count": 236
+        },
+        "username": "Kittylingo",
+        "verified": false
+      }
+    ]
+  }
+}

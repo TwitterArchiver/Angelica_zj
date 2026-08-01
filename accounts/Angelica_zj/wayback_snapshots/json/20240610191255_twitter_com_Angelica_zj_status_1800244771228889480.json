@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1800221157456785881",
+    "created_at": "2024-06-10T19:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T20:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800244771228889480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1534212480733302784",
+          "start": 0,
+          "username": "yunshizi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800244771228889480",
+    "in_reply_to_user_id": "1534212480733302784",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800240752246530301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunshizi 婉拒🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1800221157456785881",
+        "created_at": "2024-06-10T19:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T20:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800244771228889480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1534212480733302784",
+              "start": 0,
+              "username": "yunshizi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800244771228889480",
+        "in_reply_to_user_id": "1534212480733302784",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800240752246530301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunshizi 婉拒🥺"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800240748895633408"
+          ]
+        },
+        "author_id": "1534212480733302784",
+        "conversation_id": "1800221157456785881",
+        "created_at": "2024-06-10T18:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T19:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800240752246530301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/PFt0wmxp3b",
+              "end": 42,
+              "expanded_url": "https://twitter.com/yunshizi/status/1800240752246530301/photo/1",
+              "media_key": "3_1800240748895633408",
+              "start": 19,
+              "url": "https://t.co/PFt0wmxp3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800240752246530301",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800224786293076355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 男宝能看吗 https://t.co/PFt0wmxp3b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们  / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24612,
+          "following_count": 895,
+          "like_count": 13692,
+          "listed_count": 36,
+          "tweet_count": 13238
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-07T16:35:45.000Z",
+        "description": "云实子",
+        "id": "1534212480733302784",
+        "name": "云实子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642588580336791552/oMNUUoBP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 62,
+          "like_count": 14,
+          "listed_count": 2,
+          "tweet_count": 56
+        },
+        "username": "yunshizi",
+        "verified": false
+      }
+    ]
+  }
+}

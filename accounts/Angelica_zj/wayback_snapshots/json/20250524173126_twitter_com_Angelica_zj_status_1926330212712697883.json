@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1926292059192746180",
+    "created_at": "2025-05-24T17:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T18:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926330212712697883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1231090493737578497",
+          "start": 0,
+          "username": "HimeYousa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926330212712697883",
+    "in_reply_to_user_id": "1231090493737578497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926311805627838935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HimeYousa 是嘟！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1926292059192746180",
+        "created_at": "2025-05-24T17:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T18:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926330212712697883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1231090493737578497",
+              "start": 0,
+              "username": "HimeYousa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926330212712697883",
+        "in_reply_to_user_id": "1231090493737578497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926311805627838935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimeYousa 是嘟！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1231090493737578497",
+        "conversation_id": "1926292059192746180",
+        "created_at": "2025-05-24T16:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T17:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926311805627838935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926311805627838935",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926292059192746180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj e哥好帅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25539,
+          "following_count": 991,
+          "like_count": 14428,
+          "listed_count": 37,
+          "media_count": 1344,
+          "tweet_count": 15265
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-22T05:37:14.000Z",
+        "description": "男173/55kg     逐渐滴泪（疑似）…        \n                               颜性恋偏好女    \n不闲聊只接口令无事勿扰",
+        "id": "1231090493737578497",
+        "location": "上海",
+        "name": "Nya咕儿轩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1556980568902057989/kKB0kepm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 212,
+          "like_count": 21630,
+          "listed_count": 13,
+          "media_count": 184,
+          "tweet_count": 3459
+        },
+        "username": "HimeYousa",
+        "verified": false
+      }
+    ]
+  }
+}

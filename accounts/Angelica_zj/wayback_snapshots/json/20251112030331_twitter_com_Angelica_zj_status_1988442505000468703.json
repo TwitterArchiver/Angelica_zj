@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1987714446140088539",
+    "created_at": "2025-11-12T03:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T04:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988442505000468703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1759886349308698624",
+          "start": 0,
+          "username": "Niaohai345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988442505000468703",
+    "in_reply_to_user_id": "1759886349308698624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988355253172138010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Niaohai345 我感觉这样相对还是好了点，毕竟大多数两方都需要工作，不会太催着女方放弃工作做家庭主妇，也不需要长期住在男方父母家里伺候人…当然这一切的前提都是还没生孩子，生了孩子一切打回原形"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1987714446140088539",
+        "created_at": "2025-11-12T03:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T04:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988442505000468703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1759886349308698624",
+              "start": 0,
+              "username": "Niaohai345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988442505000468703",
+        "in_reply_to_user_id": "1759886349308698624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988355253172138010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Niaohai345 我感觉这样相对还是好了点，毕竟大多数两方都需要工作，不会太催着女方放弃工作做家庭主妇，也不需要长期住在男方父母家里伺候人…当然这一切的前提都是还没生孩子，生了孩子一切打回原形"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759886349308698624",
+        "conversation_id": "1987714446140088539",
+        "created_at": "2025-11-11T21:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T22:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988355253172138010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988355253172138010",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987714446140088539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我们这边也是。因为推翻彩礼嫁娶的原因不是进步了，而是当下经济下行的情况下，男方出不起彩礼，女方找不到出彩礼的男方，为了赶紧嫁娶，双方就都愿意放下彩礼这个问题，但观念上并没有任何进步😞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25304,
+          "following_count": 990,
+          "like_count": 14287,
+          "listed_count": 41,
+          "media_count": 1427,
+          "tweet_count": 15965
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T10:23:22.000Z",
+        "description": "俺是三文鱼｜吃饭bot｜人机｜看到这条简介的人记得好好吃饭",
+        "id": "1759886349308698624",
+        "name": "好吃三文鱼",
+        "pinned_tweet_id": "1966803623238680774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966411213673476100/CGsPSkHI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 89,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 115
+        },
+        "username": "Niaohai345",
+        "verified": false
+      }
+    ]
+  }
+}

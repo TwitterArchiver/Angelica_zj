@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861801177693999104"
+      ],
+      "media_source_tweet_id": [
+        "1861801183519875394"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1022475984325369856",
+          "name": "Mobile Suit Gundam"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+          "id": "1022475984325369856",
+          "name": "Mobile Suit Gundam"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1861913259840036867",
+    "created_at": "2024-11-27T23:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T00:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861913259840036867"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "機動戦士ガンダム　葬送のフリーレン",
+          "probability": 0.1746,
+          "start": 21,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "883775948079808512",
+          "start": 3,
+          "username": "jJcq1UcKLRmwvOT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lYTCGHGrdP",
+          "end": 62,
+          "expanded_url": "https://x.com/jJcq1UcKLRmwvOT/status/1861801183519875394/photo/1",
+          "media_key": "3_1861801177693999104",
+          "start": 39,
+          "url": "https://t.co/lYTCGHGrdP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861913259840036867",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4727
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861801183519875394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jJcq1UcKLRmwvOT: 機動戦士ガンダム　葬送のフリーレン https://t.co/lYTCGHGrdP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1861801177693999104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdZyTo7a0AAReHO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861801177693999104"
+          ],
+          "media_source_tweet_id": [
+            "1861801183519875394"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1861913259840036867",
+        "created_at": "2024-11-27T23:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T00:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861913259840036867"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "機動戦士ガンダム　葬送のフリーレン",
+              "probability": 0.1746,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "883775948079808512",
+              "start": 3,
+              "username": "jJcq1UcKLRmwvOT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lYTCGHGrdP",
+              "end": 62,
+              "expanded_url": "https://x.com/jJcq1UcKLRmwvOT/status/1861801183519875394/photo/1",
+              "media_key": "3_1861801177693999104",
+              "start": 39,
+              "url": "https://t.co/lYTCGHGrdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861913259840036867",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4727
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861801183519875394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jJcq1UcKLRmwvOT: 機動戦士ガンダム　葬送のフリーレン https://t.co/lYTCGHGrdP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861801177693999104"
+          ]
+        },
+        "author_id": "883775948079808512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1861801183519875394",
+        "created_at": "2024-11-27T15:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T16:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861801183519875394"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "機動戦士ガンダム　葬送のフリーレン",
+              "probability": 0.1795,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lYTCGHGrdP",
+              "end": 41,
+              "expanded_url": "https://x.com/jJcq1UcKLRmwvOT/status/1861801183519875394/photo/1",
+              "media_key": "3_1861801177693999104",
+              "start": 18,
+              "url": "https://t.co/lYTCGHGrdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861801183519875394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2813,
+          "impression_count": 391221,
+          "like_count": 26565,
+          "quote_count": 49,
+          "reply_count": 41,
+          "retweet_count": 4727
+        },
+        "reply_settings": "everyone",
+        "text": "機動戦士ガンダム　葬送のフリーレン https://t.co/lYTCGHGrdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24722,
+          "following_count": 932,
+          "like_count": 13639,
+          "listed_count": 36,
+          "media_count": 1229,
+          "tweet_count": 13992
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-08T19:53:00.000Z",
+        "description": "アート用アカウント コンセプトアーティスト",
+        "id": "883775948079808512",
+        "name": "RintaroKomori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1477203810804453378/GySJF4fU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62540,
+          "following_count": 339,
+          "like_count": 9247,
+          "listed_count": 507,
+          "media_count": 329,
+          "tweet_count": 382
+        },
+        "username": "jJcq1UcKLRmwvOT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1885710256858419253",
+    "created_at": "2025-02-03T14:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T15:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886422038660919331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1589983561846620161",
+          "start": 0,
+          "username": "fujiu_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886422038660919331",
+    "in_reply_to_user_id": "1589983561846620161",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886252124516081690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fujiu_9 🤲💗💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1885710256858419253",
+        "created_at": "2025-02-03T14:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T15:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886422038660919331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1589983561846620161",
+              "start": 0,
+              "username": "fujiu_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886422038660919331",
+        "in_reply_to_user_id": "1589983561846620161",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886252124516081690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fujiu_9 🤲💗💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589983561846620161",
+        "conversation_id": "1885710256858419253",
+        "created_at": "2025-02-03T03:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T04:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886252124516081690"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "萌萌",
+              "probability": 0.6085,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886252124516081690",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885710256858419253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 萌萌的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25150,
+          "following_count": 940,
+          "like_count": 13858,
+          "listed_count": 37,
+          "media_count": 1269,
+          "tweet_count": 14435
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T14:10:07.000Z",
+        "description": "一般通行互联网居民，想被大家喜欢。请来喜欢我吧",
+        "id": "1589983561846620161",
+        "name": "傅九",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589983749818568709/iYW75yo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 247,
+          "like_count": 792,
+          "listed_count": 6,
+          "media_count": 76,
+          "tweet_count": 171
+        },
+        "username": "fujiu_9",
+        "verified": false
+      }
+    ]
+  }
+}

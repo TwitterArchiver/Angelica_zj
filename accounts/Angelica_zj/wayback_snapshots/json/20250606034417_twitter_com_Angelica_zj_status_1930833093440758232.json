@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1930658519277339055",
+    "created_at": "2025-06-06T03:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T04:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930833093440758232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1627307144151449602",
+          "start": 0,
+          "username": "antibaby_99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930833093440758232",
+    "in_reply_to_user_id": "1627307144151449602",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930702133223125222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@antibaby_99 那很萌了😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1930658519277339055",
+        "created_at": "2025-06-06T03:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T04:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930833093440758232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1627307144151449602",
+              "start": 0,
+              "username": "antibaby_99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930833093440758232",
+        "in_reply_to_user_id": "1627307144151449602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930702133223125222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@antibaby_99 那很萌了😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627307144151449602",
+        "conversation_id": "1930658519277339055",
+        "created_at": "2025-06-05T19:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T20:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930702133223125222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930702133223125222",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930658519277339055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 帅姐微萌🫢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25532,
+          "following_count": 994,
+          "like_count": 14493,
+          "listed_count": 36,
+          "media_count": 1362,
+          "tweet_count": 15367
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T14:00:41.000Z",
+        "description": "处于性无能守活寡只能在网上无能狂怒的阶段",
+        "id": "1627307144151449602",
+        "name": "一根孤独的海蜇丝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929296897329500160/-OU_t7IZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22981,
+          "following_count": 235,
+          "like_count": 54894,
+          "listed_count": 58,
+          "media_count": 388,
+          "tweet_count": 16141
+        },
+        "username": "antibaby_99",
+        "verified": false
+      }
+    ]
+  }
+}

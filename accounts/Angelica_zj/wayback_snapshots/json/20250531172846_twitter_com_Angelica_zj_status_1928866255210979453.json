@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928866243936923651"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1928866255210979453",
+    "created_at": "2025-05-31T17:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T18:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928866255210979453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uH3pjk0I6E",
+          "end": 34,
+          "expanded_url": "https://x.com/Angelica_zj/status/1928866255210979453/photo/1",
+          "media_key": "3_1928866243936923651",
+          "start": 11,
+          "url": "https://t.co/uH3pjk0I6E"
+        },
+        {
+          "display_url": "x.com/codyhunk/statu…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/codyhunk/status/1928525884446957974",
+          "start": 35,
+          "url": "https://t.co/TfyJxpgxOA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928866255210979453",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928525884446957974",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "gpt也是流汗黄豆了 https://t.co/uH3pjk0I6E https://t.co/TfyJxpgxOA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928866243936923651",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsS1oRkaMAMzlfY.jpg",
+        "width": 946
+      },
+      {
+        "height": 559,
+        "media_key": "3_1928525876066684928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsOAEQcakAAe8yr.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928866243936923651"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1928866255210979453",
+        "created_at": "2025-05-31T17:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T18:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928866255210979453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uH3pjk0I6E",
+              "end": 34,
+              "expanded_url": "https://x.com/Angelica_zj/status/1928866255210979453/photo/1",
+              "media_key": "3_1928866243936923651",
+              "start": 11,
+              "url": "https://t.co/uH3pjk0I6E"
+            },
+            {
+              "display_url": "x.com/codyhunk/statu…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/codyhunk/status/1928525884446957974",
+              "start": 35,
+              "url": "https://t.co/TfyJxpgxOA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928866255210979453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928525884446957974",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "gpt也是流汗黄豆了 https://t.co/uH3pjk0I6E https://t.co/TfyJxpgxOA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928525876066684928"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "1928525884446957974",
+        "created_at": "2025-05-30T18:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T19:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928525884446957974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AMsJpk5Dcd",
+              "end": 44,
+              "expanded_url": "https://x.com/codyhunk/status/1928525884446957974/photo/1",
+              "media_key": "3_1928525876066684928",
+              "start": 21,
+              "url": "https://t.co/AMsJpk5Dcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928525884446957974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8364,
+          "like_count": 148,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看着右边的大一点，实际是错觉，两个一样大 https://t.co/AMsJpk5Dcd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25546,
+          "following_count": 989,
+          "like_count": 14464,
+          "listed_count": 37,
+          "media_count": 1357,
+          "tweet_count": 15319
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "大家好叫我半藏就好，喜欢和大家交朋友，平时分享沙雕图。爱打游戏不红温，互fo记得在顶置留言",
+        "id": "1911628907842818049",
+        "location": "距你0.2km",
+        "name": "岛田半藏（互fo私",
+        "pinned_tweet_id": "1928162397178442173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912733546407686145/-TA4wnE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1732,
+          "following_count": 349,
+          "like_count": 641,
+          "listed_count": 4,
+          "media_count": 992,
+          "tweet_count": 1125
+        },
+        "username": "codyhunk",
+        "verified": false
+      }
+    ]
+  }
+}

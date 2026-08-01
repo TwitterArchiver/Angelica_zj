@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1931934675024715939",
+    "created_at": "2025-06-09T13:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T14:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932067511983538536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1756338230599770112",
+          "start": 0,
+          "username": "brunner_mi3818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932067511983538536",
+    "in_reply_to_user_id": "1756338230599770112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931934675024715939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brunner_mi3818 给人一种出发点挺真诚，同时文化水平又很低的感觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_1931934665830723584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs-cV74acAAvSdT.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1931934675024715939",
+        "created_at": "2025-06-09T13:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T14:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932067511983538536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1756338230599770112",
+              "start": 0,
+              "username": "brunner_mi3818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932067511983538536",
+        "in_reply_to_user_id": "1756338230599770112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931934675024715939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brunner_mi3818 给人一种出发点挺真诚，同时文化水平又很低的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931934665830723584"
+          ]
+        },
+        "author_id": "1756338230599770112",
+        "conversation_id": "1931934675024715939",
+        "created_at": "2025-06-09T04:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T05:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931934675024715939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5962lHsgA",
+              "end": 67,
+              "expanded_url": "https://x.com/brunner_mi3818/status/1931934675024715939/photo/1",
+              "media_key": "3_1931934665830723584",
+              "start": 44,
+              "url": "https://t.co/o5962lHsgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931934675024715939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 31469,
+          "like_count": 239,
+          "quote_count": 10,
+          "reply_count": 59,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "每天一打开推特就发现安奶又有新的笑料了 卖胩的以后别跟这种猪队友玩了行不 真是蠢到家😂 https://t.co/o5962lHsgA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25518,
+          "following_count": 996,
+          "like_count": 14499,
+          "listed_count": 36,
+          "media_count": 1363,
+          "tweet_count": 15389
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T15:24:04.000Z",
+        "description": "我只是一个深爱前夫的可怜女子",
+        "id": "1756338230599770112",
+        "location": " Phenix City ",
+        "name": "bornthisway",
+        "pinned_tweet_id": "1906234055949263231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926231706454884352/imFLsxQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 40,
+          "like_count": 8501,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 2959
+        },
+        "username": "brunner_mi3818",
+        "verified": false
+      }
+    ]
+  }
+}

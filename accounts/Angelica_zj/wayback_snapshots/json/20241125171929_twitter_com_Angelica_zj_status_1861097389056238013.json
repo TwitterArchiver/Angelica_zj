@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860863963334053888",
+        "3_1860863971064217600"
+      ],
+      "media_source_tweet_id": [
+        "1860864010817835175",
+        "1860864010817835175"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1861097389056238013",
+    "created_at": "2024-11-25T17:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T18:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861097389056238013"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "韓国",
+          "probability": 0.9465,
+          "start": 16,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "35960765",
+          "start": 3,
+          "username": "onipro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9RQBsMNvLc",
+          "end": 60,
+          "expanded_url": "https://x.com/onipro/status/1860864010817835175/photo/1",
+          "media_key": "3_1860863963334053888",
+          "start": 37,
+          "url": "https://t.co/9RQBsMNvLc"
+        },
+        {
+          "display_url": "pic.x.com/9RQBsMNvLc",
+          "end": 60,
+          "expanded_url": "https://x.com/onipro/status/1860864010817835175/photo/1",
+          "media_key": "3_1860863971064217600",
+          "start": 37,
+          "url": "https://t.co/9RQBsMNvLc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861097389056238013",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4456
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860864010817835175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onipro: 手の翼。韓国のアーティスト、チェ・スアンの作品。 https://t.co/9RQBsMNvLc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1860863963334053888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdMd6lXaEAAFStW.jpg",
+        "width": 1080
+      },
+      {
+        "height": 742,
+        "media_key": "3_1860863971064217600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdMd7CKbAAAVSHM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860863963334053888",
+            "3_1860863971064217600"
+          ],
+          "media_source_tweet_id": [
+            "1860864010817835175",
+            "1860864010817835175"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1861097389056238013",
+        "created_at": "2024-11-25T17:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T18:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861097389056238013"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "韓国",
+              "probability": 0.9465,
+              "start": 16,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "35960765",
+              "start": 3,
+              "username": "onipro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9RQBsMNvLc",
+              "end": 60,
+              "expanded_url": "https://x.com/onipro/status/1860864010817835175/photo/1",
+              "media_key": "3_1860863963334053888",
+              "start": 37,
+              "url": "https://t.co/9RQBsMNvLc"
+            },
+            {
+              "display_url": "pic.x.com/9RQBsMNvLc",
+              "end": 60,
+              "expanded_url": "https://x.com/onipro/status/1860864010817835175/photo/1",
+              "media_key": "3_1860863971064217600",
+              "start": 37,
+              "url": "https://t.co/9RQBsMNvLc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861097389056238013",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4456
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860864010817835175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @onipro: 手の翼。韓国のアーティスト、チェ・スアンの作品。 https://t.co/9RQBsMNvLc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860863963334053888",
+            "3_1860863971064217600"
+          ]
+        },
+        "author_id": "35960765",
+        "conversation_id": "1860864010817835175",
+        "created_at": "2024-11-25T01:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T02:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860864010817835175"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "韓国",
+              "probability": 0.9465,
+              "start": 4,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9RQBsMNvLc",
+              "end": 48,
+              "expanded_url": "https://x.com/onipro/status/1860864010817835175/photo/1",
+              "media_key": "3_1860863963334053888",
+              "start": 25,
+              "url": "https://t.co/9RQBsMNvLc"
+            },
+            {
+              "display_url": "pic.x.com/9RQBsMNvLc",
+              "end": 48,
+              "expanded_url": "https://x.com/onipro/status/1860864010817835175/photo/1",
+              "media_key": "3_1860863971064217600",
+              "start": 25,
+              "url": "https://t.co/9RQBsMNvLc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860864010817835175",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "手の翼。韓国のアーティスト、チェ・スアンの作品。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4074,
+          "impression_count": 2233286,
+          "like_count": 49385,
+          "quote_count": 612,
+          "reply_count": 171,
+          "retweet_count": 4456
+        },
+        "reply_settings": "everyone",
+        "text": "手の翼。韓国のアーティスト、チェ・スアンの作品。 https://t.co/9RQBsMNvLc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24673,
+          "following_count": 928,
+          "like_count": 13630,
+          "listed_count": 35,
+          "tweet_count": 13967
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-28T02:38:43.000Z",
+        "description": "創造的思考を刺激するポストを毎日していくよ。Follow Me!!!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onipro.net",
+                "end": 23,
+                "expanded_url": "https://www.onipro.net/",
+                "start": 0,
+                "url": "https://t.co/YCKbZjJR0A"
+              }
+            ]
+          }
+        },
+        "id": "35960765",
+        "location": "japan",
+        "name": "萩原幸也 ®️",
+        "pinned_tweet_id": "1720040156831658358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1408260173072781316/EkSbGhO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97839,
+          "following_count": 5086,
+          "like_count": 23578,
+          "listed_count": 857,
+          "tweet_count": 21686
+        },
+        "url": "https://t.co/YCKbZjJR0A",
+        "username": "onipro",
+        "verified": true
+      }
+    ]
+  }
+}

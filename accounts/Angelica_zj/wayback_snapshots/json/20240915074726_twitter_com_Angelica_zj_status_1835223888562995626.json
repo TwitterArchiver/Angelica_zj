@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1834913697808236545"
+      ],
+      "media_source_tweet_id": [
+        "1834913707539022049"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1835223888562995626",
+    "created_at": "2024-09-15T07:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T08:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835223888562995626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1364519178170892298",
+          "start": 3,
+          "username": "SS7D_0015"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/durmekntnh",
+          "end": 127,
+          "expanded_url": "https://twitter.com/SS7D_0015/status/1834913707539022049/photo/1",
+          "media_key": "3_1834913697808236545",
+          "start": 104,
+          "url": "https://t.co/DurMEKntnH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835223888562995626",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834913707539022049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SS7D_0015: 本人开有庇护所，详情如下：\n地址：陕西宝鸡\n利群避难所，主要接纳西北跨性别，\n目前房间全空，月租仅象征性收取100r\n需要者联系腊月十三. QQ3384055659\n求转就转！ https://t.co/DurMEKntnH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1835223888562995626].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1835223888562995626",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1835223888562995626"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1834913697808236545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXbsSU9bwAEmT0v.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834913697808236545"
+          ]
+        },
+        "author_id": "1364519178170892298",
+        "conversation_id": "1834913707539022049",
+        "created_at": "2024-09-14T11:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T12:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834913707539022049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/durmekntnh",
+              "end": 112,
+              "expanded_url": "https://twitter.com/SS7D_0015/status/1834913707539022049/photo/1",
+              "media_key": "3_1834913697808236545",
+              "start": 89,
+              "url": "https://t.co/DurMEKntnH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834913707539022049",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 891,
+          "like_count": 28,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "本人开有庇护所，详情如下：\n地址：陕西宝鸡\n利群避难所，主要接纳西北跨性别，\n目前房间全空，月租仅象征性收取100r\n需要者联系腊月十三. QQ3384055659\n求转就转！ https://t.co/DurMEKntnH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24410,
+          "following_count": 907,
+          "like_count": 13571,
+          "listed_count": 35,
+          "tweet_count": 13603
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-24T10:15:27.000Z",
+        "description": "不知名的自切普通人，扔在西湖中。云云@Sikongyun家的小崽子 HRT 2020.10.28 只想抽烟，想喝点酒。用冰冷昂贵入云涉水的轻身术，去看宇宙和天空，在沙滩上的碎石里去死。 @SS7E_0020請關注他",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "Sikongyun"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "SS7E_0020"
+              }
+            ]
+          }
+        },
+        "id": "1364519178170892298",
+        "location": "蘇家屯站",
+        "name": "司空鶼語.",
+        "pinned_tweet_id": "1809807190632591855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827912663546155008/Rdee-Kum_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 241,
+          "like_count": 1220,
+          "listed_count": 8,
+          "tweet_count": 6185
+        },
+        "username": "SS7D_0015",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1847310871044952369",
+    "created_at": "2024-10-19T03:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T04:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847476688889999723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1728633374229630976",
+          "start": 0,
+          "username": "kr_sx78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847476688889999723",
+    "in_reply_to_user_id": "1728633374229630976",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847465433621774515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kr_sx78 o(｀ω´ )o🩷🩷🩷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1847310871044952369",
+        "created_at": "2024-10-19T03:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T04:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847476688889999723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1728633374229630976",
+              "start": 0,
+              "username": "kr_sx78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847476688889999723",
+        "in_reply_to_user_id": "1728633374229630976",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847465433621774515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kr_sx78 o(｀ω´ )o🩷🩷🩷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728633374229630976",
+        "conversation_id": "1847310871044952369",
+        "created_at": "2024-10-19T02:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T03:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847465433621774515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847465433621774515",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847310871044952369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj esta chica es cada dia mas bella :'3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24682,
+          "following_count": 925,
+          "like_count": 13595,
+          "listed_count": 35,
+          "tweet_count": 13815
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T04:35:23.000Z",
+        "description": ":｡･:*:･ﾟ’★,｡･:*:･ﾟ’☆//shtwt\n??",
+        "id": "1728633374229630976",
+        "name": "linn..:*",
+        "pinned_tweet_id": "1831409197956919433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846734831540940800/euTxREN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 46,
+          "like_count": 2678,
+          "listed_count": 4,
+          "tweet_count": 308
+        },
+        "username": "kr_sx78",
+        "verified": false
+      }
+    ]
+  }
+}

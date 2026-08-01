@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1918009398984941637",
+    "created_at": "2025-05-01T18:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T19:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918009398984941637"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shishishidifuf…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/shishishidifufu/status/1917899735509475469",
+          "start": 36,
+          "url": "https://t.co/VjB58rqJHG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918009398984941637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917899735509475469",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "昨天下午就有人要换我下铺，omg要换不得给我钱么，怎么能嘴巴一张就是要 https://t.co/VjB58rqJHG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 916,
+        "media_key": "3_1917899732602724352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp2_pTSaIAAqmOH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1918009398984941637",
+        "created_at": "2025-05-01T18:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T19:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918009398984941637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shishishidifuf…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/shishishidifufu/status/1917899735509475469",
+              "start": 36,
+              "url": "https://t.co/VjB58rqJHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918009398984941637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917899735509475469",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天下午就有人要换我下铺，omg要换不得给我钱么，怎么能嘴巴一张就是要 https://t.co/VjB58rqJHG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917899732602724352"
+          ]
+        },
+        "author_id": "1477695390619254794",
+        "conversation_id": "1917899735509475469",
+        "created_at": "2025-05-01T11:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T12:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917899735509475469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ee2HJSKApB",
+              "end": 31,
+              "expanded_url": "https://x.com/shishishidifufu/status/1917899735509475469/photo/1",
+              "media_key": "3_1917899732602724352",
+              "start": 8,
+              "url": "https://t.co/ee2HJSKApB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917899735509475469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 80853,
+          "like_count": 792,
+          "quote_count": 7,
+          "reply_count": 157,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "诸位会怎么做？ https://t.co/ee2HJSKApB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25366,
+          "following_count": 987,
+          "like_count": 14272,
+          "listed_count": 39,
+          "media_count": 1326,
+          "tweet_count": 15076
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-02T17:37:04.000Z",
+        "description": "我是史蒂夫 想和大家交朋友｜看包浆梗图 享百味人生｜language🇨🇳🇺🇸🇯🇵｜可以互fo❤️由于频繁目前不会全部回关，想互关麻烦私信，不论成分都会回关的٩(๑^o^๑)۶｜不鉴证🧐｜多多指教性格友好😘 若有冒犯请您指出🍀｜试试史蒂夫推荐的梯子？相当于给史蒂夫买瓶水噢谢谢啦(◍•ᴗ•◍)包好用的😊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn.shidifu.me",
+                "end": 23,
+                "expanded_url": "http://vpn.shidifu.me",
+                "start": 0,
+                "url": "https://t.co/ZfTKJVxQj8"
+              }
+            ]
+          }
+        },
+        "id": "1477695390619254794",
+        "location": "5元150g/月不限速机场 史蒂夫倾力推荐👇",
+        "name": "史蒂夫（不论成分互fo记得私信）",
+        "pinned_tweet_id": "1915438317363224787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910709431391920128/Dv1O0A-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2377,
+          "following_count": 590,
+          "like_count": 522,
+          "listed_count": 1,
+          "media_count": 516,
+          "tweet_count": 735
+        },
+        "url": "https://t.co/ZfTKJVxQj8",
+        "username": "shishishidifufu",
+        "verified": false
+      }
+    ]
+  }
+}

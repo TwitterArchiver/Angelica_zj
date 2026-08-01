@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1982750206799360036",
+    "created_at": "2025-10-27T10:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T11:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982750206799360036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fxxkapexlegend…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/fxxkapexlegend/status/1982349773987606776",
+          "start": 36,
+          "url": "https://t.co/W1wYVfzyFq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982750206799360036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982349773987606776",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "女性和跨性别女性实则反抗的是同一种性别压迫体系，解决冲突不能靠相互排斥 https://t.co/W1wYVfzyFq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1982750206799360036",
+        "created_at": "2025-10-27T10:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T11:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982750206799360036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fxxkapexlegend…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/fxxkapexlegend/status/1982349773987606776",
+              "start": 36,
+              "url": "https://t.co/W1wYVfzyFq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982750206799360036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982349773987606776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女性和跨性别女性实则反抗的是同一种性别压迫体系，解决冲突不能靠相互排斥 https://t.co/W1wYVfzyFq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971006655430262784",
+        "conversation_id": "1982349773987606776",
+        "created_at": "2025-10-26T07:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T08:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982349773987606776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982349773987606776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 14918,
+          "like_count": 338,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "某些激女能不能不要左右脑互搏。\n\n一边说着女性没有特权\n\n一边说着反对跨性别是因为跨女想要女性特权。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25339,
+          "following_count": 990,
+          "like_count": 14200,
+          "listed_count": 43,
+          "media_count": 1410,
+          "tweet_count": 15855
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "“青野怎麼不玩地平線去推特賣藥了”/我是翎//舞萌痴☠️三角洲Apex手把🎮 / 181cm 54kg💛🤍💜🖤 /26fall🇨🇦🇬🇧 / anti-war ☮️ /Apex地平線從新手到入門到賬號已註銷 // ❤️对象@juhao0721 / 擔保買藥找@minokakay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 110,
+                "username": "juhao0721"
+              },
+              {
+                "end": 138,
+                "start": 128,
+                "username": "minokakay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEb0Sn"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "英国🇬🇧读书悲惨生活。",
+        "name": "🍀🍥青野🍥🍀",
+        "pinned_tweet_id": "1978784252008239241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978429805264859136/qDtMghWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 305,
+          "like_count": 1775,
+          "listed_count": 5,
+          "media_count": 238,
+          "tweet_count": 2047
+        },
+        "url": "https://t.co/BKhBrEb0Sn",
+        "username": "FxxkApexLegend",
+        "verified": false
+      }
+    ]
+  }
+}

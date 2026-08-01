@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1859362172796850194",
+    "created_at": "2024-11-20T22:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T23:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1859362172796850194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lazy_lazyyyy/s…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/lazy_lazyyyy/status/1858730721676063184",
+          "start": 110,
+          "url": "https://t.co/EEGJl1i9RR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859362172796850194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858730721676063184",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我理解的吧唧嘴就是张嘴吃饭发出类似“拖鞋啪嗒声”那样的\n刷到很多声控吃播视频，看起来就是闭嘴吃饭，带麦克风放大了咀嚼音，但评论区经常能看到指责博主吧唧嘴的\n搞得我都有点弄不懂定义了，会有人觉得“咀嚼的声音”也算吧唧嘴吗 https://t.co/EEGJl1i9RR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1859362172796850194",
+        "created_at": "2024-11-20T22:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T23:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859362172796850194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lazy_lazyyyy/s…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/lazy_lazyyyy/status/1858730721676063184",
+              "start": 110,
+              "url": "https://t.co/EEGJl1i9RR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859362172796850194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858730721676063184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我理解的吧唧嘴就是张嘴吃饭发出类似“拖鞋啪嗒声”那样的\n刷到很多声控吃播视频，看起来就是闭嘴吃饭，带麦克风放大了咀嚼音，但评论区经常能看到指责博主吧唧嘴的\n搞得我都有点弄不懂定义了，会有人觉得“咀嚼的声音”也算吧唧嘴吗 https://t.co/EEGJl1i9RR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544171637171400704",
+        "conversation_id": "1858730721676063184",
+        "created_at": "2024-11-19T04:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T05:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858730721676063184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858730721676063184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 54082,
+          "like_count": 663,
+          "quote_count": 16,
+          "reply_count": 93,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "我始终认为吃饭吧唧嘴的人是教养问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24667,
+          "following_count": 926,
+          "like_count": 13632,
+          "listed_count": 35,
+          "tweet_count": 13930
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T04:09:51.000Z",
+        "description": "我的人生底色就是奸淫懒馋//锁评推广自辨//宝宝: @4inLOVElazyyyy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "4inLOVElazyyyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.le.mile-yun.com/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://mi.le.mile-yun.com/index.php#/register?code=z3JzWQIA",
+                "start": 0,
+                "url": "https://t.co/4xh8VvnsCu"
+              }
+            ]
+          }
+        },
+        "id": "1544171637171400704",
+        "location": "自用vpn👉🏻",
+        "name": "参见小懒",
+        "pinned_tweet_id": "1858784470926844297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824024524419182592/MIoUhHvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17769,
+          "following_count": 929,
+          "like_count": 57856,
+          "listed_count": 52,
+          "tweet_count": 31163
+        },
+        "url": "https://t.co/4xh8VvnsCu",
+        "username": "LAZY_lazyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

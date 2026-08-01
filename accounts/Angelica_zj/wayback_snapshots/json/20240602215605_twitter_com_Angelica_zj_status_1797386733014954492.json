@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1797386733014954492",
+    "created_at": "2024-06-02T21:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T22:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1797386733014954492"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1797386733014954492",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我脾气好但不要欺负我，可不可以不要总是试探我的底线，不要总是搞服从性测试，明明你们自己也知道这样讲话可能会伤到我，但还是要说，好玩么，有趣么，开你无聊的玩笑\n连着两年了，同一时间又遇到了类似的事情，好累…上了大学之后为什么总容易碰见这样的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1797386733014954492",
+        "created_at": "2024-06-02T21:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T22:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797386733014954492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797386733014954492",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我脾气好但不要欺负我，可不可以不要总是试探我的底线，不要总是搞服从性测试，明明你们自己也知道这样讲话可能会伤到我，但还是要说，好玩么，有趣么，开你无聊的玩笑\n连着两年了，同一时间又遇到了类似的事情，好累…上了大学之后为什么总容易碰见这样的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们  / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24678,
+          "following_count": 897,
+          "like_count": 13664,
+          "listed_count": 36,
+          "tweet_count": 13195
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

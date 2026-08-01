@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1841127742122918061",
+    "created_at": "2024-10-01T16:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T17:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841148461321765041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688252804958498816",
+          "start": 0,
+          "username": "umichen0502324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841148461321765041",
+    "in_reply_to_user_id": "1688252804958498816",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841127742122918061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umichen0502324 保洁会不会报警啊（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1841127742122918061",
+        "created_at": "2024-10-01T16:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T17:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841148461321765041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688252804958498816",
+              "start": 0,
+              "username": "umichen0502324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841148461321765041",
+        "in_reply_to_user_id": "1688252804958498816",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841127742122918061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umichen0502324 保洁会不会报警啊（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841127634098647040",
+            "7_1841127646065016834",
+            "7_1841127693259325445"
+          ]
+        },
+        "author_id": "1688252804958498816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1841127742122918061",
+        "created_at": "2024-10-01T14:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T15:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841127742122918061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjnQDHrTya",
+              "end": 64,
+              "expanded_url": "https://x.com/umichen0502324/status/1841127742122918061/video/1",
+              "media_key": "3_1841127634098647040",
+              "start": 41,
+              "url": "https://t.co/jjnQDHrTya"
+            },
+            {
+              "display_url": "pic.x.com/jjnQDHrTya",
+              "end": 64,
+              "expanded_url": "https://x.com/umichen0502324/status/1841127742122918061/video/1",
+              "media_key": "7_1841127646065016834",
+              "start": 41,
+              "url": "https://t.co/jjnQDHrTya"
+            },
+            {
+              "display_url": "pic.x.com/jjnQDHrTya",
+              "end": 64,
+              "expanded_url": "https://x.com/umichen0502324/status/1841127742122918061/video/1",
+              "media_key": "7_1841127693259325445",
+              "start": 41,
+              "url": "https://t.co/jjnQDHrTya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841127742122918061",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1000,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我什么时候才能过上自残还有人帮我收拾的生活。在酒店搞是真的爽哈，弄到床上就不爽了 https://t.co/jjnQDHrTya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24373,
+          "following_count": 907,
+          "like_count": 13656,
+          "listed_count": 35,
+          "tweet_count": 13677
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T18:16:59.000Z",
+        "description": "嗨 我是nikumi(虹海)  请不要举报我或者骂我😿 我很需要钱 \n我的推文会含有：decoraKei-自残(但是会打敏感所以请放心!)-碎碎念-其他照片。\nYES!!我推的笑顏就是一切!!\n  会看主页成分差不多都会回fo!!感谢您的推和关注!\n祝您天天开心！",
+        "id": "1688252804958498816",
+        "location": "乌托邦",
+        "name": "带着蝴蝶结的魔法豚鼠",
+        "pinned_tweet_id": "1771623930198995011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802716592356364288/jAgFGCTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 378,
+          "like_count": 4623,
+          "listed_count": 3,
+          "tweet_count": 3342
+        },
+        "username": "umichen0502324",
+        "verified": false
+      }
+    ]
+  }
+}

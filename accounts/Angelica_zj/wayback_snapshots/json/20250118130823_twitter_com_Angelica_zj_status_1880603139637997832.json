@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1880125886739149288",
+    "created_at": "2025-01-18T13:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T14:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880603139637997832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1508518703255547905",
+          "start": 0,
+          "username": "aoerlianglian"
+        },
+        {
+          "end": 23,
+          "id": "1433678976564662273",
+          "start": 15,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880603139637997832",
+    "in_reply_to_user_id": "1508518703255547905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880474882494144543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoerlianglian @hsn8086 正常的前提是双方家庭和个人都有稳定的收入，那种“男的大几十万彩礼给女方家长，女方带几床被子”的只存在于贫苦地区了吧，而且这种彩礼性质和卖女儿也无差"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1880125886739149288",
+        "created_at": "2025-01-18T13:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T14:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880603139637997832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508518703255547905",
+              "start": 0,
+              "username": "aoerlianglian"
+            },
+            {
+              "end": 23,
+              "id": "1433678976564662273",
+              "start": 15,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880603139637997832",
+        "in_reply_to_user_id": "1508518703255547905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880474882494144543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoerlianglian @hsn8086 正常的前提是双方家庭和个人都有稳定的收入，那种“男的大几十万彩礼给女方家长，女方带几床被子”的只存在于贫苦地区了吧，而且这种彩礼性质和卖女儿也无差"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508518703255547905",
+        "conversation_id": "1880125886739149288",
+        "created_at": "2025-01-18T04:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T05:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880474882494144543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 21,
+              "id": "1433678976564662273",
+              "start": 13,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880474882494144543",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880426779284021589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj @hsn8086 只是大多数都不正常，但是不正常，我也支持婚内强奸算强奸 。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25150,
+          "following_count": 935,
+          "like_count": 13779,
+          "listed_count": 37,
+          "media_count": 1259,
+          "tweet_count": 14304
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T18:58:02.000Z",
+        "description": "不存在的某人",
+        "id": "1508518703255547905",
+        "location": "奥尔良",
+        "name": "奥尔良炼金",
+        "pinned_tweet_id": "1782962009878786055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738156759863500800/1xqhP2BR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 391,
+          "like_count": 8737,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 5752
+        },
+        "username": "aoerlianglian",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1875403771435700438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30551,
+          "following_count": 903,
+          "like_count": 36351,
+          "listed_count": 87,
+          "media_count": 5158,
+          "tweet_count": 9993
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1908249532590415896",
+    "created_at": "2025-04-05T01:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T02:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908334385700757726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1790282802300407809",
+          "start": 0,
+          "username": "yu8963278711824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908334385700757726",
+    "in_reply_to_user_id": "1790282802300407809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908260294612443312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu8963278711824 我不知道我磨不磨牙啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1908249532590415896",
+        "created_at": "2025-04-05T01:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T02:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908334385700757726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790282802300407809",
+              "start": 0,
+              "username": "yu8963278711824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908334385700757726",
+        "in_reply_to_user_id": "1790282802300407809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908260294612443312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu8963278711824 我不知道我磨不磨牙啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790282802300407809",
+        "conversation_id": "1908249532590415896",
+        "created_at": "2025-04-04T20:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T21:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908260294612443312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908260294612443312",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908249532590415896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我是磨牙。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25299,
+          "following_count": 962,
+          "like_count": 14153,
+          "listed_count": 38,
+          "media_count": 1300,
+          "tweet_count": 14824
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T07:27:42.000Z",
+        "description": "^ ^^ ^^ ^^ ^^ ^^ ^^ ^^ ^^ ^^ ^^ ^^ ^^ ^^ ^^ ^^ ^",
+        "id": "1790282802300407809",
+        "name": "柚子",
+        "pinned_tweet_id": "1876156799952507320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903666291111809024/hLoNtUj1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 103,
+          "like_count": 3696,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 679
+        },
+        "username": "yu8963278711824",
+        "verified": false
+      }
+    ]
+  }
+}

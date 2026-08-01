@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066422265802031105"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2066422284156354568",
+    "created_at": "2026-06-15T07:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T08:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066422284156354568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wTfB4yl6d4",
+          "end": 32,
+          "expanded_url": "https://x.com/Angelica_zj/status/2066422284156354568/photo/1",
+          "media_key": "3_2066422265802031105",
+          "start": 9,
+          "url": "https://t.co/wTfB4yl6d4"
+        },
+        {
+          "display_url": "x.com/poke_times/sta…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/poke_times/status/2066088317628588220",
+          "start": 33,
+          "url": "https://t.co/2lIATLKOcn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066422284156354568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066088317628588220",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "水系但误入利欧路 https://t.co/wTfB4yl6d4 https://t.co/2lIATLKOcn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066422265802031105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1oGjUWgAE8tTq.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 18835,
+        "height": 700,
+        "media_key": "13_2066088257201324033",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066088257201324033/img/XSP3gwuPeldbNzWv.jpg",
+        "public_metrics": {
+          "view_count": 840734
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066088257201324033/vid/avc1/478x270/MyNSNJX3l7L8cnfk.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066088257201324033/vid/avc1/638x360/leWYA2MtFTdG5okS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066088257201324033/vid/avc1/1244x700/WGzAif7QNBY3uFbv.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066088257201324033/pl/gMJuJyDQgEo2b-p5.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1244
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066422265802031105"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066422284156354568",
+        "created_at": "2026-06-15T07:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066422284156354568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wTfB4yl6d4",
+              "end": 32,
+              "expanded_url": "https://x.com/Angelica_zj/status/2066422284156354568/photo/1",
+              "media_key": "3_2066422265802031105",
+              "start": 9,
+              "url": "https://t.co/wTfB4yl6d4"
+            },
+            {
+              "display_url": "x.com/poke_times/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/poke_times/status/2066088317628588220",
+              "start": 33,
+              "url": "https://t.co/2lIATLKOcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066422284156354568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066088317628588220",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "水系但误入利欧路 https://t.co/wTfB4yl6d4 https://t.co/2lIATLKOcn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066088257201324033"
+          ]
+        },
+        "author_id": "987228577522376704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2066088317628588220",
+        "created_at": "2026-06-14T09:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066088317628588220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kaj8eG8jEh",
+              "end": 33,
+              "expanded_url": "https://x.com/poke_times/status/2066088317628588220/video/1",
+              "media_key": "13_2066088257201324033",
+              "start": 10,
+              "url": "https://t.co/Kaj8eG8jEh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066088317628588220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6402,
+          "impression_count": 3123892,
+          "like_count": 95575,
+          "quote_count": 1918,
+          "reply_count": 357,
+          "retweet_count": 18445
+        },
+        "reply_settings": "everyone",
+        "text": "⋱💧みずタイプ💧⋰ https://t.co/Kaj8eG8jEh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25088,
+          "following_count": 1049,
+          "like_count": 14856,
+          "listed_count": 41,
+          "media_count": 1596,
+          "tweet_count": 17267
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-20T07:16:49.000Z",
+        "description": "ポケモン公式アカウント #ポケモン情報局 。\nポケモンがもっと楽しくなる情報を発信していきます。\n『ぽこ あ ポケモン』の最新情報はこちら\n→https://t.co/vA7Hd1ACh4",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 12,
+                "tag": "ポケモン情報局"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pocoapokemon.jp/ja/",
+                "end": 94,
+                "expanded_url": "https://www.pocoapokemon.jp/ja/",
+                "start": 71,
+                "url": "https://t.co/vA7Hd1ACh4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pokemon.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.pokemon.co.jp/",
+                "start": 0,
+                "url": "https://t.co/l69lEte0n8"
+              }
+            ]
+          }
+        },
+        "id": "987228577522376704",
+        "name": "【公式】ポケモン情報局",
+        "pinned_tweet_id": "2029210257994420402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965763751786999808/iQTwbKit_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2446258,
+          "following_count": 37,
+          "like_count": 643,
+          "listed_count": 9359,
+          "media_count": 1094278,
+          "tweet_count": 1095242
+        },
+        "url": "https://t.co/l69lEte0n8",
+        "username": "poke_times",
+        "verified": true
+      }
+    ]
+  }
+}

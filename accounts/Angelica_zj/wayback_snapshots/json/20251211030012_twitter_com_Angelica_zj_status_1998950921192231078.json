@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1998945159925608900",
+    "created_at": "2025-12-11T03:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T04:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998950921192231078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645734003117547520",
+          "start": 0,
+          "username": "yuejian76078401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998950921192231078",
+    "in_reply_to_user_id": "1645734003117547520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998949936390615077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuejian76078401 我不知道，其实应该接受的，但我做不到，我知道这样可能对她来说是最好的结果了，至少比在这个烂透的世界活下去幸福的多，但我还是好恨自己没有让她生前感受再多一些的温暖，要是是一场梦就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1998945159925608900",
+        "created_at": "2025-12-11T03:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T04:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998950921192231078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645734003117547520",
+              "start": 0,
+              "username": "yuejian76078401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998950921192231078",
+        "in_reply_to_user_id": "1645734003117547520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998949936390615077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuejian76078401 我不知道，其实应该接受的，但我做不到，我知道这样可能对她来说是最好的结果了，至少比在这个烂透的世界活下去幸福的多，但我还是好恨自己没有让她生前感受再多一些的温暖，要是是一场梦就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645734003117547520",
+        "conversation_id": "1998945159925608900",
+        "created_at": "2025-12-11T02:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T03:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998949936390615077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998949936390615077",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998945159925608900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 小九。。。唉小九。。。抱抱你。。。对她来说起码也算是解脱了。。不要太难过。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25272,
+          "following_count": 1005,
+          "like_count": 14386,
+          "listed_count": 40,
+          "media_count": 1460,
+          "tweet_count": 16169
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T10:22:26.000Z",
+        "description": "我想睡个好觉",
+        "id": "1645734003117547520",
+        "name": "月见",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988636176149098496/Ea9x_HUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 278,
+          "like_count": 33353,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1825
+        },
+        "username": "yuejian76078401",
+        "verified": false
+      }
+    ]
+  }
+}

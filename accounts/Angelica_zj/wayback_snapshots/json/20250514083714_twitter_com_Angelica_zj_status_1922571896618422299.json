@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1922557284829290804",
+    "created_at": "2025-05-14T08:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T09:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922571896618422299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1761331037693710336",
+          "start": 0,
+          "username": "zayuyu07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922571896618422299",
+    "in_reply_to_user_id": "1761331037693710336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922571635791450433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zayuyu07 宝宝你才是萌神啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1922557284829290804",
+        "created_at": "2025-05-14T08:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T09:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922571896618422299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1761331037693710336",
+              "start": 0,
+              "username": "zayuyu07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922571896618422299",
+        "in_reply_to_user_id": "1761331037693710336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922571635791450433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zayuyu07 宝宝你才是萌神啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761331037693710336",
+        "conversation_id": "1922557284829290804",
+        "created_at": "2025-05-14T08:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T09:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922571635791450433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922571635791450433",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922557284829290804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 哎我去咋这么萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25370,
+          "following_count": 987,
+          "like_count": 14374,
+          "listed_count": 37,
+          "media_count": 1336,
+          "tweet_count": 15186
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T10:03:47.000Z",
+        "description": "我喜歡錢｜@ZayuK07 其他帳號非本人｜Ig：zayuyu1226｜@ziy0609｜tiktok：imnotkk2｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "ZayuK07"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "ziy0609"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zayuyu12262",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zayuyu12262",
+                "start": 0,
+                "url": "https://t.co/7gpKA7QGit"
+              }
+            ]
+          }
+        },
+        "id": "1761331037693710336",
+        "location": "提問箱➡️",
+        "name": "KKnoCap",
+        "pinned_tweet_id": "1914902013252604040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920840083323682817/7m85JAqQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41685,
+          "following_count": 383,
+          "like_count": 20695,
+          "listed_count": 46,
+          "media_count": 440,
+          "tweet_count": 7186
+        },
+        "url": "https://t.co/7gpKA7QGit",
+        "username": "zayuyu07",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1920373511119331740",
+    "created_at": "2025-05-09T14:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T15:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920844670231359881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1613214925425643526",
+          "start": 0,
+          "username": "uniquebirch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920844670231359881",
+    "in_reply_to_user_id": "1613214925425643526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920373511119331740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uniquebirch 莫名觉得伸舌头后呼吸会更顺畅，且大喘气声音会小很多，不知道是不是只有我这样…（但对着人就做不出来这个表情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1920373511119331740",
+        "created_at": "2025-05-09T14:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T15:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920844670231359881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1613214925425643526",
+              "start": 0,
+              "username": "uniquebirch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920844670231359881",
+        "in_reply_to_user_id": "1613214925425643526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920373511119331740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uniquebirch 莫名觉得伸舌头后呼吸会更顺畅，且大喘气声音会小很多，不知道是不是只有我这样…（但对着人就做不出来这个表情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613214925425643526",
+        "conversation_id": "1920373511119331740",
+        "created_at": "2025-05-08T07:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T08:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920373511119331740"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920373511119331740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 120225,
+          "like_count": 609,
+          "quote_count": 6,
+          "reply_count": 95,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "自己冲也会莫名其妙闭眼睛吐舌头到底什么毛病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25391,
+          "following_count": 987,
+          "like_count": 14348,
+          "listed_count": 37,
+          "media_count": 1334,
+          "tweet_count": 15144
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T16:43:23.000Z",
+        "description": "isfj🦁/bisexual双/switch偏m/brat/什么都发/熟的互关可以加v/烦我先给我打钱/匿名箱https://t.co/jofCBC7rbV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cc59530",
+                "end": 78,
+                "expanded_url": "https://ngl.link/cc59530",
+                "start": 55,
+                "url": "https://t.co/jofCBC7rbV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cc59530",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cc59530",
+                "start": 0,
+                "url": "https://t.co/jofCBC7rbV"
+              }
+            ]
+          }
+        },
+        "id": "1613214925425643526",
+        "location": "🚪188纯绿不退 私信只回互关和口令",
+        "name": "c瓜碎冰",
+        "pinned_tweet_id": "1918210847337529728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917145837303713792/TFjLUhNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 349,
+          "like_count": 4326,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2979
+        },
+        "url": "https://t.co/jofCBC7rbV",
+        "username": "uniquebirch",
+        "verified": false
+      }
+    ]
+  }
+}

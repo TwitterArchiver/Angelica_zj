@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2041096442920526128",
+    "created_at": "2026-04-17T08:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T09:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045061431792435274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1403639017036464134",
+          "start": 0,
+          "username": "Cattary2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045061431792435274",
+    "in_reply_to_user_id": "1403639017036464134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045053494634377391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cattary2 这两条运气倒比较好没给屏，因为有人给我点赞，可惜后来原楼主删评了🙂‍↕️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2041096442920526128",
+        "created_at": "2026-04-17T08:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045061431792435274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1403639017036464134",
+              "start": 0,
+              "username": "Cattary2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045061431792435274",
+        "in_reply_to_user_id": "1403639017036464134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045053494634377391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cattary2 这两条运气倒比较好没给屏，因为有人给我点赞，可惜后来原楼主删评了🙂‍↕️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1403639017036464134",
+        "conversation_id": "2041096442920526128",
+        "created_at": "2026-04-17T08:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045053494634377391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045053494634377391",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041096442920526128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 你这两段话大概率没发出来 小红书就这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24910,
+          "following_count": 1050,
+          "like_count": 14730,
+          "listed_count": 40,
+          "media_count": 1572,
+          "tweet_count": 16995
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-12T09:03:25.000Z",
+        "description": "清水推 不扩列不聊骚 欢迎和我互动 全猫肯定bot 可以给我发你家的小猫ᴖᗜᴖ",
+        "id": "1403639017036464134",
+        "name": "火锅炖小利",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000909516628688896/K-JROsQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 110,
+          "like_count": 429,
+          "listed_count": 5,
+          "media_count": 71,
+          "tweet_count": 1254
+        },
+        "username": "Cattary2",
+        "verified": false
+      }
+    ]
+  }
+}

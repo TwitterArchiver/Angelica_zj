@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1856240526091305206",
+    "created_at": "2024-11-12T07:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T08:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856240526091305206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835902045431443456",
+          "start": 3,
+          "username": "snowfall8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856240526091305206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855842999848284558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snowfall8964: 我是真的觉得“在原生家庭里得不到爱和理解”的人，太容易挨操了。\n只要有人认真听你说话，在合适的时间给你一个温暖的拥抱，在你难过的时候，擦掉你的眼泪，再时不时地夸一夸你……\n那完了！百分百挨操！！还是心甘情愿被操！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1856240526091305206",
+        "created_at": "2024-11-12T07:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T08:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856240526091305206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835902045431443456",
+              "start": 3,
+              "username": "snowfall8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856240526091305206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855842999848284558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snowfall8964: 我是真的觉得“在原生家庭里得不到爱和理解”的人，太容易挨操了。\n只要有人认真听你说话，在合适的时间给你一个温暖的拥抱，在你难过的时候，擦掉你的眼泪，再时不时地夸一夸你……\n那完了！百分百挨操！！还是心甘情愿被操！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835902045431443456",
+        "conversation_id": "1855842999848284558",
+        "created_at": "2024-11-11T05:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T06:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855842999848284558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1855842999848284558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 20720,
+          "like_count": 299,
+          "quote_count": 9,
+          "reply_count": 29,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "我是真的觉得“在原生家庭里得不到爱和理解”的人，太容易挨操了。\n只要有人认真听你说话，在合适的时间给你一个温暖的拥抱，在你难过的时候，擦掉你的眼泪，再时不时地夸一夸你……\n那完了！百分百挨操！！还是心甘情愿被操！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24635,
+          "following_count": 928,
+          "like_count": 13634,
+          "listed_count": 35,
+          "tweet_count": 13887
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T04:42:25.000Z",
+        "description": "𝙄 𝙙𝙤𝙣'𝙩 𝙝𝙖𝙫𝙚 𝙩𝙝𝙚 𝙨𝙪𝙣/只回门槛",
+        "id": "1835902045431443456",
+        "location": "🚪52/520(非绿)",
+        "name": "唐泽雪穗",
+        "pinned_tweet_id": "1849245298834772413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844370417194237953/NzOiYQ62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 47,
+          "like_count": 327,
+          "listed_count": 3,
+          "tweet_count": 323
+        },
+        "username": "snowfall8964",
+        "verified": false
+      }
+    ]
+  }
+}

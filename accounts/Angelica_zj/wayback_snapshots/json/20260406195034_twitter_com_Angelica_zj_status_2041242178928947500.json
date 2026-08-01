@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2041241597157974467",
+    "created_at": "2026-04-06T19:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T20:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041242178928947500"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041242178928947500",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041241597157974467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实也不用那么麻烦…识图我发的照片就行，本人一直在很认真的多平台同步更新"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2041241597157974467",
+        "created_at": "2026-04-06T19:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T20:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041242178928947500"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041242178928947500",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041241597157974467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实也不用那么麻烦…识图我发的照片就行，本人一直在很认真的多平台同步更新"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2041241597157974467",
+        "created_at": "2026-04-06T19:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T20:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041241597157974467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woailashi8/sta…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/woailashi8/status/2041088738777083958",
+              "start": 81,
+              "url": "https://t.co/s0bTAGzIoT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041241597157974467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041088738777083958",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "yes，互联网全透明人来了。哪怕没完全同id也会高相似…关注我推特久了就能知道我抖音，知道我抖音就能翻到我ip学校专业以及同学评论的我大名\n嗯每天都在实名制上网 https://t.co/s0bTAGzIoT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25126,
+          "following_count": 1048,
+          "like_count": 14689,
+          "listed_count": 40,
+          "media_count": 1565,
+          "tweet_count": 16906
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

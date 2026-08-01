@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1866901431376314831",
+    "created_at": "2024-12-11T17:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T18:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866903455971020960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1501186230675193866",
+          "start": 0,
+          "username": "xiaoshaoye1961"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866903455971020960",
+    "in_reply_to_user_id": "1501186230675193866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866901885778792940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoshaoye1961 哎哟喂[捂脸][捂脸][捂脸]太好笑了[捂脸][捂脸]你是魔鬼还是秀儿[捂脸]城市套路深我要回农村[捂脸][捂脸]真的南瘦香菇[捂脸][捂脸]皮皮虾我们走[捂脸]我信你个鬼你个糟老头子坏得很[捂脸][捂脸]只要你乖就给你买条gai[捂脸][捂脸]看完我只唱好嗨哟感觉人生已经到达了巅峰[捂脸][捂脸]买了佛冷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1866901431376314831",
+        "created_at": "2024-12-11T17:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T18:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866903455971020960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1501186230675193866",
+              "start": 0,
+              "username": "xiaoshaoye1961"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866903455971020960",
+        "in_reply_to_user_id": "1501186230675193866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866901885778792940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshaoye1961 哎哟喂[捂脸][捂脸][捂脸]太好笑了[捂脸][捂脸]你是魔鬼还是秀儿[捂脸]城市套路深我要回农村[捂脸][捂脸]真的南瘦香菇[捂脸][捂脸]皮皮虾我们走[捂脸]我信你个鬼你个糟老头子坏得很[捂脸][捂脸]只要你乖就给你买条gai[捂脸][捂脸]看完我只唱好嗨哟感觉人生已经到达了巅峰[捂脸][捂脸]买了佛冷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1501186230675193866",
+        "conversation_id": "1866901431376314831",
+        "created_at": "2024-12-11T17:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T18:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866901885778792940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866901885778792940",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866901431376314831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 哈哈哈哈哈哈哈哈哈哈哈皮皮虾我们走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24960,
+          "following_count": 934,
+          "like_count": 13687,
+          "listed_count": 36,
+          "media_count": 1240,
+          "tweet_count": 14083
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-08T13:21:23.000Z",
+        "description": "🌚",
+        "id": "1501186230675193866",
+        "location": "👀",
+        "name": "姜姜！早知道了",
+        "pinned_tweet_id": "1858839288705937644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858115508610236416/kmsDpuPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 278,
+          "like_count": 42066,
+          "listed_count": 3,
+          "media_count": 379,
+          "tweet_count": 11696
+        },
+        "username": "xiaoshaoye1961",
+        "verified": false
+      }
+    ]
+  }
+}

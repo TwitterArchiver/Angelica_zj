@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1916343928648847811",
+    "created_at": "2025-04-27T04:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T05:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916343928648847811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/swyxy4484/stat…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/swyxy4484/status/1916160655515914743",
+          "start": 50,
+          "url": "https://t.co/2p6XetcIYX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916343928648847811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916160655515914743",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "20年左右这种小瓶子挺常见的呃，很多都是填着玩给朋友分享的啊，高铁上偷拍也是够莫名其妙，别太炫压抑 https://t.co/2p6XetcIYX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46800,
+        "height": 1168,
+        "media_key": "13_1916160552797409284",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1916160552797409284/img/AFUW7IBzs1_hbhAY.jpg",
+        "public_metrics": {
+          "view_count": 249297
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916160552797409284/vid/avc1/320x518/GjIHkxd0yhsq7ADv.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916160552797409284/vid/avc1/480x778/WSS9ywtXVrw5iBGu.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916160552797409284/vid/avc1/720x1168/f2qYIXmdQjdpF9yt.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1916160552797409284/pl/6UkowhBmj_y0nZxA.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1916160570879062016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpeR4w_bMAAUUDl.jpg",
+        "width": 997
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1916343928648847811",
+        "created_at": "2025-04-27T04:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T05:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916343928648847811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/swyxy4484/stat…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/swyxy4484/status/1916160655515914743",
+              "start": 50,
+              "url": "https://t.co/2p6XetcIYX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916343928648847811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916160655515914743",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "20年左右这种小瓶子挺常见的呃，很多都是填着玩给朋友分享的啊，高铁上偷拍也是够莫名其妙，别太炫压抑 https://t.co/2p6XetcIYX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1916160552797409284",
+            "3_1916160570879062016"
+          ]
+        },
+        "author_id": "1448545153166180356",
+        "conversation_id": "1916160655515914743",
+        "created_at": "2025-04-26T16:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T17:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916160655515914743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/skbQhigqWf",
+              "end": 41,
+              "expanded_url": "https://x.com/swyxy4484/status/1916160655515914743/video/1",
+              "media_key": "13_1916160552797409284",
+              "start": 18,
+              "url": "https://t.co/skbQhigqWf"
+            },
+            {
+              "display_url": "pic.x.com/skbQhigqWf",
+              "end": 41,
+              "expanded_url": "https://x.com/swyxy4484/status/1916160655515914743/video/1",
+              "media_key": "3_1916160570879062016",
+              "start": 18,
+              "url": "https://t.co/skbQhigqWf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916160655515914743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 681,
+          "impression_count": 550737,
+          "like_count": 2157,
+          "quote_count": 14,
+          "reply_count": 51,
+          "retweet_count": 183
+        },
+        "reply_settings": "everyone",
+        "text": "😳现在好了\n\n你的爱好大家都知道了 https://t.co/skbQhigqWf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25368,
+          "following_count": 976,
+          "like_count": 14269,
+          "listed_count": 39,
+          "media_count": 1318,
+          "tweet_count": 15038
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-14T07:04:18.000Z",
+        "description": "出现了三个模仿账号，他们主页链接不要点\n防失联小号2，3号机已挂.\n4号机@SwjjwwlllsS，会发不适合大号发的各种瓜与奇怪的内容\n\n🇨🇳自干五。看女人，看动物，体育。美食。奇怪的事和物。\n\n会主动屏蔽我评论区的不文明，蠢坏人士，反向拉黑屏蔽我的\n\n评论区如出现评论完整版在这终于找到后续等链接，千万别去点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "SwjjwwlllsS"
+              }
+            ]
+          }
+        },
+        "id": "1448545153166180356",
+        "name": "无人机咻咻咻✈️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809458315736268800/Jad8S-Ow_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186972,
+          "following_count": 312,
+          "like_count": 72850,
+          "listed_count": 444,
+          "media_count": 7363,
+          "tweet_count": 35530
+        },
+        "username": "swyxy4484",
+        "verified": true
+      }
+    ]
+  }
+}

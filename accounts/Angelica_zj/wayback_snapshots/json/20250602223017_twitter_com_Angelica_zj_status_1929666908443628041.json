@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1929445379830849999",
+    "created_at": "2025-06-02T22:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T23:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929666908443628041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1740248854975696896",
+          "start": 0,
+          "username": "Illusory_P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929666908443628041",
+    "in_reply_to_user_id": "1740248854975696896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929445379830849999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Illusory_P 蚝油菜花…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1929445379830849999",
+        "created_at": "2025-06-02T22:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T23:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929666908443628041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1740248854975696896",
+              "start": 0,
+              "username": "Illusory_P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929666908443628041",
+        "in_reply_to_user_id": "1740248854975696896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929445379830849999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Illusory_P 蚝油菜花…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740248854975696896",
+        "conversation_id": "1929445379830849999",
+        "created_at": "2025-06-02T07:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T08:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929445379830849999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929445379830849999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 9106,
+          "like_count": 199,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "老中也继承了苏联的笑话\n笑话几则\n1.\n和亲友面基开房约定不写完稿件谁也不能出门，突然警察破门而入，我连忙盖上电脑对警察说：“是嫖娼！我们在嫖娼！”警察放心地一笑：“那就好办了，你们只要拘留2天就走吧。〞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25543,
+          "following_count": 992,
+          "like_count": 14484,
+          "listed_count": 37,
+          "media_count": 1358,
+          "tweet_count": 15342
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T05:50:42.000Z",
+        "description": "16YMtF/HRT.2023/生日4.17/持证含糖/女高生活中/反向深柜中/在逃lo娘/常驻武汉/不敢再发照片怕被认出/来和我贴贴!/",
+        "id": "1740248854975696896",
+        "location": "夢之彼方",
+        "name": "月すき🏳️‍⚧",
+        "pinned_tweet_id": "1884891403861336264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929445905402392576/KFCLocRE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2331,
+          "following_count": 307,
+          "like_count": 17422,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 2246
+        },
+        "username": "Illusory_P",
+        "verified": false
+      }
+    ]
+  }
+}

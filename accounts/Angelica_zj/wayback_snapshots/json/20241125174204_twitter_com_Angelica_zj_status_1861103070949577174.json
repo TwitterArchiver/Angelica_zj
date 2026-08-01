@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861013120950644736",
+        "3_1861013121126760448",
+        "3_1861013121655324672"
+      ],
+      "media_source_tweet_id": [
+        "1861013250567262280",
+        "1861013250567262280",
+        "1861013250567262280"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1861103070949577174",
+    "created_at": "2024-11-25T17:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T18:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861103070949577174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1799381491493036032",
+          "start": 3,
+          "username": "Tina_sgz90"
+        },
+        {
+          "end": 28,
+          "id": "1541781120605462528",
+          "start": 16,
+          "username": "Tina4800036"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wnnguf8bry",
+          "end": 120,
+          "expanded_url": "https://x.com/Tina_sgz90/status/1861013250567262280/photo/1",
+          "media_key": "3_1861013120950644736",
+          "start": 97,
+          "url": "https://t.co/wnnguf8bry"
+        },
+        {
+          "display_url": "pic.x.com/wnnguf8bry",
+          "end": 120,
+          "expanded_url": "https://x.com/Tina_sgz90/status/1861013250567262280/photo/1",
+          "media_key": "3_1861013121126760448",
+          "start": 97,
+          "url": "https://t.co/wnnguf8bry"
+        },
+        {
+          "display_url": "pic.x.com/wnnguf8bry",
+          "end": 120,
+          "expanded_url": "https://x.com/Tina_sgz90/status/1861013250567262280/photo/1",
+          "media_key": "3_1861013121655324672",
+          "start": 97,
+          "url": "https://t.co/wnnguf8bry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861103070949577174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861013250567262280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tina_sgz90: @Tina4800036  。前世我被奸人所害，求转发我寻找前世互关 。对我好一点吧     我真的很需要钱求过门求打赏 每次我想好好好好生活生活就给我当头一棒 https://t.co/wnnguf8bry"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1861103070949577174].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1861103070949577174",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1861103070949577174"
+    },
+    {
+      "detail": "User has been suspended: [Tina4800036].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Tina4800036",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Tina4800036"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1861013120950644736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdOlksyasAA-jAU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1861013121126760448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdOlktcaAAADwur.jpg",
+        "width": 919
+      },
+      {
+        "height": 1037,
+        "media_key": "3_1861013121655324672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdOlkvabQAAgTBN.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861013120950644736",
+            "3_1861013121126760448",
+            "3_1861013121655324672"
+          ]
+        },
+        "author_id": "1799381491493036032",
+        "conversation_id": "1861013250567262280",
+        "created_at": "2024-11-25T11:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T12:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861013250567262280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541781120605462528",
+              "start": 0,
+              "username": "Tina4800036"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wnnguf8bry",
+              "end": 104,
+              "expanded_url": "https://x.com/Tina_sgz90/status/1861013250567262280/photo/1",
+              "media_key": "3_1861013120950644736",
+              "start": 81,
+              "url": "https://t.co/wnnguf8bry"
+            },
+            {
+              "display_url": "pic.x.com/wnnguf8bry",
+              "end": 104,
+              "expanded_url": "https://x.com/Tina_sgz90/status/1861013250567262280/photo/1",
+              "media_key": "3_1861013121126760448",
+              "start": 81,
+              "url": "https://t.co/wnnguf8bry"
+            },
+            {
+              "display_url": "pic.x.com/wnnguf8bry",
+              "end": 104,
+              "expanded_url": "https://x.com/Tina_sgz90/status/1861013250567262280/photo/1",
+              "media_key": "3_1861013121655324672",
+              "start": 81,
+              "url": "https://t.co/wnnguf8bry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861013250567262280",
+        "in_reply_to_user_id": "1541781120605462528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2093,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "@Tina4800036  。前世我被奸人所害，求转发我寻找前世互关 。对我好一点吧     我真的很需要钱求过门求打赏 每次我想好好好好生活生活就给我当头一棒 https://t.co/wnnguf8bry"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24673,
+          "following_count": 929,
+          "like_count": 13630,
+          "listed_count": 35,
+          "tweet_count": 13968
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T10:02:40.000Z",
+        "description": "我是Tina  前世@Tina4800036  \n🚪128 好友位  🚪200有图 🚪520解锁线下  🚪上不封顶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Tina4800036"
+              }
+            ]
+          }
+        },
+        "id": "1799381491493036032",
+        "name": "Tina（被奸人所害版）",
+        "pinned_tweet_id": "1861013250567262280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799382327082246144/LYOgl2fk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 31,
+          "like_count": 35,
+          "listed_count": 0,
+          "tweet_count": 87
+        },
+        "username": "Tina_sgz90",
+        "verified": false
+      }
+    ]
+  }
+}

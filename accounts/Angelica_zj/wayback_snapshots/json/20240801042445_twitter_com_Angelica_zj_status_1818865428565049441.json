@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1818672710219973036",
+    "created_at": "2024-08-01T04:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T05:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818865428565049441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1268795636284973056",
+          "start": 0,
+          "username": "IHGWWyk7SI8syBi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818865428565049441",
+    "in_reply_to_user_id": "1268795636284973056",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818775868703228037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IHGWWyk7SI8syBi 是，高中大家自己的事情都很多，大学太多闲出屁的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1818672710219973036",
+        "created_at": "2024-08-01T04:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T05:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818865428565049441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1268795636284973056",
+              "start": 0,
+              "username": "IHGWWyk7SI8syBi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818865428565049441",
+        "in_reply_to_user_id": "1268795636284973056",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818775868703228037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IHGWWyk7SI8syBi 是，高中大家自己的事情都很多，大学太多闲出屁的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1268795636284973056",
+        "conversation_id": "1818672710219973036",
+        "created_at": "2024-07-31T22:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T23:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818775868703228037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818775868703228037",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818672710219973036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 大学里更像是疯狂的小社会，高中看起来并不那么“势利”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24530,
+          "following_count": 901,
+          "like_count": 13509,
+          "listed_count": 35,
+          "tweet_count": 13419
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-05T06:43:53.000Z",
+        "description": "人之所以痛苦，在于追求错误的东西\n与其说是别人让你痛苦，不如说自己的修养不够\n如果你不给自己烦恼，别人也永远不可能给你烦恼。因为你自己的内心，你放不下\n好好的管教你自己，不要管别人\n不宽恕众生，不原谅众生，是苦了你自己\n你永远要感谢给你逆境的众生\n#无法自控 #阴郁 #恐怖 #死亡 #愤怒",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 124,
+                "tag": "无法自控"
+              },
+              {
+                "end": 133,
+                "start": 130,
+                "tag": "阴郁"
+              },
+              {
+                "end": 137,
+                "start": 134,
+                "tag": "恐怖"
+              },
+              {
+                "end": 141,
+                "start": 138,
+                "tag": "死亡"
+              },
+              {
+                "end": 145,
+                "start": 142,
+                "tag": "愤怒"
+              }
+            ]
+          }
+        },
+        "id": "1268795636284973056",
+        "location": "巨山精神病院",
+        "name": "地獄傀儡師",
+        "pinned_tweet_id": "1537006860544495616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515638418390523906/Pq_P7B1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 17,
+          "like_count": 207,
+          "listed_count": 1,
+          "tweet_count": 1207
+        },
+        "username": "IHGWWyk7SI8syBi",
+        "verified": false
+      }
+    ]
+  }
+}

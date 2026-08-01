@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1978656668180459856",
+    "created_at": "2025-10-17T02:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T03:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979015319365554511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1127584893783818240",
+          "start": 0,
+          "username": "whymomoback"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979015319365554511",
+    "in_reply_to_user_id": "1127584893783818240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978918495782936945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whymomoback 笑死好多人说过，真的那么像吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1978656668180459856",
+        "created_at": "2025-10-17T02:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T03:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979015319365554511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1127584893783818240",
+              "start": 0,
+              "username": "whymomoback"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979015319365554511",
+        "in_reply_to_user_id": "1127584893783818240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978918495782936945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whymomoback 笑死好多人说过，真的那么像吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1127584893783818240",
+        "conversation_id": "1978656668180459856",
+        "created_at": "2025-10-16T20:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T21:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978918495782936945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978918495782936945",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978656668180459856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 这不曾婉之嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25312,
+          "following_count": 991,
+          "like_count": 14275,
+          "listed_count": 42,
+          "media_count": 1397,
+          "tweet_count": 15785
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-12T14:42:43.000Z",
+        "description": "可射屏，可爱的小母狗把照片发给我，满满的津液就会出现在你的脸上",
+        "id": "1127584893783818240",
+        "location": "Central Region, Singapore",
+        "name": "刚好一幅画",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1549427428132798464/Gh1kg3Ag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 113,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 177
+        },
+        "username": "whymomoback",
+        "verified": false
+      }
+    ]
+  }
+}

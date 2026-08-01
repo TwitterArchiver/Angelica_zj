@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2040032552887656851",
+    "created_at": "2026-04-04T10:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T11:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040382549760131392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2034521053662265344",
+          "start": 0,
+          "username": "Lili_TvT_07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040382549760131392",
+    "in_reply_to_user_id": "2034521053662265344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040341023335776545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lili_TvT_07 我理解消费者地位高，但很多粉丝又爱因为追星把自己搞得很辛苦不是么，做些“xx宝宝妈妈又来看你了”的视频发网上表现自己多苦多累多爱，不是金主吗，为啥让自己这么卑微呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2040032552887656851",
+        "created_at": "2026-04-04T10:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T11:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040382549760131392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2034521053662265344",
+              "start": 0,
+              "username": "Lili_TvT_07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040382549760131392",
+        "in_reply_to_user_id": "2034521053662265344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040341023335776545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lili_TvT_07 我理解消费者地位高，但很多粉丝又爱因为追星把自己搞得很辛苦不是么，做些“xx宝宝妈妈又来看你了”的视频发网上表现自己多苦多累多爱，不是金主吗，为啥让自己这么卑微呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034521053662265344",
+        "conversation_id": "2040032552887656851",
+        "created_at": "2026-04-04T08:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040341023335776545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040341023335776545",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 402,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040032552887656851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 其实0人想倾听他们的想法 学历高的能有几个😂还要写一堆无病呻吟的句子 有想法找身边的人说去跟消费者说啥 没有理解的义务"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25170,
+          "following_count": 1049,
+          "like_count": 14685,
+          "listed_count": 40,
+          "media_count": 1562,
+          "tweet_count": 16888
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T06:44:24.000Z",
+        "description": "两猪99",
+        "id": "2034521053662265344",
+        "name": "我的猫总是响",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038633979746631680/Ci4NxV_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 24,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 80
+        },
+        "username": "Lili_TvT_07",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-19T06:44:24.000Z",
+        "description": "两猪99",
+        "id": "2034521053662265344",
+        "name": "我的猫总是响",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038633979746631680/Ci4NxV_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 24,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 80
+        },
+        "username": "Lili_TvT_07",
+        "verified": false
+      }
+    ]
+  }
+}

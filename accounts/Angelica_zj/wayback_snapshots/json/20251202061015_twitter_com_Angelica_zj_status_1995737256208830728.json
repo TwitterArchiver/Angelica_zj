@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1995521887909396558",
+    "created_at": "2025-12-02T06:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T07:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995737256208830728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1487360722900193281",
+          "start": 0,
+          "username": "TKYK_1480813"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995737256208830728",
+    "in_reply_to_user_id": "1487360722900193281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995733133975531533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TKYK_1480813 你没必要这样攻击我，\n我并不了解这个人，因为本人有过很相似的自杀未遂经历所以难免共情 ，仅仅作为一个路人对生命的消逝表达遗憾而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1995521887909396558",
+        "created_at": "2025-12-02T06:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T07:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995737256208830728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1487360722900193281",
+              "start": 0,
+              "username": "TKYK_1480813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995737256208830728",
+        "in_reply_to_user_id": "1487360722900193281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995733133975531533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKYK_1480813 你没必要这样攻击我，\n我并不了解这个人，因为本人有过很相似的自杀未遂经历所以难免共情 ，仅仅作为一个路人对生命的消逝表达遗憾而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487360722900193281",
+        "conversation_id": "1995521887909396558",
+        "created_at": "2025-12-02T05:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T06:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995733133975531533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995733133975531533",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995521887909396558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 圣母心泛滥了是吧 我下次把你家地址给这种死了还要把房间变成凶宅的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25274,
+          "following_count": 998,
+          "like_count": 14334,
+          "listed_count": 40,
+          "media_count": 1445,
+          "tweet_count": 16090
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T09:43:43.000Z",
+        "description": "一个善良的人｜阉畜是工作，美食是生活｜阉人破防请自行拉黑我！｜不在看x会过得很幸福，不需要你担心😋",
+        "id": "1487360722900193281",
+        "name": "陈睿",
+        "pinned_tweet_id": "1993265612382966188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994664768502992896/KUR4tnSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 342,
+          "like_count": 3137,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 470
+        },
+        "username": "TKYK_1480813",
+        "verified": false
+      }
+    ]
+  }
+}

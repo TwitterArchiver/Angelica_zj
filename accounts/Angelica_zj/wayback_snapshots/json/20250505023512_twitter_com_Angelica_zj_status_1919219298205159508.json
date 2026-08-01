@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1918648300208574682",
+    "created_at": "2025-05-05T02:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T03:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919219298205159508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "931807368349810688",
+          "start": 0,
+          "username": "jike112_jike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919219298205159508",
+    "in_reply_to_user_id": "931807368349810688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918648300208574682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jike112_jike 一连参加三场婚礼那这个五一很破费了，份子钱回得来么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1918648300208574682",
+        "created_at": "2025-05-05T02:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T03:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919219298205159508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "931807368349810688",
+              "start": 0,
+              "username": "jike112_jike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919219298205159508",
+        "in_reply_to_user_id": "931807368349810688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918648300208574682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jike112_jike 一连参加三场婚礼那这个五一很破费了，份子钱回得来么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "931807368349810688",
+        "conversation_id": "1918648300208574682",
+        "created_at": "2025-05-03T12:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T13:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918648300208574682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918648300208574682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 447746,
+          "like_count": 1203,
+          "quote_count": 3,
+          "reply_count": 68,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "这个五一真是太典了，我参加了三场婚礼，两场都是未婚先孕，新娘20岁左右，而且基本上都没工作靠有钱男方养。另外和家里几个上大学的妹妹交流了下，基本上全是极端女权，还都在备考公务员，不过她们的女权言论我都当场一一反驳了，只能说太符合当今社会的现状，还在骗自己现实都是正常女人的龟男没救了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25381,
+          "following_count": 986,
+          "like_count": 14293,
+          "listed_count": 38,
+          "media_count": 1330,
+          "tweet_count": 15092
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T08:52:43.000Z",
+        "description": "男性要学会保护自己",
+        "id": "931807368349810688",
+        "name": "jike",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770473487389294594/AqsssmrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3125,
+          "following_count": 213,
+          "like_count": 5765,
+          "listed_count": 10,
+          "media_count": 491,
+          "tweet_count": 1883
+        },
+        "username": "jike112_jike",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1929947597848097183",
+    "created_at": "2025-06-04T15:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T16:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930286829754098033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1431725991743959048",
+          "start": 0,
+          "username": "Aa1389729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930286829754098033",
+    "in_reply_to_user_id": "1431725991743959048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930276111511941365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aa1389729 点了，因为所谓的“无意义”从而躺平，躺平的人还会反过来骂争取权益的人，是否有点倒反天罡了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1929947597848097183",
+        "created_at": "2025-06-04T15:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T16:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930286829754098033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1431725991743959048",
+              "start": 0,
+              "username": "Aa1389729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930286829754098033",
+        "in_reply_to_user_id": "1431725991743959048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930276111511941365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aa1389729 点了，因为所谓的“无意义”从而躺平，躺平的人还会反过来骂争取权益的人，是否有点倒反天罡了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431725991743959048",
+        "conversation_id": "1929947597848097183",
+        "created_at": "2025-06-04T14:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T15:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930276111511941365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930276111511941365",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929947597848097183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 什么都不做的人反更加正确是吧，什么脑子被驴踢了的破思维，也就会小窗口嗨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25542,
+          "following_count": 993,
+          "like_count": 14486,
+          "listed_count": 36,
+          "media_count": 1359,
+          "tweet_count": 15352
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T21:10:56.000Z",
+        "description": "寄托在另一个世界相见和实现",
+        "id": "1431725991743959048",
+        "name": "charKJ",
+        "pinned_tweet_id": "1732455204996739417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726831831742619648/4G6MfH9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 303,
+          "like_count": 7544,
+          "listed_count": 5,
+          "media_count": 75,
+          "tweet_count": 2577
+        },
+        "username": "Aa1389729",
+        "verified": false
+      }
+    ]
+  }
+}

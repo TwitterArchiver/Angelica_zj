@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1979550558399898025",
+    "created_at": "2025-10-19T06:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T07:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979792936062836966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1414987122528854020",
+          "start": 0,
+          "username": "Byeblue44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979792936062836966",
+    "in_reply_to_user_id": "1414987122528854020",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979633441462472826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Byeblue44 awww🥹🥹太好力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1979550558399898025",
+        "created_at": "2025-10-19T06:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T07:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979792936062836966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1414987122528854020",
+              "start": 0,
+              "username": "Byeblue44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979792936062836966",
+        "in_reply_to_user_id": "1414987122528854020",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979633441462472826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Byeblue44 awww🥹🥹太好力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414987122528854020",
+        "conversation_id": "1979550558399898025",
+        "created_at": "2025-10-18T19:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T20:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979633441462472826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979633441462472826",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979550558399898025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 好漂亮！！感觉好有辨识度好耐看🥰🫶🫶🫶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25331,
+          "following_count": 990,
+          "like_count": 14271,
+          "listed_count": 43,
+          "media_count": 1399,
+          "tweet_count": 15801
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-13T16:36:45.000Z",
+        "description": "再看就把你吃掉",
+        "id": "1414987122528854020",
+        "location": "不知道，可能是拉莱耶",
+        "name": "仿生调查员也会梦到电子克苏鲁么",
+        "pinned_tweet_id": "1977456907582595280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972364928775512065/1S5p_NpJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 238
+        },
+        "username": "Byeblue44",
+        "verified": false
+      }
+    ]
+  }
+}

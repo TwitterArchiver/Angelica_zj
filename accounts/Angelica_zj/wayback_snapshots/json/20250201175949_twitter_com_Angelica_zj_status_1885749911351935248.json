@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1885749911351935248",
+    "created_at": "2025-02-01T17:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T18:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885749911351935248"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/junyi72885047/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/junyi72885047/status/1885201753643036878",
+          "start": 16,
+          "url": "https://t.co/7aaXJ7nsVZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885749911351935248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885201753643036878",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得在快射的时候的喘息好色啊 https://t.co/7aaXJ7nsVZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1885749911351935248",
+        "created_at": "2025-02-01T17:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T18:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885749911351935248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/junyi72885047/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/junyi72885047/status/1885201753643036878",
+              "start": 16,
+              "url": "https://t.co/7aaXJ7nsVZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885749911351935248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885201753643036878",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得在快射的时候的喘息好色啊 https://t.co/7aaXJ7nsVZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570470658634809344",
+        "conversation_id": "1885201753643036878",
+        "created_at": "2025-01-31T05:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T06:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885201753643036878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885201753643036878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 548327,
+          "like_count": 1659,
+          "quote_count": 38,
+          "reply_count": 225,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "塌房了，原来做爱是真的不会喘，你们男的怎么也在演。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25157,
+          "following_count": 937,
+          "like_count": 13849,
+          "listed_count": 37,
+          "media_count": 1269,
+          "tweet_count": 14414
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-15T17:53:18.000Z",
+        "description": "是一个马迷覆面福瑞控^^随意发推 推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennywu_wow",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennywu_wow",
+                "start": 0,
+                "url": "https://t.co/YmHEBvmO3E"
+              }
+            ]
+          }
+        },
+        "id": "1570470658634809344",
+        "location": "纯绿88🚪互关免费",
+        "name": "君",
+        "pinned_tweet_id": "1885357685102481842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811493870649376769/R9xHzwJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6318,
+          "following_count": 189,
+          "like_count": 4228,
+          "listed_count": 8,
+          "media_count": 137,
+          "tweet_count": 754
+        },
+        "url": "https://t.co/YmHEBvmO3E",
+        "username": "junyi72885047",
+        "verified": false
+      }
+    ]
+  }
+}

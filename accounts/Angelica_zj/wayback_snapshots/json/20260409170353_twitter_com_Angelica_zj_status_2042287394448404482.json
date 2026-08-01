@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2042263696928620578",
+    "created_at": "2026-04-09T17:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T18:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042287394448404482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2034521053662265344",
+          "start": 0,
+          "username": "Lili_TvT_07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042287394448404482",
+    "in_reply_to_user_id": "2034521053662265344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042270016968552796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lili_TvT_07 完全我心情。，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2042263696928620578",
+        "created_at": "2026-04-09T17:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042287394448404482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2034521053662265344",
+              "start": 0,
+              "username": "Lili_TvT_07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042287394448404482",
+        "in_reply_to_user_id": "2034521053662265344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042270016968552796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lili_TvT_07 完全我心情。，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034521053662265344",
+        "conversation_id": "2042263696928620578",
+        "created_at": "2026-04-09T15:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042270016968552796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042270016968552796",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042263696928620578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 在黑x待了一整天一看朋友圈吓死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25055,
+          "following_count": 1049,
+          "like_count": 14709,
+          "listed_count": 40,
+          "media_count": 1568,
+          "tweet_count": 16958
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T06:44:24.000Z",
+        "description": "两猪99",
+        "id": "2034521053662265344",
+        "name": "我的猫总是响",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038633979746631680/Ci4NxV_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 88,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 284
+        },
+        "username": "Lili_TvT_07",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977623589592678400",
+        "3_1977623589596876800"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1977623616956293609",
+    "created_at": "2025-10-13T06:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T07:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977623616956293609"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F9xUngL5mb",
+          "end": 32,
+          "expanded_url": "https://x.com/Angelica_zj/status/1977623616956293609/photo/1",
+          "media_key": "3_1977623589592678400",
+          "start": 9,
+          "url": "https://t.co/F9xUngL5mb"
+        },
+        {
+          "display_url": "pic.x.com/F9xUngL5mb",
+          "end": 32,
+          "expanded_url": "https://x.com/Angelica_zj/status/1977623616956293609/photo/1",
+          "media_key": "3_1977623589596876800",
+          "start": 9,
+          "url": "https://t.co/F9xUngL5mb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977623616956293609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "永远因为毛绒幸福 https://t.co/F9xUngL5mb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977623589592678400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3HuLUUawAAndgr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1977623589596876800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3HuLUVa0AA701y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977623589592678400",
+            "3_1977623589596876800"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1977623616956293609",
+        "created_at": "2025-10-13T06:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T07:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977623616956293609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F9xUngL5mb",
+              "end": 32,
+              "expanded_url": "https://x.com/Angelica_zj/status/1977623616956293609/photo/1",
+              "media_key": "3_1977623589592678400",
+              "start": 9,
+              "url": "https://t.co/F9xUngL5mb"
+            },
+            {
+              "display_url": "pic.x.com/F9xUngL5mb",
+              "end": 32,
+              "expanded_url": "https://x.com/Angelica_zj/status/1977623616956293609/photo/1",
+              "media_key": "3_1977623589596876800",
+              "start": 9,
+              "url": "https://t.co/F9xUngL5mb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977623616956293609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "永远因为毛绒幸福 https://t.co/F9xUngL5mb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25296,
+          "following_count": 989,
+          "like_count": 14270,
+          "listed_count": 42,
+          "media_count": 1394,
+          "tweet_count": 15761
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

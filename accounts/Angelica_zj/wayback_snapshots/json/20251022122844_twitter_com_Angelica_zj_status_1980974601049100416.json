@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1980576918350315588",
+    "created_at": "2025-10-22T12:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T13:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980974601049100416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1792133989719048192",
+          "start": 0,
+          "username": "switch247317661"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980974601049100416",
+    "in_reply_to_user_id": "1792133989719048192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980576918350315588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@switch247317661 月经和屎尿的最大区别是无法控制吧，没有人会在一个月的七天内不间断的排泄屎尿。并且作为全世界中一半人类拥有的生理需求，卫生巾和棉条作为必需品不仅昂贵，产品也是质量问题频发。韩女的发声看起来过激其实也是一种要开窗就得掀屋顶的做法，温良的声音向来不被在意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1980576918350315588",
+        "created_at": "2025-10-22T12:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T13:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980974601049100416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792133989719048192",
+              "start": 0,
+              "username": "switch247317661"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980974601049100416",
+        "in_reply_to_user_id": "1792133989719048192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980576918350315588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@switch247317661 月经和屎尿的最大区别是无法控制吧，没有人会在一个月的七天内不间断的排泄屎尿。并且作为全世界中一半人类拥有的生理需求，卫生巾和棉条作为必需品不仅昂贵，产品也是质量问题频发。韩女的发声看起来过激其实也是一种要开窗就得掀屋顶的做法，温良的声音向来不被在意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792133989719048192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1980576918350315588",
+        "created_at": "2025-10-21T10:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T11:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980576918350315588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7b4twomenriseu…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/7b4twomenriseup/status/1980068609935454518",
+              "start": 50,
+              "url": "https://t.co/wAguSixCVk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980576918350315588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 64808,
+          "like_count": 534,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980068609935454518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“我没有义务去厕所里排泄，是因为我有素质才没把屎尿涂满这个世界，谁敢让我不痛快我就这样对抗你们。” https://t.co/wAguSixCVk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25339,
+          "following_count": 990,
+          "like_count": 14193,
+          "listed_count": 43,
+          "media_count": 1404,
+          "tweet_count": 15825
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T10:06:26.000Z",
+        "description": "I have a dream that one day man will rise up, live up to \nthe true meaning of its creed.",
+        "id": "1792133989719048192",
+        "location": "State of Arizona",
+        "name": "switch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816397035916136448/ZKsYU3M0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 218,
+          "like_count": 83032,
+          "listed_count": 9,
+          "media_count": 1046,
+          "tweet_count": 19002
+        },
+        "username": "switch247317661",
+        "verified": false
+      }
+    ]
+  }
+}

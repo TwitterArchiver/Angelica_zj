@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1990227319764475913",
+    "created_at": "2025-11-17T11:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T12:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990376163882246326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "855994622807482368",
+          "start": 0,
+          "username": "KannaKaumy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990376163882246326",
+    "in_reply_to_user_id": "855994622807482368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990316499459088713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KannaKaumy 从小爱吃，出湖北哪里都找不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1990227319764475913",
+        "created_at": "2025-11-17T11:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T12:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990376163882246326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "855994622807482368",
+              "start": 0,
+              "username": "KannaKaumy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990376163882246326",
+        "in_reply_to_user_id": "855994622807482368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990316499459088713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KannaKaumy 从小爱吃，出湖北哪里都找不到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "855994622807482368",
+        "conversation_id": "1990227319764475913",
+        "created_at": "2025-11-17T07:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T08:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990316499459088713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990316499459088713",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990227319764475913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 这豆皮看得不错😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25287,
+          "following_count": 989,
+          "like_count": 14281,
+          "listed_count": 41,
+          "media_count": 1433,
+          "tweet_count": 15996
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-23T03:59:56.000Z",
+        "description": "ずっとODするとずっと楽しい、OD仙人",
+        "id": "855994622807482368",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "Jae",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971499890003058689/qbRbeiUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 82,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 61
+        },
+        "username": "KannaKaumy",
+        "verified": false
+      }
+    ]
+  }
+}

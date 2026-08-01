@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1880979141459316995",
+    "created_at": "2025-01-20T11:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T12:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881307368857993710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1366612893928726529",
+          "start": 0,
+          "username": "Yamiao233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881307368857993710",
+    "in_reply_to_user_id": "1366612893928726529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881270667532005621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamiao233 是吗🥺我感觉我主要还是图个便宜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1880979141459316995",
+        "created_at": "2025-01-20T11:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T12:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881307368857993710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1366612893928726529",
+              "start": 0,
+              "username": "Yamiao233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881307368857993710",
+        "in_reply_to_user_id": "1366612893928726529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881270667532005621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamiao233 是吗🥺我感觉我主要还是图个便宜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1366612893928726529",
+        "conversation_id": "1880979141459316995",
+        "created_at": "2025-01-20T09:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T10:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881270667532005621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881270667532005621",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880979141459316995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我自己的游玩体验下来，山河四省主要还是人太多，玩起来感觉压力好大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25155,
+          "following_count": 936,
+          "like_count": 13801,
+          "listed_count": 37,
+          "media_count": 1259,
+          "tweet_count": 14333
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-02T04:54:46.000Z",
+        "description": "纯爱战​神",
+        "id": "1366612893928726529",
+        "name": "芽厸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592222105654870016/33ijwWi7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 967,
+          "like_count": 1446,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 2931
+        },
+        "username": "Yamiao233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1943997972880228526",
+    "created_at": "2025-07-12T11:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T12:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943997972880228526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/namida_kawaii_…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/namida_kawaii_/status/1943733802871705685",
+          "start": 6,
+          "url": "https://t.co/g9wnM7tnEI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943997972880228526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943733802871705685",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "平乳即正义 https://t.co/g9wnM7tnEI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1852,
+        "media_key": "3_1943733774686003200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvmHkdoWoAAlLuI.jpg",
+        "width": 1361
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1943997972880228526",
+        "created_at": "2025-07-12T11:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T12:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943997972880228526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/namida_kawaii_…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/namida_kawaii_/status/1943733802871705685",
+              "start": 6,
+              "url": "https://t.co/g9wnM7tnEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943997972880228526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943733802871705685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "平乳即正义 https://t.co/g9wnM7tnEI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943733774686003200"
+          ]
+        },
+        "author_id": "1762221962255126528",
+        "conversation_id": "1943733802871705685",
+        "created_at": "2025-07-11T18:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T19:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943733802871705685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9mFEfIYqK",
+              "end": 25,
+              "expanded_url": "https://x.com/NaMiDa_kawaii_/status/1943733802871705685/photo/1",
+              "media_key": "3_1943733774686003200",
+              "start": 2,
+              "url": "https://t.co/D9mFEfIYqK"
+            },
+            {
+              "display_url": "x.com/shiryohost/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/shiryohost/status/1943369630615245219",
+              "start": 26,
+              "url": "https://t.co/lzOmfHJW4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943733802871705685",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28060,
+          "impression_count": 7725017,
+          "like_count": 139260,
+          "quote_count": 1274,
+          "reply_count": 769,
+          "retweet_count": 5714
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943369630615245219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "… https://t.co/D9mFEfIYqK https://t.co/lzOmfHJW4R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25465,
+          "following_count": 994,
+          "like_count": 14400,
+          "listed_count": 37,
+          "media_count": 1382,
+          "tweet_count": 15533
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T21:03:57.000Z",
+        "description": "안뇽 나는 a쟝이야",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "namidakawaii.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://namidakawaii.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/HnjJjYBT7g"
+              }
+            ]
+          }
+        },
+        "id": "1762221962255126528",
+        "location": "패나곤니",
+        "name": "A쟝",
+        "pinned_tweet_id": "1903765333628133534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906971073851338752/6cXPFTM4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20402,
+          "following_count": 277,
+          "like_count": 12652,
+          "listed_count": 84,
+          "media_count": 471,
+          "tweet_count": 2302
+        },
+        "url": "https://t.co/HnjJjYBT7g",
+        "username": "NaMiDa_kawaii_",
+        "verified": false
+      }
+    ]
+  }
+}

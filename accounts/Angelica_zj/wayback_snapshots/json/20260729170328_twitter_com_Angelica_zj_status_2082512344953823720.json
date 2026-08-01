@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2082512344953823720",
+    "created_at": "2026-07-29T17:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T18:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082512344953823720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gzwzdxsgsl/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/gzwzdxsgsl/status/2082489989804233128",
+          "start": 12,
+          "url": "https://t.co/I8dBtOedP3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082512344953823720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082489989804233128",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不混娱乐圈吃瓜就这样 https://t.co/I8dBtOedP3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2082512344953823720",
+        "created_at": "2026-07-29T17:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082512344953823720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gzwzdxsgsl/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/gzwzdxsgsl/status/2082489989804233128",
+              "start": 12,
+              "url": "https://t.co/I8dBtOedP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082512344953823720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082489989804233128",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不混娱乐圈吃瓜就这样 https://t.co/I8dBtOedP3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459922568496832512",
+        "conversation_id": "2082131012142891168",
+        "created_at": "2026-07-29T15:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082489989804233128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1987208569763340288",
+              "start": 0,
+              "username": "rkpp3fnx47090"
+            },
+            {
+              "end": 29,
+              "id": "1883136592011046912",
+              "start": 15,
+              "username": "xiaoyuan00012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082489989804233128",
+        "in_reply_to_user_id": "1987208569763340288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1537,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082483242939375732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rkpp3fnx47090 @xiaoyuan00012 我看一楼还以为是刘欢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25017,
+          "following_count": 1047,
+          "like_count": 14954,
+          "listed_count": 41,
+          "media_count": 1614,
+          "tweet_count": 17475
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-14T16:34:59.000Z",
+        "description": "🌊",
+        "id": "1459922568496832512",
+        "location": "✨",
+        "name": "Georgia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1481315205653020674/5eUrYpjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 269,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "gzwzdxsgsl",
+        "verified": false
+      }
+    ]
+  }
+}

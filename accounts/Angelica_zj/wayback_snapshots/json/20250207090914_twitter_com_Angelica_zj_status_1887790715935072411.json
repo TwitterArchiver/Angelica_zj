@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887713413490745347"
+      ],
+      "media_source_tweet_id": [
+        "1887713419429879818"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1887790715935072411",
+    "created_at": "2025-02-07T09:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T10:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887790715935072411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1801972216562855936",
+          "start": 3,
+          "username": "yaya223478"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CfS5SRdTke",
+          "end": 39,
+          "expanded_url": "https://x.com/yaya223478/status/1887713419429879818/photo/1",
+          "media_key": "3_1887713413490745347",
+          "start": 16,
+          "url": "https://t.co/CfS5SRdTke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887790715935072411",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887713419429879818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaya223478: https://t.co/CfS5SRdTke"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1887790715935072411].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1887790715935072411",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1887790715935072411"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1887713413490745347",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjKBWRjbIAMao3x.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887713413490745347"
+          ]
+        },
+        "author_id": "1801972216562855936",
+        "conversation_id": "1887713419429879818",
+        "created_at": "2025-02-07T04:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T05:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887713419429879818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfS5SRdTke",
+              "end": 23,
+              "expanded_url": "https://x.com/yaya223478/status/1887713419429879818/photo/1",
+              "media_key": "3_1887713413490745347",
+              "start": 0,
+              "url": "https://t.co/CfS5SRdTke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887713419429879818",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CfS5SRdTke"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25168,
+          "following_count": 938,
+          "like_count": 13874,
+          "listed_count": 37,
+          "media_count": 1270,
+          "tweet_count": 14447
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T13:37:35.000Z",
+        "description": "幸せにならないで",
+        "id": "1801972216562855936",
+        "name": "❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815477343068291072/5EyMeG0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 50,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 81
+        },
+        "username": "yaya223478",
+        "verified": false
+      }
+    ]
+  }
+}

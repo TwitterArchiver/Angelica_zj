@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1989013389088043236",
+    "created_at": "2025-11-15T00:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T01:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989484689304727817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1290653989260931072",
+          "start": 0,
+          "username": "Throniexxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989484689304727817",
+    "in_reply_to_user_id": "1290653989260931072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989262188469719481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Throniexxx 太有意思了我一直在笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1989013389088043236",
+        "created_at": "2025-11-15T00:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T01:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989484689304727817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1290653989260931072",
+              "start": 0,
+              "username": "Throniexxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989484689304727817",
+        "in_reply_to_user_id": "1290653989260931072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989262188469719481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Throniexxx 太有意思了我一直在笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1290653989260931072",
+        "conversation_id": "1989013389088043236",
+        "created_at": "2025-11-14T09:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T10:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989262188469719481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989262188469719481",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989013389088043236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 发明这个词完全天才。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25298,
+          "following_count": 989,
+          "like_count": 14292,
+          "listed_count": 41,
+          "media_count": 1430,
+          "tweet_count": 15987
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-04T14:21:14.000Z",
+        "description": "",
+        "id": "1290653989260931072",
+        "location": "🗑废纸篓",
+        "name": "CallMeThroneee",
+        "pinned_tweet_id": "1976839371006607509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633194537918465/QbdUlQmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 109,
+          "like_count": 23132,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 3321
+        },
+        "username": "Throniexxx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1923278174873334136",
+    "created_at": "2025-05-16T17:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T18:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923428411101384714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1490333538972958720",
+          "start": 0,
+          "username": "huddvjhh"
+        },
+        {
+          "end": 21,
+          "id": "1455715604783005701",
+          "start": 10,
+          "username": "Minta_4869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923428411101384714",
+    "in_reply_to_user_id": "1490333538972958720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923286629533225278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huddvjhh @Minta_4869 完美阐述我的想法…简直"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1923278174873334136",
+        "created_at": "2025-05-16T17:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T18:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923428411101384714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1490333538972958720",
+              "start": 0,
+              "username": "huddvjhh"
+            },
+            {
+              "end": 21,
+              "id": "1455715604783005701",
+              "start": 10,
+              "username": "Minta_4869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923428411101384714",
+        "in_reply_to_user_id": "1490333538972958720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923286629533225278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huddvjhh @Minta_4869 完美阐述我的想法…简直"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490333538972958720",
+        "conversation_id": "1923278174873334136",
+        "created_at": "2025-05-16T07:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T08:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923286629533225278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1455715604783005701",
+              "start": 0,
+              "username": "Minta_4869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923286629533225278",
+        "in_reply_to_user_id": "1455715604783005701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 552,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923278174873334136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minta_4869 换个角度看，父权一般觉得给了钱所以让女人干什么都行，想用小钱和看似施舍一些“权力”来套取巨大的价值，如果收了钱没有满足对方，很可能被要回去，甚至拿了钱很难有自主权，确实一部分是什么没有配的感，我不喜欢拿别人的钱是因为我怕我受制于人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25551,
+          "following_count": 990,
+          "like_count": 14390,
+          "listed_count": 37,
+          "media_count": 1338,
+          "tweet_count": 15214
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T14:36:32.000Z",
+        "description": "当日记本发，欢迎提问交友，会回关",
+        "id": "1490333538972958720",
+        "name": "HeteroMorph……",
+        "pinned_tweet_id": "1902005708079460354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901586687270260736/6ZwcUToK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 74,
+          "like_count": 3611,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 268
+        },
+        "username": "huddvjhh",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T01:57:23.000Z",
+        "description": "旧世界的风慢慢飘散了\n但仍然拂过你我的面庞",
+        "id": "1455715604783005701",
+        "location": "天堂",
+        "name": "两脚羊经销商",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875512633048150016/yGxPyYx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 342,
+          "like_count": 14664,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2517
+        },
+        "username": "Minta_4869",
+        "verified": false
+      }
+    ]
+  }
+}

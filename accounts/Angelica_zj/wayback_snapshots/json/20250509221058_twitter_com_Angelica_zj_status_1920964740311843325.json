@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1920460751132672309",
+    "created_at": "2025-05-09T22:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T23:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920964740311843325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1395565481361219584",
+          "start": 0,
+          "username": "liuguangchui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920964740311843325",
+    "in_reply_to_user_id": "1395565481361219584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920460751132672309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuguangchui 服了评论区这些中年老登了，开嘴炮之前能不能上上网…咋能一钓一个准"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55960,
+        "height": 1920,
+        "media_key": "13_1920460519732924416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1920460519732924416/img/gdyrdgdDJDfowd6Y.jpg",
+        "public_metrics": {
+          "view_count": 263227
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920460519732924416/vid/avc1/1080x1920/LaXM5NMCA1pPBmWp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920460519732924416/vid/avc1/480x852/ygAuMfny9bRVb0LZ.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920460519732924416/vid/avc1/320x568/Usyjg2g22IDbRUS6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1920460519732924416/pl/nYaJc0IFjz5_3K5k.m3u8?v=482"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920460519732924416/vid/avc1/720x1280/aUK1Q_KeMwL0ksNL.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1920460751132672309",
+        "created_at": "2025-05-09T22:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T23:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920964740311843325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1395565481361219584",
+              "start": 0,
+              "username": "liuguangchui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920964740311843325",
+        "in_reply_to_user_id": "1395565481361219584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920460751132672309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuguangchui 服了评论区这些中年老登了，开嘴炮之前能不能上上网…咋能一钓一个准"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1920460519732924416"
+          ]
+        },
+        "author_id": "1395565481361219584",
+        "conversation_id": "1920460751132672309",
+        "created_at": "2025-05-08T12:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T13:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920460751132672309"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "白紙"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zh8jOcS3um",
+              "end": 59,
+              "expanded_url": "https://x.com/liuguangchui/status/1920460751132672309/video/1",
+              "media_key": "13_1920460519732924416",
+              "start": 36,
+              "url": "https://t.co/Zh8jOcS3um"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920460751132672309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "白紙"
+              }
+            ]
+          },
+          "text": "各位手足，2025白紙的用途，你記住了嗎？\n白紙！白紙！白紙！\n#白紙"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 530647,
+          "like_count": 901,
+          "quote_count": 12,
+          "reply_count": 182,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "各位手足，2025白紙的用途，你記住了嗎？\n白紙！白紙！白紙！\n#白紙 https://t.co/Zh8jOcS3um"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25400,
+          "following_count": 987,
+          "like_count": 14355,
+          "listed_count": 37,
+          "media_count": 1335,
+          "tweet_count": 15153
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T02:22:16.000Z",
+        "description": "你知道：零敲牛皮糖、597.9，什麼意思吗？\n我拥护：中国式现代化：Chinese path to modernization\n人民有信仰，民族有希望，國家有力量。實現中華民族偉大復興。\n防走失fo：@LQniupitang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "LQniupitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "https://www.xuexi.cn/",
+                "start": 0,
+                "url": "https://t.co/JFVpOCK9Pk"
+              }
+            ]
+          }
+        },
+        "id": "1395565481361219584",
+        "location": "中国贵州省遵义市红花岗区子尹路96号",
+        "name": "零敲牛皮糖597.9",
+        "pinned_tweet_id": "1920421870274293860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920150688262483968/ffHFWlil_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23584,
+          "following_count": 1312,
+          "like_count": 38581,
+          "listed_count": 119,
+          "media_count": 6641,
+          "tweet_count": 28170
+        },
+        "url": "https://t.co/JFVpOCK9Pk",
+        "username": "liuguangchui",
+        "verified": false
+      }
+    ]
+  }
+}

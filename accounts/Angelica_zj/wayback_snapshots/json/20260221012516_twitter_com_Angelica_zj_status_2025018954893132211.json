@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2024890975361835101",
+    "created_at": "2026-02-21T01:25:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T02:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025018954893132211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1621755067249610753",
+          "start": 0,
+          "username": "yamazakiiii_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025018954893132211",
+    "in_reply_to_user_id": "1621755067249610753",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024968482446795002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamazakiiii_ awww🥺🥺🥺🩷🩷🩷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2024890975361835101",
+        "created_at": "2026-02-21T01:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T02:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025018954893132211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1621755067249610753",
+              "start": 0,
+              "username": "yamazakiiii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025018954893132211",
+        "in_reply_to_user_id": "1621755067249610753",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024968482446795002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamazakiiii_ awww🥺🥺🥺🩷🩷🩷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621755067249610753",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2024890975361835101",
+        "created_at": "2026-02-20T22:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T23:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024968482446795002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024968482446795002",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024890975361835101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 这个笑容是健康的证明！（好幸福的笑ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25282,
+          "following_count": 1038,
+          "like_count": 14626,
+          "listed_count": 40,
+          "media_count": 1525,
+          "tweet_count": 16675
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:18:45.000Z",
+        "description": "我是搞不懂怎么爱自己了。所以答应我，看到我主页的你要好好爱自己，好吗",
+        "id": "1621755067249610753",
+        "location": "在他妈海里泡着",
+        "name": "yamazakii（吉伊家长版）",
+        "pinned_tweet_id": "1660868190233329664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004137258295926784/fcbbZWtx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 221,
+          "like_count": 7631,
+          "listed_count": 3,
+          "media_count": 1167,
+          "tweet_count": 6682
+        },
+        "username": "yamazakiiii_",
+        "verified": false
+      }
+    ]
+  }
+}

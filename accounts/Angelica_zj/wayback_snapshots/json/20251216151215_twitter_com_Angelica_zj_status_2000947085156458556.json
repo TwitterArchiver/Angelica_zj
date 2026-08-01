@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2000942102486933750",
+    "created_at": "2025-12-16T15:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T16:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000947085156458556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1474022820175020045",
+          "start": 0,
+          "username": "Cma_and_doggy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000947085156458556",
+    "in_reply_to_user_id": "1474022820175020045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000946930629886247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cma_and_doggy 😭😭😭😭😭😭日清宝宝你最好了我一直在哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2000942102486933750",
+        "created_at": "2025-12-16T15:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T16:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000947085156458556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1474022820175020045",
+              "start": 0,
+              "username": "Cma_and_doggy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000947085156458556",
+        "in_reply_to_user_id": "1474022820175020045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000946930629886247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cma_and_doggy 😭😭😭😭😭😭日清宝宝你最好了我一直在哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1474022820175020045",
+        "conversation_id": "2000942102486933750",
+        "created_at": "2025-12-16T15:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T16:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000946930629886247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000946930629886247",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000942102486933750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 心疼小九 遇到这种朋友真的遭罪了 咱以后自私点 因为宝宝妳才是最重要的🫶🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25287,
+          "following_count": 1008,
+          "like_count": 14429,
+          "listed_count": 40,
+          "media_count": 1468,
+          "tweet_count": 16238
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T14:24:17.000Z",
+        "description": "本质是夸夸机// 爹系寒寒@Baihanhan5//推止於推！推止於推！推止於推！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "Baihanhan5"
+              }
+            ]
+          }
+        },
+        "id": "1474022820175020045",
+        "name": "日清",
+        "pinned_tweet_id": "1719244546897572247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987690363759603712/pAgPdIGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 367,
+          "like_count": 6650,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 3198
+        },
+        "username": "Cma_and_doggy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1974967819499651514",
+    "created_at": "2025-10-06T13:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T14:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975197232006864985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1681028190163140611",
+          "start": 0,
+          "username": "ruanfan555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975197232006864985",
+    "in_reply_to_user_id": "1681028190163140611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975155919202947403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruanfan555 别说水贴 在学校的时候甚至每台落差刻线，现在完全没时间没精力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1974967819499651514",
+        "created_at": "2025-10-06T13:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T14:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975197232006864985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1681028190163140611",
+              "start": 0,
+              "username": "ruanfan555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975197232006864985",
+        "in_reply_to_user_id": "1681028190163140611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975155919202947403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruanfan555 别说水贴 在学校的时候甚至每台落差刻线，现在完全没时间没精力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681028190163140611",
+        "conversation_id": "1974967819499651514",
+        "created_at": "2025-10-06T11:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T12:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975155919202947403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975155919202947403",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975055864148152719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 不上水贴吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25324,
+          "following_count": 990,
+          "like_count": 14282,
+          "listed_count": 42,
+          "media_count": 1390,
+          "tweet_count": 15739
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T19:49:08.000Z",
+        "description": "偷得浮生半日闲",
+        "id": "1681028190163140611",
+        "name": "夏如白鸟飞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786806904133464064/qWd3cMHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 451,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 72
+        },
+        "username": "ruanfan555",
+        "verified": false
+      }
+    ]
+  }
+}

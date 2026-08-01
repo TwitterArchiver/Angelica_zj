@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888235798539243520",
+        "3_1888235798543376384",
+        "3_1888235798539149312"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1888235808202649730",
+    "created_at": "2025-02-08T14:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T15:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888235808202649730"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c1PGwXJWzu",
+          "end": 40,
+          "expanded_url": "https://x.com/Angelica_zj/status/1888235808202649730/photo/1",
+          "media_key": "3_1888235798539243520",
+          "start": 17,
+          "url": "https://t.co/c1PGwXJWzu"
+        },
+        {
+          "display_url": "pic.x.com/c1PGwXJWzu",
+          "end": 40,
+          "expanded_url": "https://x.com/Angelica_zj/status/1888235808202649730/photo/1",
+          "media_key": "3_1888235798543376384",
+          "start": 17,
+          "url": "https://t.co/c1PGwXJWzu"
+        },
+        {
+          "display_url": "pic.x.com/c1PGwXJWzu",
+          "end": 40,
+          "expanded_url": "https://x.com/Angelica_zj/status/1888235808202649730/photo/1",
+          "media_key": "3_1888235798539149312",
+          "start": 17,
+          "url": "https://t.co/c1PGwXJWzu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888235808202649730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得我23年这么瘦纯是嗑药嗑的 https://t.co/c1PGwXJWzu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1888235798539243520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjRcdFgbkAAp3NL.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1888235798543376384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjRcdFhaoAAfdt3.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1888235798539149312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjRcdFgaIAA9jK3.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888235798539243520",
+            "3_1888235798543376384",
+            "3_1888235798539149312"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1888235808202649730",
+        "created_at": "2025-02-08T14:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T15:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888235808202649730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c1PGwXJWzu",
+              "end": 40,
+              "expanded_url": "https://x.com/Angelica_zj/status/1888235808202649730/photo/1",
+              "media_key": "3_1888235798539243520",
+              "start": 17,
+              "url": "https://t.co/c1PGwXJWzu"
+            },
+            {
+              "display_url": "pic.x.com/c1PGwXJWzu",
+              "end": 40,
+              "expanded_url": "https://x.com/Angelica_zj/status/1888235808202649730/photo/1",
+              "media_key": "3_1888235798543376384",
+              "start": 17,
+              "url": "https://t.co/c1PGwXJWzu"
+            },
+            {
+              "display_url": "pic.x.com/c1PGwXJWzu",
+              "end": 40,
+              "expanded_url": "https://x.com/Angelica_zj/status/1888235808202649730/photo/1",
+              "media_key": "3_1888235798539149312",
+              "start": 17,
+              "url": "https://t.co/c1PGwXJWzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888235808202649730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我23年这么瘦纯是嗑药嗑的 https://t.co/c1PGwXJWzu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25173,
+          "following_count": 939,
+          "like_count": 13878,
+          "listed_count": 37,
+          "media_count": 1272,
+          "tweet_count": 14456
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

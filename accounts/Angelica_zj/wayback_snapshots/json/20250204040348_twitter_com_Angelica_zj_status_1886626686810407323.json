@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1886146956923470274",
+    "created_at": "2025-02-04T04:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T05:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886626686810407323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1563374476774948866",
+          "start": 0,
+          "username": "wudaomingyuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886626686810407323",
+    "in_reply_to_user_id": "1563374476774948866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886455848584859694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wudaomingyuan 病句吧，“难道”是反问句，后面咋能加个“是不是”，看半天没看明白你想说啥…转陈述句该说“是”还是“不是”呢🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1886146956923470274",
+        "created_at": "2025-02-04T04:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T05:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886626686810407323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1563374476774948866",
+              "start": 0,
+              "username": "wudaomingyuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886626686810407323",
+        "in_reply_to_user_id": "1563374476774948866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886455848584859694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wudaomingyuan 病句吧，“难道”是反问句，后面咋能加个“是不是”，看半天没看明白你想说啥…转陈述句该说“是”还是“不是”呢🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563374476774948866",
+        "conversation_id": "1886146956923470274",
+        "created_at": "2025-02-03T16:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T17:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886455848584859694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886455848584859694",
+        "in_reply_to_user_id": "1563374476774948866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 37924,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886146956923470274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "问难道跟朋友或者熟人做的小时候是不是发过高烧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25145,
+          "following_count": 941,
+          "like_count": 13861,
+          "listed_count": 37,
+          "media_count": 1269,
+          "tweet_count": 14436
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T03:55:06.000Z",
+        "description": "你总是这样对我",
+        "id": "1563374476774948866",
+        "name": "血滴子",
+        "pinned_tweet_id": "1886499296843063429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885712779501604864/hpvuOdxN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2383,
+          "following_count": 565,
+          "like_count": 17605,
+          "listed_count": 2,
+          "media_count": 971,
+          "tweet_count": 8141
+        },
+        "username": "wudaomingyuan",
+        "verified": false
+      }
+    ]
+  }
+}

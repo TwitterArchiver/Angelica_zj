@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1918330674068766721"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1918330881263141006",
+    "created_at": "2025-05-02T15:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T16:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918330881263141006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mWWg5vwUYa",
+          "end": 26,
+          "expanded_url": "https://x.com/Angelica_zj/status/1918330881263141006/video/1",
+          "media_key": "13_1918330674068766721",
+          "start": 3,
+          "url": "https://t.co/mWWg5vwUYa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918330881263141006",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猫猫 https://t.co/mWWg5vwUYa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15066,
+        "height": 1280,
+        "media_key": "13_1918330674068766721",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1918330674068766721/img/hdtogF6BvyxD9lf7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918330674068766721/vid/avc1/320x568/TrrCZANyWHnjQ8o-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918330674068766721/vid/avc1/480x852/EN4FFaGurgl6nZFE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1918330674068766721/vid/avc1/720x1280/cCE9tY75Po6IyGcL.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1918330674068766721/pl/vwoSysnKl2tntgci.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1918330674068766721"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1918330881263141006",
+        "created_at": "2025-05-02T15:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T16:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918330881263141006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mWWg5vwUYa",
+              "end": 26,
+              "expanded_url": "https://x.com/Angelica_zj/status/1918330881263141006/video/1",
+              "media_key": "13_1918330674068766721",
+              "start": 3,
+              "url": "https://t.co/mWWg5vwUYa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918330881263141006",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫 https://t.co/mWWg5vwUYa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25364,
+          "following_count": 987,
+          "like_count": 14274,
+          "listed_count": 39,
+          "media_count": 1328,
+          "tweet_count": 15078
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

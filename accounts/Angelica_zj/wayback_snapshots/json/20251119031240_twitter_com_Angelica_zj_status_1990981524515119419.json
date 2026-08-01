@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1990703597043265959",
+    "created_at": "2025-11-19T03:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T04:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990981524515119419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "931807368349810688",
+          "start": 0,
+          "username": "jike112_jike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990981524515119419",
+    "in_reply_to_user_id": "931807368349810688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990703597043265959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jike112_jike 支持男人留长发卷颜值"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1990703597043265959",
+        "created_at": "2025-11-19T03:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T04:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990981524515119419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "931807368349810688",
+              "start": 0,
+              "username": "jike112_jike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990981524515119419",
+        "in_reply_to_user_id": "931807368349810688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990703597043265959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jike112_jike 支持男人留长发卷颜值"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "931807368349810688",
+        "conversation_id": "1990703597043265959",
+        "created_at": "2025-11-18T08:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T09:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990703597043265959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Anci7e/status/…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/Anci7e/status/1989998896521814197",
+              "start": 108,
+              "url": "https://t.co/Mg0cIGHYYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990703597043265959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 54615,
+          "like_count": 403,
+          "quote_count": 5,
+          "reply_count": 41,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989998896521814197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女人百分之99的颜值都来源于那头长发和妆造，没什么美女的，这些所谓的美女剔个平头光头都很丑很丑的，自然女是好事情，可以让男性对女人的颜值祛魅，支持自然女越来越多，同时希望长相普通的男生可以尝试去留一头长发，很好用的 https://t.co/Mg0cIGHYYO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25297,
+          "following_count": 992,
+          "like_count": 14290,
+          "listed_count": 41,
+          "media_count": 1435,
+          "tweet_count": 16011
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T08:52:43.000Z",
+        "description": "男性要学会保护自己",
+        "id": "931807368349810688",
+        "name": "jike",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770473487389294594/AqsssmrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6664,
+          "following_count": 219,
+          "like_count": 6904,
+          "listed_count": 31,
+          "media_count": 780,
+          "tweet_count": 2905
+        },
+        "username": "jike112_jike",
+        "verified": false
+      }
+    ]
+  }
+}

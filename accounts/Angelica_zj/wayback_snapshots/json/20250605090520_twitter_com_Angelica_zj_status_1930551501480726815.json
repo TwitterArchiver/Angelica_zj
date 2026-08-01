@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1930550545535979983",
+    "created_at": "2025-06-05T09:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T10:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930551501480726815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1883811574328213504",
+          "start": 0,
+          "username": "Mnx3m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930551501480726815",
+    "in_reply_to_user_id": "1883811574328213504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930551211427508335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mnx3m 好玩爱玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1930550545535979983",
+        "created_at": "2025-06-05T09:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T10:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930551501480726815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1883811574328213504",
+              "start": 0,
+              "username": "Mnx3m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930551501480726815",
+        "in_reply_to_user_id": "1883811574328213504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930551211427508335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mnx3m 好玩爱玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883811574328213504",
+        "conversation_id": "1930550545535979983",
+        "created_at": "2025-06-05T09:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T10:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930551211427508335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930551211427508335",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930550545535979983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 哎我操我之前一段时间很爱去游乐园玩，把很多地方的这种过山车跳楼机什么的都坐过一遍wwww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25533,
+          "following_count": 994,
+          "like_count": 14491,
+          "listed_count": 36,
+          "media_count": 1361,
+          "tweet_count": 15361
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T09:38:09.000Z",
+        "description": "🩸shtwt（已不割基本不会发）-都来看我的发疯碎碎念谢谢-哈哈😃",
+        "id": "1883811574328213504",
+        "location": "距离你391.4km",
+        "name": "灯6188（素孝子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930067237857308675/1vyml7Iz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 32,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 947
+        },
+        "username": "Mnx3m",
+        "verified": false
+      }
+    ]
+  }
+}

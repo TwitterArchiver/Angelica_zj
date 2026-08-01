@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2053747456773615639",
+    "created_at": "2026-05-12T06:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T07:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054082547257049271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1158954417858605056",
+          "start": 0,
+          "username": "kuniyoshi_shino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054082547257049271",
+    "in_reply_to_user_id": "1158954417858605056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053747456773615639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuniyoshi_shino 原文博主在店里的消费故意不翻译，通篇没说过的“日本人好冷漠”这句话倒是自己给加上了，有点太不要脸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2053747456773615639",
+        "created_at": "2026-05-12T06:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054082547257049271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1158954417858605056",
+              "start": 0,
+              "username": "kuniyoshi_shino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054082547257049271",
+        "in_reply_to_user_id": "1158954417858605056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053747456773615639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuniyoshi_shino 原文博主在店里的消费故意不翻译，通篇没说过的“日本人好冷漠”这句话倒是自己给加上了，有点太不要脸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1158954417858605056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251584",
+              "name": "Grocery/Convenience - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "LAWSON (ローソン)",
+              "id": "1035550790197231616",
+              "name": "LAWSON (ローソン)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "LAWSON (ローソン)",
+              "id": "1035550790197231616",
+              "name": "LAWSON (ローソン)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2053747456773615639",
+        "created_at": "2026-05-11T08:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053747456773615639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zengying1107/s…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/zengying1107/status/2053699756355109151",
+              "start": 139,
+              "url": "https://t.co/tQgvEBzyVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053747456773615639",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国人留学生、歩き疲れてローソンに入って休憩。\n隅っこでメソメソ泣いている。\n店員が優しく\n「大丈夫ですか？」\n\n留学生M「日本人、優しい……私のことを心配してくれたんだ……！」\n――しかし次の瞬間。\n\n店員\n「お買い物のご予定がなければ、出て行ってお願いします」\n\n留学生M\n「日本人は冷たい……ううう、日本はルールが多すぎる……」\nガーン\n\nコンビニを無料休憩所だと思っていた中国人留学生、初めて“営業中の店”という概念を知る"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 231204,
+          "like_count": 2904,
+          "quote_count": 21,
+          "reply_count": 48,
+          "retweet_count": 402
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053699756355109151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人留学生、歩き疲れてローソンに入って休憩。\n隅っこでメソメソ泣いている。\n店員が優しく\n「大丈夫ですか？」\n\n留学生M「日本人、優しい……私のことを心配してくれたんだ……！」\n――しかし次の瞬間。\n\n店員\n「お買い物のご予定がなければ、出て行ってお願いします」\n\n留学生M https://t.co/tQgvEBzyVF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25156,
+          "following_count": 1050,
+          "like_count": 14750,
+          "listed_count": 42,
+          "media_count": 1585,
+          "tweet_count": 17113
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-07T04:14:00.000Z",
+        "description": "漫画家、画家。コミックス「樋口季一郎の決断」 ３刷、実売部数１万部突破！／「銀翼のサムライ〜『撃墜王』坂井三郎物語」好評発売中！　BOOTHにて水彩画、油絵の原画、３D商用素材を販売中→https://t.co/ShQmey6JHK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tsubasa-shino.booth.pm",
+                "end": 116,
+                "expanded_url": "https://tsubasa-shino.booth.pm/",
+                "start": 93,
+                "url": "https://t.co/ShQmey6JHK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amzn.asia/d/0dcjvd9U",
+                "end": 23,
+                "expanded_url": "https://amzn.asia/d/0dcjvd9U",
+                "start": 0,
+                "url": "https://t.co/JlpMwdbhJv"
+              }
+            ]
+          }
+        },
+        "id": "1158954417858605056",
+        "name": "東雲くによし(Shinonome Kuniyoshi)",
+        "pinned_tweet_id": "2050185741817548912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037332781869805568/BU2sFQP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130085,
+          "following_count": 2,
+          "like_count": 8761,
+          "listed_count": 906,
+          "media_count": 7440,
+          "tweet_count": 75125
+        },
+        "url": "https://t.co/JlpMwdbhJv",
+        "username": "kuniyoshi_shino",
+        "verified": true
+      }
+    ]
+  }
+}

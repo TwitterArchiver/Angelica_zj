@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1928991558189072387",
+    "created_at": "2025-06-01T06:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T07:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929055460398870871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1773041626581221376",
+          "start": 0,
+          "username": "Nikikiki8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929055460398870871",
+    "in_reply_to_user_id": "1773041626581221376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928991558189072387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nikikiki8964 好有韵味…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928991548714397698",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsUnl-PaMAIaRmR.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1928991558189072387",
+        "created_at": "2025-06-01T06:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T07:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929055460398870871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1773041626581221376",
+              "start": 0,
+              "username": "Nikikiki8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929055460398870871",
+        "in_reply_to_user_id": "1773041626581221376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928991558189072387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nikikiki8964 好有韵味…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928991548714397698"
+          ]
+        },
+        "author_id": "1773041626581221376",
+        "conversation_id": "1928991558189072387",
+        "created_at": "2025-06-01T01:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T02:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928991558189072387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1gDy3Q0AXj",
+              "end": 23,
+              "expanded_url": "https://x.com/Nikikiki8964/status/1928991558189072387/photo/1",
+              "media_key": "3_1928991548714397698",
+              "start": 0,
+              "url": "https://t.co/1gDy3Q0AXj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928991558189072387",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1gDy3Q0AXj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25534,
+          "following_count": 989,
+          "like_count": 14470,
+          "listed_count": 37,
+          "media_count": 1357,
+          "tweet_count": 15323
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T17:37:30.000Z",
+        "description": "胡言乱语｜嫦娥娘娘梦授梦到哪句说哪句｜善用划走屏蔽对号入座贴脸犯贱滚｜尊厌｜岁静死宅oc人｜社会化相对失败的边缘人｜一切群体友好极端魔怔过激壬除外｜回关交友随缘｜不开私信有事提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%A5%BF%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%A5%BF%E7%93%9C%E6%8A%95%E6%89%8B",
+                "start": 0,
+                "url": "https://t.co/ujX5HCo8rR"
+              }
+            ]
+          }
+        },
+        "id": "1773041626581221376",
+        "location": "匿名提问箱→",
+        "name": "西瓜蒜苗鸡",
+        "pinned_tweet_id": "1904049031468229056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910353754169409536/9y20G2A3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 107,
+          "like_count": 49221,
+          "listed_count": 5,
+          "media_count": 67,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/ujX5HCo8rR",
+        "username": "Nikikiki8964",
+        "verified": false
+      }
+    ]
+  }
+}

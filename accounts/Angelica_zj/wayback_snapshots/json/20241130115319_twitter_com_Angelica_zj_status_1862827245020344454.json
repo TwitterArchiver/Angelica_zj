@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1862827245020344454",
+    "created_at": "2024-11-30T11:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T12:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1862827245020344454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/saryam16a/stat…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/saryam16a/status/1770814918058508295",
+          "start": 100,
+          "url": "https://t.co/2KFF3P2pwt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862827245020344454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1770814918058508295",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "让我想起曾经的gik了，是纯情良家女堕落外围被迫援交的人设，被锤之后飞快注销\n只是不知道为什么盗图证据这么确凿的情况下这个号还能依旧做的风生水起，可能是人设太过猎奇，所以大家哪怕知道是假的也愿意捧么 https://t.co/2KFF3P2pwt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1862827245020344454",
+        "created_at": "2024-11-30T11:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T12:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862827245020344454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/saryam16a/stat…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/saryam16a/status/1770814918058508295",
+              "start": 100,
+              "url": "https://t.co/2KFF3P2pwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862827245020344454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1770814918058508295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让我想起曾经的gik了，是纯情良家女堕落外围被迫援交的人设，被锤之后飞快注销\n只是不知道为什么盗图证据这么确凿的情况下这个号还能依旧做的风生水起，可能是人设太过猎奇，所以大家哪怕知道是假的也愿意捧么 https://t.co/2KFF3P2pwt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "44049124",
+        "conversation_id": "1770814918058508295",
+        "created_at": "2024-03-21T14:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-21T15:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1770814918058508295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1770814918058508295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 2948038,
+          "like_count": 1493,
+          "quote_count": 4,
+          "reply_count": 570,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "想写点什么：\n我成绩在班里确实很好，长得也算合格，平时同学逗我我会脸红，可是我知道我自己的内心有多幽暗，我会让其他同学看着我很纯真，实际上这个东西离我太遥远了。\n对我来说从小被qx，母亲视若无睹的样子我见了太多次了，我实际上不认为我是他们亲生的，他们不应该这么对我。（接下——"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24731,
+          "following_count": 932,
+          "like_count": 13643,
+          "listed_count": 36,
+          "media_count": 1231,
+          "tweet_count": 13999
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T03:31:30.000Z",
+        "description": "有朝一日杀死父亲",
+        "id": "44049124",
+        "name": "废物琳",
+        "pinned_tweet_id": "1770814918058508295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769271773806419968/_crRF98X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53220,
+          "following_count": 633,
+          "like_count": 104,
+          "listed_count": 46,
+          "media_count": 33,
+          "tweet_count": 368
+        },
+        "username": "SARYAM16a",
+        "verified": false
+      }
+    ]
+  }
+}

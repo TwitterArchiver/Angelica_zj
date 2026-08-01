@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1978656668180459856",
+    "created_at": "2025-10-16T05:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T06:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978694240407319004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1381071251926609923",
+          "start": 0,
+          "username": "pureding3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978694240407319004",
+    "in_reply_to_user_id": "1381071251926609923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978684749037138092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pureding3 哈哈哈哈这么巧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1978656668180459856",
+        "created_at": "2025-10-16T05:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T06:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978694240407319004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1381071251926609923",
+              "start": 0,
+              "username": "pureding3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978694240407319004",
+        "in_reply_to_user_id": "1381071251926609923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978684749037138092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pureding3 哈哈哈哈这么巧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1381071251926609923",
+        "conversation_id": "1978656668180459856",
+        "created_at": "2025-10-16T04:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T05:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978684749037138092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978684749037138092",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978656668180459856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我去我室友和你好像"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25286,
+          "following_count": 990,
+          "like_count": 14274,
+          "listed_count": 42,
+          "media_count": 1396,
+          "tweet_count": 15774
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-11T02:27:14.000Z",
+        "description": "做合时宜的事，爱的时候就说爱，该热烈的时候就不要刻意地表现出冷清。当下的浪漫是生活各个阶段的限定款，就像夏天不能被放进冰箱珍藏。\n\n                                                   ——山行",
+        "id": "1381071251926609923",
+        "location": "Beijing",
+        "name": "pureding ​",
+        "pinned_tweet_id": "1388162790079270914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1392869320905142273/7a1Wlaw2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 3022,
+          "like_count": 8895,
+          "listed_count": 7,
+          "media_count": 189,
+          "tweet_count": 3026
+        },
+        "username": "pureding3",
+        "verified": false
+      }
+    ]
+  }
+}

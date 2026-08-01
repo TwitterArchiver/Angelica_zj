@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2013074314761773354",
+    "created_at": "2026-01-19T02:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T03:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013075310003007488"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2013075310003007488",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013074314761773354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有些up发盗版资源都要开付费是我最想不通的，这和搬运投自制有什么区别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2013074314761773354",
+        "created_at": "2026-01-19T02:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T03:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013075310003007488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013075310003007488",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013074314761773354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有些up发盗版资源都要开付费是我最想不通的，这和搬运投自制有什么区别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2013074314761773354",
+        "created_at": "2026-01-19T02:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T03:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013074314761773354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013074314761773354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "b站现在的充电视频功能有点太贱了，以前这种都会在主页标上会员专享的，现在没有任何提示，很多视频看了大半才告诉要充电，特别浪费时间\n而且付费机制也很不合理，很多单个up一个月就要几十块钱，比软件会员还贵，还不能保证该up视频产出数量质量是否稳定。可能是我暂时没刷到过高质量的付费up吧…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25284,
+          "following_count": 1026,
+          "like_count": 14499,
+          "listed_count": 40,
+          "media_count": 1501,
+          "tweet_count": 16496
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

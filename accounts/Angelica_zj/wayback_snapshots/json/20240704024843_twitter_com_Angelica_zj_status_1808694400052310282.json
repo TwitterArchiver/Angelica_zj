@@ -1,0 +1,220 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1808694400052310282",
+    "created_at": "2024-07-04T02:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T03:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1808694400052310282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xinwendiaocha/…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/xinwendiaocha/status/1808381449554518472",
+          "start": 33,
+          "url": "https://t.co/PhgGHJu9he"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808694400052310282",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808381449554518472",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操你的，照片ai转视频技术才火几天啊，这么快就拿出来给人造谣了 https://t.co/PhgGHJu9he"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1808694400052310282",
+        "created_at": "2024-07-04T02:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T03:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808694400052310282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xinwendiaocha/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/xinwendiaocha/status/1808381449554518472",
+              "start": 33,
+              "url": "https://t.co/PhgGHJu9he"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808694400052310282",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808381449554518472",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操你的，照片ai转视频技术才火几天啊，这么快就拿出来给人造谣了 https://t.co/PhgGHJu9he"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1808381359536377856",
+            "13_1808381359544766464",
+            "3_1808381359536459777",
+            "3_1808381359494516736"
+          ]
+        },
+        "author_id": "1332712954047856641",
+        "conversation_id": "1808381449554518472",
+        "created_at": "2024-07-03T06:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T07:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808381449554518472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/lpBJkVATNM",
+              "end": 68,
+              "expanded_url": "https://twitter.com/xinwendiaocha/status/1808381449554518472/video/1",
+              "media_key": "13_1808381359536377856",
+              "start": 45,
+              "url": "https://t.co/lpBJkVATNM"
+            },
+            {
+              "display_url": "pic.twitter.com/lpBJkVATNM",
+              "end": 68,
+              "expanded_url": "https://twitter.com/xinwendiaocha/status/1808381449554518472/video/1",
+              "media_key": "13_1808381359544766464",
+              "start": 45,
+              "url": "https://t.co/lpBJkVATNM"
+            },
+            {
+              "display_url": "pic.twitter.com/lpBJkVATNM",
+              "end": 68,
+              "expanded_url": "https://twitter.com/xinwendiaocha/status/1808381449554518472/video/1",
+              "media_key": "3_1808381359536459777",
+              "start": 45,
+              "url": "https://t.co/lpBJkVATNM"
+            },
+            {
+              "display_url": "pic.twitter.com/lpBJkVATNM",
+              "end": 68,
+              "expanded_url": "https://twitter.com/xinwendiaocha/status/1808381449554518472/video/1",
+              "media_key": "3_1808381359494516736",
+              "start": 45,
+              "url": "https://t.co/lpBJkVATNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808381449554518472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 638,
+          "impression_count": 931267,
+          "like_count": 2643,
+          "quote_count": 33,
+          "reply_count": 314,
+          "retweet_count": 561
+        },
+        "reply_settings": "everyone",
+        "text": "震惊全国的学术腐败\n西安交大艺术生居然成核物理研究生，女研究生和白发老教授视频全网疯传！ https://t.co/lpBJkVATNM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们  / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24646,
+          "following_count": 904,
+          "like_count": 13528,
+          "listed_count": 36,
+          "tweet_count": 13346
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-28T15:48:33.000Z",
+        "description": "追踪新闻，调查真相！ 商务合作邮箱：charles811203@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@caijinglengya…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@caijinglengyan?si=c8_FduFeV9Xu3KnO",
+                "start": 0,
+                "url": "https://t.co/7tHKzRuGFb"
+              }
+            ]
+          }
+        },
+        "id": "1332712954047856641",
+        "name": "新闻调查",
+        "pinned_tweet_id": "1806918064510017582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347827975383760896/6aV1UyGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452854,
+          "following_count": 107,
+          "like_count": 2760,
+          "listed_count": 1303,
+          "tweet_count": 41493
+        },
+        "url": "https://t.co/7tHKzRuGFb",
+        "username": "xinwendiaocha",
+        "verified": true
+      }
+    ]
+  }
+}

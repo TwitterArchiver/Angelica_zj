@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1839545747773005900",
+    "created_at": "2024-09-27T06:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T07:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839548420337373315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1400673447919951876",
+          "start": 0,
+          "username": "jianghaiguzong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839548420337373315",
+    "in_reply_to_user_id": "1400673447919951876",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839546581089124622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianghaiguzong 而且描写和过程什么的都好千篇一律，感觉特别没意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1839545747773005900",
+        "created_at": "2024-09-27T06:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T07:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839548420337373315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1400673447919951876",
+              "start": 0,
+              "username": "jianghaiguzong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839548420337373315",
+        "in_reply_to_user_id": "1400673447919951876",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839546581089124622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianghaiguzong 而且描写和过程什么的都好千篇一律，感觉特别没意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1400673447919951876",
+        "conversation_id": "1839545747773005900",
+        "created_at": "2024-09-27T06:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T07:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839546581089124622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839546581089124622",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839545747773005900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 还真是，现在黄油都审美疲劳了。没有剧情的交合毫无意义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24387,
+          "following_count": 905,
+          "like_count": 13607,
+          "listed_count": 35,
+          "tweet_count": 13656
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-04T04:39:23.000Z",
+        "description": "无情撸猫人-男。 1.我好色，我看黄，我罪无可赦。 2.不聊政治，不猎奇。 3.我会随缘搜关键字聊天回复，不必当我不怀好意",
+        "id": "1400673447919951876",
+        "name": "糯米红茶",
+        "pinned_tweet_id": "1824133635479597390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716010285528436737/ngO3EVFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 29,
+          "like_count": 653,
+          "listed_count": 0,
+          "tweet_count": 209
+        },
+        "username": "jianghaiguzong",
+        "verified": false
+      }
+    ]
+  }
+}

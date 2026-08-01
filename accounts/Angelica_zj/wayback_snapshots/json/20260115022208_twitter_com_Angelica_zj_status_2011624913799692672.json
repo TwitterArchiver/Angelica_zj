@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2011015853878165740",
+    "created_at": "2026-01-15T02:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T03:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011624913799692672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766696181361762304",
+          "start": 0,
+          "username": "banshaojitui_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011624913799692672",
+    "in_reply_to_user_id": "1766696181361762304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011624040000340230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@banshaojitui_ 眼影盘操劳一生化成一颗舍利子沉入地下…（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2011015853878165740",
+        "created_at": "2026-01-15T02:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T03:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011624913799692672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766696181361762304",
+              "start": 0,
+              "username": "banshaojitui_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011624913799692672",
+        "in_reply_to_user_id": "1766696181361762304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011624040000340230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banshaojitui_ 眼影盘操劳一生化成一颗舍利子沉入地下…（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766696181361762304",
+        "conversation_id": "2011015853878165740",
+        "created_at": "2026-01-15T02:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T03:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011624040000340230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011624040000340230",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011015853878165740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我的眼影盘可以当我的陪葬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25292,
+          "following_count": 1025,
+          "like_count": 14476,
+          "listed_count": 40,
+          "media_count": 1499,
+          "tweet_count": 16474
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T05:23:12.000Z",
+        "description": "记录📝留给自己老了看的｜不回私信",
+        "id": "1766696181361762304",
+        "name": "板烧鸡腿堡本堡",
+        "pinned_tweet_id": "1938995249793376522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893650884229574656/fV1zC7VJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42069,
+          "following_count": 124,
+          "like_count": 335,
+          "listed_count": 95,
+          "media_count": 122,
+          "tweet_count": 3061
+        },
+        "username": "banshaojitui_",
+        "verified": false
+      }
+    ]
+  }
+}

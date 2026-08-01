@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2041494534237180316",
+    "created_at": "2026-04-07T17:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T18:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041571193023569948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737045541912231936",
+          "start": 0,
+          "username": "xi_yao99537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041571193023569948",
+    "in_reply_to_user_id": "1737045541912231936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041569085667041393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xi_yao99537 你是对的！虽然原帖底下战况很激烈，但归功于这个帖子已经有女生建的模型群初具规模了，群主管理很努力的挨个审核防止有混入😭，看到大家无顾虑的交流相同的爱好实在很舒适"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2041494534237180316",
+        "created_at": "2026-04-07T17:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041571193023569948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737045541912231936",
+              "start": 0,
+              "username": "xi_yao99537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041571193023569948",
+        "in_reply_to_user_id": "1737045541912231936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041569085667041393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xi_yao99537 你是对的！虽然原帖底下战况很激烈，但归功于这个帖子已经有女生建的模型群初具规模了，群主管理很努力的挨个审核防止有混入😭，看到大家无顾虑的交流相同的爱好实在很舒适"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737045541912231936",
+        "conversation_id": "2041494534237180316",
+        "created_at": "2026-04-07T17:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041569085667041393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041569085667041393",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041494534237180316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 虽然不得不承认男群里除了正常讨论胶就是下三路，但如果真的需要，应该有女性自己开一个女性的胶佬群。\n虽然会很麻烦，但以我之见女性是很难融进基本为男性的群的，除非你真的单纯就是除了胶以外的任何话题都不参与讨论。\n或许一个群刚开始要管理，很麻烦，但总要有人牺牲一下时间不然就不会有女胶佬群"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25103,
+          "following_count": 1048,
+          "like_count": 14700,
+          "listed_count": 40,
+          "media_count": 1568,
+          "tweet_count": 16930
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T09:42:10.000Z",
+        "description": "不管你是谁，什么性别，在哪个国家，都希望你能开心哦。祝你早安，午安，以及晚安",
+        "id": "1737045541912231936",
+        "name": "冥（漂浮中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988661336520421376/NQVY7KAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 198,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 974
+        },
+        "username": "xi_yao99537",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T09:42:10.000Z",
+        "description": "不管你是谁，什么性别，在哪个国家，都希望你能开心哦。祝你早安，午安，以及晚安",
+        "id": "1737045541912231936",
+        "name": "冥（漂浮中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988661336520421376/NQVY7KAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 198,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 974
+        },
+        "url": "",
+        "username": "xi_yao99537",
+        "verified": false
+      }
+    ]
+  }
+}

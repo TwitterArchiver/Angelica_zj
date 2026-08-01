@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2066170520148603344",
+    "created_at": "2026-06-14T14:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066170520148603344"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066170520148603344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "毕业典礼那段时间家里要来九个人，我天都塌了，完全是我最最忙的时候\n未来两周要上班要搬家要改论文要准备毕业材料还要做全家旅游攻略，还有家人为了省住宿费要跟我一起住出租房。光想想就要嘎嘣跳了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2066170520148603344",
+        "created_at": "2026-06-14T14:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066170520148603344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066170520148603344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毕业典礼那段时间家里要来九个人，我天都塌了，完全是我最最忙的时候\n未来两周要上班要搬家要改论文要准备毕业材料还要做全家旅游攻略，还有家人为了省住宿费要跟我一起住出租房。光想想就要嘎嘣跳了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25089,
+          "following_count": 1050,
+          "like_count": 14853,
+          "listed_count": 41,
+          "media_count": 1595,
+          "tweet_count": 17260
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

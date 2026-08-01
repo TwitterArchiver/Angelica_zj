@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1961347459851927810",
+    "created_at": "2025-10-19T06:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T07:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979794122161709389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1546162160111321088",
+          "start": 0,
+          "username": "17748_777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979794122161709389",
+    "in_reply_to_user_id": "1546162160111321088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979601066863005853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17748_777 完全的同感，其实祛疤对我来说更像在否定曾经的自己嗯…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1961347459851927810",
+        "created_at": "2025-10-19T06:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T07:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979794122161709389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546162160111321088",
+              "start": 0,
+              "username": "17748_777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979794122161709389",
+        "in_reply_to_user_id": "1546162160111321088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979601066863005853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17748_777 完全的同感，其实祛疤对我来说更像在否定曾经的自己嗯…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546162160111321088",
+        "conversation_id": "1961347459851927810",
+        "created_at": "2025-10-18T17:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T18:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979601066863005853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979601066863005853",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961347459851927810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 特别懂这种感觉。。。。甚至距离那段时光远到我已经都快忘了自己身上有疤一般。抚摸凹凸不平的表面其实还是怀念当初刀尖落下后肌肤上传来的那股凉意。但知道自己如果再下手的话，可能一切都要重新开始了。朋友也有问过我以后要不要祛疤，我的答案是不要，因为看着它们还存在着我很安心。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25331,
+          "following_count": 990,
+          "like_count": 14271,
+          "listed_count": 43,
+          "media_count": 1399,
+          "tweet_count": 15802
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T15:59:30.000Z",
+        "description": "我不再自残了。主页往期推文不会删，现在大概发的都是些恢复。女孩子互fo大欢迎",
+        "id": "1546162160111321088",
+        "name": "182",
+        "pinned_tweet_id": "1772350061399138646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679811687053152256/kgGNSBTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 426,
+          "like_count": 10379,
+          "listed_count": 6,
+          "media_count": 380,
+          "tweet_count": 1026
+        },
+        "username": "17748_777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1994826680347808058",
+    "created_at": "2025-12-01T07:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T08:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995394603172954167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1590897177462976512",
+          "start": 0,
+          "username": "nipigujing1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995394603172954167",
+    "in_reply_to_user_id": "1590897177462976512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995329580052447592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nipigujing1 笑死我了谢谢你夸我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1994826680347808058",
+        "created_at": "2025-12-01T07:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T08:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995394603172954167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1590897177462976512",
+              "start": 0,
+              "username": "nipigujing1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995394603172954167",
+        "in_reply_to_user_id": "1590897177462976512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995329580052447592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nipigujing1 笑死我了谢谢你夸我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590897177462976512",
+        "conversation_id": "1994826680347808058",
+        "created_at": "2025-12-01T03:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T04:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995329580052447592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995329580052447592",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994826680347808058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 换个角度来想：这是对你作品的认可（确信🌝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25264,
+          "following_count": 996,
+          "like_count": 14320,
+          "listed_count": 40,
+          "media_count": 1445,
+          "tweet_count": 16080
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T02:40:36.000Z",
+        "description": "啊吧吧吧~~",
+        "id": "1590897177462976512",
+        "location": "中国",
+        "name": "牛排果酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853981620765945856/Qvmatd-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 18,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 25
+        },
+        "username": "nipigujing1",
+        "verified": false
+      }
+    ]
+  }
+}

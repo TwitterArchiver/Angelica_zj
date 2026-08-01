@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926331714214760448"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1926330126096089209",
+    "created_at": "2025-05-24T17:37:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T18:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926331722985074695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VZn6XaRYsy",
+          "end": 79,
+          "expanded_url": "https://x.com/Angelica_zj/status/1926331722985074695/photo/1",
+          "media_key": "3_1926331714214760448",
+          "start": 56,
+          "url": "https://t.co/VZn6XaRYsy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926331722985074695",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926330126096089209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前看网上避雷那种熟人咖啡厅熟人酒吧，还没太感同身受，昨天是真给我吃个好大的教训，以后遇到这种店真得躲得远远的 https://t.co/VZn6XaRYsy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 992,
+        "media_key": "3_1926331714214760448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gru0fOlXEAAxBMW.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926331714214760448"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1926330126096089209",
+        "created_at": "2025-05-24T17:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T18:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926331722985074695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VZn6XaRYsy",
+              "end": 79,
+              "expanded_url": "https://x.com/Angelica_zj/status/1926331722985074695/photo/1",
+              "media_key": "3_1926331714214760448",
+              "start": 56,
+              "url": "https://t.co/VZn6XaRYsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926331722985074695",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926330126096089209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前看网上避雷那种熟人咖啡厅熟人酒吧，还没太感同身受，昨天是真给我吃个好大的教训，以后遇到这种店真得躲得远远的 https://t.co/VZn6XaRYsy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1926330126096089209",
+        "created_at": "2025-05-24T17:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T18:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926330126096089209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926330126096089209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真有点受不了中古店里和店长玩的很好的的婆罗门们了，一群人挤五平方米的店里高谈阔论，来客人都转不开身\n和每个顾客搭话的语气都像在查成分且极其好为人师。但我真想买东西了问个价格得问三回😲\n做不做生意了，不做滚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25539,
+          "following_count": 991,
+          "like_count": 14429,
+          "listed_count": 37,
+          "media_count": 1345,
+          "tweet_count": 15267
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

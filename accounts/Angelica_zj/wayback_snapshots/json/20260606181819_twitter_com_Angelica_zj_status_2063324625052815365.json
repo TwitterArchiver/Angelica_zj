@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2063324625052815365",
+    "created_at": "2026-06-06T18:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T19:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063324625052815365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/han36432841/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/han36432841/status/2063119321870516394",
+          "start": 29,
+          "url": "https://t.co/bltthVOHrq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063324625052815365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063119321870516394",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真是不能熬了，看到这段话还在想为什么要翻出来看黄晓明… https://t.co/bltthVOHrq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2063324625052815365",
+        "created_at": "2026-06-06T18:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063324625052815365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/han36432841/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/han36432841/status/2063119321870516394",
+              "start": 29,
+              "url": "https://t.co/bltthVOHrq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063324625052815365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063119321870516394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真是不能熬了，看到这段话还在想为什么要翻出来看黄晓明… https://t.co/bltthVOHrq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531028879388815360",
+        "conversation_id": "2062984074608714208",
+        "created_at": "2026-06-06T04:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063119321870516394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978032792383709184",
+              "start": 0,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063119321870516394",
+        "in_reply_to_user_id": "1978032792383709184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 24526,
+          "like_count": 297,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062984074608714208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sabrina8964 中国傻逼还是太多了 经典翻墙只是为了看黄 明明都翻出来了有那么多了解信息的机会 却依然选择活在自己的世界里🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25083,
+          "following_count": 1047,
+          "like_count": 14829,
+          "listed_count": 41,
+          "media_count": 1594,
+          "tweet_count": 17220
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-29T21:45:16.000Z",
+        "description": "",
+        "id": "1531028879388815360",
+        "name": "Xhan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062247375368802304/VjUhMzZ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 10,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 32
+        },
+        "username": "han36432841",
+        "verified": false
+      }
+    ]
+  }
+}

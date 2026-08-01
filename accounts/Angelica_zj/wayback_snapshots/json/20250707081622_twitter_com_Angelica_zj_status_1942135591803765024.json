@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1941774936000856387",
+    "created_at": "2025-07-07T08:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T09:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942135591803765024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1422243145081757705",
+          "start": 0,
+          "username": "Aliicen195"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942135591803765024",
+    "in_reply_to_user_id": "1422243145081757705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942066921652081146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aliicen195 可惜没多少时间宅，泪了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1941774936000856387",
+        "created_at": "2025-07-07T08:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T09:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942135591803765024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1422243145081757705",
+              "start": 0,
+              "username": "Aliicen195"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942135591803765024",
+        "in_reply_to_user_id": "1422243145081757705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942066921652081146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aliicen195 可惜没多少时间宅，泪了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422243145081757705",
+        "conversation_id": "1941774936000856387",
+        "created_at": "2025-07-07T03:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T04:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942066921652081146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942066921652081146",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941774936000856387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 宅宅宅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25472,
+          "following_count": 996,
+          "like_count": 14447,
+          "listed_count": 36,
+          "media_count": 1379,
+          "tweet_count": 15512
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-02T17:09:33.000Z",
+        "description": "男/02年/重口/变态/疯批/性瘾/缺爱/纯爱/异性恋/自私/矛盾/天蝎座♏️/控制欲强/嫉妒心强/悲观主义/现实主义/二次元死宅/共情能力强",
+        "id": "1422243145081757705",
+        "location": "冢",
+        "name": "白纸的白",
+        "pinned_tweet_id": "1573672270186176512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616838561432768512/0526tdUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 2296,
+          "like_count": 11833,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 7201
+        },
+        "username": "Aliicen195",
+        "verified": false
+      }
+    ]
+  }
+}

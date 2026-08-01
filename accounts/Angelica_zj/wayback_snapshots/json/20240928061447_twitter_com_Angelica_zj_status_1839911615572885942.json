@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1839785358449619389",
+    "created_at": "2024-09-28T06:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T07:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839911615572885942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1499366806640676866",
+          "start": 0,
+          "username": "Jing_77ouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839911615572885942",
+    "in_reply_to_user_id": "1499366806640676866",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839785358449619389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jing_77ouo 生日快乐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1839785358449619389",
+        "created_at": "2024-09-28T06:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T07:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839911615572885942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1499366806640676866",
+              "start": 0,
+              "username": "Jing_77ouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839911615572885942",
+        "in_reply_to_user_id": "1499366806640676866",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839785358449619389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jing_77ouo 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839785348689473538"
+          ]
+        },
+        "author_id": "1499366806640676866",
+        "conversation_id": "1839785358449619389",
+        "created_at": "2024-09-27T21:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T22:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839785358449619389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ilieqjdp4o",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Jing_77ouo/status/1839785358449619389/photo/1",
+              "media_key": "3_1839785348689473538",
+              "start": 9,
+              "url": "https://t.co/IliEqJdP4O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839785358449619389",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1162,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也有气球了欧耶 https://t.co/IliEqJdP4O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24373,
+          "following_count": 904,
+          "like_count": 13619,
+          "listed_count": 35,
+          "tweet_count": 13659
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T12:51:29.000Z",
+        "description": "占卜包年价格私聊，一年内无限问！兄弟@wnnnaaaa可以无限优先问卜无需等待 热爱祖国，拥护中国共产党的领导，拥护社会主义制度，活的很简单，全职谋士，上个网想干啥就干啥主打随心所欲。会转发同行推文自行辨别，不接推广，单次消费超过500元以上的客户每年过年前均赠送礼物一份",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "wnnnaaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/syq90985",
+                "end": 23,
+                "expanded_url": "https://ngl.link/syq90985",
+                "start": 0,
+                "url": "https://t.co/Qoa2HIcRv1"
+              }
+            ]
+          }
+        },
+        "id": "1499366806640676866",
+        "location": "匿名提问在这里",
+        "name": "梅花易数大王",
+        "pinned_tweet_id": "1839450509813731494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822206066395852800/iBHqdA2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9272,
+          "following_count": 410,
+          "like_count": 2262,
+          "listed_count": 16,
+          "tweet_count": 2188
+        },
+        "url": "https://t.co/Qoa2HIcRv1",
+        "username": "Jing_77ouo",
+        "verified": false
+      }
+    ]
+  }
+}

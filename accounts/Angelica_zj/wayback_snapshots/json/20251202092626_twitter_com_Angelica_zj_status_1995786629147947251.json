@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1995521887909396558",
+    "created_at": "2025-12-02T09:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T10:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995786629147947251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1389129344790851588",
+          "start": 0,
+          "username": "mhObL1GaX02mPyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995786629147947251",
+    "in_reply_to_user_id": "1389129344790851588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995785260584558869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mhObL1GaX02mPyy 我们三观不合没必要争论这种事情，至少我不会在不了解情况的时候无端攻击普通人，你愿意用这种心态活着的话我祝你成功"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1995521887909396558",
+        "created_at": "2025-12-02T09:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T10:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995786629147947251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1389129344790851588",
+              "start": 0,
+              "username": "mhObL1GaX02mPyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995786629147947251",
+        "in_reply_to_user_id": "1389129344790851588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995785260584558869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhObL1GaX02mPyy 我们三观不合没必要争论这种事情，至少我不会在不了解情况的时候无端攻击普通人，你愿意用这种心态活着的话我祝你成功"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389129344790851588",
+        "conversation_id": "1995521887909396558",
+        "created_at": "2025-12-02T09:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T10:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995785260584558869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995785260584558869",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995739980782526486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 心痛你妈逼啊跟你有关系吗，死的是你家里人？心痛你妈逼啊这种人就该死，你心痛感慨下去陪他感慨去吧😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25281,
+          "following_count": 997,
+          "like_count": 14337,
+          "listed_count": 40,
+          "media_count": 1445,
+          "tweet_count": 16098
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-03T08:07:09.000Z",
+        "description": "Never go out of style",
+        "id": "1389129344790851588",
+        "location": "London England",
+        "name": "うた🇬🇧🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754918177384095744/0wxalf8t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 192,
+          "like_count": 522,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1306
+        },
+        "username": "mhObL1GaX02mPyy",
+        "verified": false
+      }
+    ]
+  }
+}

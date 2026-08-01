@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1987145415871832541",
+    "created_at": "2025-11-08T13:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T14:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987145415871832541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1468567542264664067",
+          "start": 3,
+          "username": "Angelica_zj"
+        },
+        {
+          "end": 29,
+          "id": "1754419839807197184",
+          "start": 17,
+          "username": "chengzi0816"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987145415871832541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987145395051626896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angelica_zj: @chengzi0816 出生的时候回头看一眼给自己吓死了，谴责他妈为什么不打码"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1987145415871832541",
+        "created_at": "2025-11-08T13:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T14:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987145415871832541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1468567542264664067",
+              "start": 3,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 29,
+              "id": "1754419839807197184",
+              "start": 17,
+              "username": "chengzi0816"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987145415871832541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987145395051626896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Angelica_zj: @chengzi0816 出生的时候回头看一眼给自己吓死了，谴责他妈为什么不打码"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1987114326134509892",
+        "created_at": "2025-11-08T13:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T14:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987145395051626896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754419839807197184",
+              "start": 0,
+              "username": "chengzi0816"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987145395051626896",
+        "in_reply_to_user_id": "1754419839807197184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987143610555588788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengzi0816 出生的时候回头看一眼给自己吓死了，谴责他妈为什么不打码"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25315,
+          "following_count": 989,
+          "like_count": 14266,
+          "listed_count": 42,
+          "media_count": 1421,
+          "tweet_count": 15937
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T08:21:08.000Z",
+        "description": "吐黑泥磕如药自如残",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chengzi0816",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chengzi0816",
+                "start": 0,
+                "url": "https://t.co/i11ylpEaFt"
+              }
+            ]
+          }
+        },
+        "id": "1754419839807197184",
+        "location": "床",
+        "name": "橙子🍊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984457207694704645/dBNP0F7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 181,
+          "like_count": 4052,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 887
+        },
+        "url": "https://t.co/i11ylpEaFt",
+        "username": "chengzi0816",
+        "verified": false
+      }
+    ]
+  }
+}

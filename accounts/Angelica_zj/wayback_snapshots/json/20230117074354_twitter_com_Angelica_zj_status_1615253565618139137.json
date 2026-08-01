@@ -1,0 +1,210 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1615247339337453573",
+    "created_at": "2023-01-17T07:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2023-01-17T08:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1615253565618139137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1193167151596634112",
+          "start": 0,
+          "username": "jack20220414"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1615253565618139137",
+    "in_reply_to_user_id": "1193167151596634112",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1615253121927897088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jack20220414 啊啊啊这么一想好像真的是。。之前带纸币乘出租就是找不开，司机赶时间就直接给我免单了（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1615247339337453573",
+        "created_at": "2023-01-17T07:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-17T08:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1615253565618139137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1193167151596634112",
+              "start": 0,
+              "username": "jack20220414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1615253565618139137",
+        "in_reply_to_user_id": "1193167151596634112",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1615253121927897088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jack20220414 啊啊啊这么一想好像真的是。。之前带纸币乘出租就是找不开，司机赶时间就直接给我免单了（？"
+      },
+      {
+        "attachments": {},
+        "author_id": "1193167151596634112",
+        "conversation_id": "1615247339337453573",
+        "created_at": "2023-01-17T07:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-17T08:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1615253121927897088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1615253121927897088",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1615252714635788288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 真的在大陸幾乎沒用過錢幣（第一次去的時候帶一堆紙幣還沒地方花，説找不開💦）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 小号@AAAAG_Angelica / 老婆至上主义 / @wryyyyygundam我只喜欢你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "AAAAG_Angelica"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "wryyyyygundam"
+              }
+            ]
+          }
+        },
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1589442994507493376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598683081946243073/EvUxVHir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11925,
+          "following_count": 804,
+          "listed_count": 20,
+          "tweet_count": 6706
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-09T14:03:22.000Z",
+        "description": "男|20歲|某金融帶學生|中國台灣🇨🇳🇹🇼|擁護祖國統一和九二共識|國護隊隊員准退休人士（2022年9月19日正式退休）|舔狗一個|紅統派一枚（但不特別希望戰爭）|反民進黨份子|讓你無可救藥的愛上冥禁黨|極端份子亂吵會ban\n#ROC_SouthChina \n小號@gaka19711141",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 113,
+                "tag": "ROC_SouthChina"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 145,
+                "start": 132,
+                "username": "gaka19711141"
+              }
+            ]
+          }
+        },
+        "id": "1193167151596634112",
+        "location": "IP属地：中华人民共和国台湾特区办公室",
+        "name": "平平無奇的呆丸射日學家🇨🇳🇹🇼",
+        "pinned_tweet_id": "1519870133128155137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601588065759363077/AYC2IRAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12181,
+          "following_count": 1908,
+          "listed_count": 28,
+          "tweet_count": 17027
+        },
+        "username": "jack20220414",
+        "verified": false
+      }
+    ]
+  }
+}

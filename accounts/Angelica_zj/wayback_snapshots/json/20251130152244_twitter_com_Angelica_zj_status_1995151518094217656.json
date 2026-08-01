@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1995043350307901524",
+    "created_at": "2025-11-30T15:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T16:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995151518094217656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1610165102858375178",
+          "start": 0,
+          "username": "TT1117777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995151518094217656",
+    "in_reply_to_user_id": "1610165102858375178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1076,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995142134287241467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TT1117777 笑死，保真的话我要拿这个噱头卖布诺芬了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1995043350307901524",
+        "created_at": "2025-11-30T15:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T16:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995151518094217656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1610165102858375178",
+              "start": 0,
+              "username": "TT1117777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995151518094217656",
+        "in_reply_to_user_id": "1610165102858375178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1076,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995142134287241467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TT1117777 笑死，保真的话我要拿这个噱头卖布诺芬了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1610165102858375178",
+        "conversation_id": "1995043350307901524",
+        "created_at": "2025-11-30T14:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T15:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995142134287241467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995142134287241467",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1255,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995043350307901524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我朋友之前和我说她吃完布洛芬特别想和人说话。。。还因此和女神说上话了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25266,
+          "following_count": 996,
+          "like_count": 14319,
+          "listed_count": 40,
+          "media_count": 1445,
+          "tweet_count": 16079
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-03T06:44:21.000Z",
+        "description": "對不起",
+        "id": "1610165102858375178",
+        "name": "Moga-01",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970101610438365184/4YU4736Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 97,
+          "like_count": 804,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 83
+        },
+        "username": "TT1117777",
+        "verified": false
+      }
+    ]
+  }
+}

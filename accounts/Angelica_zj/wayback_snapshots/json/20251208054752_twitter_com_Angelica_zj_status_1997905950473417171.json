@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1997851784162017369",
+    "created_at": "2025-12-08T05:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T06:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997905950473417171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1671096980595175424",
+          "start": 0,
+          "username": "que_kong87067"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997905950473417171",
+    "in_reply_to_user_id": "1671096980595175424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997893174623432942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@que_kong87067 行。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1997851784162017369",
+        "created_at": "2025-12-08T05:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T06:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997905950473417171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1671096980595175424",
+              "start": 0,
+              "username": "que_kong87067"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997905950473417171",
+        "in_reply_to_user_id": "1671096980595175424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997893174623432942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@que_kong87067 行。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671096980595175424",
+        "conversation_id": "1997851784162017369",
+        "created_at": "2025-12-08T04:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T05:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997893174623432942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997893174623432942",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997851784162017369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 五个字+一个标点符号等于追人，行。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25273,
+          "following_count": 998,
+          "like_count": 14354,
+          "listed_count": 40,
+          "media_count": 1455,
+          "tweet_count": 16133
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T10:05:56.000Z",
+        "description": "X唯一账号无小号•疑似NPD•素质不详•不约不聊骚•互fo私信•推广真假自辨勿受骗•嘴很脏骂完秒拉黑•遇到盗用我图片恶意造谣诽谤的账号麻烦宝宝们有空点点举报",
+        "id": "1671096980595175424",
+        "location": "你祖宗坟头",
+        "name": "雾鸫.🌫",
+        "pinned_tweet_id": "1996632141992767766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993675997905088512/Nxh0oC6u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 80,
+          "like_count": 4067,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 2819
+        },
+        "username": "que_kong87067",
+        "verified": false
+      }
+    ]
+  }
+}

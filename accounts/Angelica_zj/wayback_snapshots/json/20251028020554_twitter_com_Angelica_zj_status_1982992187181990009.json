@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1982592049976320290",
+    "created_at": "2025-10-28T02:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T03:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982992187181990009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1740140824732819456",
+          "start": 0,
+          "username": "0752or0755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982992187181990009",
+    "in_reply_to_user_id": "1740140824732819456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982592049976320290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0752or0755 不亏是睡一个被窝的，一个爱造谣的色篮一个爱偷拍的大婆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1982591962269073409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4OU4q2XwAEK5aH.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1982591963531550720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4OU4vjXoAAbTMG.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1982591963518877697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4OU4vgWQAEUyCu.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1982591962306801664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4OU4q_XcAAYkec.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1982592049976320290",
+        "created_at": "2025-10-28T02:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T03:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982992187181990009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1740140824732819456",
+              "start": 0,
+              "username": "0752or0755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982992187181990009",
+        "in_reply_to_user_id": "1740140824732819456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982592049976320290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0752or0755 不亏是睡一个被窝的，一个爱造谣的色篮一个爱偷拍的大婆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982591962269073409",
+            "3_1982591963531550720",
+            "3_1982591963518877697",
+            "3_1982591962306801664"
+          ]
+        },
+        "author_id": "1740140824732819456",
+        "conversation_id": "1982592049976320290",
+        "created_at": "2025-10-26T23:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T00:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982592049976320290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I9100TvaUP",
+              "end": 152,
+              "expanded_url": "https://x.com/0752or0755/status/1982592049976320290/photo/1",
+              "media_key": "3_1982591962269073409",
+              "start": 129,
+              "url": "https://t.co/I9100TvaUP"
+            },
+            {
+              "display_url": "pic.x.com/I9100TvaUP",
+              "end": 152,
+              "expanded_url": "https://x.com/0752or0755/status/1982592049976320290/photo/1",
+              "media_key": "3_1982591963531550720",
+              "start": 129,
+              "url": "https://t.co/I9100TvaUP"
+            },
+            {
+              "display_url": "pic.x.com/I9100TvaUP",
+              "end": 152,
+              "expanded_url": "https://x.com/0752or0755/status/1982592049976320290/photo/1",
+              "media_key": "3_1982591963518877697",
+              "start": 129,
+              "url": "https://t.co/I9100TvaUP"
+            },
+            {
+              "display_url": "pic.x.com/I9100TvaUP",
+              "end": 152,
+              "expanded_url": "https://x.com/0752or0755/status/1982592049976320290/photo/1",
+              "media_key": "3_1982591962306801664",
+              "start": 129,
+              "url": "https://t.co/I9100TvaUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982592049976320290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 220685,
+          "like_count": 579,
+          "quote_count": 0,
+          "reply_count": 48,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "昨天下午和老公逛街，顺着他发直的眼神，见到了极品美女。\n腿又细又长又直，12厘米细高跟搭配包臀短裙，瞬间吸引了周边所有男人的眼球。\n老公说肯定是外围，我不知道他的判断依据是什么。但是作为女人，我也觉得她很漂亮。\n一直听别人说外围女，不知道她们的工作是什么。 https://t.co/I9100TvaUP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25343,
+          "following_count": 992,
+          "like_count": 14205,
+          "listed_count": 43,
+          "media_count": 1411,
+          "tweet_count": 15860
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T22:41:37.000Z",
+        "description": "广东惠州85年人妻，身高158体重50小巧玲珑型。正经上班族，丝袜高跟鞋控，老公有绿帽情结，支持我交友。加微信有门槛。偶尔会接推广，真假自辨哦！",
+        "id": "1740140824732819456",
+        "location": "惠州",
+        "name": "红杏微墙",
+        "pinned_tweet_id": "1982673659430064225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937314295051878404/5GGXOdKA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33293,
+          "following_count": 1,
+          "like_count": 166,
+          "listed_count": 129,
+          "media_count": 661,
+          "tweet_count": 1201
+        },
+        "username": "0752or0755",
+        "verified": false
+      }
+    ]
+  }
+}

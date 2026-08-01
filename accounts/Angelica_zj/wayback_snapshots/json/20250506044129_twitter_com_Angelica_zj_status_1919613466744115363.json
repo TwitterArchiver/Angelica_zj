@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919613459270184960"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1919613466744115363",
+    "created_at": "2025-05-06T04:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T05:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919613466744115363"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xzvYUvQrFp",
+          "end": 70,
+          "expanded_url": "https://x.com/Angelica_zj/status/1919613466744115363/photo/1",
+          "media_key": "3_1919613459270184960",
+          "start": 47,
+          "url": "https://t.co/xzvYUvQrFp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919613466744115363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "五一在火车上拍的\n自从买了这个帕恰狗水杯之后喝水量大大提升，虽然不一定能坚持太久但还是很棒了 https://t.co/xzvYUvQrFp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1919613459270184960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqPWRUnbsAAr2Rg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919613459270184960"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1919613466744115363",
+        "created_at": "2025-05-06T04:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T05:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919613466744115363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xzvYUvQrFp",
+              "end": 70,
+              "expanded_url": "https://x.com/Angelica_zj/status/1919613466744115363/photo/1",
+              "media_key": "3_1919613459270184960",
+              "start": 47,
+              "url": "https://t.co/xzvYUvQrFp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919613466744115363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五一在火车上拍的\n自从买了这个帕恰狗水杯之后喝水量大大提升，虽然不一定能坚持太久但还是很棒了 https://t.co/xzvYUvQrFp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25384,
+          "following_count": 985,
+          "like_count": 14300,
+          "listed_count": 38,
+          "media_count": 1331,
+          "tweet_count": 15101
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1926344085729620452",
+    "created_at": "2025-05-24T18:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T19:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926344688925094176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1474022820175020045",
+          "start": 0,
+          "username": "silently_weed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926344688925094176",
+    "in_reply_to_user_id": "1474022820175020045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926344085729620452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silently_weed 萌晕我了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10513,
+        "height": 1280,
+        "media_key": "13_1926344024274722817",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1926344024274722817/img/BIFaTBT-2EBDTg3J.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926344024274722817/vid/avc1/320x568/0Xuvs6Brn1Uw_ww-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926344024274722817/vid/avc1/480x852/Q0rSBq9IV1dwgWHY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926344024274722817/vid/avc1/720x1280/FD6pR2xxFTgXPm9o.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1926344024274722817/pl/hNi-kQn_ryWsvN3n.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1926344085729620452",
+        "created_at": "2025-05-24T18:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T19:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926344688925094176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1474022820175020045",
+              "start": 0,
+              "username": "silently_weed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926344688925094176",
+        "in_reply_to_user_id": "1474022820175020045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926344085729620452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silently_weed 萌晕我了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1926344024274722817"
+          ]
+        },
+        "author_id": "1474022820175020045",
+        "conversation_id": "1926344085729620452",
+        "created_at": "2025-05-24T18:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T19:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926344085729620452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2DnBHNbMyt",
+              "end": 38,
+              "expanded_url": "https://x.com/silently_weed/status/1926344085729620452/video/1",
+              "media_key": "13_1926344024274722817",
+              "start": 15,
+              "url": "https://t.co/2DnBHNbMyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926344085729620452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没什么别的绝活了\n给大家吹个 https://t.co/2DnBHNbMyt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25540,
+          "following_count": 991,
+          "like_count": 14432,
+          "listed_count": 37,
+          "media_count": 1345,
+          "tweet_count": 15268
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T14:24:17.000Z",
+        "description": "本质是夸夸机// 爹系寒寒@Baihanhan5//",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "Baihanhan5"
+              }
+            ]
+          }
+        },
+        "id": "1474022820175020045",
+        "name": "日清",
+        "pinned_tweet_id": "1719244546897572247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864231774081175554/T-EeT2It_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 383,
+          "like_count": 6821,
+          "listed_count": 6,
+          "media_count": 224,
+          "tweet_count": 2875
+        },
+        "username": "silently_weed",
+        "verified": false
+      }
+    ]
+  }
+}

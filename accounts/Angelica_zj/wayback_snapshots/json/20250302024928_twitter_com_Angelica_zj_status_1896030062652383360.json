@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1896024163925852463",
+    "created_at": "2025-03-02T02:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T03:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896030062652383360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3384460415",
+          "start": 0,
+          "username": "_yi_ran_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896030062652383360",
+    "in_reply_to_user_id": "3384460415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896029263289348305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yi_ran_ 其实目前还没传出来什么管制的消息，要是觉得完全用不上的话现在应该也可以出掉？\n管制后就不能出了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1896024163925852463",
+        "created_at": "2025-03-02T02:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T03:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896030062652383360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3384460415",
+              "start": 0,
+              "username": "_yi_ran_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896030062652383360",
+        "in_reply_to_user_id": "3384460415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896029263289348305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yi_ran_ 其实目前还没传出来什么管制的消息，要是觉得完全用不上的话现在应该也可以出掉？\n管制后就不能出了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3384460415",
+        "conversation_id": "1896024163925852463",
+        "created_at": "2025-03-02T02:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T03:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896029263289348305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896029263289348305",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896024163925852463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我還有好多，我感覺用不上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25221,
+          "following_count": 949,
+          "like_count": 13972,
+          "listed_count": 36,
+          "media_count": 1283,
+          "tweet_count": 14585
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-20T12:28:21.000Z",
+        "description": "多愁善感傷春悲秋學歷低下文盲博主",
+        "id": "3384460415",
+        "name": "黑女巫",
+        "pinned_tweet_id": "1849922963325452390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894800147382706180/KUUYI2-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 59,
+          "like_count": 1078,
+          "listed_count": 2,
+          "media_count": 463,
+          "tweet_count": 2384
+        },
+        "username": "_yi_ran_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1958108642882031989",
+    "created_at": "2025-08-22T15:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T16:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958921994826924249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1613936959055101953",
+          "start": 0,
+          "username": "yuanshen1236487"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958921994826924249",
+    "in_reply_to_user_id": "1613936959055101953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958458008738165081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanshen1236487 贴贴小安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1958108642882031989",
+        "created_at": "2025-08-22T15:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T16:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958921994826924249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1613936959055101953",
+              "start": 0,
+              "username": "yuanshen1236487"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958921994826924249",
+        "in_reply_to_user_id": "1613936959055101953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958458008738165081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanshen1236487 贴贴小安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613936959055101953",
+        "conversation_id": "1958108642882031989",
+        "created_at": "2025-08-21T09:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T10:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958458008738165081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958458008738165081",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958108642882031989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 你好，我是小安🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25388,
+          "following_count": 988,
+          "like_count": 14336,
+          "listed_count": 39,
+          "media_count": 1389,
+          "tweet_count": 15626
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-13T16:32:28.000Z",
+        "description": "14世纪优秀青年",
+        "id": "1613936959055101953",
+        "location": "白宫",
+        "name": "反方向的钟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927195282313240576/BlQfK132_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 218,
+          "like_count": 26077,
+          "listed_count": 0,
+          "media_count": 2367,
+          "tweet_count": 10107
+        },
+        "username": "yuanshen1236487",
+        "verified": false
+      }
+    ]
+  }
+}

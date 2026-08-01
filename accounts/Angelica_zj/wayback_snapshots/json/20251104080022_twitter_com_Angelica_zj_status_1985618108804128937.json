@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Newlyweds",
+          "id": "847546008917520384",
+          "name": "Newlyweds"
+        }
+      }
+    ],
+    "conversation_id": "1985565284066033979",
+    "created_at": "2025-11-04T08:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T09:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985618108804128937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1501020439854092291",
+          "start": 0,
+          "username": "Caesar211701"
+        },
+        {
+          "end": 26,
+          "id": "1743233646369329152",
+          "start": 14,
+          "username": "iMiniPotato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985618108804128937",
+    "in_reply_to_user_id": "1501020439854092291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985600485165056342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Caesar211701 @iMiniPotato 现在又有几个女的结婚没嫁妆，正常家庭是双方出彩礼嫁妆给新婚夫妇用，比彩礼高的嫁妆更是一抓一大把。乡下人事就是多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Newlyweds",
+              "id": "847546008917520384",
+              "name": "Newlyweds"
+            }
+          }
+        ],
+        "conversation_id": "1985565284066033979",
+        "created_at": "2025-11-04T08:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T09:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985618108804128937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1501020439854092291",
+              "start": 0,
+              "username": "Caesar211701"
+            },
+            {
+              "end": 26,
+              "id": "1743233646369329152",
+              "start": 14,
+              "username": "iMiniPotato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985618108804128937",
+        "in_reply_to_user_id": "1501020439854092291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985600485165056342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Caesar211701 @iMiniPotato 现在又有几个女的结婚没嫁妆，正常家庭是双方出彩礼嫁妆给新婚夫妇用，比彩礼高的嫁妆更是一抓一大把。乡下人事就是多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1501020439854092291",
+        "conversation_id": "1985565284066033979",
+        "created_at": "2025-11-04T06:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T07:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985600485165056342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1743233646369329152",
+              "start": 0,
+              "username": "iMiniPotato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985600485165056342",
+        "in_reply_to_user_id": "1743233646369329152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985565284066033979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iMiniPotato 道理，是这个道理\n但问题是，现在有几个女的会因为那点彩礼钱进入男方家当老妈子的，大多数是既要又要，既要彩礼又要享受现代社会对女性的保护与尊重"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25317,
+          "following_count": 989,
+          "like_count": 14251,
+          "listed_count": 42,
+          "media_count": 1416,
+          "tweet_count": 15907
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-08T02:22:29.000Z",
+        "description": "",
+        "id": "1501020439854092291",
+        "name": "Caesar21170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781138285571743744/Z80E9V3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 341,
+          "like_count": 2501,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 6631
+        },
+        "username": "Caesar211701",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T11:31:13.000Z",
+        "description": "想要拥有表达的自由就要有被讨厌的勇气",
+        "id": "1743233646369329152",
+        "location": "Australia",
+        "name": "仿生云烧会梦见电子土豆吗",
+        "pinned_tweet_id": "1963231920298545394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745138620812701698/bUxgNwHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66407,
+          "following_count": 119,
+          "like_count": 16713,
+          "listed_count": 165,
+          "media_count": 6077,
+          "tweet_count": 23669
+        },
+        "username": "iMiniPotato",
+        "verified": false
+      }
+    ]
+  }
+}

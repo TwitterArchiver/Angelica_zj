@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2001244991868522526",
+    "created_at": "2025-12-17T10:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T11:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001244991868522526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangwenhaha051…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/wangwenhaha0518/status/2001163486538424623",
+          "start": 141,
+          "url": "https://t.co/CYJN57Alb7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001244991868522526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001163486538424623",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前其实我挺喜欢张煜东和他们工作室的，疫情那段时间总在b站看他们的视频，后来好久没关注，出这件事夫妻俩发视频声讨，我都认出来是他，看起来特别阴鸷，而且站在大肚子妻子后面一声不吭像个可怕的鹌鹑，被骂了也让妻子一个人回应。我也才知道他已经和工作室其他人切割了，结婚都没请他曾经这些朋友 https://t.co/CYJN57Alb7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10600,
+        "height": 956,
+        "media_key": "13_2001163431836336128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001163431836336128/img/KbVbtzjxl4Ba-Fta.jpg",
+        "public_metrics": {
+          "view_count": 59495
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001163431836336128/vid/avc1/320x426/mor3otlnB4yek2sr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001163431836336128/vid/avc1/480x638/t_Avx2TtmzG-_bwE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001163431836336128/vid/avc1/718x956/09HNqTCcdzVXbDtE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001163431836336128/pl/o45u48i_D-bPvDN3.m3u8"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2001244991868522526",
+        "created_at": "2025-12-17T10:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T11:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001244991868522526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangwenhaha051…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/wangwenhaha0518/status/2001163486538424623",
+              "start": 141,
+              "url": "https://t.co/CYJN57Alb7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001244991868522526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001163486538424623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前其实我挺喜欢张煜东和他们工作室的，疫情那段时间总在b站看他们的视频，后来好久没关注，出这件事夫妻俩发视频声讨，我都认出来是他，看起来特别阴鸷，而且站在大肚子妻子后面一声不吭像个可怕的鹌鹑，被骂了也让妻子一个人回应。我也才知道他已经和工作室其他人切割了，结婚都没请他曾经这些朋友 https://t.co/CYJN57Alb7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001163431836336128"
+          ]
+        },
+        "author_id": "1599225469257203712",
+        "conversation_id": "2001163486538424623",
+        "created_at": "2025-12-17T05:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T06:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001163486538424623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FmYQNYVnMg",
+              "end": 129,
+              "expanded_url": "https://x.com/Wangwenhaha0518/status/2001163486538424623/video/1",
+              "media_key": "13_2001163431836336128",
+              "start": 106,
+              "url": "https://t.co/FmYQNYVnMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001163486538424623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 125112,
+          "like_count": 75,
+          "quote_count": 4,
+          "reply_count": 67,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "在北京的博物馆发生了一起“事故”。\n\n一名儿童撞到了展示柜，导致一顶重约2公斤的纯金婚礼王冠掉落并损坏。\n\n这顶以凤凰为主题的王冠，是一位网红丈夫为妻子亲手打造的纯金独一无二作品。仅修复费用就可能高达数万美元。 https://t.co/FmYQNYVnMg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25283,
+          "following_count": 1008,
+          "like_count": 14428,
+          "listed_count": 40,
+          "media_count": 1468,
+          "tweet_count": 16241
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T02:14:31.000Z",
+        "description": "消灭中共是正义的需要",
+        "id": "1599225469257203712",
+        "name": "量子·王文哈哈（新中国联邦）",
+        "pinned_tweet_id": "1898708299807359207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599226863125114885/zc8-KF0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6146,
+          "following_count": 3980,
+          "like_count": 9316,
+          "listed_count": 39,
+          "media_count": 3850,
+          "tweet_count": 7352
+        },
+        "username": "Wangwenhaha0518",
+        "verified": true
+      }
+    ]
+  }
+}

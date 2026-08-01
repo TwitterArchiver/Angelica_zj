@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1838515639570567168",
+        "3_1838515679697440768"
+      ],
+      "media_source_tweet_id": [
+        "1838522309046604242",
+        "1838522309046604242"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1838994988266377643",
+    "created_at": "2024-09-25T17:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T18:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838994988266377643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "989169537877594112",
+          "start": 3,
+          "username": "Uwata_h"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8bscwqmnrh",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Uwata_h/status/1838522309046604242/photo/1",
+          "media_key": "3_1838515639570567168",
+          "start": 21,
+          "url": "https://t.co/8BsCWQmNRH"
+        },
+        {
+          "display_url": "pic.x.com/8bscwqmnrh",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Uwata_h/status/1838522309046604242/photo/1",
+          "media_key": "3_1838515679697440768",
+          "start": 21,
+          "url": "https://t.co/8BsCWQmNRH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838994988266377643",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2015
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838522309046604242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uwata_h: レイマリ(夏) https://t.co/8BsCWQmNRH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3640,
+        "media_key": "3_1838515639570567168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYO4O7qakAAY7VX.jpg",
+        "width": 2570
+      },
+      {
+        "height": 3640,
+        "media_key": "3_1838515679697440768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYO4RRJaEAA28lO.jpg",
+        "width": 2570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838515639570567168",
+            "3_1838515679697440768"
+          ],
+          "media_source_tweet_id": [
+            "1838522309046604242",
+            "1838522309046604242"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1838994988266377643",
+        "created_at": "2024-09-25T17:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T18:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838994988266377643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "989169537877594112",
+              "start": 3,
+              "username": "Uwata_h"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bscwqmnrh",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Uwata_h/status/1838522309046604242/photo/1",
+              "media_key": "3_1838515639570567168",
+              "start": 21,
+              "url": "https://t.co/8BsCWQmNRH"
+            },
+            {
+              "display_url": "pic.x.com/8bscwqmnrh",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Uwata_h/status/1838522309046604242/photo/1",
+              "media_key": "3_1838515679697440768",
+              "start": 21,
+              "url": "https://t.co/8BsCWQmNRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838994988266377643",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2015
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838522309046604242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uwata_h: レイマリ(夏) https://t.co/8BsCWQmNRH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838515639570567168",
+            "3_1838515679697440768"
+          ]
+        },
+        "author_id": "989169537877594112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1838522309046604242",
+        "created_at": "2024-09-24T10:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T11:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838522309046604242"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "レイマリ",
+              "probability": 0.3502,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bscwqmnrh",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Uwata_h/status/1838522309046604242/photo/1",
+              "media_key": "3_1838515639570567168",
+              "start": 8,
+              "url": "https://t.co/8BsCWQmNRH"
+            },
+            {
+              "display_url": "pic.x.com/8bscwqmnrh",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Uwata_h/status/1838522309046604242/photo/1",
+              "media_key": "3_1838515679697440768",
+              "start": 8,
+              "url": "https://t.co/8BsCWQmNRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838522309046604242",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1948,
+          "impression_count": 326168,
+          "like_count": 25331,
+          "quote_count": 11,
+          "reply_count": 5,
+          "retweet_count": 2015
+        },
+        "reply_settings": "everyone",
+        "text": "レイマリ(夏) https://t.co/8BsCWQmNRH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24400,
+          "following_count": 904,
+          "like_count": 13598,
+          "listed_count": 35,
+          "tweet_count": 13639
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-25T15:49:30.000Z",
+        "description": "Live2Dを勉強中のイラストレーター。かっこいいものと美味しいものが好き。 skeb▶https://t.co/qm41mLhWEU PixivFANBOX▶https://t.co/nIjqZypIH8 お仕事はメールにて▶︎yatsuhashi18@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Uwata_h",
+                "end": 67,
+                "expanded_url": "http://skeb.jp/@Uwata_h",
+                "start": 44,
+                "url": "https://t.co/qm41mLhWEU"
+              },
+              {
+                "display_url": "hisha.fanbox.cc",
+                "end": 103,
+                "expanded_url": "http://hisha.fanbox.cc",
+                "start": 80,
+                "url": "https://t.co/nIjqZypIH8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=23800170",
+                "start": 0,
+                "url": "https://t.co/3ic8Z2vMAo"
+              }
+            ]
+          }
+        },
+        "id": "989169537877594112",
+        "location": "木星",
+        "name": "飛者@秋例大祭 し20ab",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496068311536500746/Qo-o1MGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63664,
+          "following_count": 368,
+          "like_count": 3528,
+          "listed_count": 404,
+          "tweet_count": 8299
+        },
+        "url": "https://t.co/3ic8Z2vMAo",
+        "username": "Uwata_h",
+        "verified": true
+      }
+    ]
+  }
+}

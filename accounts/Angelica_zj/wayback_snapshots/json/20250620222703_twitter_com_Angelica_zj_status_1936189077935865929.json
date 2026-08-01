@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1936180441033150968",
+    "created_at": "2025-06-20T22:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T23:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936189077935865929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1037523894662508546",
+          "start": 0,
+          "username": "chuochuoqqzone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936189077935865929",
+    "in_reply_to_user_id": "1037523894662508546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936180441033150968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuochuoqqzone 上海街头采访和北京出租车系列真的好搞笑…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1609,
+        "media_key": "3_1936180437618954240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt6x2YVWkAAduMN.jpg",
+        "width": 1043
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1936180441033150968",
+        "created_at": "2025-06-20T22:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T23:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936189077935865929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1037523894662508546",
+              "start": 0,
+              "username": "chuochuoqqzone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936189077935865929",
+        "in_reply_to_user_id": "1037523894662508546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936180441033150968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuochuoqqzone 上海街头采访和北京出租车系列真的好搞笑…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936180437618954240"
+          ]
+        },
+        "author_id": "1037523894662508546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1936180441033150968",
+        "created_at": "2025-06-20T21:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T22:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936180441033150968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HZdEn7NkTT",
+              "end": 44,
+              "expanded_url": "https://x.com/chuochuoqqzone/status/1936180441033150968/photo/1",
+              "media_key": "3_1936180437618954240",
+              "start": 21,
+              "url": "https://t.co/HZdEn7NkTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936180441033150968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有抖音的女的和她的朋友每天就这样聊天： https://t.co/HZdEn7NkTT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25503,
+          "following_count": 994,
+          "like_count": 14498,
+          "listed_count": 37,
+          "media_count": 1370,
+          "tweet_count": 15457
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-06T02:12:27.000Z",
+        "description": "剑网3超气人玩家👾合作私信闲聊不回👾主人：宮城リョータ👾不开门槛不线下不交朋友别找骂👾防走丢@imurtourniquet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "imurtourniquet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccqqzone",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ccqqzone",
+                "start": 0,
+                "url": "https://t.co/tOYmZPQk3H"
+              }
+            ]
+          }
+        },
+        "id": "1037523894662508546",
+        "name": "绰的QQ空间",
+        "pinned_tweet_id": "1901317520449249687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927511405927735296/gW9jERhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30546,
+          "following_count": 829,
+          "like_count": 43030,
+          "listed_count": 71,
+          "media_count": 383,
+          "tweet_count": 10653
+        },
+        "url": "https://t.co/tOYmZPQk3H",
+        "username": "chuochuoqqzone",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

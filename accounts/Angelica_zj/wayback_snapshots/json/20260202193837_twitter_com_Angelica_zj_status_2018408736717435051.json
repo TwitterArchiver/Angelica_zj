@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2018013995958165976",
+    "created_at": "2026-02-02T19:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T20:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018408736717435051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2000913430723940352",
+          "start": 0,
+          "username": "Fionaaa0124"
+        },
+        {
+          "end": 21,
+          "id": "241870322",
+          "start": 13,
+          "username": "chnp101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018408736717435051",
+    "in_reply_to_user_id": "2000913430723940352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018343096308957201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fionaaa0124 @chnp101 因为x的推文大多都不需要点进去看评论？不开会员发推还有字数限制，大概是为了让大家能在主页面就获取到精简明了的信息量，刷的推文量也会更多。这种不好做历史记录吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2018013995958165976",
+        "created_at": "2026-02-02T19:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T20:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018408736717435051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000913430723940352",
+              "start": 0,
+              "username": "Fionaaa0124"
+            },
+            {
+              "end": 21,
+              "id": "241870322",
+              "start": 13,
+              "username": "chnp101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018408736717435051",
+        "in_reply_to_user_id": "2000913430723940352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018343096308957201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fionaaa0124 @chnp101 因为x的推文大多都不需要点进去看评论？不开会员发推还有字数限制，大概是为了让大家能在主页面就获取到精简明了的信息量，刷的推文量也会更多。这种不好做历史记录吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000913430723940352",
+        "conversation_id": "2018013995958165976",
+        "created_at": "2026-02-02T15:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T16:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018343096308957201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "241870322",
+              "start": 0,
+              "username": "chnp101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018343096308957201",
+        "in_reply_to_user_id": "241870322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3350,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018013995958165976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnp101 主要是没有历史记录这个功能，就很烦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25224,
+          "following_count": 1034,
+          "like_count": 14538,
+          "listed_count": 40,
+          "media_count": 1515,
+          "tweet_count": 16572
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T13:03:10.000Z",
+        "description": "",
+        "id": "2000913430723940352",
+        "name": "YuAn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016199054880079875/FLO0Ap3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 50,
+          "like_count": 110,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 123
+        },
+        "username": "Fionaaa0124",
+        "verified": true
+      },
+      {
+        "created_at": "2011-01-23T10:13:56.000Z",
+        "description": "是个傻逼，兵解重修//\n痿秃老油残，懒穷色贱猥//拖延健忘精分，幼稚话痨逃避//\n乐观向上氛围组组员 汤不热难民 即刻遗民 豆瓣一刻难民 夸夸组萌新",
+        "id": "241870322",
+        "location": "余杭县 盛渔村",
+        "name": "去码头整点薯条🍟",
+        "pinned_tweet_id": "1717178769973334312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926976595446611970/ibekmw_2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 2281,
+          "like_count": 2340,
+          "listed_count": 11,
+          "media_count": 3431,
+          "tweet_count": 142903
+        },
+        "username": "chnp101",
+        "verified": false
+      }
+    ]
+  }
+}

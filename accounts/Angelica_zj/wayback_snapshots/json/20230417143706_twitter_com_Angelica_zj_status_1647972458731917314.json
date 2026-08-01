@@ -1,0 +1,210 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1647962954778791942",
+    "created_at": "2023-04-17T14:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2023-04-17T15:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1647972458731917314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1541169612896628736",
+          "start": 0,
+          "username": "wywaaqqwlwwbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1647972458731917314",
+    "in_reply_to_user_id": "1541169612896628736",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1647972354289733632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wywaaqqwlwwbb 贵，感觉不值"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1647962954778791942",
+        "created_at": "2023-04-17T14:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-17T15:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1647972458731917314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1541169612896628736",
+              "start": 0,
+              "username": "wywaaqqwlwwbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1647972458731917314",
+        "in_reply_to_user_id": "1541169612896628736",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1647972354289733632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wywaaqqwlwwbb 贵，感觉不值"
+      },
+      {
+        "attachments": {},
+        "author_id": "1541169612896628736",
+        "conversation_id": "1647962954778791942",
+        "created_at": "2023-04-17T14:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-17T15:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1647972354289733632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1647972354289733632",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1647962954778791942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 好想尝尝！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 🐙🐙小章鱼意思是抱抱 / ⚠️自伤血腥重口负能注意避雷⚠️ / 情绪状态极不稳定 / 性取向是水仙 / 二号9⃣️：@AAAAG_Angelica",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 65,
+                "username": "AAAAG_Angelica"
+              }
+            ]
+          }
+        },
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1589442994507493376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15631,
+          "following_count": 872,
+          "listed_count": 20,
+          "tweet_count": 9254
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-26T21:20:53.000Z",
+        "description": "喵喵喵！\n头像是@baize22610403 赠的😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "baize22610403"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/QInWx4a",
+                "end": 23,
+                "expanded_url": "https://b23.tv/QInWx4a",
+                "start": 0,
+                "url": "https://t.co/FoCSLr3SgO"
+              }
+            ]
+          }
+        },
+        "id": "1541169612896628736",
+        "location": "妈妈生的",
+        "name": "爻（강동택）",
+        "pinned_tweet_id": "1633466188415254531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639165217690226690/jFE3P7wP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2979,
+          "following_count": 289,
+          "listed_count": 8,
+          "tweet_count": 12599
+        },
+        "url": "https://t.co/FoCSLr3SgO",
+        "username": "wywaaqqwlwwbb",
+        "verified": false
+      }
+    ]
+  }
+}

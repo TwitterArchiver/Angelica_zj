@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2041494534237180316",
+    "created_at": "2026-04-07T15:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T16:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041538322984501420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1483417726291005442",
+          "start": 0,
+          "username": "GivenUpThreat"
+        },
+        {
+          "end": 31,
+          "id": "1836203657890795524",
+          "start": 15,
+          "username": "HillqueenC88239"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041538322984501420",
+    "in_reply_to_user_id": "1483417726291005442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041538059074994236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GivenUpThreat @HillqueenC88239 图1贴评论区的发言我可以理解为歧视女性吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2041494534237180316",
+        "created_at": "2026-04-07T15:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041538322984501420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1483417726291005442",
+              "start": 0,
+              "username": "GivenUpThreat"
+            },
+            {
+              "end": 31,
+              "id": "1836203657890795524",
+              "start": 15,
+              "username": "HillqueenC88239"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041538322984501420",
+        "in_reply_to_user_id": "1483417726291005442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041538059074994236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GivenUpThreat @HillqueenC88239 图1贴评论区的发言我可以理解为歧视女性吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1483417726291005442",
+        "conversation_id": "2041494534237180316",
+        "created_at": "2026-04-07T15:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041538059074994236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1836203657890795524",
+              "start": 0,
+              "username": "HillqueenC88239"
+            },
+            {
+              "end": 29,
+              "id": "1468567542264664067",
+              "start": 17,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041538059074994236",
+        "in_reply_to_user_id": "1836203657890795524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041537219870224833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HillqueenC88239 @Angelica_zj 你的言论我可以理解为歧视男性吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25098,
+          "following_count": 1048,
+          "like_count": 14692,
+          "listed_count": 40,
+          "media_count": 1567,
+          "tweet_count": 16921
+        },
+        "username": "Angelica_zj",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-18T12:35:50.000Z",
+        "description": "在你面前的是做题区，键政嘉豪，罗大佑小鬼，二游痴，白河豚，票友王佐满姨黄菡缝合怪。",
+        "id": "1483417726291005442",
+        "location": "北京市海淀区中关村",
+        "name": "花园口多汇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026696886166630401/IYBFk4LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 67,
+          "like_count": 3729,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 2277
+        },
+        "username": "GivenUpThreat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T00:41:08.000Z",
+        "description": "",
+        "id": "1836203657890795524",
+        "name": "hillqueen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836203770528829441/T4UuR-9y_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "HillqueenC88239",
+        "verified": false
+      }
+    ]
+  }
+}

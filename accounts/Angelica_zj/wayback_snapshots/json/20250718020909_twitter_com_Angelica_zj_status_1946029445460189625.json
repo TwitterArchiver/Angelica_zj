@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1945498704536084520",
+    "created_at": "2025-07-18T02:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T03:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946029445460189625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934194191719882752",
+          "start": 0,
+          "username": "von69596"
+        },
+        {
+          "end": 21,
+          "id": "1799795163843436544",
+          "start": 10,
+          "username": "BeetiIsDog"
+        },
+        {
+          "end": 37,
+          "id": "1635875395194216448",
+          "start": 22,
+          "username": "Jinpingvirus64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946029445460189625",
+    "in_reply_to_user_id": "1934194191719882752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945896858091507732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@von69596 @BeetiIsDog @Jinpingvirus64 全妆+大面光和无畸变镜头拿来和手机在顶光下随手一拍的比也是神人了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1104,
+        "media_key": "3_1945896822548910080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwE22a2W0AAZEdo.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1945498704536084520",
+        "created_at": "2025-07-18T02:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T03:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946029445460189625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934194191719882752",
+              "start": 0,
+              "username": "von69596"
+            },
+            {
+              "end": 21,
+              "id": "1799795163843436544",
+              "start": 10,
+              "username": "BeetiIsDog"
+            },
+            {
+              "end": 37,
+              "id": "1635875395194216448",
+              "start": 22,
+              "username": "Jinpingvirus64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946029445460189625",
+        "in_reply_to_user_id": "1934194191719882752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945896858091507732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@von69596 @BeetiIsDog @Jinpingvirus64 全妆+大面光和无畸变镜头拿来和手机在顶光下随手一拍的比也是神人了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945896822548910080"
+          ]
+        },
+        "author_id": "1934194191719882752",
+        "conversation_id": "1945498704536084520",
+        "created_at": "2025-07-17T17:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T18:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945896858091507732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799795163843436544",
+              "start": 0,
+              "username": "BeetiIsDog"
+            },
+            {
+              "end": 27,
+              "id": "1635875395194216448",
+              "start": 12,
+              "username": "Jinpingvirus64"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a5iptOYYZ8",
+              "end": 123,
+              "expanded_url": "https://x.com/von69596/status/1945896858091507732/photo/1",
+              "media_key": "3_1945896822548910080",
+              "start": 100,
+              "url": "https://t.co/a5iptOYYZ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945896858091507732",
+        "in_reply_to_user_id": "1799795163843436544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945749073006620752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeetiIsDog @Jinpingvirus64 长得不行就直说，看看人家完全素颜的样子，你垃圾coser黄女化妆化几个小时都达不到的水平，人家素颜一个打光就把你们这些科技化妆人全部秒几万条街 https://t.co/a5iptOYYZ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25449,
+          "following_count": 994,
+          "like_count": 14389,
+          "listed_count": 38,
+          "media_count": 1384,
+          "tweet_count": 15546
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T10:20:17.000Z",
+        "description": "一般路过德国男娘，心脏因为死亡停止跳动 Anal🖤",
+        "id": "1934194191719882752",
+        "location": "WDAFZ-FB",
+        "name": "Batel von Andax",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945063500704808960/t8pjKnYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 16,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 490
+        },
+        "username": "von69596",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "=beeti犬or鼻涕狗// 病み垢高三生。\n来这里是为了发负能还有碎碎念。请不要骂我或截图到墙内、多点关心多点爱。\n@5_HTIsUsagi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "5_HTIsUsagi"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "≤ 1 km",
+        "name": "加油小犬ちゃん！",
+        "pinned_tweet_id": "1936770496970006587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945810120060862464/bze1hBzA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 420,
+          "like_count": 6416,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1151
+        },
+        "username": "BeetiIsDog",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-15T05:27:56.000Z",
+        "description": "福报中年油腻男，不炒币，不喜红教及拒绝世俗化的绿，会回fo，但是奇怪的fo会直接屏蔽",
+        "id": "1635875395194216448",
+        "name": "🦥凉拌见手青",
+        "pinned_tweet_id": "1823065469538214216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643650316481761280/99y6jUWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 1191,
+          "like_count": 23020,
+          "listed_count": 3,
+          "media_count": 1583,
+          "tweet_count": 14022
+        },
+        "username": "Jinpingvirus64",
+        "verified": false
+      }
+    ]
+  }
+}

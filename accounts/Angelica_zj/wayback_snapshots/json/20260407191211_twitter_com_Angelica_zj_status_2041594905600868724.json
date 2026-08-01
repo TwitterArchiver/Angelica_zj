@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2041494534237180316",
+    "created_at": "2026-04-07T19:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T20:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041594905600868724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1833176965433720832",
+          "start": 0,
+          "username": "hoshinoharu5"
+        },
+        {
+          "end": 23,
+          "id": "1247466934917980161",
+          "start": 14,
+          "username": "kusosh1t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041594905600868724",
+    "in_reply_to_user_id": "1833176965433720832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041594479724171543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinoharu5 @kusosh1t 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2041494534237180316",
+        "created_at": "2026-04-07T19:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T20:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041594905600868724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1833176965433720832",
+              "start": 0,
+              "username": "hoshinoharu5"
+            },
+            {
+              "end": 23,
+              "id": "1247466934917980161",
+              "start": 14,
+              "username": "kusosh1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041594905600868724",
+        "in_reply_to_user_id": "1833176965433720832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041594479724171543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinoharu5 @kusosh1t 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833176965433720832",
+        "conversation_id": "2041494534237180316",
+        "created_at": "2026-04-07T19:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T20:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041594479724171543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247466934917980161",
+              "start": 0,
+              "username": "kusosh1t"
+            },
+            {
+              "end": 22,
+              "id": "1468567542264664067",
+              "start": 10,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041594479724171543",
+        "in_reply_to_user_id": "1247466934917980161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041589501592743961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusosh1t @Angelica_zj 点进主页发现是个品客瞬间释怀了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25102,
+          "following_count": 1048,
+          "like_count": 14701,
+          "listed_count": 40,
+          "media_count": 1568,
+          "tweet_count": 16934
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T16:13:50.000Z",
+        "description": "🚪9999999999999999999999999999999",
+        "id": "1833176965433720832",
+        "location": "地狱驻太平洋大使馆",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956850744730214400/1QCWYf25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 147,
+          "like_count": 4007,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 5638
+        },
+        "url": "",
+        "username": "hoshinoharu5",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-07T10:11:39.000Z",
+        "description": "",
+        "id": "1247466934917980161",
+        "name": "名前",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885798389985746944/ow-qGD2T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 700,
+          "like_count": 39,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 267
+        },
+        "username": "kusosh1t",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T16:13:50.000Z",
+        "description": "🚪9999999999999999999999999999999",
+        "id": "1833176965433720832",
+        "location": "地狱驻太平洋大使馆",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956850744730214400/1QCWYf25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 147,
+          "like_count": 4007,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 5638
+        },
+        "username": "hoshinoharu5",
+        "verified": false
+      }
+    ]
+  }
+}

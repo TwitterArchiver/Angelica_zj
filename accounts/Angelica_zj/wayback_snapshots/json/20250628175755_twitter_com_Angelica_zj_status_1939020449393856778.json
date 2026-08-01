@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1939020449393856778",
+    "created_at": "2025-06-28T17:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T18:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939020449393856778"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/11neruuu_/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/11neruuu_/status/1938860524906983557",
+          "start": 9,
+          "url": "https://t.co/4BIBWuEcZO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939020449393856778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938860524906983557",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我将赠送精美刀片 https://t.co/4BIBWuEcZO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_1938860518275719170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gug3XmzaoAIIkEs.jpg",
+        "width": 967
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1939020449393856778",
+        "created_at": "2025-06-28T17:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T18:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939020449393856778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/11neruuu_/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/11neruuu_/status/1938860524906983557",
+              "start": 9,
+              "url": "https://t.co/4BIBWuEcZO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939020449393856778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938860524906983557",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我将赠送精美刀片 https://t.co/4BIBWuEcZO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938860518275719170"
+          ]
+        },
+        "author_id": "1824655235073314817",
+        "conversation_id": "1938860524906983557",
+        "created_at": "2025-06-28T07:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T08:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938860524906983557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOS4pQ6mUR",
+              "end": 23,
+              "expanded_url": "https://x.com/11neruuu_/status/1938860524906983557/photo/1",
+              "media_key": "3_1938860518275719170",
+              "start": 0,
+              "url": "https://t.co/LOS4pQ6mUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938860524906983557",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 35155,
+          "like_count": 505,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LOS4pQ6mUR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25489,
+          "following_count": 995,
+          "like_count": 14467,
+          "listed_count": 36,
+          "media_count": 1373,
+          "tweet_count": 15488
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T03:51:42.000Z",
+        "description": "小睡「ねる」၄၃ — @1neruuu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "1neruuu_"
+              }
+            ]
+          }
+        },
+        "id": "1824655235073314817",
+        "location": "🚪100",
+        "name": "ねる",
+        "pinned_tweet_id": "1929456552013955352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933854721108000768/mxr3T50F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 549,
+          "like_count": 20116,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 176
+        },
+        "username": "11neruuu_",
+        "verified": false
+      }
+    ]
+  }
+}

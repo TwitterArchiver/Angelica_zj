@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1835393985986322897",
+    "created_at": "2024-09-15T19:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T20:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1835393985986322897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangjingwei896…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/wangjingwei8964/status/1835155360673677571",
+          "start": 69,
+          "url": "https://t.co/gbunoVarf3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835393985986322897",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835155360673677571",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宋亚轩长得好诡异哈哈哈哈哈哈哈哈哈哈哈不是贬义啊就是感觉很诡异的笑容诡异的发型诡异的平整的脸，感觉随时随地都是这副表情，很诡异的一款帅哥 https://t.co/gbunoVarf3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1835393985986322897",
+        "created_at": "2024-09-15T19:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T20:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835393985986322897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangjingwei896…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/wangjingwei8964/status/1835155360673677571",
+              "start": 69,
+              "url": "https://t.co/gbunoVarf3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835393985986322897",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835155360673677571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宋亚轩长得好诡异哈哈哈哈哈哈哈哈哈哈哈不是贬义啊就是感觉很诡异的笑容诡异的发型诡异的平整的脸，感觉随时随地都是这副表情，很诡异的一款帅哥 https://t.co/gbunoVarf3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835155351207133189"
+          ]
+        },
+        "author_id": "1727581351577092096",
+        "conversation_id": "1835155360673677571",
+        "created_at": "2024-09-15T03:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T04:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835155360673677571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhlq3vvxje",
+              "end": 35,
+              "expanded_url": "https://twitter.com/wangjingwei8964/status/1835155360673677571/photo/1",
+              "media_key": "3_1835155351207133189",
+              "start": 12,
+              "url": "https://t.co/HhLq3VVXJE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835155360673677571",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 176066,
+          "like_count": 1107,
+          "quote_count": 9,
+          "reply_count": 55,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "wc谁他妈把我盒开了😡 https://t.co/HhLq3VVXJE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24414,
+          "following_count": 907,
+          "like_count": 13571,
+          "listed_count": 35,
+          "tweet_count": 13607
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T06:54:38.000Z",
+        "description": "中华民国政要，革命者，出生于广东三水。1905年加入革命组织中国同盟会。早年担任孙中山的秘书及文胆。任中国国民党中央政治委员会主席、国民政府主席、国民政府军事委员会主席、行政院院长、国防委员会主席以及国防最高会议副主席 小号@wjw8964xjp       b站https://t.co/n5VqEqJQyC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "wjw8964xjp"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/A79O6xV",
+                "end": 155,
+                "expanded_url": "https://b23.tv/A79O6xV",
+                "start": 132,
+                "url": "https://t.co/n5VqEqJQyC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.m.wikipedia.org/wiki/%E6%B1%AA…",
+                "end": 23,
+                "expanded_url": "https://zh.m.wikipedia.org/wiki/%E6%B1%AA%E7%B2%BE%E5%8D%AB",
+                "start": 0,
+                "url": "https://t.co/1MsCx2gHeP"
+              }
+            ]
+          }
+        },
+        "id": "1727581351577092096",
+        "location": "南洋大楼",
+        "name": "汪精卫（限时淡推版）",
+        "pinned_tweet_id": "1827294607513940363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807402582165647360/Rqlqa4Uu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 340,
+          "like_count": 5882,
+          "listed_count": 2,
+          "tweet_count": 1674
+        },
+        "url": "https://t.co/1MsCx2gHeP",
+        "username": "wangjingwei8964",
+        "verified": false
+      }
+    ]
+  }
+}

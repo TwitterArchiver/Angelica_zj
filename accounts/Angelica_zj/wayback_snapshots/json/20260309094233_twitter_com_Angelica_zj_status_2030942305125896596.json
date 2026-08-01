@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030942286008238081",
+        "3_2030942286008209408"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2030940614234116458",
+    "created_at": "2026-03-09T09:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T10:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030942305125896596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lVI1GbIG0k",
+          "end": 41,
+          "expanded_url": "https://x.com/Angelica_zj/status/2030942305125896596/photo/1",
+          "media_key": "3_2030942286008238081",
+          "start": 18,
+          "url": "https://t.co/lVI1GbIG0k"
+        },
+        {
+          "display_url": "pic.x.com/lVI1GbIG0k",
+          "end": 41,
+          "expanded_url": "https://x.com/Angelica_zj/status/2030942305125896596/photo/1",
+          "media_key": "3_2030942286008209408",
+          "start": 18,
+          "url": "https://t.co/lVI1GbIG0k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030942305125896596",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030940614234116458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很困难但还是成功了，耗时一个半小时 https://t.co/lVI1GbIG0k"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2030942305125896596].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2030942305125896596",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2030942305125896596"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030942286008238081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9bP6zXQAEGD8c.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030942286008209408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9bP6zW0AAitCI.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 59500,
+        "height": 1280,
+        "media_key": "13_2030940227246710784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030940227246710784/img/guCW9755BlLB2FiE.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030940227246710784/vid/avc1/320x568/bX_dOUq8PnI_-Bf3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030940227246710784/vid/avc1/480x852/oZkqe-LhofhQ56Yl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030940227246710784/vid/avc1/720x1280/VJPd82WbVtJ9LgTw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030940227246710784/pl/iz_RPyRJnmWmJVjF.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030940227246710784"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "2030940614234116458",
+        "created_at": "2026-03-09T09:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030940614234116458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HuXiF0SnZV",
+              "end": 33,
+              "expanded_url": "https://x.com/Angelica_zj/status/2030940614234116458/video/1",
+              "media_key": "13_2030940227246710784",
+              "start": 10,
+              "url": "https://t.co/HuXiF0SnZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030940614234116458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "驯服折耳根吃播一则 https://t.co/HuXiF0SnZV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25294,
+          "following_count": 1048,
+          "like_count": 14617,
+          "listed_count": 40,
+          "media_count": 1536,
+          "tweet_count": 16752
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

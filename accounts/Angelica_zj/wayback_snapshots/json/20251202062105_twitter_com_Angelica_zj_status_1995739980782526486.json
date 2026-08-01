@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1995521887909396558",
+    "created_at": "2025-12-02T06:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T07:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995739980782526486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1389129344790851588",
+          "start": 0,
+          "username": "mhObL1GaX02mPyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995739980782526486",
+    "in_reply_to_user_id": "1389129344790851588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995685846545228245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mhObL1GaX02mPyy ？他到底咋了，作为路人刷到了感慨一句而已，仅仅因为没骂他所以我要被骂？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1995521887909396558",
+        "created_at": "2025-12-02T06:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T07:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995739980782526486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1389129344790851588",
+              "start": 0,
+              "username": "mhObL1GaX02mPyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995739980782526486",
+        "in_reply_to_user_id": "1389129344790851588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995685846545228245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhObL1GaX02mPyy ？他到底咋了，作为路人刷到了感慨一句而已，仅仅因为没骂他所以我要被骂？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389129344790851588",
+        "conversation_id": "1995521887909396558",
+        "created_at": "2025-12-02T02:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T03:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995685846545228245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995685846545228245",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 458,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995521887909396558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 操你妈，下去陪他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25274,
+          "following_count": 998,
+          "like_count": 14334,
+          "listed_count": 40,
+          "media_count": 1445,
+          "tweet_count": 16091
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-03T08:07:09.000Z",
+        "description": "Never go out of style",
+        "id": "1389129344790851588",
+        "location": "London England",
+        "name": "うた🇬🇧🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754918177384095744/0wxalf8t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 192,
+          "like_count": 522,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1304
+        },
+        "username": "mhObL1GaX02mPyy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1862920724769604002",
+    "created_at": "2024-11-30T18:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T19:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1862920724769604002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iiiq1103/statu…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/iiiq1103/status/1862567903419113484",
+          "start": 30,
+          "url": "https://t.co/nACNTmY6Wh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862920724769604002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862567903419113484",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自从知道这个冷知识之后和山东朋友相处不小心想起来总是很尴尬 https://t.co/nACNTmY6Wh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1862920724769604002",
+        "created_at": "2024-11-30T18:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T19:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862920724769604002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiiq1103/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/iiiq1103/status/1862567903419113484",
+              "start": 30,
+              "url": "https://t.co/nACNTmY6Wh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862920724769604002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862567903419113484",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自从知道这个冷知识之后和山东朋友相处不小心想起来总是很尴尬 https://t.co/nACNTmY6Wh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356325764929613825",
+        "conversation_id": "1862567903419113484",
+        "created_at": "2024-11-29T18:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T19:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862567903419113484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862567903419113484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 522944,
+          "like_count": 1124,
+          "quote_count": 14,
+          "reply_count": 307,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "最近我突然发现山东男人的下面真的好大  谁能告诉我这是为什么🥵🥵   我的天！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24738,
+          "following_count": 931,
+          "like_count": 13644,
+          "listed_count": 36,
+          "media_count": 1231,
+          "tweet_count": 14001
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-01T19:37:25.000Z",
+        "description": "凛冬将至｜我是复制的不要抨击我了。我没长屌。",
+        "id": "1356325764929613825",
+        "name": "qi",
+        "pinned_tweet_id": "1862563209967714752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1431315183339593728/TCdv9oO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136906,
+          "following_count": 48,
+          "like_count": 8154,
+          "listed_count": 163,
+          "media_count": 10,
+          "tweet_count": 802
+        },
+        "username": "iiiq1103",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

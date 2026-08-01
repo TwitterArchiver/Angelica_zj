@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2041241597157974467",
+    "created_at": "2026-04-06T19:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T20:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041241597157974467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woailashi8/sta…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/woailashi8/status/2041088738777083958",
+          "start": 81,
+          "url": "https://t.co/s0bTAGzIoT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041241597157974467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041088738777083958",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "yes，互联网全透明人来了。哪怕没完全同id也会高相似…关注我推特久了就能知道我抖音，知道我抖音就能翻到我ip学校专业以及同学评论的我大名\n嗯每天都在实名制上网 https://t.co/s0bTAGzIoT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2041241597157974467",
+        "created_at": "2026-04-06T19:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T20:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041241597157974467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woailashi8/sta…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/woailashi8/status/2041088738777083958",
+              "start": 81,
+              "url": "https://t.co/s0bTAGzIoT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041241597157974467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041088738777083958",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "yes，互联网全透明人来了。哪怕没完全同id也会高相似…关注我推特久了就能知道我抖音，知道我抖音就能翻到我ip学校专业以及同学评论的我大名\n嗯每天都在实名制上网 https://t.co/s0bTAGzIoT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948779307045978112",
+        "conversation_id": "2041088738777083958",
+        "created_at": "2026-04-06T09:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041088738777083958"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041088738777083958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 182457,
+          "like_count": 795,
+          "quote_count": 14,
+          "reply_count": 131,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "全平台同id这个事太恐怖了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25126,
+          "following_count": 1048,
+          "like_count": 14689,
+          "listed_count": 40,
+          "media_count": 1565,
+          "tweet_count": 16905
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T16:16:27.000Z",
+        "description": "别教我做事 我只和喜欢的人玩 不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wwwwww51164",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wwwwww51164",
+                "start": 0,
+                "url": "https://t.co/EekCUBm2yI"
+              }
+            ]
+          }
+        },
+        "id": "1948779307045978112",
+        "name": "我",
+        "pinned_tweet_id": "2017250484038578632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025513191044968448/hpbNxBYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4686,
+          "following_count": 342,
+          "like_count": 65521,
+          "listed_count": 6,
+          "media_count": 576,
+          "tweet_count": 23591
+        },
+        "url": "https://t.co/EekCUBm2yI",
+        "username": "woAiLashi8",
+        "verified": false
+      }
+    ]
+  }
+}

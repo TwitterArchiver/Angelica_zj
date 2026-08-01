@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1899197551171277141",
+    "created_at": "2025-03-10T20:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T21:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899197551171277141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/avery_daisies/…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/avery_daisies/status/1878343739472744816",
+          "start": 28,
+          "url": "https://t.co/7FzvMAAWaB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899197551171277141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878343739472744816",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好漂亮啊，第一次刷到深色皮肤上的伤口，好有不一样的感觉 https://t.co/7FzvMAAWaB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1878343739472744816].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1878343739472744816",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1878343739472744816"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1899197551171277141",
+        "created_at": "2025-03-10T20:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T21:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899197551171277141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/avery_daisies/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/avery_daisies/status/1878343739472744816",
+              "start": 28,
+              "url": "https://t.co/7FzvMAAWaB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899197551171277141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878343739472744816",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好漂亮啊，第一次刷到深色皮肤上的伤口，好有不一样的感觉 https://t.co/7FzvMAAWaB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25275,
+          "following_count": 950,
+          "like_count": 14030,
+          "listed_count": 37,
+          "media_count": 1287,
+          "tweet_count": 14656
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

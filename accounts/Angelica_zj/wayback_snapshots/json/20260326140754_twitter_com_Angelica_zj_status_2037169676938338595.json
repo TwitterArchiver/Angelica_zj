@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037169636345864192"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "2037169676938338595",
+    "created_at": "2026-03-26T14:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T15:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037169676938338595"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "蝶毒"
+        },
+        {
+          "end": 82,
+          "start": 75,
+          "tag": "蝶之毒华之锁"
+        },
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "努努"
+        },
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "日乙"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tvlqZmaZKi",
+          "end": 114,
+          "expanded_url": "https://x.com/Angelica_zj/status/2037169676938338595/photo/1",
+          "media_key": "3_2037169636345864192",
+          "start": 91,
+          "url": "https://t.co/tvlqZmaZKi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037169676938338595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蝶毒藤田和瑞人的扁豆体努努有想吃一口的吗！宣宣朋友的团…\n真的特别喜欢不想流团啊啊啊啊，希望米娜能帮转转🥺🥺感兴趣的可以私戳我进小红书群！！\n#蝶毒 #蝶之毒华之锁 #努努 #日乙 https://t.co/tvlqZmaZKi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037169636345864192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEV6_ambYAAuDAC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037169636345864192"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "2037169676938338595",
+        "created_at": "2026-03-26T14:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037169676938338595"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "蝶毒"
+            },
+            {
+              "end": 82,
+              "start": 75,
+              "tag": "蝶之毒华之锁"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "努努"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "日乙"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvlqZmaZKi",
+              "end": 114,
+              "expanded_url": "https://x.com/Angelica_zj/status/2037169676938338595/photo/1",
+              "media_key": "3_2037169636345864192",
+              "start": 91,
+              "url": "https://t.co/tvlqZmaZKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037169676938338595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蝶毒藤田和瑞人的扁豆体努努有想吃一口的吗！宣宣朋友的团…\n真的特别喜欢不想流团啊啊啊啊，希望米娜能帮转转🥺🥺感兴趣的可以私戳我进小红书群！！\n#蝶毒 #蝶之毒华之锁 #努努 #日乙 https://t.co/tvlqZmaZKi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25212,
+          "following_count": 1047,
+          "like_count": 14672,
+          "listed_count": 40,
+          "media_count": 1554,
+          "tweet_count": 16841
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1834595104763589113",
+    "created_at": "2024-09-13T15:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T16:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834620894586519985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1579000562158555137",
+          "start": 0,
+          "username": "lhun61472420"
+        },
+        {
+          "end": 24,
+          "id": "1610068941115916290",
+          "start": 14,
+          "username": "xngchngw1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834620894586519985",
+    "in_reply_to_user_id": "1579000562158555137",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834609703067787308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lhun61472420 @xngchngw1 我觉得就类似一场很简单的便饭，开始之后没有那么正式或者紧张啦，就像和朋友家长吃饭，简单问了些个人情况之类的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1834595104763589113",
+        "created_at": "2024-09-13T15:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T16:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834620894586519985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1579000562158555137",
+              "start": 0,
+              "username": "lhun61472420"
+            },
+            {
+              "end": 24,
+              "id": "1610068941115916290",
+              "start": 14,
+              "username": "xngchngw1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834620894586519985",
+        "in_reply_to_user_id": "1579000562158555137",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834609703067787308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lhun61472420 @xngchngw1 我觉得就类似一场很简单的便饭，开始之后没有那么正式或者紧张啦，就像和朋友家长吃饭，简单问了些个人情况之类的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579000562158555137",
+        "conversation_id": "1834595104763589113",
+        "created_at": "2024-09-13T15:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T16:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834609703067787308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1610068941115916290",
+              "start": 0,
+              "username": "xngchngw1"
+            },
+            {
+              "end": 23,
+              "id": "1468567542264664067",
+              "start": 11,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834609703067787308",
+        "in_reply_to_user_id": "1610068941115916290",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834604860227932254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xngchngw1 @Angelica_zj 我也想问"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24415,
+          "following_count": 907,
+          "like_count": 13561,
+          "listed_count": 35,
+          "tweet_count": 13590
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-09T06:47:42.000Z",
+        "description": "听风八百遍，才知是人间",
+        "id": "1579000562158555137",
+        "location": "爱别人前先爱自己",
+        "name": "L_ustinian",
+        "pinned_tweet_id": "1704756002283979227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684138916339945473/wq6LH5JT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 11,
+          "like_count": 333,
+          "listed_count": 0,
+          "tweet_count": 225
+        },
+        "username": "lhun61472420",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-03T00:22:10.000Z",
+        "description": "",
+        "id": "1610068941115916290",
+        "location": "邹城",
+        "name": "星尘歌舞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785945960587386880/UnEfcws4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 133,
+          "like_count": 156,
+          "listed_count": 0,
+          "tweet_count": 69
+        },
+        "username": "xngchngw1",
+        "verified": false
+      }
+    ]
+  }
+}

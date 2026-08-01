@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2007039709844025489",
+    "created_at": "2026-01-03T06:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T07:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007342361878352102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1702477793182019584",
+          "start": 0,
+          "username": "MikoMikoooy"
+        },
+        {
+          "end": 23,
+          "id": "1970981813448560640",
+          "start": 13,
+          "username": "NewHpttxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007342361878352102",
+    "in_reply_to_user_id": "1702477793182019584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007329300278821200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikoMikoooy @NewHpttxg 对对对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2007039709844025489",
+        "created_at": "2026-01-03T06:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T07:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007342361878352102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1702477793182019584",
+              "start": 0,
+              "username": "MikoMikoooy"
+            },
+            {
+              "end": 23,
+              "id": "1970981813448560640",
+              "start": 13,
+              "username": "NewHpttxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007342361878352102",
+        "in_reply_to_user_id": "1702477793182019584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007329300278821200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikoMikoooy @NewHpttxg 对对对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702477793182019584",
+        "conversation_id": "2007039709844025489",
+        "created_at": "2026-01-03T05:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T06:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007329300278821200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 23,
+              "id": "1970981813448560640",
+              "start": 13,
+              "username": "NewHpttxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007329300278821200",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007178167631700197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj @NewHpttxg 6圓潤可愛，7陰險尖銳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25240,
+          "following_count": 1016,
+          "like_count": 14462,
+          "listed_count": 40,
+          "media_count": 1494,
+          "tweet_count": 16394
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-15T00:22:10.000Z",
+        "description": "",
+        "id": "1702477793182019584",
+        "location": "不存在的地方",
+        "name": "𝐌𝐢𝐤𝐨",
+        "pinned_tweet_id": "1998100474340446392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998085267593543680/jCEvLV7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 546,
+          "like_count": 31675,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 4041
+        },
+        "username": "MikoMikoooy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T22:41:08.000Z",
+        "description": "卷毛修勾 @hpttxg 在推特大封号运动中被打倒了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "hpttxg"
+              }
+            ]
+          }
+        },
+        "id": "1970981813448560640",
+        "name": "刻刻",
+        "pinned_tweet_id": "1999067245352517676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999100849931362304/mQ_mxdyj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1879,
+          "following_count": 249,
+          "like_count": 3929,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 1757
+        },
+        "username": "NewHpttxg",
+        "verified": false
+      }
+    ]
+  }
+}

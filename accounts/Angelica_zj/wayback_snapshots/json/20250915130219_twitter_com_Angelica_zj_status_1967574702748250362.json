@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1967399508805026206",
+    "created_at": "2025-09-15T13:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T14:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967574702748250362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967574702748250362",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967399508805026206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar 不至于吧，游泳消耗卡路里高，结束饿了吃快碳是很正常的事情，这个保护壳最大的作用也是让香蕉在健身包里不会被压坏。别太压抑了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967399497014927362",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G02bazbbYAIZQTz.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1967399508805026206",
+        "created_at": "2025-09-15T13:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T14:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967574702748250362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967574702748250362",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967399508805026206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 不至于吧，游泳消耗卡路里高，结束饿了吃快碳是很正常的事情，这个保护壳最大的作用也是让香蕉在健身包里不会被压坏。别太压抑了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967399497014927362"
+          ]
+        },
+        "author_id": "1868205822511288320",
+        "conversation_id": "1967399508805026206",
+        "created_at": "2025-09-15T01:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T02:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967399508805026206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UdadOOIvp6",
+              "end": 30,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/1967399508805026206/photo/1",
+              "media_key": "3_1967399497014927362",
+              "start": 7,
+              "url": "https://t.co/UdadOOIvp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967399508805026206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7152,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "细说游泳防水 https://t.co/UdadOOIvp6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25380,
+          "following_count": 992,
+          "like_count": 14282,
+          "listed_count": 40,
+          "media_count": 1383,
+          "tweet_count": 15679
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "18岁 女 没少骂人/中文/English勉強しています /BS/🐻❤️@Lmao_Quien / 萌豚@niceball_wuwaa 🐖@fuckpregabalin🎸@D_D_ovO_星酱 @whyuounot 厚米@ninarich1991 @kikyo4000 @sanitf1 @iTZQing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Lmao_Quien"
+              },
+              {
+                "end": 67,
+                "start": 52,
+                "username": "niceball_wuwaa"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "fuckpregabalin"
+              },
+              {
+                "end": 94,
+                "start": 85,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "whyuounot"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "ninarich1991"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "username": "kikyo4000"
+              },
+              {
+                "end": 143,
+                "start": 135,
+                "username": "sanitf1"
+              },
+              {
+                "end": 152,
+                "start": 144,
+                "username": "iTZQing"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "niceball_wuwaa",
+        "name": "胃口好难受",
+        "pinned_tweet_id": "1960881360324976702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943523513643732995/2kx3p2bv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3717,
+          "following_count": 324,
+          "like_count": 19893,
+          "listed_count": 13,
+          "media_count": 629,
+          "tweet_count": 9560
+        },
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

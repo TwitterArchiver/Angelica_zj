@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1998384679758835969",
+    "created_at": "2025-12-09T19:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T20:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998472803407040957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "134716312",
+          "start": 0,
+          "username": "YamayaT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998472803407040957",
+    "in_reply_to_user_id": "134716312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998384679758835969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YamayaT 黑丝42码大脚吗。商家脑子里装的啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12236,
+        "height": 1088,
+        "media_key": "7_1998384640915374080",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1998384640915374080/pu/img/qlGd7zi8c3jHvu8O.jpg",
+        "public_metrics": {
+          "view_count": 6882
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998384640915374080/pu/vid/avc1/320x482/4ZDLaNBYkbd3WZkE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998384640915374080/pu/vid/avc1/480x724/_hK7CA-PeVNGEgax.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998384640915374080/pu/vid/avc1/720x1088/FjGfZUK7_BPQDlSZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1998384640915374080/pu/pl/Ep50VBr9m9G6FHZ1.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1998384679758835969",
+        "created_at": "2025-12-09T19:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T20:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998472803407040957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "134716312",
+              "start": 0,
+              "username": "YamayaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998472803407040957",
+        "in_reply_to_user_id": "134716312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998384679758835969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YamayaT 黑丝42码大脚吗。商家脑子里装的啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1998384640915374080"
+          ]
+        },
+        "author_id": "134716312",
+        "conversation_id": "1998384679758835969",
+        "created_at": "2025-12-09T13:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998384679758835969"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.8792,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5t3wxpx576",
+              "end": 56,
+              "expanded_url": "https://x.com/YamayaT/status/1998384679758835969/video/1",
+              "media_key": "7_1998384640915374080",
+              "start": 33,
+              "url": "https://t.co/5t3wxpx576"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998384679758835969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 12784,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "中国の女性の足向けの商品写真のあしが男性のあしのこともある……！ https://t.co/5t3wxpx576"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25285,
+          "following_count": 1001,
+          "like_count": 14388,
+          "listed_count": 40,
+          "media_count": 1456,
+          "tweet_count": 16155
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-19T07:12:50.000Z",
+        "description": "2002年よりライターやってます。中国IT系トレンド系紹介の連載ほか『異国飯100倍お楽しみマニュアル』『中国のインターネット史（共に星海社）』など本数冊出版。記事は #山谷剛史記事 。Huawei,36krのTWの中の人。お仕事依頼は dtgoshi@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 84,
+                "tag": "山谷剛史記事"
+              }
+            ]
+          }
+        },
+        "id": "134716312",
+        "location": "雲南省🐘→日本",
+        "name": "山谷剛史　アジア中国ITライター＆異国飯",
+        "pinned_tweet_id": "1994956934601216196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986256198354808832/tkV3t9Cd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43430,
+          "following_count": 982,
+          "like_count": 44154,
+          "listed_count": 998,
+          "media_count": 58097,
+          "tweet_count": 331702
+        },
+        "username": "YamayaT",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1880125886739149288",
+    "created_at": "2025-01-19T13:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T14:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880977465939742983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1189175091680043009",
+          "start": 0,
+          "username": "zhong2311"
+        },
+        {
+          "end": 19,
+          "id": "1433678976564662273",
+          "start": 11,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880977465939742983",
+    "in_reply_to_user_id": "1189175091680043009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880970755128918382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhong2311 @hsn8086 嗯呢，觉得不安全沟通协商领证后给彩礼不就行了，领证后的彩礼属于共同财产哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1880125886739149288",
+        "created_at": "2025-01-19T13:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T14:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880977465939742983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1189175091680043009",
+              "start": 0,
+              "username": "zhong2311"
+            },
+            {
+              "end": 19,
+              "id": "1433678976564662273",
+              "start": 11,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880977465939742983",
+        "in_reply_to_user_id": "1189175091680043009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880970755128918382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhong2311 @hsn8086 嗯呢，觉得不安全沟通协商领证后给彩礼不就行了，领证后的彩礼属于共同财产哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1189175091680043009",
+        "conversation_id": "1880125886739149288",
+        "created_at": "2025-01-19T13:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T14:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880970755128918382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 21,
+              "id": "1433678976564662273",
+              "start": 13,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880970755128918382",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880833785685737558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj @hsn8086 经核实未用于家庭开销怎么取证，把每一笔钱都记录吗，这就是个糊涂账。 彩礼对男性来说就只有风险没有收益，定义就是女方婚前财产，怎么贪图？ 如果女方不贪图男方财产，为啥死咬着彩礼不放，不断的把彩礼正当化。\n个人觉着彩礼正当化有两种方式：\n1 彩礼定义上必须是共同财产\n2 彩礼作为小额赠予"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25151,
+          "following_count": 936,
+          "like_count": 13787,
+          "listed_count": 37,
+          "media_count": 1259,
+          "tweet_count": 14320
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-29T13:40:26.000Z",
+        "description": "",
+        "id": "1189175091680043009",
+        "location": "Japan",
+        "name": "zhong231",
+        "pinned_tweet_id": "1563295678251802629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1310436482578964480/YwhdxWdp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 258,
+          "like_count": 1265,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 953
+        },
+        "username": "zhong2311",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1869317700327199087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880650332394733568/Q27K-hba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30692,
+          "following_count": 901,
+          "like_count": 36367,
+          "listed_count": 88,
+          "media_count": 5185,
+          "tweet_count": 10025
+        },
+        "username": "hsn8086",
+        "verified": false
+      }
+    ]
+  }
+}

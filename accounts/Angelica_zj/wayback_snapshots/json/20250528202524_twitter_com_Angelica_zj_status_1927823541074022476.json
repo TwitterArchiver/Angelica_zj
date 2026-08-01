@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1927787600560968145",
+    "created_at": "2025-05-28T20:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T21:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927823541074022476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1883811574328213504",
+          "start": 0,
+          "username": "Mnx3m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927823541074022476",
+    "in_reply_to_user_id": "1883811574328213504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927787600560968145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mnx3m 能过地铁么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1927787600560968145",
+        "created_at": "2025-05-28T20:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T21:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927823541074022476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1883811574328213504",
+              "start": 0,
+              "username": "Mnx3m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927823541074022476",
+        "in_reply_to_user_id": "1883811574328213504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927787600560968145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mnx3m 能过地铁么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883811574328213504",
+        "conversation_id": "1927787600560968145",
+        "created_at": "2025-05-28T18:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T19:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927787600560968145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927787600560968145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的包里面有一个万能军刀，各种皮筋，手机卡针，胶带，充电宝，很多卫生纸，很多手串，一堆一次性餐具，剃须刀，笔，雨伞，腰带，一堆卡的钱包&amp;身份证，我就问你们还有什么意外是我应付不了的😚😚😚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25553,
+          "following_count": 991,
+          "like_count": 14453,
+          "listed_count": 37,
+          "media_count": 1349,
+          "tweet_count": 15302
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T09:38:09.000Z",
+        "description": "我会我行我素下去的😂😂——🩸shtwt（已不割基本不会发）-都来看我的发疯碎碎念谢谢-哈哈😃           トゲナシトゲアリ/EVA/Mygo!!!!!/Mujica/Uru/Aimer/白色相簿",
+        "id": "1883811574328213504",
+        "location": "距离你391.4km",
+        "name": "灯6188（素孝子版）",
+        "pinned_tweet_id": "1927787600560968145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925502179722637312/4gq8KXcj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 34,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 766
+        },
+        "username": "Mnx3m",
+        "verified": false
+      }
+    ]
+  }
+}

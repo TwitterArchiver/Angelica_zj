@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1821713634621583820",
+    "created_at": "2024-08-09T01:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T02:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1821713634621583820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wyyazxy/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/wyyazxy/status/1821537897620689301",
+          "start": 9,
+          "url": "https://t.co/20rEyvgOpM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821713634621583820",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821537897620689301",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽这简直就是我 https://t.co/20rEyvgOpM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1821713634621583820",
+        "created_at": "2024-08-09T01:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T02:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821713634621583820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wyyazxy/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/wyyazxy/status/1821537897620689301",
+              "start": 9,
+              "url": "https://t.co/20rEyvgOpM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821713634621583820",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821537897620689301",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽这简直就是我 https://t.co/20rEyvgOpM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821537893128581120"
+          ]
+        },
+        "author_id": "3926792292",
+        "conversation_id": "1821537897620689301",
+        "created_at": "2024-08-08T13:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T14:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821537897620689301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sc10vjo7rf",
+              "end": 27,
+              "expanded_url": "https://twitter.com/wyyazxy/status/1821537897620689301/photo/1",
+              "media_key": "3_1821537893128581120",
+              "start": 4,
+              "url": "https://t.co/sC10VJo7rF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821537897620689301",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 23936,
+          "like_count": 181,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "破防了 https://t.co/sC10VJo7rF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24338,
+          "following_count": 898,
+          "like_count": 13483,
+          "listed_count": 35,
+          "tweet_count": 13449
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-17T16:59:46.000Z",
+        "description": "平易不近人",
+        "id": "3926792292",
+        "name": "💙",
+        "pinned_tweet_id": "1800123130939330864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816225244987666432/190euOLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5590,
+          "following_count": 271,
+          "like_count": 14009,
+          "listed_count": 15,
+          "tweet_count": 8651
+        },
+        "username": "wyyazxy",
+        "verified": false
+      }
+    ]
+  }
+}

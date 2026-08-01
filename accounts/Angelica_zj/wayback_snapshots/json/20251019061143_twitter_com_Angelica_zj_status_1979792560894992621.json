@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1979792255688012060",
+    "created_at": "2025-10-19T06:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T07:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979792560894992621"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1979792560894992621",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979792255688012060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我想直接让他封号的，但客服说要等他下次再犯，好吧，我会一直盯着他"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979792243763433472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mijmqX0AA7AR0.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979792243759230976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mijmpXsAAM1Nt.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1979792255688012060",
+        "created_at": "2025-10-19T06:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T07:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979792560894992621"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979792560894992621",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979792255688012060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我想直接让他封号的，但客服说要等他下次再犯，好吧，我会一直盯着他"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979792243763433472",
+            "3_1979792243759230976"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1979792255688012060",
+        "created_at": "2025-10-19T06:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T07:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979792255688012060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SIueYjQUB7",
+              "end": 58,
+              "expanded_url": "https://x.com/Angelica_zj/status/1979792255688012060/photo/1",
+              "media_key": "3_1979792243763433472",
+              "start": 35,
+              "url": "https://t.co/SIueYjQUB7"
+            },
+            {
+              "display_url": "pic.x.com/SIueYjQUB7",
+              "end": 58,
+              "expanded_url": "https://x.com/Angelica_zj/status/1979792255688012060/photo/1",
+              "media_key": "3_1979792243759230976",
+              "start": 35,
+              "url": "https://t.co/SIueYjQUB7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979792255688012060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜报，举报阶段性胜利了\n找了人工客服核实举报，他发布的照片全被下架了 https://t.co/SIueYjQUB7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25330,
+          "following_count": 990,
+          "like_count": 14271,
+          "listed_count": 43,
+          "media_count": 1399,
+          "tweet_count": 15800
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

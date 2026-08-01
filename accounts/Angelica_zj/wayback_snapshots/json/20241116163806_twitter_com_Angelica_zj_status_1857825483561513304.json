@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1857494851023249689",
+    "created_at": "2024-11-16T16:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T17:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857825483561513304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1474022820175020045",
+          "start": 0,
+          "username": "silently_weed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857825483561513304",
+    "in_reply_to_user_id": "1474022820175020045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857745289844764863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silently_weed 宝宝啊😭😭🩷🩷"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1857745289844764863].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1857745289844764863",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1857745289844764863"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1857494851023249689",
+        "created_at": "2024-11-16T16:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T17:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857825483561513304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1474022820175020045",
+              "start": 0,
+              "username": "silently_weed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857825483561513304",
+        "in_reply_to_user_id": "1474022820175020045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857745289844764863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silently_weed 宝宝啊😭😭🩷🩷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24585,
+          "following_count": 924,
+          "like_count": 13631,
+          "listed_count": 35,
+          "tweet_count": 13917
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T14:24:17.000Z",
+        "description": "别给我打钱 给我打钱还不如按赞我的推/推止于推// 爹系寒寒@Baihanhan5//",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "Baihanhan5"
+              }
+            ]
+          }
+        },
+        "id": "1474022820175020045",
+        "name": "日清",
+        "pinned_tweet_id": "1719244546897572247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719684335480287232/XCWmBCQd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 396,
+          "like_count": 6328,
+          "listed_count": 6,
+          "tweet_count": 2182
+        },
+        "username": "silently_weed",
+        "verified": false
+      }
+    ]
+  }
+}

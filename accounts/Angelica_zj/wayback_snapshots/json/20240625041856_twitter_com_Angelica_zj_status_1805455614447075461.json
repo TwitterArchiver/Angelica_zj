@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1805455614447075461",
+    "created_at": "2024-06-25T04:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T05:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1805455614447075461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bibabupaopo/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/bibabupaopo/status/1804924548061823101",
+          "start": 3,
+          "url": "https://t.co/V1JE2GmtXZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805455614447075461",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804924548061823101",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好吃 https://t.co/V1JE2GmtXZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1805455614447075461",
+        "created_at": "2024-06-25T04:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T05:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805455614447075461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bibabupaopo/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/bibabupaopo/status/1804924548061823101",
+              "start": 3,
+              "url": "https://t.co/V1JE2GmtXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805455614447075461",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804924548061823101",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好吃 https://t.co/V1JE2GmtXZ"
+      },
+      {
+        "attachments": {},
+        "author_id": "1766791677598216192",
+        "conversation_id": "1804924548061823101",
+        "created_at": "2024-06-23T17:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T18:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804924548061823101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804924548061823101",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 554483,
+          "like_count": 3149,
+          "quote_count": 18,
+          "reply_count": 100,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "谁能懂呀，骑乘位被哥操得尿在他腿上的时候他却很平淡地说没事你小时候也尿过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们  / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24622,
+          "following_count": 903,
+          "like_count": 13491,
+          "listed_count": 36,
+          "tweet_count": 13283
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T11:43:02.000Z",
+        "description": "乙女向骨科产出专用号（以女性为服务对象，“你”指屏幕外的女性），写得很恶俗不喜欢请直接拉黑，产出内容🚫搬运🚫改写🚫扩写🚫道德审判，代入梦角🆗，赛博xp和现实没有任何联系望周知",
+        "id": "1766791677598216192",
+        "name": "骨科大夫007（🚫搬）",
+        "pinned_tweet_id": "1804551810352554199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802663001390219264/QGmDBoa6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17122,
+          "following_count": 137,
+          "like_count": 48,
+          "listed_count": 6,
+          "tweet_count": 353
+        },
+        "username": "bibabupaopO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1922521202632896864",
+    "created_at": "2025-05-14T07:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T08:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922557501855109192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1294873066984488960",
+          "start": 0,
+          "username": "Qiji67373"
+        },
+        {
+          "end": 23,
+          "id": "1600277431256256512",
+          "start": 11,
+          "username": "Oriyukiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922557501855109192",
+    "in_reply_to_user_id": "1294873066984488960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922556766417547651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiji67373 @Oriyukiiiii 我有一小块瓶盖大的眼影，从高二用到大三了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1922521202632896864",
+        "created_at": "2025-05-14T07:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T08:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922557501855109192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1294873066984488960",
+              "start": 0,
+              "username": "Qiji67373"
+            },
+            {
+              "end": 23,
+              "id": "1600277431256256512",
+              "start": 11,
+              "username": "Oriyukiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922557501855109192",
+        "in_reply_to_user_id": "1294873066984488960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922556766417547651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiji67373 @Oriyukiiiii 我有一小块瓶盖大的眼影，从高二用到大三了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1294873066984488960",
+        "conversation_id": "1922521202632896864",
+        "created_at": "2025-05-14T07:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T08:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922556766417547651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600277431256256512",
+              "start": 0,
+              "username": "Oriyukiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922556766417547651",
+        "in_reply_to_user_id": "1600277431256256512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922521202632896864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oriyukiiiii 你的xyn眼影咋还没用完，上次见它都是两年前了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25370,
+          "following_count": 987,
+          "like_count": 14373,
+          "listed_count": 37,
+          "media_count": 1336,
+          "tweet_count": 15185
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-16T05:46:22.000Z",
+        "description": "愿你我都做生活的高手；奇迹如风掠过荒野；",
+        "id": "1294873066984488960",
+        "location": "世纪末花丛中的死之结界",
+        "name": "风掠过荒野",
+        "pinned_tweet_id": "1830654663928201280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901914605347328000/NVDnmnmF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 564,
+          "like_count": 4201,
+          "listed_count": 8,
+          "media_count": 431,
+          "tweet_count": 5992
+        },
+        "username": "Qiji67373",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T23:54:14.000Z",
+        "description": "碎碎念构成的集合体。 “心怀梦想的人身上那种闪闪发光的温柔，对如今的我来说太痛了。” 我们@Megumi_Ito_ 天下第一好！秘密基地@MeguYuki_Ito 提问箱https://t.co/Qm0OpuzJ0u",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "Megumi_Ito_"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "MeguYuki_Ito"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/oriyukiiiiii",
+                "end": 108,
+                "expanded_url": "https://ngl.link/oriyukiiiiii",
+                "start": 85,
+                "url": "https://t.co/Qm0OpuzJ0u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/Oriyuki",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/Oriyuki",
+                "start": 0,
+                "url": "https://t.co/DDg7CccjLo"
+              }
+            ]
+          }
+        },
+        "id": "1600277431256256512",
+        "location": "无处不在",
+        "name": "石獅落麻雀",
+        "pinned_tweet_id": "1837866926300975289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919613135302078464/TlD8paLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12303,
+          "following_count": 607,
+          "like_count": 4752,
+          "listed_count": 19,
+          "media_count": 1823,
+          "tweet_count": 6708
+        },
+        "url": "https://t.co/DDg7CccjLo",
+        "username": "Oriyukiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

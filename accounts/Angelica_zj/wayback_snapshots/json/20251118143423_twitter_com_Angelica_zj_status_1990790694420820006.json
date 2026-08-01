@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1990790583821218024",
+    "created_at": "2025-11-18T14:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T15:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990790694420820006"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1990790694420820006",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990790583821218024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "初次品鉴了，好喝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990790559842074624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6C1d22WgAAhJK4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1990790583821218024",
+        "created_at": "2025-11-18T14:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T15:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990790694420820006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990790694420820006",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990790583821218024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "初次品鉴了，好喝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990790559842074624"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1990790583821218024",
+        "created_at": "2025-11-18T14:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T15:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990790583821218024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UNuJZZhLwn",
+              "end": 46,
+              "expanded_url": "https://x.com/Angelica_zj/status/1990790583821218024/photo/1",
+              "media_key": "3_1990790559842074624",
+              "start": 23,
+              "url": "https://t.co/UNuJZZhLwn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990790583821218024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对象健身买了一箱白魔爪\n我：你要当地雷男吗？ https://t.co/UNuJZZhLwn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25293,
+          "following_count": 990,
+          "like_count": 14282,
+          "listed_count": 41,
+          "media_count": 1435,
+          "tweet_count": 16006
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

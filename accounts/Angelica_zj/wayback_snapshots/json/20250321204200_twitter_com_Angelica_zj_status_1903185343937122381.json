@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1903185343937122381",
+    "created_at": "2025-03-21T20:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T21:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903185343937122381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/hsn8086/status/1902908230638112933",
+          "start": 29,
+          "url": "https://t.co/cRZDLRQy5u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903185343937122381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902908230638112933",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我爸妈千万不要发达成总裁啊，不然我干的坏事得全被挖出来了 https://t.co/cRZDLRQy5u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1902908015541620738",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmh8whKaEAIX5cl.jpg",
+        "width": 842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1903185343937122381",
+        "created_at": "2025-03-21T20:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T21:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903185343937122381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/hsn8086/status/1902908230638112933",
+              "start": 29,
+              "url": "https://t.co/cRZDLRQy5u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903185343937122381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902908230638112933",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爸妈千万不要发达成总裁啊，不然我干的坏事得全被挖出来了 https://t.co/cRZDLRQy5u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902908015541620738"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1902908230638112933",
+        "created_at": "2025-03-21T02:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T03:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902908230638112933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0cIuGlC9ry",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1902908230638112933/photo/1",
+              "media_key": "3_1902908015541620738",
+              "start": 0,
+              "url": "https://t.co/0cIuGlC9ry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902908230638112933",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 189641,
+          "like_count": 1948,
+          "quote_count": 8,
+          "reply_count": 43,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0cIuGlC9ry"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25304,
+          "following_count": 953,
+          "like_count": 14074,
+          "listed_count": 37,
+          "media_count": 1290,
+          "tweet_count": 14730
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1898763769171542384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48924,
+          "following_count": 941,
+          "like_count": 37610,
+          "listed_count": 118,
+          "media_count": 7860,
+          "tweet_count": 13584
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

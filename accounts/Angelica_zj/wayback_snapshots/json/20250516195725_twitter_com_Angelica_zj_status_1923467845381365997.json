@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1923467319054893110",
+    "created_at": "2025-05-16T19:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T20:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923467845381365997"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1923467845381365997",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923467319054893110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实也是消磨时间为了读书而读书罢了，这本我一点都不推荐，高中我只看了一册，砖一样厚，到现在连主角名字都不记得了\n似乎本质都差不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1923467319054893110",
+        "created_at": "2025-05-16T19:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T20:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923467845381365997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923467845381365997",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923467319054893110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实也是消磨时间为了读书而读书罢了，这本我一点都不推荐，高中我只看了一册，砖一样厚，到现在连主角名字都不记得了\n似乎本质都差不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1923467319054893110",
+        "created_at": "2025-05-16T19:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T20:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923467319054893110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/muoujiang_/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/muoujiang_/status/1923297871291646381",
+              "start": 36,
+              "url": "https://t.co/mygHRnrsDQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923467319054893110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923297871291646381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以前还能啃点追忆似水年华，现在不听点末日重生囤货复仇求生根本睡不着觉 https://t.co/mygHRnrsDQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25552,
+          "following_count": 991,
+          "like_count": 14396,
+          "listed_count": 37,
+          "media_count": 1338,
+          "tweet_count": 15222
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

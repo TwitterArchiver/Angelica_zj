@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1856384155845796210",
+    "created_at": "2024-11-12T17:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T18:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856385318133608835"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1856385318133608835",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856384155845796210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点想死，正常人点进他朋友圈估计得以为我是他仇人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1856384155845796210",
+        "created_at": "2024-11-12T17:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T18:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856385318133608835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856385318133608835",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856384155845796210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点想死，正常人点进他朋友圈估计得以为我是他仇人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856384148883288067"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1856384155845796210",
+        "created_at": "2024-11-12T17:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T18:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856384155845796210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A5nTw3VzVd",
+              "end": 56,
+              "expanded_url": "https://x.com/Angelica_zj/status/1856384155845796210/photo/1",
+              "media_key": "3_1856384148883288067",
+              "start": 33,
+              "url": "https://t.co/A5nTw3VzVd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856384155845796210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男朋友特别喜欢找些我丑的牛逼的照片发朋友圈、谁能懂一下我的崩溃呢 https://t.co/A5nTw3VzVd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24632,
+          "following_count": 928,
+          "like_count": 13636,
+          "listed_count": 35,
+          "tweet_count": 13894
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

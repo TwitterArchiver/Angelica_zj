@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1988151223019860360",
+    "created_at": "2025-11-11T07:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T08:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988151223019860360"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kawanarideonyo…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/kawanarideonyou/status/1988070334067777742",
+          "start": 63,
+          "url": "https://t.co/LyI2iXb2dh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988151223019860360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988070334067777742",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好精确的形容，混在一起不会有什么特别的味道，就是两种还不错的食物一起吃进嘴里的感觉…\n类似我吃了一口鱼香肉丝又吃一口宫保鸡丁 https://t.co/LyI2iXb2dh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1988151223019860360",
+        "created_at": "2025-11-11T07:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T08:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988151223019860360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawanarideonyo…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/kawanarideonyou/status/1988070334067777742",
+              "start": 63,
+              "url": "https://t.co/LyI2iXb2dh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988151223019860360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988070334067777742",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好精确的形容，混在一起不会有什么特别的味道，就是两种还不错的食物一起吃进嘴里的感觉…\n类似我吃了一口鱼香肉丝又吃一口宫保鸡丁 https://t.co/LyI2iXb2dh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707074946273587200",
+        "conversation_id": "1987933758654476598",
+        "created_at": "2025-11-11T02:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T03:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988070334067777742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880108847953747968",
+              "start": 0,
+              "username": "bing111330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988070334067777742",
+        "in_reply_to_user_id": "1880108847953747968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987933758654476598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing111330 我朋友吃了两种奶皮子糖葫芦说感觉嘴里的东西可以各回各的家各找各的妈……让我一度很好奇到底啥味道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25316,
+          "following_count": 990,
+          "like_count": 14283,
+          "listed_count": 41,
+          "media_count": 1426,
+          "tweet_count": 15961
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T16:49:35.000Z",
+        "description": "你忠诚的brat｜好朋友重度依赖｜三角洲移动端重度划水玩家｜互关秒过v｜私信随缘回 不聊骚不看鸟｜🚪52互关免@edithjoe8511这里有另一个我｜偶尔消失是因为太痛苦，没有偷偷幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 55,
+                "username": "edithjoe8511"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/edithjoe8511",
+                "end": 23,
+                "expanded_url": "https://ngl.link/edithjoe8511",
+                "start": 0,
+                "url": "https://t.co/IrCphCvGjg"
+              }
+            ]
+          }
+        },
+        "id": "1707074946273587200",
+        "location": "灵魂交汇处",
+        "name": "山竹泡芙（蜜蜂狗版）",
+        "pinned_tweet_id": "1982409274849669252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974412636185092096/IdLJj6ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 331,
+          "like_count": 30974,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 6817
+        },
+        "url": "https://t.co/IrCphCvGjg",
+        "username": "kawanarideonyou",
+        "verified": false
+      }
+    ]
+  }
+}

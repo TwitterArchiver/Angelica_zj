@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1929625255653597673",
+    "created_at": "2025-06-02T19:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T20:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929625255653597673"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhanbuduan40/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/zhanbuduan40/status/1929502874494742685",
+          "start": 7,
+          "url": "https://t.co/dF2ySmJTH4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929625255653597673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929502874494742685",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样后悔 https://t.co/dF2ySmJTH4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1929625255653597673",
+        "created_at": "2025-06-02T19:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T20:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929625255653597673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhanbuduan40/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/zhanbuduan40/status/1929502874494742685",
+              "start": 7,
+              "url": "https://t.co/dF2ySmJTH4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929625255653597673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929502874494742685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样后悔 https://t.co/dF2ySmJTH4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911793046725033984",
+        "conversation_id": "1929502874494742685",
+        "created_at": "2025-06-02T11:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T12:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929502874494742685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929502874494742685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 47006,
+          "like_count": 396,
+          "quote_count": 4,
+          "reply_count": 77,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你们不觉得卡泡很尴尬吗？一个人对着你扣对着你撸，然后呢还喘，你们不觉得尴尬吗。？我操，我感觉好尴尬呀，我不敢想，到时候到时候我卡一半我笑出来怎么办。？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25548,
+          "following_count": 992,
+          "like_count": 14475,
+          "listed_count": 37,
+          "media_count": 1358,
+          "tweet_count": 15335
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T14:46:11.000Z",
+        "description": "07｜switch｜可以私信点歌｜infp\n目前有对象\n\n互关私信直接加v😋\n牛牛在小号谨慎关注！https://t.co/IdGeeRkgJQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/zhanbuduan30?t…",
+                "end": 72,
+                "expanded_url": "https://x.com/zhanbuduan30?t=f3oSd_XO6Nv8FRXrGkbKLg&s=09",
+                "start": 49,
+                "url": "https://t.co/IdGeeRkgJQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/4016062",
+                "end": 23,
+                "expanded_url": "https://ngl.link/4016062",
+                "start": 0,
+                "url": "https://t.co/qsUtwJ3G1T"
+              }
+            ]
+          }
+        },
+        "id": "1911793046725033984",
+        "location": "🚪18（一包利群）52/180（一条利群）520你是我主人",
+        "name": "斩不断情欲就是因为每天都有性欲的屑小男生一枚4.0",
+        "pinned_tweet_id": "1921792815530377266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911794242864795652/4YkUC7As_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 482,
+          "like_count": 14946,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 3220
+        },
+        "url": "https://t.co/qsUtwJ3G1T",
+        "username": "zhanbuduan40",
+        "verified": false
+      }
+    ]
+  }
+}

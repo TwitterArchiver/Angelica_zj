@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1807980288234213781",
+    "created_at": "2024-07-02T11:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T12:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808102096677253394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499709348616241155",
+          "start": 0,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808102096677253394",
+    "in_reply_to_user_id": "1499709348616241155",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808024799329017971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caomeiweimaomao 是…但感觉这种明显的不公针对不再流行之后，对女孩的规训还是潜伏在生活各处🤧把规训转移为“温柔”的夸赞真的让人好不舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1807980288234213781",
+        "created_at": "2024-07-02T11:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T12:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808102096677253394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499709348616241155",
+              "start": 0,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808102096677253394",
+        "in_reply_to_user_id": "1499709348616241155",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808024799329017971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeiweimaomao 是…但感觉这种明显的不公针对不再流行之后，对女孩的规训还是潜伏在生活各处🤧把规训转移为“温柔”的夸赞真的让人好不舒服"
+      },
+      {
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "conversation_id": "1807980288234213781",
+        "created_at": "2024-07-02T06:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T07:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808024799329017971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808024799329017971",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807980288234213781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 太对了，我从小就感觉到重男轻女类似一种印章刻印在人脑里一样。有人生了男孩别人会觉得很“光荣”生了女孩会觉得很“命苦”\n农村尤为明显，当然现在好多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们  / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24599,
+          "following_count": 906,
+          "like_count": 13518,
+          "listed_count": 36,
+          "tweet_count": 13331
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "我是爱礼👘有猫猫和蛇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "get.suzi03.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://get.suzi03.xyz/#/register?code=U8x8snvo",
+                "start": 0,
+                "url": "https://t.co/DW6ufDaBlY"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "自用vpn:",
+        "name": "爱礼",
+        "pinned_tweet_id": "1806161628809093352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742485361706823680/-jQzPSSG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36953,
+          "following_count": 836,
+          "like_count": 19344,
+          "listed_count": 47,
+          "tweet_count": 19924
+        },
+        "url": "https://t.co/DW6ufDaBlY",
+        "username": "caomeiweimaomao",
+        "verified": false
+      }
+    ]
+  }
+}

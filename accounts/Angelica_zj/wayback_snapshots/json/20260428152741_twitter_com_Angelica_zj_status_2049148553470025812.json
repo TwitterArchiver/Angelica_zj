@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2048856673457000604",
+    "created_at": "2026-04-28T15:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049148553470025812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1968299531012845568",
+          "start": 0,
+          "username": "l9213316547369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049148553470025812",
+    "in_reply_to_user_id": "1968299531012845568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049126232722436322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l9213316547369 害，还没豁出去就开始漠视他人苦难的更是难评"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2048856673457000604",
+        "created_at": "2026-04-28T15:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049148553470025812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1968299531012845568",
+              "start": 0,
+              "username": "l9213316547369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049148553470025812",
+        "in_reply_to_user_id": "1968299531012845568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049126232722436322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l9213316547369 害，还没豁出去就开始漠视他人苦难的更是难评"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968299531012845568",
+        "conversation_id": "2048856673457000604",
+        "created_at": "2026-04-28T13:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049126232722436322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049126232722436322",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048856673457000604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 会焦虑恐慌说明ta还不是彻底的社达主义，真正的社达是无论何种境遇  都保持着高度的自我主体性和绝对的对权力地位不惜代价追逐，很明显ta还不够豁出去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25172,
+          "following_count": 1052,
+          "like_count": 14726,
+          "listed_count": 42,
+          "media_count": 1576,
+          "tweet_count": 17043
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T13:02:48.000Z",
+        "description": "不看私信",
+        "id": "1968299531012845568",
+        "name": ".",
+        "pinned_tweet_id": "2037588127829684671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029291368393146368/T_4JPaAF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 8,
+          "like_count": 1654,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 328
+        },
+        "username": "l9213316547369",
+        "verified": false
+      }
+    ]
+  }
+}

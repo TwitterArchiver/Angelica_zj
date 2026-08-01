@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048858951308189696"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "2048856673457000604",
+    "created_at": "2026-04-27T20:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T21:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048858963710489037"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HQPXcqOirs",
+          "end": 91,
+          "expanded_url": "https://x.com/Angelica_zj/status/2048858963710489037/photo/1",
+          "media_key": "3_2048858951308189696",
+          "start": 68,
+          "url": "https://t.co/HQPXcqOirs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048858963710489037",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048856673457000604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "找到去年的这个帖子了，我和此人讨论完的很长一段时间都非常痛苦，恨自己的嘴笨没能吵赢。后来我倒是能自洽了，每个社达都会遇到属于自己的铁拳 https://t.co/HQPXcqOirs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 893,
+        "media_key": "3_2048858951308189696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8CXGOaoAAXsnu.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048858951308189696"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "2048856673457000604",
+        "created_at": "2026-04-27T20:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T21:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048858963710489037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQPXcqOirs",
+              "end": 91,
+              "expanded_url": "https://x.com/Angelica_zj/status/2048858963710489037/photo/1",
+              "media_key": "3_2048858951308189696",
+              "start": 68,
+              "url": "https://t.co/HQPXcqOirs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048858963710489037",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048856673457000604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "找到去年的这个帖子了，我和此人讨论完的很长一段时间都非常痛苦，恨自己的嘴笨没能吵赢。后来我倒是能自洽了，每个社达都会遇到属于自己的铁拳 https://t.co/HQPXcqOirs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2048856673457000604",
+        "created_at": "2026-04-27T20:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T21:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048856673457000604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048856673457000604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个同为设计专业的朋友曾是坚定的社达，坚持认为普通人的境遇与社会无关，痛苦都是不努力导致的，和此人讨论过相关问题后不欢而散\n自那很久直到最近GPT生图新模型出世，ta居然也开始对自己的未来感到焦虑恐慌。我很好奇，此时的ta是否还会想起当初那番咄咄逼人的话呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25149,
+          "following_count": 1053,
+          "like_count": 14726,
+          "listed_count": 41,
+          "media_count": 1576,
+          "tweet_count": 17037
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

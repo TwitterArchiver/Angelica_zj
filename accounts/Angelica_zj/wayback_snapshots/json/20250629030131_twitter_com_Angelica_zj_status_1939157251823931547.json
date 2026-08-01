@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1939118978477236648",
+    "created_at": "2025-06-29T03:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T04:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939157251823931547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1358441496609890304",
+          "start": 0,
+          "username": "nightmarevialuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939157251823931547",
+    "in_reply_to_user_id": "1358441496609890304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939147789398946254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nightmarevialuv 那很恐怖了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1939118978477236648",
+        "created_at": "2025-06-29T03:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T04:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939157251823931547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1358441496609890304",
+              "start": 0,
+              "username": "nightmarevialuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939157251823931547",
+        "in_reply_to_user_id": "1358441496609890304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939147789398946254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nightmarevialuv 那很恐怖了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1358441496609890304",
+        "conversation_id": "1939118978477236648",
+        "created_at": "2025-06-29T02:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T03:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939147789398946254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939147789398946254",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939118978477236648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我爸以前酒驾我们还只能坐他的车👊🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25492,
+          "following_count": 995,
+          "like_count": 14460,
+          "listed_count": 36,
+          "media_count": 1373,
+          "tweet_count": 15490
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-07T15:44:34.000Z",
+        "description": "我喜欢看大家碎碎念/微量自残注意/不太会说话和交友/讨厌我你就去自杀😹",
+        "id": "1358441496609890304",
+        "name": "人不吃饭不仅会饿还会死💧",
+        "pinned_tweet_id": "1403951017146818564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769733119614271488/Q5_w81VH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 76,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 588
+        },
+        "username": "nightmarevialuv",
+        "verified": false
+      }
+    ]
+  }
+}

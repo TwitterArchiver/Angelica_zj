@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1910283992202645676",
+    "created_at": "2025-04-10T10:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T11:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910286465092960735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1138493368810577920",
+          "start": 0,
+          "username": "ZR10zr10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910286465092960735",
+    "in_reply_to_user_id": "1138493368810577920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910286325934174430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZR10zr10 😭😭老天我打死你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1910283992202645676",
+        "created_at": "2025-04-10T10:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T11:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910286465092960735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1138493368810577920",
+              "start": 0,
+              "username": "ZR10zr10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910286465092960735",
+        "in_reply_to_user_id": "1138493368810577920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910286325934174430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZR10zr10 😭😭老天我打死你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1138493368810577920",
+        "conversation_id": "1910283992202645676",
+        "created_at": "2025-04-10T10:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T11:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910286325934174430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910286325934174430",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910286174926844094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 哦不，周末恶劣天气又影响出去玩，又不停课，烦死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25319,
+          "following_count": 964,
+          "like_count": 14199,
+          "listed_count": 38,
+          "media_count": 1302,
+          "tweet_count": 14883
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-11T17:09:06.000Z",
+        "description": "中国人/he him/23⬆️\n油画系男大 nsfw画手 这里发些碎碎念\n匿名提问箱：https://t.co/65gGg3pIXy\n喜欢我可以投喂 我会尽我所能提供感谢(.◜ω◝.)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zr10zr10",
+                "end": 66,
+                "expanded_url": "https://ngl.link/zr10zr10",
+                "start": 43,
+                "url": "https://t.co/65gGg3pIXy"
+              }
+            ]
+          }
+        },
+        "id": "1138493368810577920",
+        "name": "ZR10",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903450004842561536/lhH3CNTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 226,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 395
+        },
+        "username": "ZR10zr10",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1838928297201438721"
+      ],
+      "media_source_tweet_id": [
+        "1838928375240626239"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1838995148681654584",
+    "created_at": "2024-09-25T17:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T18:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838995148681654584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1600277431256256512",
+          "start": 3,
+          "username": "Oriyukiiiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wbhbr1xrtk",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Oriyukiiiii/status/1838928375240626239/video/1",
+          "media_key": "13_1838928297201438721",
+          "start": 31,
+          "url": "https://t.co/wBHBr1XRTk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838995148681654584",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838928375240626239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oriyukiiiii: 麦当劳喇叭制作教学.mp4 https://t.co/wBHBr1XRTk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34870,
+        "height": 960,
+        "media_key": "13_1838928297201438721",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1838928297201438721/img/dcUlzgzTwkDmzsuH.jpg",
+        "public_metrics": {
+          "view_count": 1195
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1838928297201438721/vid/avc1/320x426/RbCTW9ommujXd-LP.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1838928297201438721/vid/avc1/480x640/Ns3hWaj5ynlTi61z.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1838928297201438721/vid/avc1/720x960/z0q8aiL3QH9J0Kn0.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1838928297201438721/pl/lqdgnbMNa2GucP_7.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1838928297201438721"
+          ],
+          "media_source_tweet_id": [
+            "1838928375240626239"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1838995148681654584",
+        "created_at": "2024-09-25T17:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T18:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838995148681654584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1600277431256256512",
+              "start": 3,
+              "username": "Oriyukiiiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wbhbr1xrtk",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Oriyukiiiii/status/1838928375240626239/video/1",
+              "media_key": "13_1838928297201438721",
+              "start": 31,
+              "url": "https://t.co/wBHBr1XRTk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838995148681654584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838928375240626239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oriyukiiiii: 麦当劳喇叭制作教学.mp4 https://t.co/wBHBr1XRTk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1838928297201438721"
+          ]
+        },
+        "author_id": "1600277431256256512",
+        "conversation_id": "1838928375240626239",
+        "created_at": "2024-09-25T13:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T14:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838928375240626239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wbhbr1xrtk",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Oriyukiiiii/status/1838928375240626239/video/1",
+              "media_key": "13_1838928297201438721",
+              "start": 14,
+              "url": "https://t.co/wBHBr1XRTk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838928375240626239",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3529,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "麦当劳喇叭制作教学.mp4 https://t.co/wBHBr1XRTk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24400,
+          "following_count": 904,
+          "like_count": 13599,
+          "listed_count": 35,
+          "tweet_count": 13640
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T23:54:14.000Z",
+        "description": "中推特供之便宜货的人间冒险。世界反折耳根协会会长现已卷土重来。来聊，承接：防水补漏、情感咨询、水泥型号推荐、排忧解难。心理咨询100r/h 加急200。🚪88，美女免费。投喂爱发电链接⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/Oriyuki",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/Oriyuki",
+                "start": 0,
+                "url": "https://t.co/DDg7CccjLo"
+              }
+            ]
+          }
+        },
+        "id": "1600277431256256512",
+        "location": "无处不在",
+        "name": "石獅落麻雀",
+        "pinned_tweet_id": "1837866926300975289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828968257405235200/qMZ2VQQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3923,
+          "following_count": 288,
+          "like_count": 1105,
+          "listed_count": 4,
+          "tweet_count": 1084
+        },
+        "url": "https://t.co/DDg7CccjLo",
+        "username": "Oriyukiiiii",
+        "verified": true
+      }
+    ]
+  }
+}

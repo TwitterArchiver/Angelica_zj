@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2008740116710510953",
+    "created_at": "2026-01-07T11:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T12:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008859695583543600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1737079518647771136",
+          "start": 0,
+          "username": "Ame_luchs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008859695583543600",
+    "in_reply_to_user_id": "1737079518647771136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008859484400369924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ame_luchs 我将找标尺舔舔（不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2008740116710510953",
+        "created_at": "2026-01-07T11:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T12:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008859695583543600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1737079518647771136",
+              "start": 0,
+              "username": "Ame_luchs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008859695583543600",
+        "in_reply_to_user_id": "1737079518647771136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008859484400369924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ame_luchs 我将找标尺舔舔（不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737079518647771136",
+        "conversation_id": "2008740116710510953",
+        "created_at": "2026-01-07T11:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T12:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008859484400369924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008859484400369924",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008740116710510953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 火药残渣和枪油的味道而已\n算不上什么怪\n你现在去舔车机油标尺也就那个味道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25261,
+          "following_count": 1019,
+          "like_count": 14473,
+          "listed_count": 40,
+          "media_count": 1496,
+          "tweet_count": 16418
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T11:56:53.000Z",
+        "description": "山猫/可以叫梦梦或者雨枫",
+        "id": "1737079518647771136",
+        "location": "距离你的当前定位0.5km",
+        "name": "雨枫枫枫枫枫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895079297611644928/s0B8uIuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 778,
+          "like_count": 3050,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 1506
+        },
+        "username": "Ame_luchs",
+        "verified": false
+      }
+    ]
+  }
+}

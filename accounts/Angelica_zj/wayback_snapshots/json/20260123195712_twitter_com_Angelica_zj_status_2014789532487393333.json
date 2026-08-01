@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2014671272417104363",
+    "created_at": "2026-01-23T19:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T20:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014789532487393333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2505622124",
+          "start": 0,
+          "username": "Xtremefootage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014789532487393333",
+    "in_reply_to_user_id": "2505622124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014671272417104363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xtremefootage 小时候觉得这种肩腰的拉伸动作是比较舒服的，骨头还咔咔咔的响很好玩。最痛苦的是撕腿压脚背，大家的惨叫隔五层楼都能听见"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 58746,
+        "height": 1052,
+        "media_key": "7_2014671198064672775",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2014671198064672775/pu/img/4DvCcsjTyG_7cPMm.jpg",
+        "public_metrics": {
+          "view_count": 1410266
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014671198064672775/pu/vid/avc1/320x568/dLtFLrjhLzKnfEpc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014671198064672775/pu/vid/avc1/480x852/lqUidzb9XyXk8fXh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014671198064672775/pu/vid/avc1/592x1052/S5xnYG28by-pLp7r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2014671198064672775/pu/pl/c2uBH46xSBuuvgZP.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2014671272417104363",
+        "created_at": "2026-01-23T19:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T20:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014789532487393333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2505622124",
+              "start": 0,
+              "username": "Xtremefootage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014789532487393333",
+        "in_reply_to_user_id": "2505622124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014671272417104363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xtremefootage 小时候觉得这种肩腰的拉伸动作是比较舒服的，骨头还咔咔咔的响很好玩。最痛苦的是撕腿压脚背，大家的惨叫隔五层楼都能听见"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2014671198064672775"
+          ]
+        },
+        "author_id": "2505622124",
+        "conversation_id": "2014671272417104363",
+        "created_at": "2026-01-23T12:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T13:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014671272417104363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ErQvMaFxfR",
+              "end": 23,
+              "expanded_url": "https://x.com/Xtremefootage/status/2014671272417104363/video/1",
+              "media_key": "7_2014671198064672775",
+              "start": 0,
+              "url": "https://t.co/ErQvMaFxfR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014671272417104363",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2354,
+          "impression_count": 2264892,
+          "like_count": 4591,
+          "quote_count": 7,
+          "reply_count": 323,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ErQvMaFxfR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25254,
+          "following_count": 1030,
+          "like_count": 14513,
+          "listed_count": 40,
+          "media_count": 1506,
+          "tweet_count": 16528
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-18T21:55:03.000Z",
+        "description": "Post eXtreme videos and post. ☠️🔞",
+        "id": "2505622124",
+        "name": "Extreme footage",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996645527723921408/fJllTcIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127818,
+          "following_count": 11,
+          "like_count": 12651,
+          "listed_count": 249,
+          "media_count": 1240,
+          "tweet_count": 15798
+        },
+        "username": "Xtremefootage",
+        "verified": true
+      }
+    ]
+  }
+}

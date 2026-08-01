@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1915094419432505552",
+    "created_at": "2025-04-23T17:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T18:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915094680376840661"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1915094680376840661",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915094419432505552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好漂亮但是我还在驯服中，一如既往的打字困难"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915094410511147008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpPIOEHaYAAGOfz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1915094419432505552",
+        "created_at": "2025-04-23T17:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T18:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915094680376840661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915094680376840661",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915094419432505552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好漂亮但是我还在驯服中，一如既往的打字困难"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915094410511147008"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1915094419432505552",
+        "created_at": "2025-04-23T17:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T18:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915094419432505552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L1iqHQqzL4",
+              "end": 36,
+              "expanded_url": "https://x.com/Angelica_zj/status/1915094419432505552/photo/1",
+              "media_key": "3_1915094410511147008",
+              "start": 13,
+              "url": "https://t.co/L1iqHQqzL4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915094419432505552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校漂亮女孩送我的穿戴甲 https://t.co/L1iqHQqzL4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25384,
+          "following_count": 975,
+          "like_count": 14257,
+          "listed_count": 39,
+          "media_count": 1312,
+          "tweet_count": 15007
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

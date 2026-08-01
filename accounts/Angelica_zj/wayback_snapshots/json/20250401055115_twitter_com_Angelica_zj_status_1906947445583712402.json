@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1906947445583712402",
+    "created_at": "2025-04-01T05:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T06:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906947445583712402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1138493368810577920",
+          "start": 3,
+          "username": "ZR10zr10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906947445583712402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906637416292909541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZR10zr10: 刚玩x想要互关•ᴥ• \n鄙人成分可以直接点进主页查\n（其实没什么成分，一般路过学艺术的男大学生的碎碎念罢了（）日常是打音游画油画健身做饭\n\n另外我的工作是产出furrynsfw图，可能会发工作图相关不喜请回避\n我是很温和的人，欢迎找我玩w\n⬇️我 h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2133,
+        "media_key": "3_1906636439028441088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnW7vVAbIAAtXI4.jpg",
+        "width": 1600
+      },
+      {
+        "height": 2133,
+        "media_key": "3_1906636485195075584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnW7yA_aEAATvUa.jpg",
+        "width": 1600
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1906637078185807872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnW8UiDakAAkgY6.jpg",
+        "width": 2732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1906947445583712402",
+        "created_at": "2025-04-01T05:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T06:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906947445583712402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1138493368810577920",
+              "start": 3,
+              "username": "ZR10zr10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906947445583712402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906637416292909541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZR10zr10: 刚玩x想要互关•ᴥ• \n鄙人成分可以直接点进主页查\n（其实没什么成分，一般路过学艺术的男大学生的碎碎念罢了（）日常是打音游画油画健身做饭\n\n另外我的工作是产出furrynsfw图，可能会发工作图相关不喜请回避\n我是很温和的人，欢迎找我玩w\n⬇️我 h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906636439028441088",
+            "3_1906636485195075584",
+            "3_1906637078185807872"
+          ]
+        },
+        "author_id": "1138493368810577920",
+        "conversation_id": "1906637416292909541",
+        "created_at": "2025-03-31T09:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T10:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906637416292909541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qzbSeJGMJn",
+              "end": 147,
+              "expanded_url": "https://x.com/ZR10zr10/status/1906637416292909541/photo/1",
+              "media_key": "3_1906636439028441088",
+              "start": 124,
+              "url": "https://t.co/qzbSeJGMJn"
+            },
+            {
+              "display_url": "pic.x.com/qzbSeJGMJn",
+              "end": 147,
+              "expanded_url": "https://x.com/ZR10zr10/status/1906637416292909541/photo/1",
+              "media_key": "3_1906636485195075584",
+              "start": 124,
+              "url": "https://t.co/qzbSeJGMJn"
+            },
+            {
+              "display_url": "pic.x.com/qzbSeJGMJn",
+              "end": 147,
+              "expanded_url": "https://x.com/ZR10zr10/status/1906637416292909541/photo/1",
+              "media_key": "3_1906637078185807872",
+              "start": 124,
+              "url": "https://t.co/qzbSeJGMJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906637416292909541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9434,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "刚玩x想要互关•ᴥ• \n鄙人成分可以直接点进主页查\n（其实没什么成分，一般路过学艺术的男大学生的碎碎念罢了（）日常是打音游画油画健身做饭\n\n另外我的工作是产出furrynsfw图，可能会发工作图相关不喜请回避\n我是很温和的人，欢迎找我玩w\n⬇️我 https://t.co/qzbSeJGMJn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25297,
+          "following_count": 957,
+          "like_count": 14107,
+          "listed_count": 38,
+          "media_count": 1296,
+          "tweet_count": 14776
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-11T17:09:06.000Z",
+        "description": "中国人/he him/23\n刚开始用这个还不熟悉希望有人可以找我玩(`･ω･´)ゞ\n欢迎私信找我聊天",
+        "id": "1138493368810577920",
+        "name": "ZR10",
+        "pinned_tweet_id": "1906637416292909541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903450004842561536/lhH3CNTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 126,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 118
+        },
+        "username": "ZR10zr10",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1962703909157499136",
+    "created_at": "2025-09-02T02:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T03:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962703909157499136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sakura19864/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/sakura19864/status/1962497874035634350",
+          "start": 6,
+          "url": "https://t.co/EEGC2k4fYC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962703909157499136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962497874035634350",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在床上尿尿 https://t.co/EEGC2k4fYC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 984,
+        "media_key": "3_1962497871275753472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzwxaonaAAADquL.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1962703909157499136",
+        "created_at": "2025-09-02T02:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T03:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962703909157499136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakura19864/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/sakura19864/status/1962497874035634350",
+              "start": 6,
+              "url": "https://t.co/EEGC2k4fYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962703909157499136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962497874035634350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在床上尿尿 https://t.co/EEGC2k4fYC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962497871275753472"
+          ]
+        },
+        "author_id": "1894364220151783424",
+        "conversation_id": "1962497874035634350",
+        "created_at": "2025-09-01T12:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T13:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962497874035634350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i3bfJVVLAX",
+              "end": 29,
+              "expanded_url": "https://x.com/sakura19864/status/1962497874035634350/photo/1",
+              "media_key": "3_1962497871275753472",
+              "start": 6,
+              "url": "https://t.co/i3bfJVVLAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962497874035634350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 247391,
+          "like_count": 1711,
+          "quote_count": 32,
+          "reply_count": 293,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "你会怎么办 https://t.co/i3bfJVVLAX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25392,
+          "following_count": 988,
+          "like_count": 14294,
+          "listed_count": 40,
+          "media_count": 1378,
+          "tweet_count": 15626
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T12:30:12.000Z",
+        "description": "噫吁嚱，危乎高哉。慎终如始，则无败事/可互fo",
+        "id": "1894364220151783424",
+        "location": "上海再教育集中营",
+        "name": "高夫☭⃠",
+        "pinned_tweet_id": "1957421205901939005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955886660203503616/cJOAsLMq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 426,
+          "like_count": 243,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 110
+        },
+        "username": "sakura19864",
+        "verified": false
+      }
+    ]
+  }
+}

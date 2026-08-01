@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1685920218864820224",
+    "created_at": "2024-11-10T03:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T04:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855453165245673970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1847161222635958272",
+          "start": 0,
+          "username": "hui200005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855453165245673970",
+    "in_reply_to_user_id": "1847161222635958272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855451467781488780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hui200005 最后一把，玩骰子呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1685920218864820224",
+        "created_at": "2024-11-10T03:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T04:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855453165245673970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1847161222635958272",
+              "start": 0,
+              "username": "hui200005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855453165245673970",
+        "in_reply_to_user_id": "1847161222635958272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855451467781488780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hui200005 最后一把，玩骰子呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847161222635958272",
+        "conversation_id": "1685920218864820224",
+        "created_at": "2024-11-10T03:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T04:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855451467781488780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855451467781488780",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1685920218864820224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 后面有人喊着“九一八，九一八…”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24638,
+          "following_count": 929,
+          "like_count": 13616,
+          "listed_count": 36,
+          "tweet_count": 13874
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T06:22:20.000Z",
+        "description": "🤖在校大二學生/雙向情感障礙患者/ 🎸是主要愛好/重度孤獨症🫠/無🚪 有時候會狂躁發作",
+        "id": "1847161222635958272",
+        "location": "Kanagawa, Japan",
+        "name": "meat bun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847162055066857472/00ktp5O__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 19,
+          "like_count": 57,
+          "listed_count": 0,
+          "tweet_count": 26
+        },
+        "username": "hui200005",
+        "verified": false
+      }
+    ]
+  }
+}

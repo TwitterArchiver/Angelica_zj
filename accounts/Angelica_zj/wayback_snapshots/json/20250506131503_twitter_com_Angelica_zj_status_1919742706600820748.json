@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1919711182157406329",
+    "created_at": "2025-05-06T13:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T14:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919742706600820748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1161144093172350978",
+          "start": 0,
+          "username": "xusanjin0724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919742706600820748",
+    "in_reply_to_user_id": "1161144093172350978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919736597764796600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xusanjin0724 很不错哩！键盘轴好可爱，想玩具收藏品 暖暖的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1919736584620146691",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqRGQKSbAAM5mD1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1919736584758521856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqRGQKzacAAphEN.jpg",
+        "width": 1364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1919711182157406329",
+        "created_at": "2025-05-06T13:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T14:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919742706600820748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1161144093172350978",
+              "start": 0,
+              "username": "xusanjin0724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919742706600820748",
+        "in_reply_to_user_id": "1161144093172350978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919736597764796600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xusanjin0724 很不错哩！键盘轴好可爱，想玩具收藏品 暖暖的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919736584620146691",
+            "3_1919736584758521856"
+          ]
+        },
+        "author_id": "1161144093172350978",
+        "conversation_id": "1919711182157406329",
+        "created_at": "2025-05-06T12:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T13:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919736597764796600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tz8iHv8Rmg",
+              "end": 60,
+              "expanded_url": "https://x.com/xusanjin0724/status/1919736597764796600/photo/1",
+              "media_key": "3_1919736584620146691",
+              "start": 37,
+              "url": "https://t.co/Tz8iHv8Rmg"
+            },
+            {
+              "display_url": "pic.x.com/Tz8iHv8Rmg",
+              "end": 60,
+              "expanded_url": "https://x.com/xusanjin0724/status/1919736597764796600/photo/1",
+              "media_key": "3_1919736584758521856",
+              "start": 37,
+              "url": "https://t.co/Tz8iHv8Rmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919736597764796600",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919735361749860380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 是这样的，这个是我模拟出来的，你可以看看样片… https://t.co/Tz8iHv8Rmg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25395,
+          "following_count": 985,
+          "like_count": 14309,
+          "listed_count": 38,
+          "media_count": 1331,
+          "tweet_count": 15111
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-13T05:14:59.000Z",
+        "description": "个人情绪作祟地.",
+        "id": "1161144093172350978",
+        "name": "SanJin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650915150499807232/pWn2IZaV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 327,
+          "like_count": 765,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1324
+        },
+        "username": "xusanjin0724",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1920333833863401605",
+    "created_at": "2025-05-08T15:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T16:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920496573735141401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1474678993534132230",
+          "start": 0,
+          "username": "mingxiang22"
+        },
+        {
+          "end": 25,
+          "id": "1291988176496545792",
+          "start": 13,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920496573735141401",
+    "in_reply_to_user_id": "1474678993534132230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920443193356619880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingxiang22 @Vox35112635 这也太细节了老铁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1920333833863401605",
+        "created_at": "2025-05-08T15:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T16:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920496573735141401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1474678993534132230",
+              "start": 0,
+              "username": "mingxiang22"
+            },
+            {
+              "end": 25,
+              "id": "1291988176496545792",
+              "start": 13,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920496573735141401",
+        "in_reply_to_user_id": "1474678993534132230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920443193356619880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingxiang22 @Vox35112635 这也太细节了老铁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1474678993534132230",
+        "conversation_id": "1920333833863401605",
+        "created_at": "2025-05-08T11:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T12:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920443193356619880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291988176496545792",
+              "start": 0,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920443193356619880",
+        "in_reply_to_user_id": "1291988176496545792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3024,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920333833863401605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vox35112635 投稿者你的女朋友这确定是尖锐湿疣，长在外阴当时应该是和炮友约炮，炮友有 HPV 鸡巴在你女朋友的逼上来回蹭，边蹭边说骚逼想不想让爸爸进去，应该是这样一个情况才会传染到外阴长疣体。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25400,
+          "following_count": 987,
+          "like_count": 14328,
+          "listed_count": 38,
+          "media_count": 1332,
+          "tweet_count": 15127
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-25T09:50:56.000Z",
+        "description": "冥想(๑ᵕ⌓ᵕ̤)",
+        "id": "1474678993534132230",
+        "name": "当地皮鞋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894685361374175233/pbjE9Fec_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 940,
+          "like_count": 10075,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 779
+        },
+        "username": "mingxiang22",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "抖音号：32625516049/没有小红书/现在会接一点有偿转发/付费线上绿色交友委托/广告正规推以外的其他投稿均为免费/加vx随缘给门槛就好了/咱家御用卦师算卦找她@minglishii/点妹妹kp/视频1v1看 @BmClub_1（纯线上女陪店）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "minglishii"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "username": "BmClub_1"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "pinned_tweet_id": "1913898865628954858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257477,
+          "following_count": 524,
+          "like_count": 487,
+          "listed_count": 288,
+          "media_count": 9219,
+          "tweet_count": 13255
+        },
+        "username": "Vox35112635",
+        "verified": false
+      }
+    ]
+  }
+}

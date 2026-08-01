@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1998807970260598998",
+    "created_at": "2025-12-11T10:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T11:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999062558767243406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1421301972007849986",
+          "start": 0,
+          "username": "pbpp10521715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999062558767243406",
+    "in_reply_to_user_id": "1421301972007849986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998807970260598998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pbpp10521715 要是造谣霸凌的恶人能受到应有的惩罚就好了，他们这些杀人犯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1998807970260598998",
+        "created_at": "2025-12-11T10:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999062558767243406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1421301972007849986",
+              "start": 0,
+              "username": "pbpp10521715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999062558767243406",
+        "in_reply_to_user_id": "1421301972007849986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998807970260598998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pbpp10521715 要是造谣霸凌的恶人能受到应有的惩罚就好了，他们这些杀人犯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421301972007849986",
+        "conversation_id": "1998807970260598998",
+        "created_at": "2025-12-10T17:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T18:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998807970260598998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998807970260598998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1071,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎前几天本来说和学妹回学校一起玩的，这段时间还是糟事情太多了，其实爱礼本来病情是好转了，但是她两个好闺蜜小圈子莫名其妙开始孤立霸凌她说她玩推不正常，打个ff14群里有个京爷一直看她不爽偷窥她推文说她是卖的然后群里其他几个女网友也是无脑站队京爷，真不容易电疗忘记了她妈又开始作妖让她结婚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25268,
+          "following_count": 1002,
+          "like_count": 14395,
+          "listed_count": 40,
+          "media_count": 1460,
+          "tweet_count": 16179
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-31T02:49:51.000Z",
+        "description": "水逆中，随机掉落小白",
+        "id": "1421301972007849986",
+        "location": "Mongolia",
+        "name": "咪摸摸",
+        "pinned_tweet_id": "1994214535100866917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998362527345037312/8maNnLJk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12792,
+          "following_count": 477,
+          "like_count": 23807,
+          "listed_count": 26,
+          "media_count": 819,
+          "tweet_count": 8957
+        },
+        "username": "pbpp10521715",
+        "verified": false
+      }
+    ]
+  }
+}

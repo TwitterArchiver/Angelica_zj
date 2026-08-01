@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2066249902464679966",
+    "created_at": "2026-06-15T06:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T07:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066400787186528634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "875356544535207936",
+          "start": 0,
+          "username": "ShylWuMiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066400787186528634",
+    "in_reply_to_user_id": "875356544535207936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066320960785953067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShylWuMiao 实在美味啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2066249902464679966",
+        "created_at": "2026-06-15T06:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066400787186528634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "875356544535207936",
+              "start": 0,
+              "username": "ShylWuMiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066400787186528634",
+        "in_reply_to_user_id": "875356544535207936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066320960785953067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShylWuMiao 实在美味啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "875356544535207936",
+        "conversation_id": "2066249902464679966",
+        "created_at": "2026-06-15T00:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066320960785953067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066320960785953067",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066249902464679966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 哇啊啊啊  我也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25089,
+          "following_count": 1049,
+          "like_count": 14855,
+          "listed_count": 41,
+          "media_count": 1595,
+          "tweet_count": 17264
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-15T14:17:18.000Z",
+        "description": "心境情感障碍/性身份障碍/日常推/碎碎念/我的车车（#Peugeot307 & #XpengP7i& #BMWE87 ），我的猫咪（小🍊叫沃沃，狸花叫马路 去喵星了，🐄猫叫特斯拉）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 26,
+                "tag": "Peugeot307"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "tag": "XpengP7i"
+              },
+              {
+                "end": 58,
+                "start": 51,
+                "tag": "BMWE87"
+              }
+            ]
+          }
+        },
+        "id": "875356544535207936",
+        "location": "猫小窝",
+        "name": "呜喵哇～",
+        "pinned_tweet_id": "1999043505294082324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929660311994617860/YQU5v8PF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 964,
+          "like_count": 34376,
+          "listed_count": 1,
+          "media_count": 1158,
+          "tweet_count": 6417
+        },
+        "username": "ShylWuMiao",
+        "verified": false
+      }
+    ]
+  }
+}

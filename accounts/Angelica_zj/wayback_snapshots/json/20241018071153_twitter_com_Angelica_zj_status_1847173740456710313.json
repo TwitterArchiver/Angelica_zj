@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1846971631547416756",
+    "created_at": "2024-10-18T07:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-18T08:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847173740456710313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1563182318759837702",
+          "start": 0,
+          "username": "qqdjnm1"
+        },
+        {
+          "end": 25,
+          "id": "1115068672098226176",
+          "start": 9,
+          "username": "uslO6TIZesf19C2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847173740456710313",
+    "in_reply_to_user_id": "1563182318759837702",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847169497096245505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqdjnm1 @uslO6TIZesf19C2 草，看错了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1846971631547416756",
+        "created_at": "2024-10-18T07:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T08:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847173740456710313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1563182318759837702",
+              "start": 0,
+              "username": "qqdjnm1"
+            },
+            {
+              "end": 25,
+              "id": "1115068672098226176",
+              "start": 9,
+              "username": "uslO6TIZesf19C2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847173740456710313",
+        "in_reply_to_user_id": "1563182318759837702",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847169497096245505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqdjnm1 @uslO6TIZesf19C2 草，看错了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563182318759837702",
+        "conversation_id": "1846971631547416756",
+        "created_at": "2024-10-18T06:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T07:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847169497096245505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 29,
+              "id": "1115068672098226176",
+              "start": 13,
+              "username": "uslO6TIZesf19C2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847169497096245505",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846979652382052807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj @uslO6TIZesf19C2 求9块90双袜子链接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24676,
+          "following_count": 925,
+          "like_count": 13619,
+          "listed_count": 35,
+          "tweet_count": 13807
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-26T15:11:32.000Z",
+        "description": "在校男大/switch/非必要不恋爱",
+        "id": "1563182318759837702",
+        "name": "浪玖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596869460132270080/cpCPgPiw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 550,
+          "like_count": 1969,
+          "listed_count": 1,
+          "tweet_count": 48
+        },
+        "username": "qqdjnm1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-08T01:47:43.000Z",
+        "description": "讨厌宿醉",
+        "id": "1115068672098226176",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "星野",
+        "pinned_tweet_id": "1668666606732595200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690936930668834816/tDAsep4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 992,
+          "like_count": 10767,
+          "listed_count": 0,
+          "tweet_count": 6122
+        },
+        "username": "uslO6TIZesf19C2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2003102951150379014",
+    "created_at": "2025-12-22T13:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T14:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003102951150379014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhiyanpianyu22…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/zhiyanpianyu22/status/2002682982994530354",
+          "start": 28,
+          "url": "https://t.co/Bc01TPv0Pb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003102951150379014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002682982994530354",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我朋友被前女友出轨伤害，现实赐给她前女友一个小三滥交男 https://t.co/Bc01TPv0Pb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2003102951150379014",
+        "created_at": "2025-12-22T13:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T14:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003102951150379014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhiyanpianyu22…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/zhiyanpianyu22/status/2002682982994530354",
+              "start": 28,
+              "url": "https://t.co/Bc01TPv0Pb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003102951150379014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002682982994530354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我朋友被前女友出轨伤害，现实赐给她前女友一个小三滥交男 https://t.co/Bc01TPv0Pb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962126472963100672",
+        "conversation_id": "2002605127170208019",
+        "created_at": "2025-12-21T10:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T11:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002682982994530354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002682982994530354",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5254,
+          "like_count": 162,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002605127170208019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 真诚女孩不会虚空叫别人婊子哈，被伤害我就这样假想敌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25268,
+          "following_count": 1011,
+          "like_count": 14453,
+          "listed_count": 40,
+          "media_count": 1477,
+          "tweet_count": 16297
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T12:13:11.000Z",
+        "description": "我会收集一些无厘头的东西。我雷分不清的得地的，会回关像法子英的灵魂，天神我发誓我不爱任何人只是在找他的替身。喜欢双关语。 三观由在听的bgm决定。不会帮骂人除非上交身份证。提问箱https://t.co/hAcB5jcCW7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/167324",
+                "end": 112,
+                "expanded_url": "https://ngl.link/167324",
+                "start": 89,
+                "url": "https://t.co/hAcB5jcCW7"
+              }
+            ]
+          }
+        },
+        "id": "1962126472963100672",
+        "location": "我好冷，快带我回好多逼里",
+        "name": "举头三尺无神明，掘墓七尺捞荣枝（弯达广场线下中）",
+        "pinned_tweet_id": "1986786109284814943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000492269615591424/lZVkARB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 23,
+          "like_count": 895,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 4195
+        },
+        "username": "zhiyanpianyu22",
+        "verified": false
+      }
+    ]
+  }
+}

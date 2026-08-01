@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2007343725215895775",
+    "created_at": "2026-01-03T06:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T07:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007343725215895775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iamroosie_/sta…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/iamroosie_/status/2007339270944833789",
+          "start": 55,
+          "url": "https://t.co/HO7VeTyJ3U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007343725215895775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007339270944833789",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为早上起来迷迷糊糊看到这姐爆的瓜导致之后做梦梦到檀健次了\n其实我是路人来的。前几天跨年晚会才稍微认熟他的脸 https://t.co/HO7VeTyJ3U"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2007343725215895775",
+        "created_at": "2026-01-03T06:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T07:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007343725215895775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iamroosie_/sta…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/iamroosie_/status/2007339270944833789",
+              "start": 55,
+              "url": "https://t.co/HO7VeTyJ3U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007343725215895775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007339270944833789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为早上起来迷迷糊糊看到这姐爆的瓜导致之后做梦梦到檀健次了\n其实我是路人来的。前几天跨年晚会才稍微认熟他的脸 https://t.co/HO7VeTyJ3U"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970592647799558144",
+        "conversation_id": "2007339270944833789",
+        "created_at": "2026-01-03T06:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T07:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007339270944833789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007339270944833789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 117041,
+          "like_count": 603,
+          "quote_count": 59,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "following",
+        "text": "檀健次：顶尖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25241,
+          "following_count": 1017,
+          "like_count": 14462,
+          "listed_count": 40,
+          "media_count": 1494,
+          "tweet_count": 16398
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T20:55:27.000Z",
+        "description": "国内平台如果封号或是因为其他原因不能发布我会在这里更新 抖音被限制搜索了",
+        "id": "1970592647799558144",
+        "name": "iamroosie",
+        "pinned_tweet_id": "2007308852853985376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007266383185240064/V6LLfo-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49318,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 46,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "username": "iamroosie_",
+        "verified": true
+      }
+    ]
+  }
+}

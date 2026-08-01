@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1929571229771481342",
+    "created_at": "2025-06-02T16:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T17:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929571721557971357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1883811574328213504",
+          "start": 0,
+          "username": "Mnx3m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929571721557971357",
+    "in_reply_to_user_id": "1883811574328213504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929571544751047001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mnx3m 真的看起来都很舒服，很好躺感觉能睡得很香"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1929571229771481342",
+        "created_at": "2025-06-02T16:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T17:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929571721557971357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1883811574328213504",
+              "start": 0,
+              "username": "Mnx3m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929571721557971357",
+        "in_reply_to_user_id": "1883811574328213504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929571544751047001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mnx3m 真的看起来都很舒服，很好躺感觉能睡得很香"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883811574328213504",
+        "conversation_id": "1929571229771481342",
+        "created_at": "2025-06-02T16:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T17:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929571544751047001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929571544751047001",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929571229771481342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我操我也想了听你这么说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25549,
+          "following_count": 991,
+          "like_count": 14475,
+          "listed_count": 37,
+          "media_count": 1358,
+          "tweet_count": 15332
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T09:38:09.000Z",
+        "description": "🩸shtwt（已不割基本不会发）-都来看我的发疯碎碎念谢谢-哈哈😃",
+        "id": "1883811574328213504",
+        "location": "距离你391.4km",
+        "name": "灯6188（素孝子版）",
+        "pinned_tweet_id": "1928801116348621219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925502179722637312/4gq8KXcj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 31,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 837
+        },
+        "username": "Mnx3m",
+        "verified": false
+      }
+    ]
+  }
+}

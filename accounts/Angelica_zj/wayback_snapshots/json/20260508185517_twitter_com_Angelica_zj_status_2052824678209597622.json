@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052824666570362881"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "2052710915779555620",
+    "created_at": "2026-05-08T18:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T19:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052824678209597622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472219833261772801",
+          "start": 0,
+          "username": "xxx_jjkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1nELKkm3BK",
+          "end": 54,
+          "expanded_url": "https://x.com/Angelica_zj/status/2052824678209597622/photo/1",
+          "media_key": "3_2052824666570362881",
+          "start": 31,
+          "url": "https://t.co/1nELKkm3BK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052824678209597622",
+    "in_reply_to_user_id": "1472219833261772801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052710915779555620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_jjkk 对外称自己嗓子疼，看的网上说揪脖子皮好使 https://t.co/1nELKkm3BK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052824666570362881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0ZKG0WEAEmrk2.jpg",
+        "width": 946
+      },
+      {
+        "height": 1031,
+        "media_key": "3_2052710906510147584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyxsZkbgAAcBae.jpg",
+        "width": 1222
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052824666570362881"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "2052710915779555620",
+        "created_at": "2026-05-08T18:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052824678209597622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472219833261772801",
+              "start": 0,
+              "username": "xxx_jjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1nELKkm3BK",
+              "end": 54,
+              "expanded_url": "https://x.com/Angelica_zj/status/2052824678209597622/photo/1",
+              "media_key": "3_2052824666570362881",
+              "start": 31,
+              "url": "https://t.co/1nELKkm3BK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052824678209597622",
+        "in_reply_to_user_id": "1472219833261772801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052710915779555620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_jjkk 对外称自己嗓子疼，看的网上说揪脖子皮好使 https://t.co/1nELKkm3BK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052710906510147584"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "conversation_id": "2052710915779555620",
+        "created_at": "2026-05-08T11:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052710915779555620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KtSVEgmpIQ",
+              "end": 36,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2052710915779555620/photo/1",
+              "media_key": "3_2052710906510147584",
+              "start": 13,
+              "url": "https://t.co/KtSVEgmpIQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052710915779555620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4992,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁上吊过 这个淤青怎么散 https://t.co/KtSVEgmpIQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25147,
+          "following_count": 1051,
+          "like_count": 14743,
+          "listed_count": 42,
+          "media_count": 1579,
+          "tweet_count": 17075
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹\n@yn_xxxjkjk 2.0备份一下互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "yn_xxxjkjk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "name": "旖旎",
+        "pinned_tweet_id": "2045469984315658626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 493,
+          "like_count": 13298,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 1902
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

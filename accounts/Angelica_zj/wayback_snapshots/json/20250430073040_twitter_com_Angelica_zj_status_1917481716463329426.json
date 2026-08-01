@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1917481716463329426",
+    "created_at": "2025-04-30T07:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T08:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917481716463329426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/angelica_zj/st…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/angelica_zj/status/1917239350204747858",
+          "start": 47,
+          "url": "https://t.co/Vh5PRbnfiD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917481716463329426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917239350204747858",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "结果今天还是去上了，老师很愤怒的点了名并表示请病假的要上传挂号单和医生的合照才能给销，omg https://t.co/Vh5PRbnfiD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1917481716463329426",
+        "created_at": "2025-04-30T07:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T08:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917481716463329426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/angelica_zj/st…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/angelica_zj/status/1917239350204747858",
+              "start": 47,
+              "url": "https://t.co/Vh5PRbnfiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917481716463329426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917239350204747858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结果今天还是去上了，老师很愤怒的点了名并表示请病假的要上传挂号单和医生的合照才能给销，omg https://t.co/Vh5PRbnfiD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1917239350204747858",
+        "created_at": "2025-04-29T15:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T16:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917239350204747858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917239350204747858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 306,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我明天不想上课了，想从明天就开始放假"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25365,
+          "following_count": 982,
+          "like_count": 14264,
+          "listed_count": 39,
+          "media_count": 1322,
+          "tweet_count": 15061
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

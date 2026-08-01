@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1999564635448504609",
+    "created_at": "2025-12-13T13:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T14:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999829797334045015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1857559547151360000",
+          "start": 0,
+          "username": "YCTF5211314"
+        },
+        {
+          "end": 26,
+          "id": "1781712570497552384",
+          "start": 13,
+          "username": "siinaaki0912"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999829797334045015",
+    "in_reply_to_user_id": "1857559547151360000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999825062187438580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YCTF5211314 @siinaaki0912 可以说是间接害的，本来所有朋友都觉得她已经慢慢好起来了。但是这半年间她被现实闺蜜背刺，被游戏里认识的朋友造黄谣，还有一些共同朋友无脑战队孤立了她。再加上身体总有查不出来的毛病，家人的不理解，这一切都在短时间内发生，彻底把她压垮了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 359,
+        "media_key": "3_1999825058576097281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8DOS5VaYAEDk7j.jpg",
+        "width": 382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1999564635448504609",
+        "created_at": "2025-12-13T13:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T14:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999829797334045015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1857559547151360000",
+              "start": 0,
+              "username": "YCTF5211314"
+            },
+            {
+              "end": 26,
+              "id": "1781712570497552384",
+              "start": 13,
+              "username": "siinaaki0912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999829797334045015",
+        "in_reply_to_user_id": "1857559547151360000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999825062187438580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YCTF5211314 @siinaaki0912 可以说是间接害的，本来所有朋友都觉得她已经慢慢好起来了。但是这半年间她被现实闺蜜背刺，被游戏里认识的朋友造黄谣，还有一些共同朋友无脑战队孤立了她。再加上身体总有查不出来的毛病，家人的不理解，这一切都在短时间内发生，彻底把她压垮了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999825058576097281"
+          ]
+        },
+        "author_id": "1857559547151360000",
+        "conversation_id": "1999564635448504609",
+        "created_at": "2025-12-13T12:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T13:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999825062187438580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781712570497552384",
+              "start": 0,
+              "username": "siinaaki0912"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/az0CgZEZKl",
+              "end": 91,
+              "expanded_url": "https://x.com/YCTF5211314/status/1999825062187438580/photo/1",
+              "media_key": "3_1999825058576097281",
+              "start": 68,
+              "url": "https://t.co/az0CgZEZKl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999825062187438580",
+        "in_reply_to_user_id": "1781712570497552384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999564635448504609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siinaaki0912 我很担心 谁能给我说说 搜了半天 评论区看不明白 云里雾里的 说她是被朋友和网友害没的 其他的我就不知道了 https://t.co/az0CgZEZKl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25286,
+          "following_count": 1008,
+          "like_count": 14414,
+          "listed_count": 40,
+          "media_count": 1464,
+          "tweet_count": 16217
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T23:01:32.000Z",
+        "description": "塔菲是我的第二人格 我一共有五种人格 俗称第五人格 对 就是第五人格那个游戏\n你们不喜欢塔菲没关系的喵，因为塔菲是虚拟的 塔菲不会感觉伤心的 塔菲会尊重你的选择。",
+        "id": "1857559547151360000",
+        "name": "⁺✞ʚ永雏塔菲重度依赖ɞ✟₊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999093502542757888/uiFHoBhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 14,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 57
+        },
+        "username": "YCTF5211314",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T15:52:51.000Z",
+        "description": "谢谢你有短暂的爱过我\n无门槛不接推广，互fo可+联系方式防走丢",
+        "id": "1781712570497552384",
+        "location": "我会永远视奸你👁️",
+        "name": "椎名秋",
+        "pinned_tweet_id": "1945146563191324736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999488478791536640/BPlOL-Nn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19669,
+          "following_count": 456,
+          "like_count": 8283,
+          "listed_count": 26,
+          "media_count": 951,
+          "tweet_count": 7594
+        },
+        "username": "siinaaki0912",
+        "verified": false
+      }
+    ]
+  }
+}

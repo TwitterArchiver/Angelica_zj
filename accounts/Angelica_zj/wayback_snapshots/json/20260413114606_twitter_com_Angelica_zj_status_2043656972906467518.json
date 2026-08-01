@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2043656972906467518",
+    "created_at": "2026-04-13T11:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T12:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043656972906467518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ppuuussyy/stat…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/ppuuussyy/status/2043563104328384523",
+          "start": 56,
+          "url": "https://t.co/555NgYQyYQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043656972906467518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043563104328384523",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今日最典现身说法来了，拿点高达入门基础知识就敢“我考考你”…我以为能问出多小众的问题，看的我一口饭好险没喷出来 https://t.co/555NgYQyYQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2043656972906467518",
+        "created_at": "2026-04-13T11:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043656972906467518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ppuuussyy/stat…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/ppuuussyy/status/2043563104328384523",
+              "start": 56,
+              "url": "https://t.co/555NgYQyYQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043656972906467518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043563104328384523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今日最典现身说法来了，拿点高达入门基础知识就敢“我考考你”…我以为能问出多小众的问题，看的我一口饭好险没喷出来 https://t.co/555NgYQyYQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014490051078430720",
+        "conversation_id": "2041494534237180316",
+        "created_at": "2026-04-13T05:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043563104328384523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 26,
+              "id": "1946920125376212992",
+              "start": 13,
+              "username": "Plasticastro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043563104328384523",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042176607859990737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj @Plasticastro 那你很懂拼胶了  可以告诉我 扎古高达 钢坦克的区别吗  可以告诉我打磨用的工具如何选择吗可以告诉我改色和上色的区别吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24932,
+          "following_count": 1049,
+          "like_count": 14728,
+          "listed_count": 40,
+          "media_count": 1571,
+          "tweet_count": 16980
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T00:07:34.000Z",
+        "description": "",
+        "id": "2014490051078430720",
+        "name": "ppuussyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014490717477888000/PmePdn6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 66,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 128
+        },
+        "username": "ppuuussyy",
+        "verified": false
+      }
+    ]
+  }
+}

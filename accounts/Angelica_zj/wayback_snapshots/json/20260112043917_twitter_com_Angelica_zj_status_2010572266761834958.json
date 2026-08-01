@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2010402539900956928",
+    "created_at": "2026-01-12T04:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T05:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010572266761834958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1539336268345393152",
+          "start": 0,
+          "username": "konatsu103ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010572266761834958",
+    "in_reply_to_user_id": "1539336268345393152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010542136207577514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konatsu103ovo 推特有时候有这种bug啦，没关系重新点上关注就好力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2010402539900956928",
+        "created_at": "2026-01-12T04:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T05:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010572266761834958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1539336268345393152",
+              "start": 0,
+              "username": "konatsu103ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010572266761834958",
+        "in_reply_to_user_id": "1539336268345393152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010542136207577514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konatsu103ovo 推特有时候有这种bug啦，没关系重新点上关注就好力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1539336268345393152",
+        "conversation_id": "2010402539900956928",
+        "created_at": "2026-01-12T02:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T03:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010542136207577514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010542136207577514",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010402539900956928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 好奇怪 我怎么取关了 我记得我一直关注的 刚刚看主页还以为是我网不好 退出刷新好几次  我不记得我有过取关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25286,
+          "following_count": 1021,
+          "like_count": 14482,
+          "listed_count": 40,
+          "media_count": 1498,
+          "tweet_count": 16444
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-21T19:55:51.000Z",
+        "description": "叫我Konatsu☆小夏  请喜欢我🩷",
+        "id": "1539336268345393152",
+        "location": "玩偶的秘密基地",
+        "name": "拥抱直到世界毁灭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781382333809209344/JcqmwlAM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 10,
+          "like_count": 114,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 281
+        },
+        "username": "konatsu103ovo",
+        "verified": false
+      }
+    ]
+  }
+}

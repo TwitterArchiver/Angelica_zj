@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957290541177315328",
+        "3_1957290541160497152",
+        "3_1957290541252759552"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1957290575578935623",
+    "created_at": "2025-08-18T03:56:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T04:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957290575578935623"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7aDt6sBFMd",
+          "end": 27,
+          "expanded_url": "https://x.com/Angelica_zj/status/1957290575578935623/photo/1",
+          "media_key": "3_1957290541177315328",
+          "start": 4,
+          "url": "https://t.co/7aDt6sBFMd"
+        },
+        {
+          "display_url": "pic.x.com/7aDt6sBFMd",
+          "end": 27,
+          "expanded_url": "https://x.com/Angelica_zj/status/1957290575578935623/photo/1",
+          "media_key": "3_1957290541160497152",
+          "start": 4,
+          "url": "https://t.co/7aDt6sBFMd"
+        },
+        {
+          "display_url": "pic.x.com/7aDt6sBFMd",
+          "end": 27,
+          "expanded_url": "https://x.com/Angelica_zj/status/1957290575578935623/photo/1",
+          "media_key": "3_1957290541252759552",
+          "start": 4,
+          "url": "https://t.co/7aDt6sBFMd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957290575578935623",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好宝宝 https://t.co/7aDt6sBFMd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957290541177315328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GymxYIUbIAA8ZcA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1957290541160497152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GymxYIQagAA2gZH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1957290541252759552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GymxYImaUAAL7df.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957290541177315328",
+            "3_1957290541160497152",
+            "3_1957290541252759552"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1957290575578935623",
+        "created_at": "2025-08-18T03:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T04:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957290575578935623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7aDt6sBFMd",
+              "end": 27,
+              "expanded_url": "https://x.com/Angelica_zj/status/1957290575578935623/photo/1",
+              "media_key": "3_1957290541177315328",
+              "start": 4,
+              "url": "https://t.co/7aDt6sBFMd"
+            },
+            {
+              "display_url": "pic.x.com/7aDt6sBFMd",
+              "end": 27,
+              "expanded_url": "https://x.com/Angelica_zj/status/1957290575578935623/photo/1",
+              "media_key": "3_1957290541160497152",
+              "start": 4,
+              "url": "https://t.co/7aDt6sBFMd"
+            },
+            {
+              "display_url": "pic.x.com/7aDt6sBFMd",
+              "end": 27,
+              "expanded_url": "https://x.com/Angelica_zj/status/1957290575578935623/photo/1",
+              "media_key": "3_1957290541252759552",
+              "start": 4,
+              "url": "https://t.co/7aDt6sBFMd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957290575578935623",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好宝宝 https://t.co/7aDt6sBFMd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25409,
+          "following_count": 988,
+          "like_count": 14324,
+          "listed_count": 39,
+          "media_count": 1389,
+          "tweet_count": 15603
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

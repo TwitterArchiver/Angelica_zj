@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1997179676650013126",
+    "created_at": "2025-12-07T02:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T03:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997500206775202056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1471004896220487685",
+          "start": 0,
+          "username": "Alexander22608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997500206775202056",
+    "in_reply_to_user_id": "1471004896220487685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997497705258684911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alexander22608 可能我的意思表达的不够明确，其实我不反对实现自我价值过程中认识的良缘。\n有人结婚是为了过日子，有人结婚是幻想逆天改命，而我讨论的是后者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1997179676650013126",
+        "created_at": "2025-12-07T02:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T03:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997500206775202056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1471004896220487685",
+              "start": 0,
+              "username": "Alexander22608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997500206775202056",
+        "in_reply_to_user_id": "1471004896220487685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997497705258684911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alexander22608 可能我的意思表达的不够明确，其实我不反对实现自我价值过程中认识的良缘。\n有人结婚是为了过日子，有人结婚是幻想逆天改命，而我讨论的是后者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471004896220487685",
+        "conversation_id": "1997179676650013126",
+        "created_at": "2025-12-07T02:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T03:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997497705258684911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997497705258684911",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997496198815436983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 你看你不要总是走极端嘛。世界上又不是除了美女就是丑穷捞女，也不是除了高富帅男就是矮穷矬男，大多数人都是普通人，不丑不美不富也不穷，婚姻改变命运也并不是说嫁入豪门了，而是家庭收入x2，家庭人均支出➗2，日子会好过许多。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25270,
+          "following_count": 998,
+          "like_count": 14343,
+          "listed_count": 40,
+          "media_count": 1453,
+          "tweet_count": 16123
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T06:31:20.000Z",
+        "description": "",
+        "id": "1471004896220487685",
+        "location": "Shanghai",
+        "name": "cyberpunk2023",
+        "pinned_tweet_id": "1961013107549253659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555041209780953088/ZX10fwnk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 396,
+          "like_count": 11178,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 5110
+        },
+        "username": "Alexander22608",
+        "verified": true
+      }
+    ]
+  }
+}

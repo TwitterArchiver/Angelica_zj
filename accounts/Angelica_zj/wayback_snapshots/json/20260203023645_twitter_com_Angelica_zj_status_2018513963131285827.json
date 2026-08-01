@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2018436698665828685",
+    "created_at": "2026-02-03T02:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T03:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018513963131285827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1865530573105876992",
+          "start": 0,
+          "username": "SpiderOOOOOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018513963131285827",
+    "in_reply_to_user_id": "1865530573105876992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018477332252795153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SpiderOOOOOO 属于动漫辱华人人喊打，和辱华动漫联动是辱华，和辱华动漫联动的动漫联动也算辱华，和辱华动漫联动的动漫联动的动漫更是辱华，就这样无限套娃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2018436698665828685",
+        "created_at": "2026-02-03T02:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T03:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018513963131285827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1865530573105876992",
+              "start": 0,
+              "username": "SpiderOOOOOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018513963131285827",
+        "in_reply_to_user_id": "1865530573105876992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018477332252795153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpiderOOOOOO 属于动漫辱华人人喊打，和辱华动漫联动是辱华，和辱华动漫联动的动漫联动也算辱华，和辱华动漫联动的动漫联动的动漫更是辱华，就这样无限套娃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865530573105876992",
+        "conversation_id": "2018436698665828685",
+        "created_at": "2026-02-03T00:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T01:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018477332252795153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018477332252795153",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018436698665828685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 又不是真rh这群人到底在干什么，还有媒体说底线不可逾越，中国人的底线关日本人屁屁呀😿抖上那么多人用那首乳法的歌也没见他们觉得有什么问题呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25222,
+          "following_count": 1035,
+          "like_count": 14557,
+          "listed_count": 40,
+          "media_count": 1514,
+          "tweet_count": 16578
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T22:55:35.000Z",
+        "description": "07 不聊扫不下海 我是对象奴 经常发一些梦话 喜欢有礼貌的人",
+        "id": "1865530573105876992",
+        "name": "锁",
+        "pinned_tweet_id": "2018413526537167115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865530734578188288/OG-Zr4-k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 14,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 84
+        },
+        "username": "SpiderOOOOOO",
+        "verified": false
+      }
+    ]
+  }
+}

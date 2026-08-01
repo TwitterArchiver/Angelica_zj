@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1938019005010526458",
+    "created_at": "2025-06-26T01:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T02:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938052833468891440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1563211924392660992",
+          "start": 0,
+          "username": "TZ19976042"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938052833468891440",
+    "in_reply_to_user_id": "1563211924392660992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938052067396116926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TZ19976042 你可以魂穿我一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1938019005010526458",
+        "created_at": "2025-06-26T01:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T02:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938052833468891440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1563211924392660992",
+              "start": 0,
+              "username": "TZ19976042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938052833468891440",
+        "in_reply_to_user_id": "1563211924392660992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938052067396116926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TZ19976042 你可以魂穿我一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563211924392660992",
+        "conversation_id": "1938019005010526458",
+        "created_at": "2025-06-26T01:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T02:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938052067396116926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938052067396116926",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938019005010526458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 能不能让推友先坐？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25489,
+          "following_count": 994,
+          "like_count": 14466,
+          "listed_count": 36,
+          "media_count": 1373,
+          "tweet_count": 15482
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-26T17:09:09.000Z",
+        "description": "CS在读；退役OI、ACM选手；爱好研究形式科学、社会科学，抽象策略游戏；MBTI: ENTJ",
+        "id": "1563211924392660992",
+        "location": "Hokkien",
+        "name": "Spaghetti Coder",
+        "pinned_tweet_id": "1569716401291800577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833352040875233280/V3D-1Kng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 79,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1123
+        },
+        "username": "TZ19976042",
+        "verified": false
+      }
+    ]
+  }
+}

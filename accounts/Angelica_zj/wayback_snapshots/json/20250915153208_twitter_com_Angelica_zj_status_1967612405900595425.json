@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1967612405900595425",
+    "created_at": "2025-09-15T15:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T16:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967612405900595425"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lftsummer2024/…",
+          "end": 117,
+          "expanded_url": "https://twitter.com/lftsummer2024/status/1966915912520659153",
+          "start": 94,
+          "url": "https://t.co/5r4J6Ag3cI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967612405900595425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966915912520659153",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别的不做评价，但过习惯大学生活出来工作后确实非常不适应，经常会想\n“要是高中一毕业就工作肯定不会这么痛苦”\n大概率还会因为有点薪水，以及少量增加的睡眠时间而直呼解放\n其实能说明很多问题了 https://t.co/5r4J6Ag3cI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1967612405900595425",
+        "created_at": "2025-09-15T15:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T16:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967612405900595425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lftsummer2024/…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/lftsummer2024/status/1966915912520659153",
+              "start": 94,
+              "url": "https://t.co/5r4J6Ag3cI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967612405900595425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966915912520659153",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别的不做评价，但过习惯大学生活出来工作后确实非常不适应，经常会想\n“要是高中一毕业就工作肯定不会这么痛苦”\n大概率还会因为有点薪水，以及少量增加的睡眠时间而直呼解放\n其实能说明很多问题了 https://t.co/5r4J6Ag3cI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762038312284696576",
+        "conversation_id": "1966909744762740844",
+        "created_at": "2025-09-13T17:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T18:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966915912520659153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966915912520659153",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9132,
+          "like_count": 363,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966909744762740844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 大学“高中化”，就是“监狱化”。\n这个现象值得关注。这不是个别高校党委头目的一时心血来潮，而是配合共匪当局为大监狱增产人矿。\n因为大学是进入社会前的最后一道工序。\n如果大学自由度高了，会降低大学生的奴性程度，非常不利于在他们进入社会后给他们套上各种无形锁链。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25382,
+          "following_count": 992,
+          "like_count": 14282,
+          "listed_count": 40,
+          "media_count": 1383,
+          "tweet_count": 15680
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T08:54:16.000Z",
+        "description": "Maybe I am a transgender woman. At least that's my opinion in my heart. And, I like woman.",
+        "id": "1762038312284696576",
+        "name": "LFTsummer🇺🇦🇮🇱🏳️‍⚧️of🏳️‍🌈",
+        "pinned_tweet_id": "1762047311214235867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762039713475743744/YShzaRaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 105,
+          "like_count": 15253,
+          "listed_count": 4,
+          "media_count": 1,
+          "tweet_count": 2051
+        },
+        "username": "LFTsummer2024",
+        "verified": false
+      }
+    ]
+  }
+}

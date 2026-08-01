@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1881191614414196915",
+    "created_at": "2025-01-20T04:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T05:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881193823914901518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1431878843032379392",
+          "start": 0,
+          "username": "Bashanopl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881193823914901518",
+    "in_reply_to_user_id": "1431878843032379392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881191614414196915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bashanopl 晚上要注意安全啊🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1881191614414196915].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1881191614414196915",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1881191614414196915"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1881191614414196915",
+        "created_at": "2025-01-20T04:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T05:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881193823914901518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1431878843032379392",
+              "start": 0,
+              "username": "Bashanopl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881193823914901518",
+        "in_reply_to_user_id": "1431878843032379392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881191614414196915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bashanopl 晚上要注意安全啊🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25158,
+          "following_count": 936,
+          "like_count": 13801,
+          "listed_count": 37,
+          "media_count": 1259,
+          "tweet_count": 14331
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T07:18:24.000Z",
+        "description": "我也只是万千烧鸡中的一只罢了",
+        "id": "1431878843032379392",
+        "name": "BGEOUL",
+        "pinned_tweet_id": "1577084691332505601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1594144110838878210/KNy-R08E_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 474,
+          "like_count": 6165,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1482
+        },
+        "username": "Bashanopl",
+        "verified": false
+      }
+    ]
+  }
+}

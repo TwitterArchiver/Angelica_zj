@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1817526665385586987",
+    "created_at": "2024-07-29T16:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-29T17:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817964720714064216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693935285577670656",
+          "start": 0,
+          "username": "MinaseAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817964720714064216",
+    "in_reply_to_user_id": "1693935285577670656",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817526665385586987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinaseAyano 《鼠疫》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1817526665385586987",
+        "created_at": "2024-07-29T16:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T17:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817964720714064216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "MinaseAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817964720714064216",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817526665385586987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinaseAyano 《鼠疫》"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693935285577670656",
+        "conversation_id": "1817526665385586987",
+        "created_at": "2024-07-28T11:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T12:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817526665385586987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1817526665385586987",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 69764,
+          "like_count": 362,
+          "quote_count": 6,
+          "reply_count": 666,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "看到这条的人推一本书给我😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24530,
+          "following_count": 901,
+          "like_count": 13511,
+          "listed_count": 35,
+          "tweet_count": 13409
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF 🍥24.3.12 | 炸柜 可能是家长不管党 | 坐标山东济宁 欢迎来贴贴 | 日常碎碎念 不键政 | 对咱最好的姐姐 @Kisaragi_Momoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "Kisaragi_Momoe"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "中华人民共和国 山东省 济宁市",
+        "name": "綾乃Ayano🍥",
+        "pinned_tweet_id": "1817902128712814670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763609097147183104/Awu7gGXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 736,
+          "like_count": 896,
+          "listed_count": 0,
+          "tweet_count": 1166
+        },
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

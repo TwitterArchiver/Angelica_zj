@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1876419743227478144",
+    "created_at": "2025-01-07T15:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T16:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876654831462732167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "991490571456819202",
+          "start": 0,
+          "username": "Gaomixiaodaren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876654831462732167",
+    "in_reply_to_user_id": "991490571456819202",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876419743227478144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gaomixiaodaren 专吃挑对立烂流量的不管男女都死一死哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1876419743227478144",
+        "created_at": "2025-01-07T15:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T16:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876654831462732167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "991490571456819202",
+              "start": 0,
+              "username": "Gaomixiaodaren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876654831462732167",
+        "in_reply_to_user_id": "991490571456819202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876419743227478144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gaomixiaodaren 专吃挑对立烂流量的不管男女都死一死哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1876419615926194176"
+          ]
+        },
+        "author_id": "991490571456819202",
+        "conversation_id": "1876419743227478144",
+        "created_at": "2025-01-07T00:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T01:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876419743227478144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNEsNEpnMf",
+              "end": 42,
+              "expanded_url": "https://x.com/Gaomixiaodaren/status/1876419743227478144/video/1",
+              "media_key": "13_1876419615926194176",
+              "start": 19,
+              "url": "https://t.co/tNEsNEpnMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876419743227478144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 370,
+          "impression_count": 193145,
+          "like_count": 798,
+          "quote_count": 15,
+          "reply_count": 45,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "有一种老师把知识嚼烂了为你嘴里的感觉 https://t.co/tNEsNEpnMf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25103,
+          "following_count": 935,
+          "like_count": 13732,
+          "listed_count": 36,
+          "media_count": 1250,
+          "tweet_count": 14217
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-02T01:32:28.000Z",
+        "description": "脆沙瓤歌舞厅一姐",
+        "id": "991490571456819202",
+        "location": "四川汉王山监狱",
+        "name": "🦥象牙山王云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740920171651604480/6-7RIeWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33492,
+          "following_count": 342,
+          "like_count": 25131,
+          "listed_count": 68,
+          "media_count": 3627,
+          "tweet_count": 11205
+        },
+        "username": "Gaomixiaodaren",
+        "verified": true
+      }
+    ]
+  }
+}

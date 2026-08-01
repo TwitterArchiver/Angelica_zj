@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1933338248933486670",
+    "created_at": "2025-06-14T19:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T20:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933963310665552009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1902691286001545216",
+          "start": 0,
+          "username": "mofashaonvjian"
+        },
+        {
+          "end": 25,
+          "id": "1581478431274983424",
+          "start": 16,
+          "username": "zhoynqi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933963310665552009",
+    "in_reply_to_user_id": "1902691286001545216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933959301003092205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mofashaonvjian @zhoynqi3 把你猎奇的生活上升到全体女性并以此对比觉得男人就从不搞这些“勾心斗角”吗。那我祝你早点住进男寝吧，我到要看看他们是和你权衡利弊的相敬如宾还是只把你当飞机杯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1933338248933486670",
+        "created_at": "2025-06-14T19:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T20:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933963310665552009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1902691286001545216",
+              "start": 0,
+              "username": "mofashaonvjian"
+            },
+            {
+              "end": 25,
+              "id": "1581478431274983424",
+              "start": 16,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933963310665552009",
+        "in_reply_to_user_id": "1902691286001545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933959301003092205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofashaonvjian @zhoynqi3 把你猎奇的生活上升到全体女性并以此对比觉得男人就从不搞这些“勾心斗角”吗。那我祝你早点住进男寝吧，我到要看看他们是和你权衡利弊的相敬如宾还是只把你当飞机杯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902691286001545216",
+        "conversation_id": "1933338248933486670",
+        "created_at": "2025-06-14T18:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T19:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933959301003092205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 22,
+              "id": "1581478431274983424",
+              "start": 13,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933959301003092205",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933837162052776243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj @zhoynqi3 缺爱去地下找你爹妈去，现实被孤立跑网上帮别人来了，站在道德制高点开始对别人发起攻击了，自拍裱起来挂客厅当全家福看的玩意少tm碰瓷我，抖m欠骂是吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25521,
+          "following_count": 997,
+          "like_count": 14468,
+          "listed_count": 36,
+          "media_count": 1366,
+          "tweet_count": 15413
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T11:58:55.000Z",
+        "description": "爱玩点小抽象，本人皮下不这样丨交友dd扩列dd丨06.01丨♑摩羯座丨端手游陪🥣 丨🚪28.88丨不约丨🔞丨爱写点小黄文丨会算卦很准的那种丨不吃香菜，完全不吃！",
+        "id": "1902691286001545216",
+        "location": "小妈的床上",
+        "name": "魔法少女淺崽 不吃香菜版",
+        "pinned_tweet_id": "1919573501221982452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902699647111680000/KH-M3g52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 72,
+          "like_count": 988,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 119
+        },
+        "username": "mofashaonvjian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "yo89yo64",
+        "pinned_tweet_id": "1878448723107479961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672979337656631298/mQbOFn-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 187,
+          "like_count": 12316,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 2392
+        },
+        "username": "zhoynqi3",
+        "verified": false
+      }
+    ]
+  }
+}

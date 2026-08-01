@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1876785525945770218",
+    "created_at": "2025-01-08T00:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T01:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1876785525945770218"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1876785525945770218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友反复强调个人的失败都是物竞天择来着，时代必然需要牺牲品\n我表示悲观，他的反驳是通过“不必为自己的人生设限，不必因为社会评价影响自己的价值观”这句话，来重新定义成功与失败\n，好吧，可同学我觉得你好像资本家\n被时代牺牲都要毫无怨言才算是一个好公民吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1876785525945770218",
+        "created_at": "2025-01-08T00:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T01:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876785525945770218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876785525945770218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友反复强调个人的失败都是物竞天择来着，时代必然需要牺牲品\n我表示悲观，他的反驳是通过“不必为自己的人生设限，不必因为社会评价影响自己的价值观”这句话，来重新定义成功与失败\n，好吧，可同学我觉得你好像资本家\n被时代牺牲都要毫无怨言才算是一个好公民吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25108,
+          "following_count": 934,
+          "like_count": 13733,
+          "listed_count": 36,
+          "media_count": 1250,
+          "tweet_count": 14218
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

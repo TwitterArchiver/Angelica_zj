@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928521502829457409"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1928521512769782047",
+    "created_at": "2025-05-30T18:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T19:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928521512769782047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eWTblPwCaU",
+          "end": 43,
+          "expanded_url": "https://x.com/Angelica_zj/status/1928521512769782047/photo/1",
+          "media_key": "3_1928521502829457409",
+          "start": 20,
+          "url": "https://t.co/eWTblPwCaU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928521512769782047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "男朋友真的对我很好但我还是总惹他生气唉 https://t.co/eWTblPwCaU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1928521502829457409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsN8Fs3aMAE1LYc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928521502829457409"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1928521512769782047",
+        "created_at": "2025-05-30T18:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T19:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928521512769782047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eWTblPwCaU",
+              "end": 43,
+              "expanded_url": "https://x.com/Angelica_zj/status/1928521512769782047/photo/1",
+              "media_key": "3_1928521502829457409",
+              "start": 20,
+              "url": "https://t.co/eWTblPwCaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928521512769782047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男朋友真的对我很好但我还是总惹他生气唉 https://t.co/eWTblPwCaU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25552,
+          "following_count": 989,
+          "like_count": 14458,
+          "listed_count": 37,
+          "media_count": 1355,
+          "tweet_count": 15313
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

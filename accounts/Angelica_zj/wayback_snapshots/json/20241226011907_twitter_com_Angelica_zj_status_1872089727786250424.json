@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1872082841208836591",
+    "created_at": "2024-12-26T01:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T02:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872089727786250424"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1872089727786250424",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872082841208836591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很能共情推主的崩溃，都是被剥削的牛马。不过还是不应该混淆概念吧，因为低素质精神男人而倒戈吗…男领导的温和也是建立在社会权力稳固的基础之上，你对掌权人来说就是众多韭菜里的一茬，温和态度换来韭菜热心卖命何乐而不为。遇到糟糕的环境趁早离开，打工人没必要因为性别包容所有恶意，会很痛苦的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1872082841208836591",
+        "created_at": "2024-12-26T01:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T02:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872089727786250424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872089727786250424",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872082841208836591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很能共情推主的崩溃，都是被剥削的牛马。不过还是不应该混淆概念吧，因为低素质精神男人而倒戈吗…男领导的温和也是建立在社会权力稳固的基础之上，你对掌权人来说就是众多韭菜里的一茬，温和态度换来韭菜热心卖命何乐而不为。遇到糟糕的环境趁早离开，打工人没必要因为性别包容所有恶意，会很痛苦的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1872082841208836591",
+        "created_at": "2024-12-26T00:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T01:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872082841208836591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/faymiracle7/st…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/faymiracle7/status/1871927379515580574",
+              "start": 141,
+              "url": "https://t.co/ik9KyuAOmK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872082841208836591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871927379515580574",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉网络上理想的全女办公室是指那种，由高素质女性主义者集合而成的团队。\n事实上社会规训下女性群体里的厌女现象不在少数，很多女人就是男权的附庸，而且合作素质问题也不能靠性别来粗暴区分，现在就普及全女环境属实操之过急\n不过女性主义的斗争还任重道远，在这种环境下扭头就批判女权也太片面了 https://t.co/ik9KyuAOmK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25083,
+          "following_count": 930,
+          "like_count": 13718,
+          "listed_count": 36,
+          "media_count": 1245,
+          "tweet_count": 14162
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

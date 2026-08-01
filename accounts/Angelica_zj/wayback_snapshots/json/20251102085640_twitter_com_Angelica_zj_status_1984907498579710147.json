@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984869045909516288",
+        "3_1984869049134956544"
+      ],
+      "media_source_tweet_id": [
+        "1984869051974500379",
+        "1984869051974500379"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1984907498579710147",
+    "created_at": "2025-11-02T08:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T09:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984907498579710147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1561588899499196417",
+          "start": 3,
+          "username": "Tiandaidaidai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/os5u1U5dXV",
+          "end": 100,
+          "expanded_url": "https://x.com/Tiandaidaidai/status/1984869051974500379/photo/1",
+          "media_key": "3_1984869045909516288",
+          "start": 77,
+          "url": "https://t.co/os5u1U5dXV"
+        },
+        {
+          "display_url": "pic.x.com/os5u1U5dXV",
+          "end": 100,
+          "expanded_url": "https://x.com/Tiandaidaidai/status/1984869051974500379/photo/1",
+          "media_key": "3_1984869049134956544",
+          "start": 77,
+          "url": "https://t.co/os5u1U5dXV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984907498579710147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984869051974500379",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tiandaidaidai: 麻烦爱发擦边奶子照的把我屏蔽了吧，我又不是你父母朋友亲戚，折磨我干嘛？看到都觉得恶心，自己不爱自己还指望别人爱你吗 https://t.co/os5u1U5dXV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 995,
+        "media_key": "3_1984869045909516288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ur4Yca8AAUA2b.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1922,
+        "media_key": "3_1984869049134956544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ur4kdbQAApLcb.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984869045909516288",
+            "3_1984869049134956544"
+          ],
+          "media_source_tweet_id": [
+            "1984869051974500379",
+            "1984869051974500379"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1984907498579710147",
+        "created_at": "2025-11-02T08:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T09:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984907498579710147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1561588899499196417",
+              "start": 3,
+              "username": "Tiandaidaidai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/os5u1U5dXV",
+              "end": 100,
+              "expanded_url": "https://x.com/Tiandaidaidai/status/1984869051974500379/photo/1",
+              "media_key": "3_1984869045909516288",
+              "start": 77,
+              "url": "https://t.co/os5u1U5dXV"
+            },
+            {
+              "display_url": "pic.x.com/os5u1U5dXV",
+              "end": 100,
+              "expanded_url": "https://x.com/Tiandaidaidai/status/1984869051974500379/photo/1",
+              "media_key": "3_1984869049134956544",
+              "start": 77,
+              "url": "https://t.co/os5u1U5dXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984907498579710147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984869051974500379",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tiandaidaidai: 麻烦爱发擦边奶子照的把我屏蔽了吧，我又不是你父母朋友亲戚，折磨我干嘛？看到都觉得恶心，自己不爱自己还指望别人爱你吗 https://t.co/os5u1U5dXV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984869045909516288",
+            "3_1984869049134956544"
+          ]
+        },
+        "author_id": "1561588899499196417",
+        "conversation_id": "1984869051974500379",
+        "created_at": "2025-11-02T06:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T07:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984869051974500379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/os5u1U5dXV",
+              "end": 81,
+              "expanded_url": "https://x.com/Tiandaidaidai/status/1984869051974500379/photo/1",
+              "media_key": "3_1984869045909516288",
+              "start": 58,
+              "url": "https://t.co/os5u1U5dXV"
+            },
+            {
+              "display_url": "pic.x.com/os5u1U5dXV",
+              "end": 81,
+              "expanded_url": "https://x.com/Tiandaidaidai/status/1984869051974500379/photo/1",
+              "media_key": "3_1984869049134956544",
+              "start": 58,
+              "url": "https://t.co/os5u1U5dXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984869051974500379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1398,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "麻烦爱发擦边奶子照的把我屏蔽了吧，我又不是你父母朋友亲戚，折磨我干嘛？看到都觉得恶心，自己不爱自己还指望别人爱你吗 https://t.co/os5u1U5dXV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25319,
+          "following_count": 991,
+          "like_count": 14232,
+          "listed_count": 42,
+          "media_count": 1415,
+          "tweet_count": 15899
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:39:42.000Z",
+        "description": "惨圈割手欧迪女 丨 LGBT+友好🏳️‍🌈 丨 狗@GHYYAYA 丨 提问箱https://t.co/nWrczAqYzo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 25,
+                "username": "GHYYAYA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tiandai233",
+                "end": 62,
+                "expanded_url": "https://ngl.link/tiandai233",
+                "start": 39,
+                "url": "https://t.co/nWrczAqYzo"
+              }
+            ]
+          }
+        },
+        "id": "1561588899499196417",
+        "location": "提瓦特大陆",
+        "name": "⊹天填甜田添恬黛⊹",
+        "pinned_tweet_id": "1960151865762701475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984703823399866368/ovFEL4uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 1631,
+          "like_count": 63084,
+          "listed_count": 5,
+          "media_count": 557,
+          "tweet_count": 9082
+        },
+        "username": "Tiandaidaidai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1997179676650013126",
+    "created_at": "2025-12-06T17:26:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T18:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997356898190807166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1844402813159505920",
+          "start": 0,
+          "username": "Un_joli_fromage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997356898190807166",
+    "in_reply_to_user_id": "1844402813159505920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997342031430197527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Un_joli_fromage 还真不是串，这个视频评论区全是讲这种话的中年人，给我看力竭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1997179676650013126",
+        "created_at": "2025-12-06T17:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T18:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997356898190807166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1844402813159505920",
+              "start": 0,
+              "username": "Un_joli_fromage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997356898190807166",
+        "in_reply_to_user_id": "1844402813159505920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997342031430197527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Un_joli_fromage 还真不是串，这个视频评论区全是讲这种话的中年人，给我看力竭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844402813159505920",
+        "conversation_id": "1997179676650013126",
+        "created_at": "2025-12-06T16:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T17:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997342031430197527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997342031430197527",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997179676650013126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 他到底是真的还是反串，爸妈都不愿意托举你想让你早点找男人嫁了还指望一个和你没血缘关系的托举你？\n能不能睁开眼看世界，自己把眼睛遮起来就以为许愿能成真了，我建议少看点小说和短剧，活在现实里别活在自己幻想里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25275,
+          "following_count": 998,
+          "like_count": 14342,
+          "listed_count": 40,
+          "media_count": 1453,
+          "tweet_count": 16118
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T15:41:20.000Z",
+        "description": "我是我，just me",
+        "id": "1844402813159505920",
+        "name": "奶酪🧀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946256301782138880/IWLUoWmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 86,
+          "like_count": 2398,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 506
+        },
+        "username": "Un_joli_fromage",
+        "verified": false
+      }
+    ]
+  }
+}

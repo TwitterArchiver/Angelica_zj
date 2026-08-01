@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1983781620885909652",
+    "created_at": "2025-10-30T16:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T17:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983929686989111395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1902902431190499328",
+          "start": 0,
+          "username": "Blujack283685"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983929686989111395",
+    "in_reply_to_user_id": "1902902431190499328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983781620885909652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blujack283685 房子。一点都不想给房东打工了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1392,
+        "media_key": "3_1983781561930805248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4fO0e7a8AADYvj.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1983781620885909652",
+        "created_at": "2025-10-30T16:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T17:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983929686989111395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1902902431190499328",
+              "start": 0,
+              "username": "Blujack283685"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983929686989111395",
+        "in_reply_to_user_id": "1902902431190499328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983781620885909652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blujack283685 房子。一点都不想给房东打工了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983781561930805248"
+          ]
+        },
+        "author_id": "1902902431190499328",
+        "conversation_id": "1983781620885909652",
+        "created_at": "2025-10-30T06:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T07:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983781620885909652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/djNk4nJFii",
+              "end": 44,
+              "expanded_url": "https://x.com/Blujack283685/status/1983781620885909652/photo/1",
+              "media_key": "3_1983781561930805248",
+              "start": 21,
+              "url": "https://t.co/djNk4nJFii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983781620885909652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 105396,
+          "like_count": 135,
+          "quote_count": 9,
+          "reply_count": 334,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "如果不考虑钱，你现在最想买的东西是什么？ https://t.co/djNk4nJFii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25349,
+          "following_count": 993,
+          "like_count": 14221,
+          "listed_count": 43,
+          "media_count": 1415,
+          "tweet_count": 15882
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T01:58:19.000Z",
+        "description": "🇨🇳正义必胜\n🇨🇳和平必胜\n🇨🇳人民必胜\n小号：@dameizhongguo3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 24,
+                "username": "dameizhongguo3"
+              }
+            ]
+          }
+        },
+        "id": "1902902431190499328",
+        "name": "千百度❤",
+        "pinned_tweet_id": "1980212840637313416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902902804433473539/w9rg7B4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10854,
+          "following_count": 4964,
+          "like_count": 25200,
+          "listed_count": 21,
+          "media_count": 414,
+          "tweet_count": 17230
+        },
+        "username": "Blujack283685",
+        "verified": false
+      }
+    ]
+  }
+}

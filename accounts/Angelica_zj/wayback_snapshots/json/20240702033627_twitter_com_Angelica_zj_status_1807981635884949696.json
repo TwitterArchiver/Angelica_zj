@@ -1,0 +1,143 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1807980288234213781",
+    "created_at": "2024-07-02T03:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T04:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807981635884949696"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1807981635884949696",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807980288234213781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我擦叠个甲，没想挑对立来着，只是觉得封建残余思想害人，也不是优越感，说可悲是因为我觉得我成长中“好嫁”性格以及形象的形成也有其中因素，但没什么劲做出人格独立上的改变所以感觉自己可悲啊🙂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1807980288234213781",
+        "created_at": "2024-07-02T03:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T04:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807981635884949696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807981635884949696",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807980288234213781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我擦叠个甲，没想挑对立来着，只是觉得封建残余思想害人，也不是优越感，说可悲是因为我觉得我成长中“好嫁”性格以及形象的形成也有其中因素，但没什么劲做出人格独立上的改变所以感觉自己可悲啊🙂"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1807980272958558212"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1807980288234213781",
+        "created_at": "2024-07-02T03:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T04:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807980288234213781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/PlTxqQ0ryp",
+              "end": 90,
+              "expanded_url": "https://twitter.com/Angelica_zj/status/1807980288234213781/photo/1",
+              "media_key": "3_1807980272958558212",
+              "start": 67,
+              "url": "https://t.co/PlTxqQ0ryp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807980288234213781",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我感觉所谓女孩“温柔排名”靠前的都是重男轻女思想比较严重的地区…\n小女孩在原生家庭的影响下一辈子的隐忍就换来个温柔的名号，好可悲啊 https://t.co/PlTxqQ0ryp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们  / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24649,
+          "following_count": 905,
+          "like_count": 13509,
+          "listed_count": 36,
+          "tweet_count": 13329
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

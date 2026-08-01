@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2041494534237180316",
+    "created_at": "2026-04-09T10:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T11:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042191766045200557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2019455267403128832",
+          "start": 0,
+          "username": "sy0073"
+        },
+        {
+          "end": 16,
+          "id": "1596427841943793664",
+          "start": 8,
+          "username": "KillYD_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042191766045200557",
+    "in_reply_to_user_id": "2019455267403128832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041802559153959120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sy0073 @KillYD_ 别是把园区猪仔当真人了😱你的首要任务是捂好钱包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2041494534237180316",
+        "created_at": "2026-04-09T10:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042191766045200557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2019455267403128832",
+              "start": 0,
+              "username": "sy0073"
+            },
+            {
+              "end": 16,
+              "id": "1596427841943793664",
+              "start": 8,
+              "username": "KillYD_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042191766045200557",
+        "in_reply_to_user_id": "2019455267403128832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041802559153959120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sy0073 @KillYD_ 别是把园区猪仔当真人了😱你的首要任务是捂好钱包"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019455267403128832",
+        "conversation_id": "2041494534237180316",
+        "created_at": "2026-04-08T08:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041802559153959120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 21,
+              "id": "1596427841943793664",
+              "start": 13,
+              "username": "KillYD_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041802559153959120",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041586213069455643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj @KillYD_ 评论区好多卖的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25058,
+          "following_count": 1048,
+          "like_count": 14707,
+          "listed_count": 40,
+          "media_count": 1568,
+          "tweet_count": 16953
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T16:57:20.000Z",
+        "description": "基督教民族主义 左翼习近平主义 温和的穆斯林 爱国的自由主义者 中核派 喜欢看91",
+        "id": "2019455267403128832",
+        "location": "中国",
+        "name": "甘棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041377920145592320/tGKK_4SZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 67,
+          "like_count": 1875,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 80
+        },
+        "username": "sy0073",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T08:57:23.000Z",
+        "description": "祝你愉快",
+        "id": "1596427841943793664",
+        "location": "直到世界把我们分开",
+        "name": "GZ_",
+        "pinned_tweet_id": "2026868928602046572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015678671093370880/gWA3z00l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 221,
+          "like_count": 4688,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1797
+        },
+        "username": "KillYD_",
+        "verified": false
+      }
+    ]
+  }
+}

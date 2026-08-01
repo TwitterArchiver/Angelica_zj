@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1914384475418714555",
+    "created_at": "2025-04-23T17:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T18:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915094884522070104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1583755766166884352",
+          "start": 0,
+          "username": "MuLi_is_a_idiot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915094884522070104",
+    "in_reply_to_user_id": "1583755766166884352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914576799549546834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuLi_is_a_idiot 好耶🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1914384475418714555",
+        "created_at": "2025-04-23T17:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T18:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915094884522070104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1583755766166884352",
+              "start": 0,
+              "username": "MuLi_is_a_idiot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915094884522070104",
+        "in_reply_to_user_id": "1583755766166884352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914576799549546834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuLi_is_a_idiot 好耶🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583755766166884352",
+        "conversation_id": "1914384475418714555",
+        "created_at": "2025-04-22T07:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T08:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914576799549546834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914576799549546834",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914384475418714555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 萌萌的🤲💓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25384,
+          "following_count": 975,
+          "like_count": 14259,
+          "listed_count": 39,
+          "media_count": 1312,
+          "tweet_count": 15010
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T09:43:04.000Z",
+        "description": "07/双相 平常就发一些画，不太会说话，希望和大家交朋友！打了敏感内容和暴力的就是血图哩！🥺💕💕",
+        "id": "1583755766166884352",
+        "location": "充满美梦和希望的国度",
+        "name": "沐璃",
+        "pinned_tweet_id": "1638794534200152066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625359692808572932/vR74-CdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 1976,
+          "like_count": 4892,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 2632
+        },
+        "username": "MuLi_is_a_idiot",
+        "verified": false
+      }
+    ]
+  }
+}

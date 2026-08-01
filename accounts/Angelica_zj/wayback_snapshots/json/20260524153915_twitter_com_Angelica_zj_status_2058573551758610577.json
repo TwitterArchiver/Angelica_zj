@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2058488429743354330",
+    "created_at": "2026-05-24T15:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T16:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058573551758610577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1986136179721240576",
+          "start": 0,
+          "username": "QwQIO3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058573551758610577",
+    "in_reply_to_user_id": "1986136179721240576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058488429743354330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQIO3O 要素过多像串的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2058488403692552193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJE4S_xbAAE36wJ.jpg",
+        "width": 708
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2058488403700903936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJE4S_zacAAwh1z.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2058488429743354330",
+        "created_at": "2026-05-24T15:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058573551758610577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1986136179721240576",
+              "start": 0,
+              "username": "QwQIO3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058573551758610577",
+        "in_reply_to_user_id": "1986136179721240576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058488429743354330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQIO3O 要素过多像串的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058488403692552193",
+            "3_2058488403700903936"
+          ]
+        },
+        "author_id": "1986136179721240576",
+        "conversation_id": "2058488429743354330",
+        "created_at": "2026-05-24T10:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058488429743354330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o3qtsx9OWq",
+              "end": 83,
+              "expanded_url": "https://x.com/QwQIO3O/status/2058488429743354330/photo/1",
+              "media_key": "3_2058488403692552193",
+              "start": 60,
+              "url": "https://t.co/o3qtsx9OWq"
+            },
+            {
+              "display_url": "pic.x.com/o3qtsx9OWq",
+              "end": 83,
+              "expanded_url": "https://x.com/QwQIO3O/status/2058488429743354330/photo/1",
+              "media_key": "3_2058488403700903936",
+              "start": 60,
+              "url": "https://t.co/o3qtsx9OWq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058488429743354330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1814,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这头傻逼东西吃猫肉狗肉都没被人打死，还管上英雄英雌了😂\n一看这主页搞这种下贱报复行为肯定是死全家了呀！快快回家烧纸吧！ https://t.co/o3qtsx9OWq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25114,
+          "following_count": 1045,
+          "like_count": 14759,
+          "listed_count": 41,
+          "media_count": 1590,
+          "tweet_count": 17180
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T18:20:18.000Z",
+        "description": "说好话，做好事",
+        "id": "1986136179721240576",
+        "location": "南京",
+        "name": "盖浇饭",
+        "pinned_tweet_id": "2048611512672256383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034605424658481152/uKDUuhoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 254,
+          "like_count": 9626,
+          "listed_count": 0,
+          "media_count": 477,
+          "tweet_count": 2451
+        },
+        "username": "QwQIO3O",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1799633496480075776"
+      ],
+      "media_source_tweet_id": [
+        "1799633507997925523"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1800218691289993691",
+    "created_at": "2024-06-10T17:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T18:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800218691289993691"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "noesmiookkkkei",
+          "probability": 0.5671,
+          "start": 13,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1526351944570347522",
+          "start": 3,
+          "username": "nokkzsz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/U7oJby471k",
+          "end": 51,
+          "expanded_url": "https://twitter.com/nokkzsz/status/1799633507997925523/photo/1",
+          "media_key": "3_1799633496480075776",
+          "start": 28,
+          "url": "https://t.co/U7oJby471k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800218691289993691",
+    "lang": "pt",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 903
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799633507997925523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nokkzsz: noesmiookkkkei https://t.co/U7oJby471k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 634,
+        "media_key": "3_1799633496480075776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPmVIVOW0AAjKea.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799633496480075776"
+          ],
+          "media_source_tweet_id": [
+            "1799633507997925523"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1800218691289993691",
+        "created_at": "2024-06-10T17:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T18:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800218691289993691"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "noesmiookkkkei",
+              "probability": 0.5671,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1526351944570347522",
+              "start": 3,
+              "username": "nokkzsz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/U7oJby471k",
+              "end": 51,
+              "expanded_url": "https://twitter.com/nokkzsz/status/1799633507997925523/photo/1",
+              "media_key": "3_1799633496480075776",
+              "start": 28,
+              "url": "https://t.co/U7oJby471k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800218691289993691",
+        "lang": "pt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 903
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799633507997925523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nokkzsz: noesmiookkkkei https://t.co/U7oJby471k"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799633496480075776"
+          ]
+        },
+        "author_id": "1526351944570347522",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1799633507997925523",
+        "created_at": "2024-06-09T02:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T03:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799633507997925523"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "noesmiookkkkei",
+              "probability": 0.6428,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/U7oJby471k",
+              "end": 38,
+              "expanded_url": "https://twitter.com/nokkzsz/status/1799633507997925523/photo/1",
+              "media_key": "3_1799633496480075776",
+              "start": 15,
+              "url": "https://t.co/U7oJby471k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799633507997925523",
+        "lang": "pt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 436,
+          "impression_count": 45039,
+          "like_count": 6143,
+          "quote_count": 35,
+          "reply_count": 65,
+          "retweet_count": 903
+        },
+        "reply_settings": "everyone",
+        "text": "noesmiookkkkei https://t.co/U7oJby471k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们  / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24601,
+          "following_count": 895,
+          "like_count": 13692,
+          "listed_count": 36,
+          "tweet_count": 13234
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-17T00:00:52.000Z",
+        "description": "gorda transtornada",
+        "id": "1526351944570347522",
+        "location": "shtwt ! edtwt ! subtwt",
+        "name": "zaza",
+        "pinned_tweet_id": "1776706885237784595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776685502143328256/ZlvZMitt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3038,
+          "following_count": 1891,
+          "like_count": 5569,
+          "listed_count": 4,
+          "tweet_count": 2982
+        },
+        "username": "nokkzsz",
+        "verified": false
+      }
+    ]
+  }
+}

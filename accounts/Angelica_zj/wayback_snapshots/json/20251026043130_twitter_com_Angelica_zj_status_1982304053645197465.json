@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1982125805980508605",
+    "created_at": "2025-10-26T04:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T05:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982304053645197465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1290653989260931072",
+          "start": 0,
+          "username": "Throniexxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982304053645197465",
+    "in_reply_to_user_id": "1290653989260931072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982125805980508605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Throniexxx 笑死我了谁这么癫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1982125805980508605",
+        "created_at": "2025-10-26T04:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T05:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982304053645197465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1290653989260931072",
+              "start": 0,
+              "username": "Throniexxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982304053645197465",
+        "in_reply_to_user_id": "1290653989260931072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982125805980508605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Throniexxx 笑死我了谁这么癫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1290653989260931072",
+        "conversation_id": "1982125805980508605",
+        "created_at": "2025-10-25T16:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T17:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982125805980508605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982125805980508605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1159,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男喘对听众喊什么老婆们。疯了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25334,
+          "following_count": 990,
+          "like_count": 14206,
+          "listed_count": 43,
+          "media_count": 1410,
+          "tweet_count": 15851
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-04T14:21:14.000Z",
+        "description": "我钱呢",
+        "id": "1290653989260931072",
+        "location": "🗑废纸篓",
+        "name": "CallMeThroneee",
+        "pinned_tweet_id": "1976839371006607509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633194537918465/QbdUlQmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 110,
+          "like_count": 21523,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 3258
+        },
+        "username": "Throniexxx",
+        "verified": false
+      }
+    ]
+  }
+}

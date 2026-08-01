@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1929102998564962758",
+    "created_at": "2025-06-01T11:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T12:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929140103454339239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1593108104497201156",
+          "start": 0,
+          "username": "Daledoyle88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929140103454339239",
+    "in_reply_to_user_id": "1593108104497201156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929107138405708221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Daledoyle88 屯不了一点，到手就拼了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 886,
+        "media_key": "16_1929107096739737600",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GsWQrwLbcAAIdLs.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GsWQrwLbcAAIdLs.mp4"
+          }
+        ],
+        "width": 1182
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1929102998564962758",
+        "created_at": "2025-06-01T11:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T12:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929140103454339239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1593108104497201156",
+              "start": 0,
+              "username": "Daledoyle88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929140103454339239",
+        "in_reply_to_user_id": "1593108104497201156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929107138405708221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Daledoyle88 屯不了一点，到手就拼了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1929107096739737600"
+          ]
+        },
+        "author_id": "1593108104497201156",
+        "conversation_id": "1929102998564962758",
+        "created_at": "2025-06-01T09:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T10:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929107138405708221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OCMYHVFN49",
+              "end": 45,
+              "expanded_url": "https://x.com/Daledoyle88/status/1929107138405708221/photo/1",
+              "media_key": "16_1929107096739737600",
+              "start": 22,
+              "url": "https://t.co/OCMYHVFN49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929107138405708221",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929102998564962758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 还有三盒没拼家里 https://t.co/OCMYHVFN49"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25534,
+          "following_count": 990,
+          "like_count": 14466,
+          "listed_count": 37,
+          "media_count": 1358,
+          "tweet_count": 15327
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T05:05:54.000Z",
+        "description": "成都 体育老师 调酒 旅游 运动 吉他 （钢铁直男）",
+        "id": "1593108104497201156",
+        "name": "樂",
+        "pinned_tweet_id": "1594173240062410752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593113818045247488/nf1vX0ak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 162,
+          "like_count": 277,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 565
+        },
+        "username": "Daledoyle88",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1883767641942499519",
+    "created_at": "2025-01-27T06:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T07:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883767641942499519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/udongein_touho…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/udongein_touhou/status/1883509601246802275",
+          "start": 18,
+          "url": "https://t.co/Cxnlajoiup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883767641942499519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883509601246802275",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只有把房顶掀了大家才会允许你们开窗 https://t.co/Cxnlajoiup"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1883767641942499519",
+        "created_at": "2025-01-27T06:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T07:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883767641942499519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/udongein_touho…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/udongein_touhou/status/1883509601246802275",
+              "start": 18,
+              "url": "https://t.co/Cxnlajoiup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883767641942499519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883509601246802275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只有把房顶掀了大家才会允许你们开窗 https://t.co/Cxnlajoiup"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883509597303877632"
+          ]
+        },
+        "author_id": "1690386306139111424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1883509601246802275",
+        "created_at": "2025-01-26T13:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T14:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883509601246802275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4kPsgovols",
+              "end": 29,
+              "expanded_url": "https://x.com/Udongein_Touhou/status/1883509601246802275/photo/1",
+              "media_key": "3_1883509597303877632",
+              "start": 6,
+              "url": "https://t.co/4kPsgovols"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883509601246802275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 139576,
+          "like_count": 2653,
+          "quote_count": 49,
+          "reply_count": 80,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "好图，点了 https://t.co/4kPsgovols"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25156,
+          "following_count": 935,
+          "like_count": 13830,
+          "listed_count": 0,
+          "media_count": 1264,
+          "tweet_count": 14379
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T15:34:46.000Z",
+        "description": "CN/EN/JP（机翻）\n“起于东京，驶向远方”\nロリ、男の娘、百合大好きです\n（DX 15067）\n16｜♂｜🇨🇳P.R.C｜左派社会主义｜双｜📸｜🚇丨东方｜Ba｜音游｜Ut｜好朋友：@LinranOVERDOSE/@YukimiSinsyou/@SpaceSystemW｜对象：@ZXRPerry",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 93,
+                "username": "LinranOVERDOSE"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "YukimiSinsyou"
+              },
+              {
+                "end": 137,
+                "start": 124,
+                "username": "SpaceSystemW"
+              },
+              {
+                "end": 150,
+                "start": 141,
+                "username": "ZXRPerry"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Litosoda",
+                "end": 23,
+                "expanded_url": "http://t.me/Litosoda",
+                "start": 0,
+                "url": "https://t.co/Vw40i43EFM"
+              }
+            ]
+          }
+        },
+        "id": "1690386306139111424",
+        "location": "精神故乡：長野 長野市（J.P.N）",
+        "name": "JR中央線—JR Central Line",
+        "pinned_tweet_id": "1871221382299938986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882752771213967360/0FhrYgMK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 763,
+          "like_count": 5430,
+          "listed_count": 2,
+          "media_count": 1361,
+          "tweet_count": 6487
+        },
+        "url": "https://t.co/Vw40i43EFM",
+        "username": "Udongein_Touhou",
+        "verified": false
+      }
+    ]
+  }
+}

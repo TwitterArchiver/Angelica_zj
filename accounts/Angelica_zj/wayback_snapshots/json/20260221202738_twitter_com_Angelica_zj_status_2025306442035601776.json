@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1623274239272062976",
+    "created_at": "2026-02-21T20:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T21:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025306442035601776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1524258530093580289",
+          "start": 0,
+          "username": "Capoobabe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025306442035601776",
+    "in_reply_to_user_id": "1524258530093580289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1678331625254559745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Capoobabe 老大我二刷想起来了（虽然这么久你不一定用得上）\n这张cg是瑞人线be线的后续剧情🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1623274239272062976",
+        "created_at": "2026-02-21T20:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T21:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025306442035601776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1524258530093580289",
+              "start": 0,
+              "username": "Capoobabe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025306442035601776",
+        "in_reply_to_user_id": "1524258530093580289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1678331625254559745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Capoobabe 老大我二刷想起来了（虽然这么久你不一定用得上）\n这张cg是瑞人线be线的后续剧情🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524258530093580289",
+        "conversation_id": "1623274239272062976",
+        "created_at": "2023-07-10T09:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2023-07-10T10:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1678331625254559745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1678331625254559745",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1623274239272062976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 这是番外吗？？哪条线啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25288,
+          "following_count": 1039,
+          "like_count": 14637,
+          "listed_count": 40,
+          "media_count": 1526,
+          "tweet_count": 16691
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-11T05:22:15.000Z",
+        "description": "无知是一种暴力。",
+        "id": "1524258530093580289",
+        "name": "仿生猫猫虫",
+        "pinned_tweet_id": "1729127571000885384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985376640327962624/otT_aGYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 178,
+          "like_count": 477,
+          "listed_count": 4,
+          "media_count": 40,
+          "tweet_count": 969
+        },
+        "username": "Capoobabe",
+        "verified": false
+      }
+    ]
+  }
+}

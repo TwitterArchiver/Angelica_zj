@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035062495334043648"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "2035032966112715054",
+    "created_at": "2026-03-20T18:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T19:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035062507975712998"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "bingo",
+          "probability": 0.4649,
+          "start": 12,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1984971479210229760",
+          "start": 0,
+          "username": "Kallen0720"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H1GK39yeN5",
+          "end": 45,
+          "expanded_url": "https://x.com/Angelica_zj/status/2035062507975712998/photo/1",
+          "media_key": "3_2035062495334043648",
+          "start": 22,
+          "url": "https://t.co/H1GK39yeN5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035062507975712998",
+    "in_reply_to_user_id": "1984971479210229760",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035061399911632937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kallen0720 bingo！🥰🥰🥰 https://t.co/H1GK39yeN5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035062495334043648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD3-jqobEAA-MIj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035062495334043648"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "2035032966112715054",
+        "created_at": "2026-03-20T18:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T19:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035062507975712998"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "bingo",
+              "probability": 0.4649,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1984971479210229760",
+              "start": 0,
+              "username": "Kallen0720"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H1GK39yeN5",
+              "end": 45,
+              "expanded_url": "https://x.com/Angelica_zj/status/2035062507975712998/photo/1",
+              "media_key": "3_2035062495334043648",
+              "start": 22,
+              "url": "https://t.co/H1GK39yeN5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035062507975712998",
+        "in_reply_to_user_id": "1984971479210229760",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035061399911632937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kallen0720 bingo！🥰🥰🥰 https://t.co/H1GK39yeN5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984971479210229760",
+        "conversation_id": "2035032966112715054",
+        "created_at": "2026-03-20T18:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T19:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035061399911632937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035061399911632937",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035032966112715054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 穿着熊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25220,
+          "following_count": 1048,
+          "like_count": 14658,
+          "listed_count": 40,
+          "media_count": 1548,
+          "tweet_count": 16819
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T13:11:14.000Z",
+        "description": "じっぱひとからげの未来.com",
+        "id": "1984971479210229760",
+        "location": "Earth",
+        "name": "ァмē寔初喑鮇麳Оㄩ 哪吒仙饮推特总代理",
+        "pinned_tweet_id": "2033696832199557437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031567392875139072/ER4iba2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 455,
+          "like_count": 33689,
+          "listed_count": 0,
+          "media_count": 400,
+          "tweet_count": 10665
+        },
+        "username": "Kallen0720",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2014752302297497600",
+        "3_2014752302318383104"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "2014752372354843114",
+    "created_at": "2026-01-23T17:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T18:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014752372354843114"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JTokRqDd8N",
+          "end": 93,
+          "expanded_url": "https://x.com/Angelica_zj/status/2014752372354843114/video/1",
+          "media_key": "13_2014752302297497600",
+          "start": 70,
+          "url": "https://t.co/JTokRqDd8N"
+        },
+        {
+          "display_url": "pic.x.com/JTokRqDd8N",
+          "end": 93,
+          "expanded_url": "https://x.com/Angelica_zj/status/2014752372354843114/video/1",
+          "media_key": "3_2014752302318383104",
+          "start": 70,
+          "url": "https://t.co/JTokRqDd8N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014752372354843114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "它平时很少叫的，不敢想有多疼。我不忍心帮医生按住它，有种帮别人欺负它的感觉\n它性格真的很好，不打麻药缝针都不会挠人，只是可怜的喵喵叫着挣扎 https://t.co/JTokRqDd8N"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6133,
+        "height": 1280,
+        "media_key": "13_2014752302297497600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014752302297497600/img/X1gfzCUnBi3ahaIM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014752302297497600/vid/avc1/320x568/GlRlLKW4UxCZyxgU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014752302297497600/vid/avc1/480x852/50b3vk_TMOjKdZhW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014752302297497600/vid/avc1/720x1280/i-Mae7jAGgOtRYRJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014752302297497600/pl/iRmwfyOsuIAJSVkv.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2014752302318383104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XWi1oWcAAlfFj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014752302297497600",
+            "3_2014752302318383104"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "2014752372354843114",
+        "created_at": "2026-01-23T17:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T18:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014752372354843114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JTokRqDd8N",
+              "end": 93,
+              "expanded_url": "https://x.com/Angelica_zj/status/2014752372354843114/video/1",
+              "media_key": "13_2014752302297497600",
+              "start": 70,
+              "url": "https://t.co/JTokRqDd8N"
+            },
+            {
+              "display_url": "pic.x.com/JTokRqDd8N",
+              "end": 93,
+              "expanded_url": "https://x.com/Angelica_zj/status/2014752372354843114/video/1",
+              "media_key": "3_2014752302318383104",
+              "start": 70,
+              "url": "https://t.co/JTokRqDd8N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014752372354843114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "它平时很少叫的，不敢想有多疼。我不忍心帮医生按住它，有种帮别人欺负它的感觉\n它性格真的很好，不打麻药缝针都不会挠人，只是可怜的喵喵叫着挣扎 https://t.co/JTokRqDd8N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25255,
+          "following_count": 1030,
+          "like_count": 14513,
+          "listed_count": 40,
+          "media_count": 1505,
+          "tweet_count": 16523
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

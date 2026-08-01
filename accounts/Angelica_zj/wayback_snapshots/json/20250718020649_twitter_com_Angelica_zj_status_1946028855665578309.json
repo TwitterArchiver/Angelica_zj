@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1945498704536084520",
+    "created_at": "2025-07-18T02:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T03:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946028855665578309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1732775121797136384",
+          "start": 0,
+          "username": "zuilizhishier"
+        },
+        {
+          "end": 30,
+          "id": "1635875395194216448",
+          "start": 15,
+          "username": "Jinpingvirus64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946028855665578309",
+    "in_reply_to_user_id": "1732775121797136384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945732350698221605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuilizhishier @Jinpingvirus64 所以拍摄光线真的很重要hh，可以说p1芙莉莲平整的面部真是得益于手挡的那一片阴影，漫展场内的死亡顶光真不是谁都能抗住的\n还有很多原图直出的场照也是因为摄影老师强大的灯阵，出片很需要coser本人建模和妆娘摄影三方的努力哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "3_1945732338748456960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwChQM8XgAAbdv7.jpg",
+        "width": 1290
+      },
+      {
+        "height": 967,
+        "media_key": "3_1945732338564165633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwChQMQbcAECJts.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1945498704536084520",
+        "created_at": "2025-07-18T02:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T03:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946028855665578309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1732775121797136384",
+              "start": 0,
+              "username": "zuilizhishier"
+            },
+            {
+              "end": 30,
+              "id": "1635875395194216448",
+              "start": 15,
+              "username": "Jinpingvirus64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946028855665578309",
+        "in_reply_to_user_id": "1732775121797136384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945732350698221605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuilizhishier @Jinpingvirus64 所以拍摄光线真的很重要hh，可以说p1芙莉莲平整的面部真是得益于手挡的那一片阴影，漫展场内的死亡顶光真不是谁都能抗住的\n还有很多原图直出的场照也是因为摄影老师强大的灯阵，出片很需要coser本人建模和妆娘摄影三方的努力哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945732338748456960",
+            "3_1945732338564165633"
+          ]
+        },
+        "author_id": "1732775121797136384",
+        "conversation_id": "1945498704536084520",
+        "created_at": "2025-07-17T06:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T07:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945732350698221605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1635875395194216448",
+              "start": 0,
+              "username": "Jinpingvirus64"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pH3gNuM098",
+              "end": 58,
+              "expanded_url": "https://x.com/zuilizhishier/status/1945732350698221605/photo/1",
+              "media_key": "3_1945732338748456960",
+              "start": 35,
+              "url": "https://t.co/pH3gNuM098"
+            },
+            {
+              "display_url": "pic.x.com/pH3gNuM098",
+              "end": 58,
+              "expanded_url": "https://x.com/zuilizhishier/status/1945732350698221605/photo/1",
+              "media_key": "3_1945732338564165633",
+              "start": 35,
+              "url": "https://t.co/pH3gNuM098"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945732350698221605",
+        "in_reply_to_user_id": "1635875395194216448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 72595,
+          "like_count": 541,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945498704536084520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinpingvirus64 也有好看的，比如图5那个蓝毛和这两位 https://t.co/pH3gNuM098"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25449,
+          "following_count": 994,
+          "like_count": 14389,
+          "listed_count": 38,
+          "media_count": 1384,
+          "tweet_count": 15545
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T14:52:46.000Z",
+        "description": "万物非猫，唯有哈猫，哈猫是希波克拉底行走在中推的影子，汉语、日语、英语，猫语使用者。每周会分享有趣的医学相关顶刊。哈猫喵咪咪（互粉请私信",
+        "id": "1732775121797136384",
+        "name": "枫糖哈猫🍐",
+        "pinned_tweet_id": "1934500578950033425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925358835340091392/0wu-aWfu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 284,
+          "like_count": 3157,
+          "listed_count": 2,
+          "media_count": 312,
+          "tweet_count": 1704
+        },
+        "username": "zuilizhishier",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-15T05:27:56.000Z",
+        "description": "福报中年油腻男，不炒币，不喜红教及拒绝世俗化的绿，会回fo，但是奇怪的fo会直接屏蔽",
+        "id": "1635875395194216448",
+        "name": "🦥凉拌见手青",
+        "pinned_tweet_id": "1823065469538214216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643650316481761280/99y6jUWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 1191,
+          "like_count": 23020,
+          "listed_count": 3,
+          "media_count": 1583,
+          "tweet_count": 14022
+        },
+        "username": "Jinpingvirus64",
+        "verified": false
+      }
+    ]
+  }
+}

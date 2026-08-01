@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1922878534420185238",
+    "created_at": "2025-05-16T17:18:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T18:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923427925791047929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1384117195001589763",
+          "start": 0,
+          "username": "Eilatinaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923427925791047929",
+    "in_reply_to_user_id": "1384117195001589763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922878534420185238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eilatinaw 多刷别的帖子慢慢就好了，现在我大号主页几乎刷不到任何黄色，公共场合都敢刷。手冲用的小号一点开全是白花花的肉体…emmm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1922878534420185238",
+        "created_at": "2025-05-16T17:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T18:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923427925791047929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1384117195001589763",
+              "start": 0,
+              "username": "Eilatinaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923427925791047929",
+        "in_reply_to_user_id": "1384117195001589763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922878534420185238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eilatinaw 多刷别的帖子慢慢就好了，现在我大号主页几乎刷不到任何黄色，公共场合都敢刷。手冲用的小号一点开全是白花花的肉体…emmm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1384117195001589763",
+        "conversation_id": "1922878534420185238",
+        "created_at": "2025-05-15T04:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T05:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922878534420185238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922878534420185238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 142395,
+          "like_count": 1705,
+          "quote_count": 5,
+          "reply_count": 76,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "…死逼推特就不能多给我推肌肉男和女孩子吗……天天搞那个每日大赛，脑残啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25551,
+          "following_count": 989,
+          "like_count": 14389,
+          "listed_count": 37,
+          "media_count": 1338,
+          "tweet_count": 15213
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-19T12:10:38.000Z",
+        "description": "追求幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw01.damoplane.one/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw01.damoplane.one/#/register?code=WPBNoGTk",
+                "start": 0,
+                "url": "https://t.co/hEzdVWKIHT"
+              }
+            ]
+          }
+        },
+        "id": "1384117195001589763",
+        "location": "Shanghai",
+        "name": "玫瑰女人",
+        "pinned_tweet_id": "1901467784783241420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894761919644340224/0EXDv-or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20542,
+          "following_count": 88,
+          "like_count": 1226,
+          "listed_count": 44,
+          "media_count": 198,
+          "tweet_count": 415
+        },
+        "url": "https://t.co/hEzdVWKIHT",
+        "username": "Eilatinaw",
+        "verified": false
+      }
+    ]
+  }
+}

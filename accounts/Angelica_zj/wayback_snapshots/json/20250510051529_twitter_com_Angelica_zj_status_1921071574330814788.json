@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1920974280398938481",
+    "created_at": "2025-05-10T05:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T06:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921071574330814788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756251631036047360",
+          "start": 0,
+          "username": "joKcmPkm9C24656"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921071574330814788",
+    "in_reply_to_user_id": "1756251631036047360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921067543399133483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@joKcmPkm9C24656 那得是看什么价值了，经济价值和情绪价值本就是不同的东西，不喜欢动物的人压根不会养，如果是因为可怜养的这也能满足人内心的道德感，喜欢的人就在“喜欢”的过程中获得已经情绪价值了，这没啥好争辩的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1920974280398938481",
+        "created_at": "2025-05-10T05:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T06:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921071574330814788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756251631036047360",
+              "start": 0,
+              "username": "joKcmPkm9C24656"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921071574330814788",
+        "in_reply_to_user_id": "1756251631036047360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921067543399133483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joKcmPkm9C24656 那得是看什么价值了，经济价值和情绪价值本就是不同的东西，不喜欢动物的人压根不会养，如果是因为可怜养的这也能满足人内心的道德感，喜欢的人就在“喜欢”的过程中获得已经情绪价值了，这没啥好争辩的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756251631036047360",
+        "conversation_id": "1920974280398938481",
+        "created_at": "2025-05-10T04:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T05:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921067543399133483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921067543399133483",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921058150397968734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我是在说宠物不可以用价值来衡量描述，商品只有在出售的时候才有价值。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25397,
+          "following_count": 988,
+          "like_count": 14361,
+          "listed_count": 37,
+          "media_count": 1332,
+          "tweet_count": 15158
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:40:09.000Z",
+        "description": "",
+        "id": "1756251631036047360",
+        "name": "寒几",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860345720764878849/n1hjqzti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 248,
+          "like_count": 533,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "joKcmPkm9C24656",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1922557284829290804",
+    "created_at": "2025-05-14T16:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T17:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922692110672707974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1634028785497702401",
+          "start": 0,
+          "username": "uYuQWKzYqZJpomk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922692110672707974",
+    "in_reply_to_user_id": "1634028785497702401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922686109160526189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uYuQWKzYqZJpomk 向全世界推荐茉莉龙井"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1922557284829290804",
+        "created_at": "2025-05-14T16:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T17:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922692110672707974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1634028785497702401",
+              "start": 0,
+              "username": "uYuQWKzYqZJpomk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922692110672707974",
+        "in_reply_to_user_id": "1634028785497702401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922686109160526189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uYuQWKzYqZJpomk 向全世界推荐茉莉龙井"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634028785497702401",
+        "conversation_id": "1922557284829290804",
+        "created_at": "2025-05-14T16:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T17:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922686109160526189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922686109160526189",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922557284829290804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 来根电子烟吧🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25413,
+          "following_count": 988,
+          "like_count": 14376,
+          "listed_count": 37,
+          "media_count": 1336,
+          "tweet_count": 15193
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T03:10:08.000Z",
+        "description": "06男幼🚬                                                                             \n\n不开心可以抽根电子烟🚬，不伤身",
+        "id": "1634028785497702401",
+        "name": "斑马还没睡.",
+        "pinned_tweet_id": "1920508608644562961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915033941016260608/oUFV3Q5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 315,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 593
+        },
+        "username": "uYuQWKzYqZJpomk",
+        "verified": false
+      }
+    ]
+  }
+}

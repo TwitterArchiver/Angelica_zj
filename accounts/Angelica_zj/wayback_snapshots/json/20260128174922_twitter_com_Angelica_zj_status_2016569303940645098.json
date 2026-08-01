@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2016569303940645098",
+    "created_at": "2026-01-28T17:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T18:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016569303940645098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995870869852487685",
+          "start": 3,
+          "username": "Kaya0211_"
+        },
+        {
+          "end": 26,
+          "id": "763250971141025792",
+          "start": 15,
+          "username": "williamlab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016569303940645098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016425387937694006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kaya0211_: @williamlab 就算妈妈真的是这样的人，这种伤人的话也不该由女儿说出来…这属于没开智，必须明白时代的局限性，我妈没有接受过高等教育，没有办法看穿消费主义给她设下的陷阱，热衷于买衣服、包包、化妆品，但我也永远记得她是怎么在两座城市之间为我日日…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2016569303940645098",
+        "created_at": "2026-01-28T17:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T18:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016569303940645098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995870869852487685",
+              "start": 3,
+              "username": "Kaya0211_"
+            },
+            {
+              "end": 26,
+              "id": "763250971141025792",
+              "start": 15,
+              "username": "williamlab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016569303940645098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016425387937694006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kaya0211_: @williamlab 就算妈妈真的是这样的人，这种伤人的话也不该由女儿说出来…这属于没开智，必须明白时代的局限性，我妈没有接受过高等教育，没有办法看穿消费主义给她设下的陷阱，热衷于买衣服、包包、化妆品，但我也永远记得她是怎么在两座城市之间为我日日…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995870869852487685",
+        "conversation_id": "2016177367446913456",
+        "created_at": "2026-01-28T08:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T09:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016425387937694006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "763250971141025792",
+              "start": 0,
+              "username": "williamlab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016425387937694006",
+        "in_reply_to_user_id": "763250971141025792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9092,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016177367446913456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@williamlab 就算妈妈真的是这样的人，这种伤人的话也不该由女儿说出来…这属于没开智，必须明白时代的局限性，我妈没有接受过高等教育，没有办法看穿消费主义给她设下的陷阱，热衷于买衣服、包包、化妆品，但我也永远记得她是怎么在两座城市之间为我日日奔波，六点起床给我做早午两餐的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25225,
+          "following_count": 1032,
+          "like_count": 14515,
+          "listed_count": 40,
+          "media_count": 1510,
+          "tweet_count": 16546
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T15:01:29.000Z",
+        "description": "不聊骚",
+        "id": "1995870869852487685",
+        "name": "Kaya",
+        "pinned_tweet_id": "2014807110710882336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995871465024167936/xPPDcspP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 25,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 93
+        },
+        "username": "Kaya0211_",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-10T05:49:46.000Z",
+        "description": "一个伪装成加密博主的段子手。\n聊投资，聊加密，聊心态，聊比特币。\n这里的所有内容均不作为投资建议。 BTC HODL",
+        "id": "763250971141025792",
+        "location": "Hongkong",
+        "name": "陳威廉",
+        "pinned_tweet_id": "2014240420847600069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905263911060078592/0QafMmkn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189086,
+          "following_count": 394,
+          "like_count": 571,
+          "listed_count": 2685,
+          "media_count": 2216,
+          "tweet_count": 5907
+        },
+        "username": "williamlab",
+        "verified": true
+      }
+    ]
+  }
+}

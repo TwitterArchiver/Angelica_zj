@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1933338248933486670",
+    "created_at": "2025-06-14T19:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T20:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933973015634891138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1902691286001545216",
+          "start": 0,
+          "username": "mofashaonvjian"
+        },
+        {
+          "end": 25,
+          "id": "1581478431274983424",
+          "start": 16,
+          "username": "zhoynqi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933973015634891138",
+    "in_reply_to_user_id": "1902691286001545216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933966321169121654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mofashaonvjian @zhoynqi3 哦哦，男的啊，怪不得了，那你说你妈权衡利弊呢，搁这自锤还有脸带女寝，这么喜欢男的就早点洗干净屁眼等被草，放心总有不挑屁股只要洞的男人的，这么单纯理智的男人一辈子有市场哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1933338248933486670",
+        "created_at": "2025-06-14T19:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T20:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933973015634891138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1902691286001545216",
+              "start": 0,
+              "username": "mofashaonvjian"
+            },
+            {
+              "end": 25,
+              "id": "1581478431274983424",
+              "start": 16,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933973015634891138",
+        "in_reply_to_user_id": "1902691286001545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933966321169121654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofashaonvjian @zhoynqi3 哦哦，男的啊，怪不得了，那你说你妈权衡利弊呢，搁这自锤还有脸带女寝，这么喜欢男的就早点洗干净屁眼等被草，放心总有不挑屁股只要洞的男人的，这么单纯理智的男人一辈子有市场哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902691286001545216",
+        "conversation_id": "1933338248933486670",
+        "created_at": "2025-06-14T19:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T20:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933966321169121654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 22,
+              "id": "1581478431274983424",
+              "start": 13,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933966321169121654",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933963310665552009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj @zhoynqi3 怎么不继续撕咬了，嗯？滚出来继续撕咬啊？都跟你讲了事情缘由还在这撕咬你爹，怎么你是母狗吗？跟你那个婊子妈一样的母狗吗？这么会撕咬，有狗生没狗养吗？你那婊子妈不教你做人你跑这里让我教你做人来了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25521,
+          "following_count": 997,
+          "like_count": 14469,
+          "listed_count": 36,
+          "media_count": 1366,
+          "tweet_count": 15415
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T11:58:55.000Z",
+        "description": "爱玩点小抽象，本人皮下不这样丨交友dd扩列dd丨06.01丨♑摩羯座丨端手游陪🥣 丨🚪28.88丨不约丨🔞丨爱写点小黄文丨会算卦很准的那种丨不吃香菜，完全不吃！丨男的😅",
+        "id": "1902691286001545216",
+        "location": "小妈的床上",
+        "name": "魔法少女淺崽 不吃香菜版",
+        "pinned_tweet_id": "1919573501221982452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902699647111680000/KH-M3g52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 72,
+          "like_count": 988,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 123
+        },
+        "username": "mofashaonvjian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "yo89yo64",
+        "pinned_tweet_id": "1878448723107479961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672979337656631298/mQbOFn-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 187,
+          "like_count": 12316,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 2392
+        },
+        "username": "zhoynqi3",
+        "verified": false
+      }
+    ]
+  }
+}

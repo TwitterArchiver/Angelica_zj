@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2025146464880804285",
+    "created_at": "2026-02-21T15:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T16:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025228119590739993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2014959249668136960",
+          "start": 0,
+          "username": "otakuaruar"
+        },
+        {
+          "end": 24,
+          "id": "1834119546325929984",
+          "start": 12,
+          "username": "tsuki997799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025228119590739993",
+    "in_reply_to_user_id": "2014959249668136960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025216462403817918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@otakuaruar @tsuki997799 原来这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2025146464880804285",
+        "created_at": "2026-02-21T15:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025228119590739993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2014959249668136960",
+              "start": 0,
+              "username": "otakuaruar"
+            },
+            {
+              "end": 24,
+              "id": "1834119546325929984",
+              "start": 12,
+              "username": "tsuki997799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025228119590739993",
+        "in_reply_to_user_id": "2014959249668136960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025216462403817918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@otakuaruar @tsuki997799 原来这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014959249668136960",
+        "conversation_id": "2025146464880804285",
+        "created_at": "2026-02-21T14:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T15:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025216462403817918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 25,
+              "id": "1834119546325929984",
+              "start": 13,
+              "username": "tsuki997799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025216462403817918",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025206500667359713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj @tsuki997799 这个只能算秒潮低配版，声音很大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25284,
+          "following_count": 1038,
+          "like_count": 14633,
+          "listed_count": 40,
+          "media_count": 1526,
+          "tweet_count": 16685
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T07:11:47.000Z",
+        "description": "🟰沧沧//そうこ，怎么称呼都可以✝️精神不安定、重加工系",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/b3yvkioyjmvqvj…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/b3yvkioyjmvqvjf?t=oJw7mm&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/wsdOtHHk4j"
+              }
+            ]
+          }
+        },
+        "id": "2014959249668136960",
+        "location": "いつも42たい",
+        "name": "毎日のあるある",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019489031806152705/qJacVRtm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 16,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/wsdOtHHk4j",
+        "username": "otakuaruar",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T06:39:22.000Z",
+        "description": "守望先锋是全世界最好的游戏\n（连跪的时候除外）",
+        "id": "1834119546325929984",
+        "location": "🚪",
+        "name": "是姨姨也是EE",
+        "pinned_tweet_id": "2020450198716072240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908146816589426689/-nSZM7Bz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15596,
+          "following_count": 171,
+          "like_count": 9852,
+          "listed_count": 30,
+          "media_count": 206,
+          "tweet_count": 5132
+        },
+        "username": "tsuki997799",
+        "verified": false
+      }
+    ]
+  }
+}

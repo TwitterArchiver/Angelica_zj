@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1995523946779963880",
+    "created_at": "2025-12-01T16:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T17:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995523946779963880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807910824918634496",
+          "start": 3,
+          "username": "suanrongyouyuxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995523946779963880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995250881630191640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suanrongyouyuxu: 我想起一个故事，余华《兄弟》里写的。\n文革的时候，李光头还是个小孩子。有一天他偶然发现用下体摩擦电线杆这件事很舒服，所以没事就搞搞电线杆。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1995523946779963880",
+        "created_at": "2025-12-01T16:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T17:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995523946779963880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1807910824918634496",
+              "start": 3,
+              "username": "suanrongyouyuxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995523946779963880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995250881630191640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suanrongyouyuxu: 我想起一个故事，余华《兄弟》里写的。\n文革的时候，李光头还是个小孩子。有一天他偶然发现用下体摩擦电线杆这件事很舒服，所以没事就搞搞电线杆。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807910824918634496",
+        "conversation_id": "1995250881630191640",
+        "created_at": "2025-11-30T21:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T22:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995250881630191640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995250881630191640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我想起一个故事，余华《兄弟》里写的。\n文革的时候，李光头还是个小孩子。有一天他偶然发现用下体摩擦电线杆这件事很舒服，所以没事就搞搞电线杆。\n有人就问他，你究竟是把电线杆当成女特务、女敌人呢，还是当成革命姐妹？言下之意是说，你强奸女特务，这件事就是正当的。你强奸革命姐妹，那当然是反革命。李光头就说，它就不能是一根革命电线杆吗？\n\n因为在那个年代，所有东西都必须被分为革命的或是反革命的，没有中间地带。哪怕是一根电线杆。\n在这种完全没有中间地带的氛围中，大家宁可错杀一百，也不可以放过一个。对敌人的仇恨远大于对同胞的爱。因为政治狂热就是这样，毁灭的冲动是远远大于建设的。而正是这种狂热导致了这样的灾难。\n\n现在我明显能感觉到一些中间地带正在消失。哪怕我自己是有明确立场的，我也对这种中间地带的消失而感到恐惧。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 184387,
+          "like_count": 547,
+          "quote_count": 5,
+          "reply_count": 20,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "我想起一个故事，余华《兄弟》里写的。\n文革的时候，李光头还是个小孩子。有一天他偶然发现用下体摩擦电线杆这件事很舒服，所以没事就搞搞电线杆。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25265,
+          "following_count": 997,
+          "like_count": 14327,
+          "listed_count": 40,
+          "media_count": 1445,
+          "tweet_count": 16087
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T22:55:21.000Z",
+        "description": "人在海外/有政治推，有生活推，也有碎碎念/川粉、方粉、粉红会直接毙/魔怔人、爹味爆表的也会毙/是坚定的LGBTQ支持者/犬儒主义一生之敌/有表达欲/政治光谱是温和左派/坚持DEI原则/想要认识有趣的人",
+        "id": "1807910824918634496",
+        "name": "蒜蓉鱿鱼须",
+        "pinned_tweet_id": "1858686395151524238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879574101750059008/DyN1I1bV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 240,
+          "like_count": 4829,
+          "listed_count": 17,
+          "media_count": 228,
+          "tweet_count": 2834
+        },
+        "username": "suanrongyouyuxu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2002357784210276444",
+    "created_at": "2025-12-20T12:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T13:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002357784210276444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/onelessx/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/onelessx/status/2002349397447778804",
+          "start": 15,
+          "url": "https://t.co/MJD5CsN5JB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002357784210276444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002349397447778804",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你的首要任务是卸载番茄小说！ https://t.co/MJD5CsN5JB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2002357784210276444",
+        "created_at": "2025-12-20T12:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T13:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002357784210276444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/onelessx/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/onelessx/status/2002349397447778804",
+              "start": 15,
+              "url": "https://t.co/MJD5CsN5JB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002357784210276444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002349397447778804",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你的首要任务是卸载番茄小说！ https://t.co/MJD5CsN5JB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1306564925972652033",
+        "conversation_id": "2002308664485646612",
+        "created_at": "2025-12-20T12:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T13:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002349397447778804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1693450364341948416",
+              "start": 0,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002349397447778804",
+        "in_reply_to_user_id": "1693450364341948416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002308664485646612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igeekbb 在其他國家，演員會隨機應變，和孩子劇情互動一下滿足一下孩子後，在模擬劇情下，交給駐唱工作人員，傳為佳話。\n中國人演員比較呆板，程式化。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25266,
+          "following_count": 1010,
+          "like_count": 14445,
+          "listed_count": 40,
+          "media_count": 1474,
+          "tweet_count": 16278
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-17T12:09:19.000Z",
+        "description": "Medical doctor + pharm R&D 🇹🇼 🇺🇦 🇮🇱🇺🇸",
+        "id": "1306564925972652033",
+        "name": "X filer",
+        "pinned_tweet_id": "1746435359120982459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1306569110692610049/byNPyhIx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2527,
+          "following_count": 5036,
+          "like_count": 47046,
+          "listed_count": 21,
+          "media_count": 1605,
+          "tweet_count": 24269
+        },
+        "username": "onelessx",
+        "verified": false
+      }
+    ]
+  }
+}

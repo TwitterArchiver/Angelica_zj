@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2054320579331690678",
+    "created_at": "2026-05-13T09:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T10:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054497122540515473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011057845874409472",
+          "start": 0,
+          "username": "cai_nu42484"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054497122540515473",
+    "in_reply_to_user_id": "2011057845874409472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054482314005299336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cai_nu42484 笑死怎么一模一样啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2054320579331690678",
+        "created_at": "2026-05-13T09:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054497122540515473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011057845874409472",
+              "start": 0,
+              "username": "cai_nu42484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054497122540515473",
+        "in_reply_to_user_id": "2011057845874409472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054482314005299336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cai_nu42484 笑死怎么一模一样啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011057845874409472",
+        "conversation_id": "2054320579331690678",
+        "created_at": "2026-05-13T08:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054482314005299336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054482314005299336",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054320579331690678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我懂！感觉是手掌里面痒不是表皮痒，用手挠不行，我一般使用牙啃。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25162,
+          "following_count": 1048,
+          "like_count": 14747,
+          "listed_count": 42,
+          "media_count": 1586,
+          "tweet_count": 17123
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T12:48:59.000Z",
+        "description": "08 双性恋 m/sub ip地球",
+        "id": "2011057845874409472",
+        "location": "🚪 88",
+        "name": "离开我以后你的世界还会下雨吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022347343497158657/JUJqu_TZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 37,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 18
+        },
+        "username": "cai_nu42484",
+        "verified": false
+      }
+    ]
+  }
+}

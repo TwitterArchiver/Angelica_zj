@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2053424075863662609",
+    "created_at": "2026-05-10T17:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T18:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053530891243188478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1884673574553911296",
+          "start": 0,
+          "username": "chun_zhi20869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053530891243188478",
+    "in_reply_to_user_id": "1884673574553911296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053503880768389442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chun_zhi20869 😈😈躺床上打卡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2053424075863662609",
+        "created_at": "2026-05-10T17:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T18:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053530891243188478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1884673574553911296",
+              "start": 0,
+              "username": "chun_zhi20869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053530891243188478",
+        "in_reply_to_user_id": "1884673574553911296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053503880768389442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chun_zhi20869 😈😈躺床上打卡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884673574553911296",
+        "conversation_id": "2053424075863662609",
+        "created_at": "2026-05-10T15:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053503880768389442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053503880768389442",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053424075863662609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 多少米？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25152,
+          "following_count": 1051,
+          "like_count": 14745,
+          "listed_count": 42,
+          "media_count": 1583,
+          "tweet_count": 17102
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T18:43:05.000Z",
+        "description": "“不是每场相遇都有结局，但是每场相遇都有意义，有些人适合让你成长，有些故事只适合收藏.”",
+        "id": "1884673574553911296",
+        "location": "喜剧舞台",
+        "name": "丑角.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053498907846434816/2bc-NXxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 40,
+          "like_count": 1297,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 310
+        },
+        "username": "chun_zhi20869",
+        "verified": false
+      }
+    ]
+  }
+}

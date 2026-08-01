@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2040032552887656851",
+    "created_at": "2026-04-03T17:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040122106734682590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1533108589857951744",
+          "start": 0,
+          "username": "Unknown_XX04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040122106734682590",
+    "in_reply_to_user_id": "1533108589857951744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040073509771362609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Unknown_XX04 只是觉得这种行业好悲哀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2040032552887656851",
+        "created_at": "2026-04-03T17:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040122106734682590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1533108589857951744",
+              "start": 0,
+              "username": "Unknown_XX04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040122106734682590",
+        "in_reply_to_user_id": "1533108589857951744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040073509771362609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Unknown_XX04 只是觉得这种行业好悲哀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533108589857951744",
+        "conversation_id": "2040032552887656851",
+        "created_at": "2026-04-03T14:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040073509771362609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040073509771362609",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040032552887656851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 唉先想想他们赚多少吧，拿着这点钱还是不要操他们有钱人的心了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25177,
+          "following_count": 1049,
+          "like_count": 14682,
+          "listed_count": 40,
+          "media_count": 1562,
+          "tweet_count": 16876
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T15:29:23.000Z",
+        "description": "名前はライラー/你想在这里看到什么？/ここで何を見たい？/絵垢/病み垢 鍵垢🔑:@Unknown_000A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "Unknown_000A"
+              }
+            ]
+          }
+        },
+        "id": "1533108589857951744",
+        "location": "Рядом с тобой",
+        "name": "学姐和我打篮球被我扣篮",
+        "pinned_tweet_id": "1971732405167050959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007005216886153217/OVLlU-wO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 1230,
+          "like_count": 25710,
+          "listed_count": 3,
+          "media_count": 259,
+          "tweet_count": 4153
+        },
+        "username": "Unknown_XX04",
+        "verified": false
+      }
+    ]
+  }
+}

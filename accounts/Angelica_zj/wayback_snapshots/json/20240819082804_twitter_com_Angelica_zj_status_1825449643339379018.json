@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1825449313486692619",
+    "created_at": "2024-08-19T08:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T09:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825449643339379018"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1825449643339379018",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825449313486692619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在这个号流量其实挺差的，只不过我也不太在意就是\n我的情绪也确实没有曾经那么需要麻烦大家的关注了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1825449313486692619",
+        "created_at": "2024-08-19T08:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T09:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825449643339379018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1825449643339379018",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825449313486692619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在这个号流量其实挺差的，只不过我也不太在意就是\n我的情绪也确实没有曾经那么需要麻烦大家的关注了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1825449313486692619",
+        "created_at": "2024-08-19T08:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T09:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825449313486692619"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1825449313486692619",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我现在情绪很稳定，很多时间都很开心，但还是会有要静下来胡思乱想的时候，然后习惯性的把这些没逻辑的胡话打进推文里\n翻近期推文甚至会觉得这个人好像一直很痛苦，一直在抱怨\n其实没有，我只是习惯在这里倾泻负能了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24399,
+          "following_count": 896,
+          "like_count": 13512,
+          "listed_count": 35,
+          "tweet_count": 13504
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

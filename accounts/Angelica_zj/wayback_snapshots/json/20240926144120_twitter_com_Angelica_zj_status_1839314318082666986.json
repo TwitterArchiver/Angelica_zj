@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1839035089310683352",
+    "created_at": "2024-09-26T14:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T15:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839314318082666986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756007890521845760",
+          "start": 0,
+          "username": "lifelover000000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839314318082666986",
+    "in_reply_to_user_id": "1756007890521845760",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839035089310683352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lifelover000000 这不tm黄伟么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1839035089310683352",
+        "created_at": "2024-09-26T14:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T15:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839314318082666986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756007890521845760",
+              "start": 0,
+              "username": "lifelover000000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839314318082666986",
+        "in_reply_to_user_id": "1756007890521845760",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839035089310683352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lifelover000000 这不tm黄伟么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839035083438649344"
+          ]
+        },
+        "author_id": "1756007890521845760",
+        "conversation_id": "1839035089310683352",
+        "created_at": "2024-09-25T20:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T21:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839035089310683352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ckes16avf",
+              "end": 23,
+              "expanded_url": "https://twitter.com/lifelover000000/status/1839035089310683352/photo/1",
+              "media_key": "3_1839035083438649344",
+              "start": 0,
+              "url": "https://t.co/9cKEs16Avf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839035089310683352",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1077,
+          "impression_count": 223487,
+          "like_count": 8948,
+          "quote_count": 101,
+          "reply_count": 16,
+          "retweet_count": 987
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9cKEs16Avf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24373,
+          "following_count": 905,
+          "like_count": 13605,
+          "listed_count": 35,
+          "tweet_count": 13653
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T17:31:53.000Z",
+        "description": "dsbm and punpun",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/batuch",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/batuch",
+                "start": 0,
+                "url": "https://t.co/zor1eeMPQG"
+              }
+            ]
+          }
+        },
+        "id": "1756007890521845760",
+        "location": "no location no gender no soul",
+        "name": "batuch",
+        "pinned_tweet_id": "1812826838172893303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800121227110912000/PFwX4Lvv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26483,
+          "following_count": 116,
+          "like_count": 2303,
+          "listed_count": 36,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/zor1eeMPQG",
+        "username": "lifelover000000",
+        "verified": true
+      }
+    ]
+  }
+}

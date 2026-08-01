@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1859357830853296232",
+    "created_at": "2024-11-21T04:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T05:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859454469521752247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1824110944248799232",
+          "start": 0,
+          "username": "lonelyxiaoye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859454469521752247",
+    "in_reply_to_user_id": "1824110944248799232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859379531926340008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lonelyxiaoye 我感觉磨合的本质就是退让，只不过是两个人轮流的在不同事情上退让和付出，才能达到那种微妙的平衡，真要总薅一个人那我估计谁都得疯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1859357830853296232",
+        "created_at": "2024-11-21T04:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T05:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859454469521752247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1824110944248799232",
+              "start": 0,
+              "username": "lonelyxiaoye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859454469521752247",
+        "in_reply_to_user_id": "1824110944248799232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859379531926340008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lonelyxiaoye 我感觉磨合的本质就是退让，只不过是两个人轮流的在不同事情上退让和付出，才能达到那种微妙的平衡，真要总薅一个人那我估计谁都得疯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824110944248799232",
+        "conversation_id": "1859357830853296232",
+        "created_at": "2024-11-20T23:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T00:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859379531926340008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859379531926340008",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859357830853296232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 素的、要和另一个人一起基本都要更改许多计划理念还有作息.单纯退让肯定不够更多的还是磨合😵‍💫要考虑的还蛮多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24666,
+          "following_count": 927,
+          "like_count": 13634,
+          "listed_count": 35,
+          "tweet_count": 13935
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T15:48:47.000Z",
+        "description": "我们向往美好和幸福、我们相互宽慰与扶持、我们一同修补这破碎的世界.（了解我请看主页第一条全部内容ww｜倾诉真实的夜@despairxiaoye）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "despairxiaoye"
+              }
+            ]
+          }
+        },
+        "id": "1824110944248799232",
+        "location": "无光の世界",
+        "name": "破碎小夜 ᜊ( ꒦ິ^꒦ິ )ᜊ",
+        "pinned_tweet_id": "1831567460312740322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833908168885460992/wKn84QOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 216,
+          "like_count": 15790,
+          "listed_count": 0,
+          "tweet_count": 7218
+        },
+        "username": "lonelyxiaoye",
+        "verified": false
+      }
+    ]
+  }
+}

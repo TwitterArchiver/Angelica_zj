@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1975867577135173907",
+    "created_at": "2025-10-08T10:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T11:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975868805974024267"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1975868805974024267",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975867577135173907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然后外卖发现一家朝阳的线下店还有最后一瓶（还有过期风险），本来就贵了几十块钱，咬咬牙付款发现配送费还要我四十"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1975867577135173907",
+        "created_at": "2025-10-08T10:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T11:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975868805974024267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975868805974024267",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975867577135173907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后外卖发现一家朝阳的线下店还有最后一瓶（还有过期风险），本来就贵了几十块钱，咬咬牙付款发现配送费还要我四十"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1975867577135173907",
+        "created_at": "2025-10-08T10:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T11:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975867577135173907"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975867577135173907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了两次卡诗的护发精油都在澡堂被偷了，搬出来住了寻思不能再有人偷，结果之前爱用的款停产了。\n倒霉熊吗小九"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25311,
+          "following_count": 990,
+          "like_count": 14280,
+          "listed_count": 42,
+          "media_count": 1390,
+          "tweet_count": 15743
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

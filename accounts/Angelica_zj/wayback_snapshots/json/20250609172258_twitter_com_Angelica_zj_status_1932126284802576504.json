@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932126274597875712"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1931675073175273646",
+    "created_at": "2025-06-09T17:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T18:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932126284802576504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1537332637835984896",
+          "start": 0,
+          "username": "Masterxyq"
+        },
+        {
+          "end": 26,
+          "id": "1260553941714186241",
+          "start": 11,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lhzD5kCJFH",
+          "end": 57,
+          "expanded_url": "https://x.com/Angelica_zj/status/1932126284802576504/photo/1",
+          "media_key": "3_1932126274597875712",
+          "start": 34,
+          "url": "https://t.co/lhzD5kCJFH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932126284802576504",
+    "in_reply_to_user_id": "1537332637835984896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931906168336896375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Masterxyq @whyyoutouzhele 豆包你个人机 https://t.co/lhzD5kCJFH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932126274597875712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtBKnCKa8AATFgo.jpg",
+        "width": 946
+      },
+      {
+        "height": 1585,
+        "media_key": "3_1931906162695520256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs-Ca1bawAACHi0.jpg",
+        "width": 866
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932126274597875712"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1931675073175273646",
+        "created_at": "2025-06-09T17:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T18:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932126284802576504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1537332637835984896",
+              "start": 0,
+              "username": "Masterxyq"
+            },
+            {
+              "end": 26,
+              "id": "1260553941714186241",
+              "start": 11,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhzD5kCJFH",
+              "end": 57,
+              "expanded_url": "https://x.com/Angelica_zj/status/1932126284802576504/photo/1",
+              "media_key": "3_1932126274597875712",
+              "start": 34,
+              "url": "https://t.co/lhzD5kCJFH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932126284802576504",
+        "in_reply_to_user_id": "1537332637835984896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931906168336896375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Masterxyq @whyyoutouzhele 豆包你个人机 https://t.co/lhzD5kCJFH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931906162695520256"
+          ]
+        },
+        "author_id": "1537332637835984896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1931675073175273646",
+        "created_at": "2025-06-09T02:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T03:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931906168336896375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kEpIHTo1Fm",
+              "end": 50,
+              "expanded_url": "https://x.com/Masterxyq/status/1931906168336896375/photo/1",
+              "media_key": "3_1931906162695520256",
+              "start": 27,
+              "url": "https://t.co/kEpIHTo1Fm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931906168336896375",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 23416,
+          "like_count": 263,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931675073175273646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 还得是chatGPT https://t.co/kEpIHTo1Fm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25524,
+          "following_count": 996,
+          "like_count": 14503,
+          "listed_count": 36,
+          "media_count": 1364,
+          "tweet_count": 15390
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-16T07:14:16.000Z",
+        "description": "",
+        "id": "1537332637835984896",
+        "location": "Tokyo-to, Japan",
+        "name": "天ノ川 沙夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537332839447900161/GZt36we6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 53,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 91
+        },
+        "username": "Masterxyq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1930033346018480586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2012448,
+          "following_count": 959,
+          "like_count": 6911,
+          "listed_count": 8169,
+          "media_count": 29610,
+          "tweet_count": 36154
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

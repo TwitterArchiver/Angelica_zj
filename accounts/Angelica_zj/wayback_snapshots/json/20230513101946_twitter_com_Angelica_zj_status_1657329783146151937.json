@@ -1,0 +1,135 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1657329463569559552",
+    "created_at": "2023-05-13T10:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2023-05-13T10:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1657329783146151937"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1657329783146151937",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1657329463569559552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骂我自己呢，感觉我的态度已经开始谄媚了？\n恋爱脑上升到一定程度必须得给自己来两巴掌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1657329463569559552",
+        "created_at": "2023-05-13T10:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-13T10:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1657329783146151937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1657329783146151937",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1657329463569559552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骂我自己呢，感觉我的态度已经开始谄媚了？\n恋爱脑上升到一定程度必须得给自己来两巴掌"
+      },
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1657329463569559552",
+        "created_at": "2023-05-13T10:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-13T10:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1657329463569559552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1657329463569559552",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当舔狗的就是纯废物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 🐙🐙小章鱼意思是抱抱 / ⚠️自伤血腥重口负能注意避雷⚠️ / 情绪状态极不稳定 / 性取向是水仙 / 二号9⃣️：@AAAAG_Angelica",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 65,
+                "username": "AAAAG_Angelica"
+              }
+            ]
+          }
+        },
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1589442994507493376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15852,
+          "following_count": 889,
+          "listed_count": 21,
+          "tweet_count": 9931
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

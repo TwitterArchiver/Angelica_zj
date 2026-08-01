@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1976316187530387614",
+    "created_at": "2025-10-09T15:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T16:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976316187530387614"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kfcqz/status/1…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/kfcqz/status/1976291838027002241",
+          "start": 14,
+          "url": "https://t.co/kqCJKLyEl1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976316187530387614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976291838027002241",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "先不说这个，我看看元气森林 https://t.co/kqCJKLyEl1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 765,
+        "media_key": "3_1976291147330023424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20yU-Fa8AAMycY.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1976316187530387614",
+        "created_at": "2025-10-09T15:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T16:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976316187530387614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kfcqz/status/1…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/kfcqz/status/1976291838027002241",
+              "start": 14,
+              "url": "https://t.co/kqCJKLyEl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976316187530387614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976291838027002241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "先不说这个，我看看元气森林 https://t.co/kqCJKLyEl1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976291147330023424"
+          ]
+        },
+        "author_id": "1447513784650633219",
+        "conversation_id": "1976291838027002241",
+        "created_at": "2025-10-09T14:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T15:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976291838027002241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yAlQjbhalk",
+              "end": 70,
+              "expanded_url": "https://x.com/KFCQZ/status/1976291838027002241/photo/1",
+              "media_key": "3_1976291147330023424",
+              "start": 47,
+              "url": "https://t.co/yAlQjbhalk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976291838027002241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10437,
+          "like_count": 87,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "惊爆：李老师出卖了🍐老师\n那些给李颖投稿或是投谣言的人，你们真心觉得李颖会为你们做好保密吗？ https://t.co/yAlQjbhalk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25311,
+          "following_count": 989,
+          "like_count": 14284,
+          "listed_count": 42,
+          "media_count": 1391,
+          "tweet_count": 15752
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T10:46:11.000Z",
+        "description": "Time will tell",
+        "id": "1447513784650633219",
+        "name": "K总",
+        "pinned_tweet_id": "1919000205518581800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820376767493783552/pnm0yKNL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16673,
+          "following_count": 797,
+          "like_count": 124031,
+          "listed_count": 132,
+          "media_count": 1455,
+          "tweet_count": 8051
+        },
+        "username": "KFCQZ",
+        "verified": false
+      }
+    ]
+  }
+}

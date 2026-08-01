@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1966140080952898038",
+    "created_at": "2025-09-12T07:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T08:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966406451510857973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1596657808656977920",
+          "start": 0,
+          "username": "caowenjian8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966406451510857973",
+    "in_reply_to_user_id": "1596657808656977920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966142046231798166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caowenjian8 可爱可爱宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1966140080952898038",
+        "created_at": "2025-09-12T07:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T08:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966406451510857973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1596657808656977920",
+              "start": 0,
+              "username": "caowenjian8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966406451510857973",
+        "in_reply_to_user_id": "1596657808656977920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966142046231798166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caowenjian8 可爱可爱宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596657808656977920",
+        "conversation_id": "1966140080952898038",
+        "created_at": "2025-09-11T14:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T15:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966142046231798166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966142046231798166",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966140080952898038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 波加曼可爱捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25393,
+          "following_count": 990,
+          "like_count": 14290,
+          "listed_count": 40,
+          "media_count": 1382,
+          "tweet_count": 15658
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T00:11:10.000Z",
+        "description": "三流摄影师，拍不出好看的照片会想自杀",
+        "id": "1596657808656977920",
+        "name": "每天都食吉士堡",
+        "pinned_tweet_id": "1753852000134217886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733855182373679104/wkNZ-QI4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 962,
+          "like_count": 26561,
+          "listed_count": 5,
+          "media_count": 463,
+          "tweet_count": 2897
+        },
+        "username": "caowenjian8",
+        "verified": false
+      }
+    ]
+  }
+}

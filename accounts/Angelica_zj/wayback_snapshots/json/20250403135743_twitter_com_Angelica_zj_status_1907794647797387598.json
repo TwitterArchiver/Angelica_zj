@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1907774890616434962",
+    "created_at": "2025-04-03T13:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T14:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907794647797387598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1494708259382755328",
+          "start": 0,
+          "username": "SuzukiShinmori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907794647797387598",
+    "in_reply_to_user_id": "1494708259382755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907790615993327776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuzukiShinmori 你咋这么在意这个痣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1907774890616434962",
+        "created_at": "2025-04-03T13:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T14:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907794647797387598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1494708259382755328",
+              "start": 0,
+              "username": "SuzukiShinmori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907794647797387598",
+        "in_reply_to_user_id": "1494708259382755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907790615993327776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuzukiShinmori 你咋这么在意这个痣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494708259382755328",
+        "conversation_id": "1907774890616434962",
+        "created_at": "2025-04-03T13:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T14:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907790615993327776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907790615993327776",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907774890616434962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 痣点了吗感觉有些淡？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25285,
+          "following_count": 958,
+          "like_count": 14126,
+          "listed_count": 38,
+          "media_count": 1299,
+          "tweet_count": 14801
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T16:20:07.000Z",
+        "description": "♂，19，温柔【優しい/gentle】\n鈴木にゃです、心守「Shinmori」とも呼ばれている…\nまるで天使のように微笑む\n強めの幻覚　INTERNETGIRL\nそして悪魔みたいにささやく\nあなたに救いを与える　2D(NEEDY) GIRL\n神様なんていないよ\nインターネット・エンジェル　かわいく参上まる！",
+        "id": "1494708259382755328",
+        "location": "ギャングによって支配されている🇨🇳",
+        "name": "鈴木 喵にゃ（心守）",
+        "pinned_tweet_id": "1569387471347265537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807798619027947520/nlFRjA4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 589,
+          "like_count": 251956,
+          "listed_count": 9,
+          "media_count": 3725,
+          "tweet_count": 27880
+        },
+        "username": "SuzukiShinmori",
+        "verified": false
+      }
+    ]
+  }
+}

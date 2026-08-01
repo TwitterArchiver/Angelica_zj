@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1905542926081593575",
+    "created_at": "2025-03-29T07:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T08:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905886900457439240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1773041626581221376",
+          "start": 0,
+          "username": "Nikikiki8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905886900457439240",
+    "in_reply_to_user_id": "1773041626581221376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905542926081593575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nikikiki8964 我真点了，ban我的清纯女大像npc一样，在她们扯头花的评论区底下复制刷新。我寻思我也不馋她的奶子和丑逼对象啊，又没惹过她，ban我干啥。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1905542926081593575",
+        "created_at": "2025-03-29T07:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T08:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905886900457439240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1773041626581221376",
+              "start": 0,
+              "username": "Nikikiki8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905886900457439240",
+        "in_reply_to_user_id": "1773041626581221376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905542926081593575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nikikiki8964 我真点了，ban我的清纯女大像npc一样，在她们扯头花的评论区底下复制刷新。我寻思我也不馋她的奶子和丑逼对象啊，又没惹过她，ban我干啥。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773041626581221376",
+        "conversation_id": "1905542926081593575",
+        "created_at": "2025-03-28T08:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T09:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905542926081593575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nikikiki8964/s…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/nikikiki8964/status/1905478353270038880",
+              "start": 147,
+              "url": "https://t.co/cSOarqbDql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905542926081593575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5248,
+          "like_count": 66,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905478353270038880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过我是真烦那种样板式女网友，主页标个ddlg啊brat啊sub小猫小狗，爱擦边但别人一说就急，到处在男网友男推下面勾搭撩骚装萌，看见手好看有肌肉“有才华”的男的就舔上去，骚扰不分男女长相啊，长的好看的女的到处骚扰人也很猥琐😇性缘脑高浓度有性恋天天发情好可怕(没说谁，非要对号入座的被骂活该) https://t.co/cSOarqbDql"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25289,
+          "following_count": 956,
+          "like_count": 14102,
+          "listed_count": 38,
+          "media_count": 1296,
+          "tweet_count": 14771
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T17:37:30.000Z",
+        "description": "蒜苗鸡国国王｜发疯倒垃圾｜吐槽发言只针对抽象的人对号入座滚没指名道姓限定特征就不是说你｜尊厌｜岁静死宅｜一切群体友好极端魔怔过激壬除外｜别打扰我自言自语｜私信没事不回｜只ban ban我的｜回关交友随缘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%A5%BF%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%A5%BF%E7%93%9C%E6%8A%95%E6%89%8B",
+                "start": 0,
+                "url": "https://t.co/ujX5HCo8rR"
+              }
+            ]
+          }
+        },
+        "id": "1773041626581221376",
+        "location": "匿名提问箱→",
+        "name": "西瓜蒜苗鸡",
+        "pinned_tweet_id": "1883126646322167911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887433560459780096/Ct03V-dF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 101,
+          "like_count": 35172,
+          "listed_count": 6,
+          "media_count": 72,
+          "tweet_count": 395
+        },
+        "url": "https://t.co/ujX5HCo8rR",
+        "username": "Nikikiki8964",
+        "verified": false
+      }
+    ]
+  }
+}

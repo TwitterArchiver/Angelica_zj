@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1958006550016192580",
+    "created_at": "2025-08-20T05:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T06:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958034104286404817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1181196996394328064",
+          "start": 0,
+          "username": "HezSirLawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958034104286404817",
+    "in_reply_to_user_id": "1181196996394328064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958011916795932748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HezSirLawa 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1958006550016192580",
+        "created_at": "2025-08-20T05:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T06:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958034104286404817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1181196996394328064",
+              "start": 0,
+              "username": "HezSirLawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958034104286404817",
+        "in_reply_to_user_id": "1181196996394328064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958011916795932748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HezSirLawa 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1181196996394328064",
+        "conversation_id": "1958006550016192580",
+        "created_at": "2025-08-20T03:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T04:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958011916795932748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958011916795932748",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958006550016192580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 买！爽玩！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25395,
+          "following_count": 987,
+          "like_count": 14328,
+          "listed_count": 39,
+          "media_count": 1389,
+          "tweet_count": 15609
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-07T13:18:17.000Z",
+        "description": "04跨女 祝你突然想起我",
+        "id": "1181196996394328064",
+        "location": "天国",
+        "name": "白字白字摆摆子",
+        "pinned_tweet_id": "1922589779738153130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505107889555316740/cvKqgLnP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 646,
+          "like_count": 9628,
+          "listed_count": 3,
+          "media_count": 513,
+          "tweet_count": 2596
+        },
+        "username": "HezSirLawa",
+        "verified": false
+      }
+    ]
+  }
+}

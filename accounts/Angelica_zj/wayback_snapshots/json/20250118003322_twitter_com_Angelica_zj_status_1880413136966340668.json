@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1880200731636220024",
+    "created_at": "2025-01-18T00:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T01:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880413136966340668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1824110944248799232",
+          "start": 0,
+          "username": "lonelyxiaoye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880413136966340668",
+    "in_reply_to_user_id": "1824110944248799232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880200731636220024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lonelyxiaoye 好萌啊我摸我摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1880200731636220024",
+        "created_at": "2025-01-18T00:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T01:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880413136966340668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1824110944248799232",
+              "start": 0,
+              "username": "lonelyxiaoye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880413136966340668",
+        "in_reply_to_user_id": "1824110944248799232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880200731636220024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lonelyxiaoye 好萌啊我摸我摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824110944248799232",
+        "conversation_id": "1880200731636220024",
+        "created_at": "2025-01-17T10:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T11:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880200731636220024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880200731636220024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 379,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仔细一想我小学时就已经趴课桌上用娇气的声音向同桌卖萌了当时她还摸我脑袋、当时只是觉得酱紫比较可爱👉👈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25144,
+          "following_count": 935,
+          "like_count": 13770,
+          "listed_count": 37,
+          "media_count": 1259,
+          "tweet_count": 14288
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T15:48:47.000Z",
+        "description": "我们向往美好和幸福、我们相互宽慰与扶持、我们一同修补这破碎的世界.（了解我请看主页第一条全部内容ww｜倾诉真实的夜@despairxiaoye）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "despairxiaoye"
+              }
+            ]
+          }
+        },
+        "id": "1824110944248799232",
+        "location": "无光の世界",
+        "name": "破碎小夜 ᜊ( ꒦ິ^꒦ິ )ᜊ",
+        "pinned_tweet_id": "1831567460312740322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833908168885460992/wKn84QOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 241,
+          "like_count": 25831,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 10753
+        },
+        "username": "lonelyxiaoye",
+        "verified": false
+      }
+    ]
+  }
+}

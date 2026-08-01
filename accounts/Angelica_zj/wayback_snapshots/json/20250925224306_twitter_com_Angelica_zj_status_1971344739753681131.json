@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1971083995677900942",
+    "created_at": "2025-09-25T22:43:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T23:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971344739753681131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847778949272584192",
+          "start": 0,
+          "username": "jingsheng237248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971344739753681131",
+    "in_reply_to_user_id": "1847778949272584192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971083995677900942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingsheng237248 那很好用了，员工不想活了就电一电，可以无休止加班"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_1970542694913957888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1jGJAEWYAA6YAY.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1971083995677900942",
+        "created_at": "2025-09-25T22:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T23:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971344739753681131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847778949272584192",
+              "start": 0,
+              "username": "jingsheng237248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971344739753681131",
+        "in_reply_to_user_id": "1847778949272584192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971083995677900942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingsheng237248 那很好用了，员工不想活了就电一电，可以无休止加班"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970542694913957888"
+          ]
+        },
+        "author_id": "1847778949272584192",
+        "conversation_id": "1971083995677900942",
+        "created_at": "2025-09-25T05:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T06:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971083995677900942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LzsSacBNIc",
+              "end": 31,
+              "expanded_url": "https://x.com/jingsheng237248/status/1971083995677900942/photo/1",
+              "media_key": "3_1970542694913957888",
+              "start": 8,
+              "url": "https://t.co/LzsSacBNIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971083995677900942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4911,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "出现了 人薄荷 https://t.co/LzsSacBNIc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25362,
+          "following_count": 989,
+          "like_count": 14280,
+          "listed_count": 42,
+          "media_count": 1386,
+          "tweet_count": 15708
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T23:17:00.000Z",
+        "description": "星际殖民和永生兴趣群：https://t.co/Gb5SFglSDN｜墙外聪明吧联盟tg群https://t.co/Ql2Mtd6Kz1｜💯回关，漏fo请私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+KZtdiRh6Kn85N…",
+                "end": 34,
+                "expanded_url": "https://t.me/+KZtdiRh6Kn85NTdh",
+                "start": 11,
+                "url": "https://t.co/Gb5SFglSDN"
+              },
+              {
+                "display_url": "t.me/+Th-lYpSsPhNhZ…",
+                "end": 68,
+                "expanded_url": "https://t.me/+Th-lYpSsPhNhZWEx",
+                "start": 45,
+                "url": "https://t.co/Ql2Mtd6Kz1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/xiaona…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/xiaonaofujiang.bsky.social",
+                "start": 0,
+                "url": "https://t.co/t48ryN9R9j"
+              }
+            ]
+          }
+        },
+        "id": "1847778949272584192",
+        "location": "小号@xiaobenzhu211",
+        "name": "脑斧酱",
+        "pinned_tweet_id": "1970329157348499560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873060612315455488/mf2pvdmw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11674,
+          "following_count": 11722,
+          "like_count": 4667,
+          "listed_count": 21,
+          "media_count": 804,
+          "tweet_count": 3779
+        },
+        "url": "https://t.co/t48ryN9R9j",
+        "username": "jingsheng237248",
+        "verified": false
+      }
+    ]
+  }
+}

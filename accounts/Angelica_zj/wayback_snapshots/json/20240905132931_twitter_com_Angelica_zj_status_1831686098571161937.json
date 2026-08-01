@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1831685930257936384",
+        "7_1831685930186334208"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "1831686098571161937",
+    "created_at": "2024-09-05T13:29:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T14:29:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1831686098571161937"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pgpdlg5tcq",
+          "end": 163,
+          "expanded_url": "https://twitter.com/Angelica_zj/status/1831686098571161937/video/1",
+          "media_key": "3_1831685930257936384",
+          "start": 140,
+          "url": "https://t.co/PgPdlG5TCq"
+        },
+        {
+          "display_url": "pic.x.com/pgpdlg5tcq",
+          "end": 163,
+          "expanded_url": "https://twitter.com/Angelica_zj/status/1831686098571161937/video/1",
+          "media_key": "7_1831685930186334208",
+          "start": 140,
+          "url": "https://t.co/PgPdlG5TCq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831686098571161937",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发现了更牛逼的办法…\n由于上一篇的遮瑕对突起的增生无作用，于是我打算用肤色的冰袖，但在网上以及线下看了一圈发现色差都非常明显（指一眼就能看出带了袖套）\n后来找到卖丝袜的店铺，发现这种带压感微透的肉色丝袜可以抚平增生，且剪掉袜头后非常隐形，不会像假手臂，搭配遮瑕应该就完全看不到了 https://t.co/PgPdlG5TCq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1831685930257936384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWt0ph0a8AAtCfH.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 8933,
+        "height": 1280,
+        "media_key": "7_1831685930186334208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1831685930186334208/pu/img/rHrgClCCSk2ZlB2T.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1831685930186334208/pu/vid/avc1/320x568/c8gvwf3-RbYYTYSJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1831685930186334208/pu/vid/avc1/480x852/RWOZpxVsIq2FInfk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1831685930186334208/pu/vid/avc1/720x1280/kbcyqj1EjqvTKG7t.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1831685930186334208/pu/pl/HtquEULmp79yN3CQ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831685930257936384",
+            "7_1831685930186334208"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1831686098571161937",
+        "created_at": "2024-09-05T13:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T14:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831686098571161937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pgpdlg5tcq",
+              "end": 163,
+              "expanded_url": "https://twitter.com/Angelica_zj/status/1831686098571161937/video/1",
+              "media_key": "3_1831685930257936384",
+              "start": 140,
+              "url": "https://t.co/PgPdlG5TCq"
+            },
+            {
+              "display_url": "pic.x.com/pgpdlg5tcq",
+              "end": 163,
+              "expanded_url": "https://twitter.com/Angelica_zj/status/1831686098571161937/video/1",
+              "media_key": "7_1831685930186334208",
+              "start": 140,
+              "url": "https://t.co/PgPdlG5TCq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831686098571161937",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现了更牛逼的办法…\n由于上一篇的遮瑕对突起的增生无作用，于是我打算用肤色的冰袖，但在网上以及线下看了一圈发现色差都非常明显（指一眼就能看出带了袖套）\n后来找到卖丝袜的店铺，发现这种带压感微透的肉色丝袜可以抚平增生，且剪掉袜头后非常隐形，不会像假手臂，搭配遮瑕应该就完全看不到了 https://t.co/PgPdlG5TCq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24399,
+          "following_count": 907,
+          "like_count": 13539,
+          "listed_count": 35,
+          "tweet_count": 13560
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

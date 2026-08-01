@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1915075846429434366",
+    "created_at": "2025-04-23T17:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T18:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915095153615970597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1491301213609988096",
+          "start": 0,
+          "username": "Gentry_zd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915095153615970597",
+    "in_reply_to_user_id": "1491301213609988096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915075846429434366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gentry_zd 加油加油o(｀ω´ )o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915075842163785728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpO3VPoawAArLa0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1915075846429434366",
+        "created_at": "2025-04-23T17:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T18:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915095153615970597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1491301213609988096",
+              "start": 0,
+              "username": "Gentry_zd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915095153615970597",
+        "in_reply_to_user_id": "1491301213609988096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915075846429434366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gentry_zd 加油加油o(｀ω´ )o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915075842163785728"
+          ]
+        },
+        "author_id": "1491301213609988096",
+        "conversation_id": "1915075846429434366",
+        "created_at": "2025-04-23T16:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T17:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915075846429434366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cq0dD6i3Zt",
+              "end": 39,
+              "expanded_url": "https://x.com/Gentry_zd/status/1915075846429434366/photo/1",
+              "media_key": "3_1915075842163785728",
+              "start": 16,
+              "url": "https://t.co/Cq0dD6i3Zt"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "1915075846429434366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想用相机，但是每天学习完好累啊 https://t.co/Cq0dD6i3Zt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25384,
+          "following_count": 975,
+          "like_count": 14261,
+          "listed_count": 39,
+          "media_count": 1312,
+          "tweet_count": 15011
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T06:41:48.000Z",
+        "description": "",
+        "id": "1491301213609988096",
+        "location": "北京市",
+        "name": "Dogctormohu",
+        "pinned_tweet_id": "1764330049749258253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510678225495617539/D4LAzoDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 72,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 124
+        },
+        "username": "Gentry_zd",
+        "verified": false
+      }
+    ]
+  }
+}

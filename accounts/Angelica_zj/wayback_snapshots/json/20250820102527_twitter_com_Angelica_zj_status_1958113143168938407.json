@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1957712249998672178",
+    "created_at": "2025-08-20T10:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T11:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958113143168938407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1442033614745526278",
+          "start": 0,
+          "username": "15291175wer"
+        },
+        {
+          "end": 27,
+          "id": "1885369213004787712",
+          "start": 13,
+          "username": "Akira19567571"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958113143168938407",
+    "in_reply_to_user_id": "1442033614745526278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958084784804286586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@15291175wer @Akira19567571 嫖娼分为合法嫖和非法嫖吗，还是说有嫖了一半的说法？非处女里有合法恋爱的，有反复短择的，也有非法发生关系的。你倒是来跟我说说这两件事怎么同例对比呢？\n逻辑思维差看不懂字就多读书，不要学两个网络用语就出来丢人现眼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1957712249998672178",
+        "created_at": "2025-08-20T10:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T11:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958113143168938407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1442033614745526278",
+              "start": 0,
+              "username": "15291175wer"
+            },
+            {
+              "end": 27,
+              "id": "1885369213004787712",
+              "start": 13,
+              "username": "Akira19567571"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958113143168938407",
+        "in_reply_to_user_id": "1442033614745526278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958084784804286586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@15291175wer @Akira19567571 嫖娼分为合法嫖和非法嫖吗，还是说有嫖了一半的说法？非处女里有合法恋爱的，有反复短择的，也有非法发生关系的。你倒是来跟我说说这两件事怎么同例对比呢？\n逻辑思维差看不懂字就多读书，不要学两个网络用语就出来丢人现眼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442033614745526278",
+        "conversation_id": "1957712249998672178",
+        "created_at": "2025-08-20T08:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T09:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958084784804286586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 27,
+              "id": "1885369213004787712",
+              "start": 13,
+              "username": "Akira19567571"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958084784804286586",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958034463541051748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj @Akira19567571 我十分好奇你的脑回路…………楼主只是说她认为的少部分人的观点言论，二楼也只是同例类比，你添料扯到恋爱，现在又扯到全中国女性性行为，神奇的大脑左右互搏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25396,
+          "following_count": 987,
+          "like_count": 14327,
+          "listed_count": 39,
+          "media_count": 1389,
+          "tweet_count": 15613
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T07:49:45.000Z",
+        "description": "任何时间 任何地点 超级变态顶风作案（风光摄影师版）",
+        "id": "1442033614745526278",
+        "location": "新加坡",
+        "name": "吃橘子不吐葡萄皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927380841430188032/G_SNVOhD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 218,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 237
+        },
+        "username": "15291175wer",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T16:47:11.000Z",
+        "description": "缸中之脑",
+        "id": "1885369213004787712",
+        "name": "陈冠吸张柏汁谢霆疯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936704877205348355/-brvKXjF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 9,
+          "like_count": 692,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 2577
+        },
+        "username": "Akira19567571",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2012811524708942113",
+    "created_at": "2026-01-18T12:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T13:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012869938038337686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1940120289070796801",
+          "start": 0,
+          "username": "shanjianxiaoyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012869938038337686",
+    "in_reply_to_user_id": "1940120289070796801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012826425112572411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanjianxiaoyu 是的，有这种可能的话我会找方法提醒女生的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2012811524708942113",
+        "created_at": "2026-01-18T12:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T13:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012869938038337686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1940120289070796801",
+              "start": 0,
+              "username": "shanjianxiaoyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012869938038337686",
+        "in_reply_to_user_id": "1940120289070796801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012826425112572411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanjianxiaoyu 是的，有这种可能的话我会找方法提醒女生的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940120289070796801",
+        "conversation_id": "2012811524708942113",
+        "created_at": "2026-01-18T09:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T10:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012826425112572411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012826425112572411",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012811524708942113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 话说如果这弟弟不出柜而是直接正常结婚，那和他结婚的人太遭殃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25276,
+          "following_count": 1025,
+          "like_count": 14490,
+          "listed_count": 40,
+          "media_count": 1501,
+          "tweet_count": 16492
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T18:48:31.000Z",
+        "description": "日常发牢骚\n匿名https://t.co/ngkMTRfXqb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shanjianxiaoyu",
+                "end": 31,
+                "expanded_url": "https://ngl.link/shanjianxiaoyu",
+                "start": 8,
+                "url": "https://t.co/ngkMTRfXqb"
+              }
+            ]
+          }
+        },
+        "id": "1940120289070796801",
+        "location": "0.1cm",
+        "name": "湫伞",
+        "pinned_tweet_id": "1985424208944582834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979592021577711616/XBTA9HLE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 42,
+          "like_count": 540,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 2308
+        },
+        "username": "shanjianxiaoyu",
+        "verified": false
+      }
+    ]
+  }
+}

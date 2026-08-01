@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2053211118890283392",
+    "created_at": "2026-05-10T04:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053329970068324529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4797372137",
+          "start": 0,
+          "username": "derwolf01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053329970068324529",
+    "in_reply_to_user_id": "4797372137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053218728012038498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@derwolf01 和很多人的相处都让我感到很累，是我太紧绷了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2053211118890283392",
+        "created_at": "2026-05-10T04:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053329970068324529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4797372137",
+              "start": 0,
+              "username": "derwolf01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053329970068324529",
+        "in_reply_to_user_id": "4797372137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053218728012038498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@derwolf01 和很多人的相处都让我感到很累，是我太紧绷了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4797372137",
+        "conversation_id": "2053211118890283392",
+        "created_at": "2026-05-09T21:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T22:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053218728012038498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053218728012038498",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053211118890283392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj Warum?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25154,
+          "following_count": 1051,
+          "like_count": 14744,
+          "listed_count": 42,
+          "media_count": 1582,
+          "tweet_count": 17089
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T20:21:27.000Z",
+        "description": "",
+        "id": "4797372137",
+        "location": "Norderstedt, Schleswig-Holstei",
+        "name": "Dirk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1421505861130854402/xlVvhzme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 93,
+          "like_count": 3308,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1505
+        },
+        "username": "derwolf01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1983521986715566272",
+    "created_at": "2025-10-30T05:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T06:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983769531752575280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2676260819",
+          "start": 0,
+          "username": "smilingminemine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983769531752575280",
+    "in_reply_to_user_id": "2676260819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983751170578371017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smilingminemine 对hhhhh，说剧情恶俗…我：？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1983521986715566272",
+        "created_at": "2025-10-30T05:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T06:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983769531752575280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2676260819",
+              "start": 0,
+              "username": "smilingminemine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983769531752575280",
+        "in_reply_to_user_id": "2676260819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983751170578371017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smilingminemine 对hhhhh，说剧情恶俗…我：？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2676260819",
+        "conversation_id": "1983521986715566272",
+        "created_at": "2025-10-30T04:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983751170578371017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983751170578371017",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983521986715566272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 看着像明日酱的水手服，这都能被说是媚男番吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25346,
+          "following_count": 993,
+          "like_count": 14218,
+          "listed_count": 43,
+          "media_count": 1413,
+          "tweet_count": 15879
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-05T15:48:29.000Z",
+        "description": "pixiv👉 https://t.co/OaL1r6Zt8O ｜小号@sugarmonsterOVO｜https://t.co/ASHYQz7oJM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "sugarmonsterOVO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/61263796",
+                "end": 30,
+                "expanded_url": "https://www.pixiv.net/users/61263796",
+                "start": 7,
+                "url": "https://t.co/OaL1r6Zt8O"
+              },
+              {
+                "display_url": "ngl.link/smilingminemine",
+                "end": 74,
+                "expanded_url": "https://ngl.link/smilingminemine",
+                "start": 51,
+                "url": "https://t.co/ASHYQz7oJM"
+              }
+            ]
+          }
+        },
+        "id": "2676260819",
+        "location": "🚪一盒宝丽来600相纸",
+        "name": "手冲恶魔",
+        "pinned_tweet_id": "1910139492796940296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892857046900379648/9tpcRknn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13052,
+          "following_count": 417,
+          "like_count": 12952,
+          "listed_count": 47,
+          "media_count": 476,
+          "tweet_count": 4191
+        },
+        "username": "smilingminemine",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1880979141459316995",
+    "created_at": "2025-01-19T14:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T15:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880983537404514695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1705924633747456000",
+          "start": 0,
+          "username": "yaowandan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880983537404514695",
+    "in_reply_to_user_id": "1705924633747456000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880982924969050291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaowandan 啊啊啊听着就感觉夏天去很爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1880979141459316995",
+        "created_at": "2025-01-19T14:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T15:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880983537404514695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1705924633747456000",
+              "start": 0,
+              "username": "yaowandan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880983537404514695",
+        "in_reply_to_user_id": "1705924633747456000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880982924969050291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaowandan 啊啊啊听着就感觉夏天去很爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705924633747456000",
+        "conversation_id": "1880979141459316995",
+        "created_at": "2025-01-19T14:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T15:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880982924969050291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880982924969050291",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880979141459316995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 好想去避暑山庄，感觉会很舒服那边环境"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25151,
+          "following_count": 936,
+          "like_count": 13792,
+          "listed_count": 37,
+          "media_count": 1259,
+          "tweet_count": 14327
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T12:38:30.000Z",
+        "description": "",
+        "id": "1705924633747456000",
+        "location": "男",
+        "name": "爱喝三鹿奶粉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802884193925447681/iFCoV1l8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 78,
+          "like_count": 26781,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 8993
+        },
+        "username": "yaowandan",
+        "verified": false
+      }
+    ]
+  }
+}

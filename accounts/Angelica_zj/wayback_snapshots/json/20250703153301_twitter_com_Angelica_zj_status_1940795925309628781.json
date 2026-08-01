@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1939164443012694335",
+    "created_at": "2025-07-03T15:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T16:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940795925309628781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1656272781393399810",
+          "start": 0,
+          "username": "deepdarl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940795925309628781",
+    "in_reply_to_user_id": "1656272781393399810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939314504070021348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deepdarl 对路"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939314500488069120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GunUQ2VbAAAaO3o.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1939164443012694335",
+        "created_at": "2025-07-03T15:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T16:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940795925309628781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1656272781393399810",
+              "start": 0,
+              "username": "deepdarl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940795925309628781",
+        "in_reply_to_user_id": "1656272781393399810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939314504070021348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deepdarl 对路"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939314500488069120"
+          ]
+        },
+        "author_id": "1656272781393399810",
+        "conversation_id": "1939164443012694335",
+        "created_at": "2025-06-29T13:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T14:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939314504070021348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FcASZ6hhlK",
+              "end": 45,
+              "expanded_url": "https://x.com/deepdarl/status/1939314504070021348/photo/1",
+              "media_key": "3_1939314500488069120",
+              "start": 22,
+              "url": "https://t.co/FcASZ6hhlK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939314504070021348",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939164443012694335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 九寨沟…一眼认出 https://t.co/FcASZ6hhlK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25497,
+          "following_count": 995,
+          "like_count": 14449,
+          "listed_count": 36,
+          "media_count": 1375,
+          "tweet_count": 15496
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T12:19:46.000Z",
+        "description": "废人/x/社交绝缘体/无厘头\n（不是女的）\n头像是我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "麻烦你替我多快乐一点.org",
+                "end": 23,
+                "expanded_url": "http://xn--4gq7g63au8zkriikdnvlkjumla3420b.org",
+                "start": 0,
+                "url": "https://t.co/3TGHzRfJCe"
+              }
+            ]
+          }
+        },
+        "id": "1656272781393399810",
+        "location": "Tokyo",
+        "name": "𝑬𝒍𝒆𝒄𝒕𝒓𝒊𝒄 𝑺𝒉𝒆𝒆𝒑 𝒂𝒏𝒅 𝑨𝒍𝒊𝒄𝒆🐏🐏",
+        "pinned_tweet_id": "1888475452165026141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848639180685119491/hRtbnwRG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 57,
+          "like_count": 6209,
+          "listed_count": 0,
+          "media_count": 450,
+          "tweet_count": 2398
+        },
+        "url": "https://t.co/3TGHzRfJCe",
+        "username": "deepdarl",
+        "verified": false
+      }
+    ]
+  }
+}

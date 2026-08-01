@@ -1,0 +1,95 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1665930857834590214",
+    "created_at": "2023-06-06T03:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2023-06-06T04:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1665930857834590214"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1665930857834590214",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "而且很久很久没有自残了，虽然有极端痛苦的时候，但我还是忍住了，无论是割伤还是烟烫，我都忍住了\n我知道只要没控制住有了哪怕（一个）新伤口，之前的努力就全都白费了，，自残这种事情我不好说，至少对于我来说，是有严重成瘾性的，而且尝试停下的戒断反应也很痛苦。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1665930857834590214",
+        "created_at": "2023-06-06T03:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-06T04:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1665930857834590214"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1665930857834590214",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "而且很久很久没有自残了，虽然有极端痛苦的时候，但我还是忍住了，无论是割伤还是烟烫，我都忍住了\n我知道只要没控制住有了哪怕（一个）新伤口，之前的努力就全都白费了，，自残这种事情我不好说，至少对于我来说，是有严重成瘾性的，而且尝试停下的戒断反应也很痛苦。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 🐙小章鱼的意思是抱抱 / ⚠️自伤疤痕负能注意避雷⚠️ / 情绪状态极不稳定 / 性取向是水仙 / 不喜欢被私信要回fo / 二号9⃣️：@AAAAG_Angelica",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "AAAAG_Angelica"
+              }
+            ]
+          }
+        },
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17406,
+          "following_count": 907,
+          "listed_count": 24,
+          "tweet_count": 10475
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

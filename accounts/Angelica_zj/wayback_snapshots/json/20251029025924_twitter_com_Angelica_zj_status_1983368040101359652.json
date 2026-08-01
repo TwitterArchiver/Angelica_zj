@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1983240424925081638",
+    "created_at": "2025-10-29T02:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T03:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983368040101359652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "700699352889581572",
+          "start": 0,
+          "username": "ChuuniC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983368040101359652",
+    "in_reply_to_user_id": "700699352889581572",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983255683043864641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChuuniC 大脑早已年迈体弱…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1983255683043864641].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1983255683043864641",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1983255683043864641"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1983240424925081638",
+        "created_at": "2025-10-29T02:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T03:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983368040101359652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "700699352889581572",
+              "start": 0,
+              "username": "ChuuniC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983368040101359652",
+        "in_reply_to_user_id": "700699352889581572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983255683043864641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChuuniC 大脑早已年迈体弱…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25343,
+          "following_count": 992,
+          "like_count": 14211,
+          "listed_count": 43,
+          "media_count": 1412,
+          "tweet_count": 15870
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-19T15:11:58.000Z",
+        "description": "有時很懊惱 \n有時也感到驕傲 \n有時不後悔 曾這樣表達憤怒",
+        "id": "700699352889581572",
+        "location": "康平路165号, 上海, 中华人民共和国",
+        "name": "chuuni_#C 🐬 🍥",
+        "pinned_tweet_id": "1705909425503093118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638852585196240897/yvg99ggZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 2313,
+          "like_count": 27467,
+          "listed_count": 5,
+          "media_count": 2371,
+          "tweet_count": 26819
+        },
+        "username": "ChuuniC",
+        "verified": false
+      }
+    ]
+  }
+}

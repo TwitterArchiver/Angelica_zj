@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2055040737352335853",
+    "created_at": "2026-05-14T21:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T22:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055040737352335853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2042970986488721408",
+          "start": 3,
+          "username": "qiaobianshaonan"
+        },
+        {
+          "end": 35,
+          "id": "1244543552652054528",
+          "start": 21,
+          "username": "Greenfish_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055040737352335853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054861379530813627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiaobianshaonan: @Greenfish_111 英文里也有类似的概念，叫做 lolcow。互联网最大的坏处就是把人简化成了一串数据，而一些人缺乏这些数据对应着现实生活中的人的意识。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2055040737352335853",
+        "created_at": "2026-05-14T21:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T22:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055040737352335853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2042970986488721408",
+              "start": 3,
+              "username": "qiaobianshaonan"
+            },
+            {
+              "end": 35,
+              "id": "1244543552652054528",
+              "start": 21,
+              "username": "Greenfish_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055040737352335853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054861379530813627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiaobianshaonan: @Greenfish_111 英文里也有类似的概念，叫做 lolcow。互联网最大的坏处就是把人简化成了一串数据，而一些人缺乏这些数据对应着现实生活中的人的意识。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042970986488721408",
+        "conversation_id": "2054774355046093174",
+        "created_at": "2026-05-14T09:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054861379530813627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054861379530813627",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4682,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054774355046093174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_111 英文里也有类似的概念，叫做 lolcow。互联网最大的坏处就是把人简化成了一串数据，而一些人缺乏这些数据对应着现实生活中的人的意识。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25156,
+          "following_count": 1048,
+          "like_count": 14747,
+          "listed_count": 42,
+          "media_count": 1588,
+          "tweet_count": 17134
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T14:20:19.000Z",
+        "description": "世上所有小恐龙 都会面临大灭绝\n来推特观察人类多样性",
+        "id": "2042970986488721408",
+        "location": "能分割世界的桥",
+        "name": "采石",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052263925648076800/dcyfI841_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 63,
+          "like_count": 718,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 196
+        },
+        "username": "qiaobianshaonan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中无力地裂开\nbpd/🚪520/1314\n神秘备用号@flyfrog_222",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "flyfrog_222"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://kuainiao.online/#/register?code=iV5KjmJy",
+                "start": 0,
+                "url": "https://t.co/KTFJqVGMO0"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "Silent Hill     自用梯子⬇️",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "2047987551819194768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872220255705333760/XVl2yIEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4928,
+          "following_count": 543,
+          "like_count": 13089,
+          "listed_count": 8,
+          "media_count": 1085,
+          "tweet_count": 14021
+        },
+        "url": "https://t.co/KTFJqVGMO0",
+        "username": "Greenfish_111",
+        "verified": true
+      }
+    ]
+  }
+}

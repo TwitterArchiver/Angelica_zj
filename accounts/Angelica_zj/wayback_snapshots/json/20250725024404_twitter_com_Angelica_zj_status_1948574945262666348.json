@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1948574945262666348",
+    "created_at": "2025-07-25T02:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T03:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948574945262666348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/angelica_zj/st…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/angelica_zj/status/1948573532839182412",
+          "start": 64,
+          "url": "https://t.co/RDgUw7a8ql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948574945262666348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948573532839182412",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "儿子用老公的方式“爱”自己是一件值得宣扬的事么，母子关系和恋爱关系混为一谈真不觉得奇怪？写这个段子的人不是娇妻就是男人我只能说 https://t.co/RDgUw7a8ql"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1948574945262666348",
+        "created_at": "2025-07-25T02:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T03:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948574945262666348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/angelica_zj/st…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/angelica_zj/status/1948573532839182412",
+              "start": 64,
+              "url": "https://t.co/RDgUw7a8ql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948574945262666348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948573532839182412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "儿子用老公的方式“爱”自己是一件值得宣扬的事么，母子关系和恋爱关系混为一谈真不觉得奇怪？写这个段子的人不是娇妻就是男人我只能说 https://t.co/RDgUw7a8ql"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1947666603145105897",
+        "created_at": "2025-07-25T02:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T03:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948573532839182412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748740819455217664",
+              "start": 0,
+              "username": "s4GcxRSQcZ6278"
+            },
+            {
+              "end": 24,
+              "id": "1433678976564662273",
+              "start": 16,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948573532839182412",
+        "in_reply_to_user_id": "1748740819455217664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948217095885590628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s4GcxRSQcZ6278 @hsn8086 单纯亲子关系的场景被套用了恋爱关系的话语和情感逻辑，孩子说出了不属于他这个年龄的“深情与依恋”，而母亲也在用“婚姻娇嗔抱怨”的语气回应。\n整段话打着温情的幌子在混淆身份 年龄和情感边界。想不明白的话代入一下你和你妈就好了，如果你觉得最后一句话没问题的话那八成你也有点恋母情节"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25448,
+          "following_count": 994,
+          "like_count": 14376,
+          "listed_count": 37,
+          "media_count": 1385,
+          "tweet_count": 15556
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2065877366329713094",
+    "created_at": "2026-06-13T20:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T21:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065891495106707670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1513753182182133762",
+          "start": 0,
+          "username": "wysgdmn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065891495106707670",
+    "in_reply_to_user_id": "1513753182182133762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065877366329713094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wysgdmn 感觉得小心他之后联系不上你上你家堵你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2065877366329713094",
+        "created_at": "2026-06-13T20:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T21:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065891495106707670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1513753182182133762",
+              "start": 0,
+              "username": "wysgdmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065891495106707670",
+        "in_reply_to_user_id": "1513753182182133762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065877366329713094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wysgdmn 感觉得小心他之后联系不上你上你家堵你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513753182182133762",
+        "conversation_id": "2065877366329713094",
+        "created_at": "2026-06-13T19:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065877366329713094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "狼’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1YxNr…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1YxNrrOmrByxw",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2065877367642583040/LHTXN6Z2?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2065877367642583040/LHTXN6Z2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 被尾随回家后他把我操了…",
+              "unwound_url": "https://twitter.com/i/spaces/1YxNrrOmrByxw/peek",
+              "url": "https://t.co/Vn7LbsdDBG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065877366329713094",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8494,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 152,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Vn7LbsdDBG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25086,
+          "following_count": 1050,
+          "like_count": 14851,
+          "listed_count": 41,
+          "media_count": 1595,
+          "tweet_count": 17259
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T05:42:34.000Z",
+        "description": "🚪1314rmb  口令红包或u 加vx      ‖常驻杭州     ‖💼🐏很贵 口嗨别烦 有意请先过门 没有满足好奇心的义务‖  没福利 不卖图包视频    ‖ 🍑店铺：doi用🔍:  丸趣WannaPlay‖倒膜：黑科技工程机（进店搜丸崽）‖防走丢:https://t.co/R244nQ8dfp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zhenpintuji",
+                "end": 151,
+                "expanded_url": "https://t.me/zhenpintuji",
+                "start": 128,
+                "url": "https://t.co/R244nQ8dfp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wannaplay.taobao.com",
+                "end": 23,
+                "expanded_url": "https://wannaplay.taobao.com/",
+                "start": 0,
+                "url": "https://t.co/ItFzepNc5M"
+              }
+            ]
+          }
+        },
+        "id": "1513753182182133762",
+        "location": "淘宝店：丸趣WannaPlay",
+        "name": "狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004423749362479104/9--HUOnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606850,
+          "following_count": 1,
+          "like_count": 1351,
+          "listed_count": 834,
+          "media_count": 1261,
+          "tweet_count": 4939
+        },
+        "url": "https://t.co/ItFzepNc5M",
+        "username": "wysgdmn",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1920262621162336463",
+    "created_at": "2025-05-09T15:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T16:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920863490744471587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "881551456263782400",
+          "start": 0,
+          "username": "cnfldfhzhshrh"
+        },
+        {
+          "end": 26,
+          "id": "1852405305696542721",
+          "start": 15,
+          "username": "EZ_life233"
+        },
+        {
+          "end": 38,
+          "id": "1669250248265302020",
+          "start": 27,
+          "username": "xu96175836"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920863490744471587",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920861426232553878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cnfldfhzhshrh @EZ_life233 @xu96175836 我曾经的长辈里有过忠实的法轮功信徒，我小时候因他们也读过那么厚一本“转法轮”全文，只能说大多数都是以气功概念和佛学结合的经书，高层信徒我不了解所以不做评价，只是觉得文化水平不高并且从小苦到大的人群把此作为信仰是一件很悲哀的事情，真不至于对他们这些人大力打压…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1920262621162336463",
+        "created_at": "2025-05-09T15:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T16:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920863490744471587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "881551456263782400",
+              "start": 0,
+              "username": "cnfldfhzhshrh"
+            },
+            {
+              "end": 26,
+              "id": "1852405305696542721",
+              "start": 15,
+              "username": "EZ_life233"
+            },
+            {
+              "end": 38,
+              "id": "1669250248265302020",
+              "start": 27,
+              "username": "xu96175836"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920863490744471587",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920861426232553878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cnfldfhzhshrh @EZ_life233 @xu96175836 我曾经的长辈里有过忠实的法轮功信徒，我小时候因他们也读过那么厚一本“转法轮”全文，只能说大多数都是以气功概念和佛学结合的经书，高层信徒我不了解所以不做评价，只是觉得文化水平不高并且从小苦到大的人群把此作为信仰是一件很悲哀的事情，真不至于对他们这些人大力打压…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1920262621162336463",
+        "created_at": "2025-05-09T15:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T16:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920861426232553878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "881551456263782400",
+              "start": 0,
+              "username": "cnfldfhzhshrh"
+            },
+            {
+              "end": 26,
+              "id": "1852405305696542721",
+              "start": 15,
+              "username": "EZ_life233"
+            },
+            {
+              "end": 38,
+              "id": "1669250248265302020",
+              "start": 27,
+              "username": "xu96175836"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920861426232553878",
+        "in_reply_to_user_id": "881551456263782400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920754096253837675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cnfldfhzhshrh @EZ_life233 @xu96175836 我是小地方长大的可以算是比较了解这个群体…其实大多数练法轮功的老年人都只是被诱骗寻求一个信仰罢了。绝大多数底层信徒都是上了年纪的人，也只是奉行所谓的“真善忍”，把什么“转法轮”背的滚瓜烂熟，真翻不起什么风浪，唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25391,
+          "following_count": 987,
+          "like_count": 14355,
+          "listed_count": 37,
+          "media_count": 1335,
+          "tweet_count": 15151
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-02T16:33:40.000Z",
+        "description": "#古典音楽 #古典舞踊 #伝統文化 #温泉 #旅行 #美食 #撮影 #奇跡 #悪が嫌い善に従う\n 泣くも一日笑うも一日、フォローしてくれる方は幸せになる！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "古典音楽"
+              },
+              {
+                "end": 11,
+                "start": 6,
+                "tag": "古典舞踊"
+              },
+              {
+                "end": 17,
+                "start": 12,
+                "tag": "伝統文化"
+              },
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "温泉"
+              },
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "旅行"
+              },
+              {
+                "end": 29,
+                "start": 26,
+                "tag": "美食"
+              },
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "撮影"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "奇跡"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "tag": "悪が嫌い善に従う"
+              }
+            ]
+          }
+        },
+        "id": "881551456263782400",
+        "name": "Tony・kai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1080308584854958081/1RUpF_cg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 461,
+          "like_count": 1314,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 406
+        },
+        "username": "cnfldfhzhshrh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T17:40:25.000Z",
+        "description": "",
+        "id": "1852405305696542721",
+        "location": "四川省成都市郫都区",
+        "name": "EZ_life",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852405578649255936/qm6r5dDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 21,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "EZ_life233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T07:47:28.000Z",
+        "description": "一个人的各种品性之中，德行是第一位的。\n优良的品性是真正的财富，而衬显这品性的是良好的教养。",
+        "id": "1669250248265302020",
+        "name": "雪柔",
+        "pinned_tweet_id": "1855778217598337030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690669189856444417/1SYUbSmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99811,
+          "following_count": 1499,
+          "like_count": 6768,
+          "listed_count": 290,
+          "media_count": 8971,
+          "tweet_count": 9708
+        },
+        "username": "xu96175836",
+        "verified": true
+      }
+    ]
+  }
+}

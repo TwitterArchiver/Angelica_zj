@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2064047141677367644",
+    "created_at": "2026-06-08T18:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T19:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064047141677367644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/imdieeeeee/sta…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/imdieeeeee/status/2063744154144772128",
+          "start": 137,
+          "url": "https://t.co/7HfqNLeNx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064047141677367644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063744154144772128",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（一些暴论）所以我觉得【部分】查成分骂异性恋女“驴”“敌方坐骑”等等的女同激女很讨巧，她们自己可以很轻松的脱男拥有恋爱和性爱，却转过头用各种恶毒的词汇讥讽异性恋女。性冲动是人类的本能，脱也得有个过程吧…然而有些人自己享受着性缘，舆论场上翻个主页就给人定性划分阵营了🙂‍↕️ https://t.co/7HfqNLeNx0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2064047141677367644",
+        "created_at": "2026-06-08T18:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064047141677367644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/imdieeeeee/sta…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/imdieeeeee/status/2063744154144772128",
+              "start": 137,
+              "url": "https://t.co/7HfqNLeNx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064047141677367644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063744154144772128",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（一些暴论）所以我觉得【部分】查成分骂异性恋女“驴”“敌方坐骑”等等的女同激女很讨巧，她们自己可以很轻松的脱男拥有恋爱和性爱，却转过头用各种恶毒的词汇讥讽异性恋女。性冲动是人类的本能，脱也得有个过程吧…然而有些人自己享受着性缘，舆论场上翻个主页就给人定性划分阵营了🙂‍↕️ https://t.co/7HfqNLeNx0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749585465475256323",
+        "conversation_id": "2063744154144772128",
+        "created_at": "2026-06-07T22:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T23:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063744154144772128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063744154144772128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 148581,
+          "like_count": 1399,
+          "quote_count": 23,
+          "reply_count": 219,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "好想做爱啊。。。女孩要克服的那个瞬间也包括这个吗老天爷。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25077,
+          "following_count": 1046,
+          "like_count": 14831,
+          "listed_count": 41,
+          "media_count": 1595,
+          "tweet_count": 17230
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T00:11:07.000Z",
+        "description": "喵 欢迎您来 很不高兴见到您",
+        "id": "1749585465475256323",
+        "location": "天国",
+        "name": "T^T",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004786508117782528/VpnLT_jj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 79,
+          "like_count": 1032,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 2381
+        },
+        "username": "imdieeeeee",
+        "verified": false
+      }
+    ]
+  }
+}

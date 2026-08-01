@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2033187554812408186",
+    "created_at": "2026-03-15T14:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T15:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033187554812408186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/inkingfish/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/inkingfish/status/2030839860643451350",
+          "start": 7,
+          "url": "https://t.co/2a7WzhiTLJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033187554812408186",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030839860643451350",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看得我一直笑 https://t.co/2a7WzhiTLJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2033187554812408186",
+        "created_at": "2026-03-15T14:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033187554812408186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inkingfish/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/inkingfish/status/2030839860643451350",
+              "start": 7,
+              "url": "https://t.co/2a7WzhiTLJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033187554812408186",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030839860643451350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看得我一直笑 https://t.co/2a7WzhiTLJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1198837480759287808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Scott Morrison",
+              "id": "1514215761610379268",
+              "name": "Anthony Albanese"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1514213975398920196",
+              "name": "Australian Federal Election 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Scott Morrison",
+              "id": "1514215761610379268",
+              "name": "Anthony Albanese"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Scott Morrison",
+              "id": "1514215761610379268",
+              "name": "Anthony Albanese"
+            }
+          }
+        ],
+        "conversation_id": "2030839860643451350",
+        "created_at": "2026-03-09T02:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T03:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030839860643451350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "254515782",
+              "start": 0,
+              "username": "AlboMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030839860643451350",
+        "in_reply_to_user_id": "254515782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3586,
+          "like_count": 72,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "@AlboMP 我真的操你妈了每次看黄都要刷脸验证，你舔你老婆逼的时候是不是也得刷一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25268,
+          "following_count": 1047,
+          "like_count": 14634,
+          "listed_count": 40,
+          "media_count": 1542,
+          "tweet_count": 16790
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-25T05:35:10.000Z",
+        "description": "我虽独身，在此也住多年，常言道，寡妇门前是非多，好事不出门，坏事传千里，所以只能身居茅屋，眼观全球，脚踩污泥，胸怀天下，我说的对吗？",
+        "id": "1198837480759287808",
+        "location": "蚌埠，安徽",
+        "name": "小米汽车抚顺车友群",
+        "pinned_tweet_id": "1536905463412842496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902399849867440133/zJxjYFBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6943,
+          "following_count": 452,
+          "like_count": 12575,
+          "listed_count": 24,
+          "media_count": 370,
+          "tweet_count": 13287
+        },
+        "username": "Inkingfish",
+        "verified": false
+      }
+    ]
+  }
+}

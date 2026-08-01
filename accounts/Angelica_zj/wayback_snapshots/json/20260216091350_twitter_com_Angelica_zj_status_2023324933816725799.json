@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2023135269478965730",
+    "created_at": "2026-02-16T09:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T10:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023324933816725799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1533108589857951744",
+          "start": 0,
+          "username": "Unknown_XX04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023324933816725799",
+    "in_reply_to_user_id": "1533108589857951744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023308844320039160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Unknown_XX04 或许只是打个预防针。唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2023135269478965730",
+        "created_at": "2026-02-16T09:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023324933816725799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1533108589857951744",
+              "start": 0,
+              "username": "Unknown_XX04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023324933816725799",
+        "in_reply_to_user_id": "1533108589857951744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023308844320039160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Unknown_XX04 或许只是打个预防针。唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533108589857951744",
+        "conversation_id": "2023135269478965730",
+        "created_at": "2026-02-16T08:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023308844320039160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023308844320039160",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023135269478965730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 真好意思借啊😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25258,
+          "following_count": 1038,
+          "like_count": 14620,
+          "listed_count": 40,
+          "media_count": 1522,
+          "tweet_count": 16667
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T15:29:23.000Z",
+        "description": "名前はライラー/你想在这里看到什么？/ここで何を見たい？/絵垢/病み垢 鍵垢🔑:@Unknown_000A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "Unknown_000A"
+              }
+            ]
+          }
+        },
+        "id": "1533108589857951744",
+        "location": "Рядом с тобой",
+        "name": "学姐和我打篮球被我扣篮",
+        "pinned_tweet_id": "1971732405167050959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007005216886153217/OVLlU-wO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 1229,
+          "like_count": 25754,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 4136
+        },
+        "username": "Unknown_XX04",
+        "verified": false
+      }
+    ]
+  }
+}

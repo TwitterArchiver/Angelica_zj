@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1841921172981875129",
+    "created_at": "2024-10-03T19:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T20:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1841921172981875129"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1841921172981875129",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老天爷你搞错了吧，我应该是在东京默默无闻的高中生，在18岁时被上天选中成为假面骑士，帅气的二骑用机车载着我狂飙，和活泼可爱的女高中生一起拯救麻木不堪的大人，独自和怪人组织生死搏斗默默的保护全人类，人类生死存亡之际觉醒极致的力量变身终极形态彻底改变世界的命运，怎么会投胎到这个sb身上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1841921172981875129",
+        "created_at": "2024-10-03T19:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T20:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841921172981875129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1841921172981875129",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老天爷你搞错了吧，我应该是在东京默默无闻的高中生，在18岁时被上天选中成为假面骑士，帅气的二骑用机车载着我狂飙，和活泼可爱的女高中生一起拯救麻木不堪的大人，独自和怪人组织生死搏斗默默的保护全人类，人类生死存亡之际觉醒极致的力量变身终极形态彻底改变世界的命运，怎么会投胎到这个sb身上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24486,
+          "following_count": 908,
+          "like_count": 13653,
+          "listed_count": 36,
+          "tweet_count": 13680
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

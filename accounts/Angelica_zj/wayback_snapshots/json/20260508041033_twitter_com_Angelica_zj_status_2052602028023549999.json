@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2052329583546937415",
+    "created_at": "2026-05-08T04:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T05:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052602028023549999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "791675177952284672",
+          "start": 0,
+          "username": "7wine_OS"
+        },
+        {
+          "end": 19,
+          "id": "2012631283898187776",
+          "start": 10,
+          "username": "youy1qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052602028023549999",
+    "in_reply_to_user_id": "791675177952284672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052592534577357129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7wine_OS @youy1qwq 😭没吃到过你说的这种我一直在遗憾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2052329583546937415",
+        "created_at": "2026-05-08T04:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T05:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052602028023549999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "791675177952284672",
+              "start": 0,
+              "username": "7wine_OS"
+            },
+            {
+              "end": 19,
+              "id": "2012631283898187776",
+              "start": 10,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052602028023549999",
+        "in_reply_to_user_id": "791675177952284672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052592534577357129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7wine_OS @youy1qwq 😭没吃到过你说的这种我一直在遗憾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "791675177952284672",
+        "conversation_id": "2052329583546937415",
+        "created_at": "2026-05-08T03:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052592534577357129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            },
+            {
+              "end": 22,
+              "id": "2012631283898187776",
+              "start": 13,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052592534577357129",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052388026064543818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj @youy1qwq 小时候最喜欢的就是那个玉米棒    我那会吃的确实外面抹了东西的  整个玉米都在反光    不过没几年就不卖了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25151,
+          "following_count": 1053,
+          "like_count": 14741,
+          "listed_count": 42,
+          "media_count": 1578,
+          "tweet_count": 17073
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-27T16:17:25.000Z",
+        "description": "",
+        "id": "791675177952284672",
+        "name": "「普通人类」",
+        "pinned_tweet_id": "1725862935074111663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991480516806119424/M0ZGpQOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 460,
+          "like_count": 27770,
+          "listed_count": 0,
+          "media_count": 433,
+          "tweet_count": 3035
+        },
+        "username": "7wine_OS",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12471,
+          "following_count": 1755,
+          "like_count": 4051,
+          "listed_count": 20,
+          "media_count": 1671,
+          "tweet_count": 2183
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

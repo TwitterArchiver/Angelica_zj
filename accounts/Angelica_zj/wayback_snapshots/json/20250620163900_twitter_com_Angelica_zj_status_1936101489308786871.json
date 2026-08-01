@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1936045558327902431",
+    "created_at": "2025-06-20T16:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T17:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936101489308786871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "760693285828591617",
+          "start": 0,
+          "username": "GNK48_InkyMoss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936101489308786871",
+    "in_reply_to_user_id": "760693285828591617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936059301506040120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GNK48_InkyMoss 哭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1936045558327902431",
+        "created_at": "2025-06-20T16:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T17:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936101489308786871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "760693285828591617",
+              "start": 0,
+              "username": "GNK48_InkyMoss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936101489308786871",
+        "in_reply_to_user_id": "760693285828591617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936059301506040120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GNK48_InkyMoss 哭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "760693285828591617",
+        "conversation_id": "1936045558327902431",
+        "created_at": "2025-06-20T13:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T14:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936059301506040120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936059301506040120",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936045558327902431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我是有宿舍就宿舍 没有就在郊区的地铁站附近找房 内城租房上一个月班一大半工资都送房东了 至于合租...体验了一个月被抢洗手间和隔壁小情侣天天没羞没臊大声叫就跑路了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25501,
+          "following_count": 995,
+          "like_count": 14491,
+          "listed_count": 37,
+          "media_count": 1370,
+          "tweet_count": 15454
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-03T04:26:27.000Z",
+        "description": "Inky，麦门/鮟鱇/宇宙人/反爹\n命运多舛，世事无常，愿你今天开心~☆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hutao.cloud/auth/register?…",
+                "end": 23,
+                "expanded_url": "https://hutao.cloud/auth/register?code=Vaeh",
+                "start": 0,
+                "url": "https://t.co/bUTse1bc1u"
+              }
+            ]
+          }
+        },
+        "id": "760693285828591617",
+        "location": "不要背对月亮",
+        "name": "InkyMoss🍔🎉🛸",
+        "pinned_tweet_id": "1835582138902798831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/968612926088081408/KuBPxdld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 34,
+          "like_count": 703,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/bUTse1bc1u",
+        "username": "GNK48_InkyMoss",
+        "verified": false
+      }
+    ]
+  }
+}

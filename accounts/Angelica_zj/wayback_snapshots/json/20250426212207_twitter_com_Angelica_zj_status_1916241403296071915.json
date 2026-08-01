@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1916102253427278316",
+    "created_at": "2025-04-26T21:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T22:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916241403296071915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1403639017036464134",
+          "start": 0,
+          "username": "Cattary2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916241403296071915",
+    "in_reply_to_user_id": "1403639017036464134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916183610178343295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cattary2 好诶好诶😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1916102253427278316",
+        "created_at": "2025-04-26T21:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T22:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916241403296071915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1403639017036464134",
+              "start": 0,
+              "username": "Cattary2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916241403296071915",
+        "in_reply_to_user_id": "1403639017036464134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916183610178343295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cattary2 好诶好诶😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1403639017036464134",
+        "conversation_id": "1916102253427278316",
+        "created_at": "2025-04-26T17:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T18:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916183610178343295"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "萌萌",
+              "probability": 0.7676,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916183610178343295",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916102253427278316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 萌萌嘟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25368,
+          "following_count": 976,
+          "like_count": 14266,
+          "listed_count": 39,
+          "media_count": 1318,
+          "tweet_count": 15033
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-12T09:03:25.000Z",
+        "description": "She will be loved",
+        "id": "1403639017036464134",
+        "name": "火锅炖小利",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743928202949730304/Lx8jEZI4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 94,
+          "like_count": 303,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 887
+        },
+        "username": "Cattary2",
+        "verified": false
+      }
+    ]
+  }
+}

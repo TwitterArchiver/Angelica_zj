@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2066964914728575180",
+    "created_at": "2026-06-17T18:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T19:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067314115224252440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1992463283115511808",
+          "start": 0,
+          "username": "weike0358dean"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067314115224252440",
+    "in_reply_to_user_id": "1992463283115511808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067246425348657388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weike0358dean 哈哈哈哈这么说确实像"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2066964914728575180",
+        "created_at": "2026-06-17T18:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067314115224252440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1992463283115511808",
+              "start": 0,
+              "username": "weike0358dean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067314115224252440",
+        "in_reply_to_user_id": "1992463283115511808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067246425348657388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weike0358dean 哈哈哈哈这么说确实像"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992463283115511808",
+        "conversation_id": "2066964914728575180",
+        "created_at": "2026-06-17T14:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067246425348657388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067246425348657388",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066964914728575180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 像是太迟泡发了的纸喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25082,
+          "following_count": 1050,
+          "like_count": 14864,
+          "listed_count": 41,
+          "media_count": 1598,
+          "tweet_count": 17285
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T05:20:57.000Z",
+        "description": "怎样的雨？怎样的夜？怎样的我能让你更想念？\n雨要多大？天要多黑？才能够有你的体贴？",
+        "id": "1992463283115511808",
+        "location": "China",
+        "name": "Dean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067230166980636672/wp_SoVuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 6,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 251
+        },
+        "username": "weike0358dean",
+        "verified": false
+      }
+    ]
+  }
+}

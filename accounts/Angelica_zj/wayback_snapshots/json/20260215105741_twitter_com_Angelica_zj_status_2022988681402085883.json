@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2022988681402085883",
+    "created_at": "2026-02-15T10:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T11:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022988681402085883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tikemaison0921…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/tikemaison0921/status/2022439420327342210",
+          "start": 47,
+          "url": "https://t.co/k2qd8L9mcr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022988681402085883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022439420327342210",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "个人觉得这种接口非常好用，其实吸的很紧，也没有弯折坏掉的风险（纪念我无数个死掉的数据线ing https://t.co/k2qd8L9mcr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 415,
+        "media_key": "3_2022439417303175170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBEl70gakAIHawS.jpg",
+        "width": 739
+      },
+      {
+        "height": 466,
+        "media_key": "3_2022439417567416321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBEl71fakAEsnkT.jpg",
+        "width": 830
+      },
+      {
+        "height": 842,
+        "media_key": "3_2022439418104324096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBEl73fbIAAnR9p.jpg",
+        "width": 1496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2022988681402085883",
+        "created_at": "2026-02-15T10:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022988681402085883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tikemaison0921…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/tikemaison0921/status/2022439420327342210",
+              "start": 47,
+              "url": "https://t.co/k2qd8L9mcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022988681402085883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022439420327342210",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "个人觉得这种接口非常好用，其实吸的很紧，也没有弯折坏掉的风险（纪念我无数个死掉的数据线ing https://t.co/k2qd8L9mcr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022439417303175170",
+            "3_2022439417567416321",
+            "3_2022439418104324096"
+          ]
+        },
+        "author_id": "1825011382775152640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2022439420327342210",
+        "created_at": "2026-02-13T22:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T23:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022439420327342210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zDhfvmOrdW",
+              "end": 48,
+              "expanded_url": "https://x.com/tikemaison0921/status/2022439420327342210/photo/1",
+              "media_key": "3_2022439417303175170",
+              "start": 25,
+              "url": "https://t.co/zDhfvmOrdW"
+            },
+            {
+              "display_url": "pic.x.com/zDhfvmOrdW",
+              "end": 48,
+              "expanded_url": "https://x.com/tikemaison0921/status/2022439420327342210/photo/1",
+              "media_key": "3_2022439417567416321",
+              "start": 25,
+              "url": "https://t.co/zDhfvmOrdW"
+            },
+            {
+              "display_url": "pic.x.com/zDhfvmOrdW",
+              "end": 48,
+              "expanded_url": "https://x.com/tikemaison0921/status/2022439420327342210/photo/1",
+              "media_key": "3_2022439418104324096",
+              "start": 25,
+              "url": "https://t.co/zDhfvmOrdW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022439420327342210",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3823,
+          "impression_count": 14519130,
+          "like_count": 54122,
+          "quote_count": 3214,
+          "reply_count": 743,
+          "retweet_count": 2182
+        },
+        "reply_settings": "everyone",
+        "text": "【悲報】\niPhone18  type-c 廃止 https://t.co/zDhfvmOrdW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25255,
+          "following_count": 1037,
+          "like_count": 14614,
+          "listed_count": 40,
+          "media_count": 1520,
+          "tweet_count": 16651
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T03:27:10.000Z",
+        "description": "元マチェンコです。アカウントロックから戻れなくなったのでこのアカウントで再開します。前のフォロワー様、よろしくお願いします。",
+        "id": "1825011382775152640",
+        "location": "名古屋市",
+        "name": "ﾀｲｸ・ﾏｲｿﾝ (元ﾏﾁｪﾝｺ)",
+        "pinned_tweet_id": "1989522678223622402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933360106013667330/-SvuwvLS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3545,
+          "following_count": 2166,
+          "like_count": 21269,
+          "listed_count": 18,
+          "media_count": 1178,
+          "tweet_count": 9537
+        },
+        "username": "tikemaison0921",
+        "verified": true
+      }
+    ]
+  }
+}

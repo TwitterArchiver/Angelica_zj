@@ -1,0 +1,128 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1816536082277892539",
+    "created_at": "2024-07-25T18:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T19:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816536207146516801"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1816536207146516801",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816536082277892539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "头顶表层抽着疼，有点想撞墙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1816536082277892539",
+        "created_at": "2024-07-25T18:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T19:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816536207146516801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1816536207146516801",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816536082277892539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "头顶表层抽着疼，有点想撞墙"
+      },
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1816536082277892539",
+        "created_at": "2024-07-25T18:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T19:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816536082277892539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1816536082277892539",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偏头痛，打字乱七八糟的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24591,
+          "following_count": 899,
+          "like_count": 13515,
+          "listed_count": 35,
+          "tweet_count": 13400
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

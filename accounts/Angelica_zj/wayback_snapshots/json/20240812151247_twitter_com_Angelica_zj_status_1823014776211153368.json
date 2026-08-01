@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1822686675505700948",
+    "created_at": "2024-08-12T15:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T16:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823014776211153368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1576673750870675456",
+          "start": 0,
+          "username": "didi07392064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823014776211153368",
+    "in_reply_to_user_id": "1576673750870675456",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823014653288751555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didi07392064 蹭蹭脸…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1822686675505700948",
+        "created_at": "2024-08-12T15:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T16:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823014776211153368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1576673750870675456",
+              "start": 0,
+              "username": "didi07392064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823014776211153368",
+        "in_reply_to_user_id": "1576673750870675456",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823014653288751555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didi07392064 蹭蹭脸…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576673750870675456",
+        "conversation_id": "1822686675505700948",
+        "created_at": "2024-08-12T15:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T16:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823014653288751555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823014653288751555",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822686675505700948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 小九好帅好漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24380,
+          "following_count": 899,
+          "like_count": 13492,
+          "listed_count": 35,
+          "tweet_count": 13485
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T20:41:36.000Z",
+        "description": "这是我的吐苦水地 我不太会说话\n画画号@ohtheykillkenny",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "ohtheykillkenny"
+              }
+            ]
+          }
+        },
+        "id": "1576673750870675456",
+        "location": "🚪88陪你聊天",
+        "name": "心情是一滩呕吐物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813566840138063872/uOlMuDhQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 474,
+          "like_count": 9735,
+          "listed_count": 2,
+          "tweet_count": 5618
+        },
+        "username": "didi07392064",
+        "verified": false
+      }
+    ]
+  }
+}

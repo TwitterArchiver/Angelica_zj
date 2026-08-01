@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2058287553241821429",
+    "created_at": "2026-05-23T20:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T21:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058287553241821429"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ruruka820/stat…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/ruruka820/status/2058114350284738726",
+          "start": 39,
+          "url": "https://t.co/uWcdceZt6P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058287553241821429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058114350284738726",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到底谁面对这样的场景能兴奋起来，要让我亲眼见到这座人肉塔的话我将阳痿一辈子。 https://t.co/uWcdceZt6P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1969,
+        "media_key": "3_2058114344072962048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_kF3Ga4AAdtfN.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1522,
+        "media_key": "3_2058114344081309696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_kF3IaQAAd2JE.jpg",
+        "width": 1141
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2058287553241821429",
+        "created_at": "2026-05-23T20:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T21:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058287553241821429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ruruka820/stat…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/ruruka820/status/2058114350284738726",
+              "start": 39,
+              "url": "https://t.co/uWcdceZt6P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058287553241821429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058114350284738726",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底谁面对这样的场景能兴奋起来，要让我亲眼见到这座人肉塔的话我将阳痿一辈子。 https://t.co/uWcdceZt6P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058114344072962048",
+            "3_2058114344081309696"
+          ]
+        },
+        "author_id": "1319623774585585664",
+        "conversation_id": "2058114350284738726",
+        "created_at": "2026-05-23T09:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058114350284738726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TkJzHikY0K",
+              "end": 31,
+              "expanded_url": "https://x.com/ruruka820/status/2058114350284738726/photo/1",
+              "media_key": "3_2058114344072962048",
+              "start": 8,
+              "url": "https://t.co/TkJzHikY0K"
+            },
+            {
+              "display_url": "pic.x.com/TkJzHikY0K",
+              "end": 31,
+              "expanded_url": "https://x.com/ruruka820/status/2058114350284738726/photo/1",
+              "media_key": "3_2058114344081309696",
+              "start": 8,
+              "url": "https://t.co/TkJzHikY0K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058114350284738726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2193,
+          "impression_count": 442534,
+          "like_count": 7627,
+          "quote_count": 50,
+          "reply_count": 78,
+          "retweet_count": 298
+        },
+        "reply_settings": "everyone",
+        "text": "資本主義〜〜！ https://t.co/TkJzHikY0K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25122,
+          "following_count": 1046,
+          "like_count": 14761,
+          "listed_count": 41,
+          "media_count": 1589,
+          "tweet_count": 17166
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T12:56:57.000Z",
+        "description": "えろ屋さん。｜myfans▶︎《https://t.co/shqJZ3bPXd》 Xfans▶︎《https://t.co/pT7S8HtVeG》Fantia(物販)▶︎《https://t.co/y7mU9zL2hW》",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "myfans.jp/ruruka820",
+                "end": 39,
+                "expanded_url": "https://myfans.jp/ruruka820",
+                "start": 16,
+                "url": "https://t.co/shqJZ3bPXd"
+              },
+              {
+                "display_url": "xfans.tokyo/ruruka820",
+                "end": 72,
+                "expanded_url": "https://www.xfans.tokyo/ruruka820",
+                "start": 49,
+                "url": "https://t.co/pT7S8HtVeG"
+              },
+              {
+                "display_url": "fantia.jp/fanclubs/497951",
+                "end": 109,
+                "expanded_url": "https://fantia.jp/fanclubs/497951",
+                "start": 86,
+                "url": "https://t.co/y7mU9zL2hW"
+              }
+            ]
+          }
+        },
+        "id": "1319623774585585664",
+        "name": "るるたん🐳🍑",
+        "pinned_tweet_id": "2057821446169362743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982295028102754304/B_pqIjC5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379344,
+          "following_count": 117,
+          "like_count": 53555,
+          "listed_count": 1037,
+          "media_count": 835,
+          "tweet_count": 7697
+        },
+        "username": "ruruka820",
+        "verified": true
+      }
+    ]
+  }
+}

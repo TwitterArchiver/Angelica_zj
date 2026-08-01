@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1865780412183961740",
+    "created_at": "2024-12-08T21:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T22:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865877347335033231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708369098814476288",
+          "start": 0,
+          "username": "yayaleowooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865877347335033231",
+    "in_reply_to_user_id": "1708369098814476288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865780412183961740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yayaleowooo 愈美和右美类似，然后还有普瑞巴林，都是相对安全的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1865780412183961740",
+        "created_at": "2024-12-08T21:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T22:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865877347335033231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708369098814476288",
+              "start": 0,
+              "username": "yayaleowooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865877347335033231",
+        "in_reply_to_user_id": "1708369098814476288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865780412183961740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yayaleowooo 愈美和右美类似，然后还有普瑞巴林，都是相对安全的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708369098814476288",
+        "conversation_id": "1865780412183961740",
+        "created_at": "2024-12-08T15:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T16:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865780412183961740"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1865780412183961740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在还有什么药可以o啊，我之前只o过右美的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24950,
+          "following_count": 933,
+          "like_count": 13681,
+          "listed_count": 36,
+          "media_count": 1238,
+          "tweet_count": 14067
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T06:32:03.000Z",
+        "description": "什么都不是，混沌系,混沌星球，碎碎念都在推特了没人看也没有关系我喜欢自言自语",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=JgFn5PlO",
+                "start": 0,
+                "url": "https://t.co/OeaSyPqB4F"
+              }
+            ]
+          }
+        },
+        "id": "1708369098814476288",
+        "location": "🚀推荐我自己长期使用的喵叽VPN加速器 高速稳定强推！",
+        "name": "sivlfpd",
+        "pinned_tweet_id": "1800019570838868372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821103273425956864/mf2x4qoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2208,
+          "following_count": 321,
+          "like_count": 5566,
+          "listed_count": 8,
+          "media_count": 88,
+          "tweet_count": 2435
+        },
+        "url": "https://t.co/OeaSyPqB4F",
+        "username": "yayaleowooo",
+        "verified": false
+      }
+    ]
+  }
+}

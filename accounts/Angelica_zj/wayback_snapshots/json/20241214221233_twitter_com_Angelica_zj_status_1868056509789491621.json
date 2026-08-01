@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1867981329285210146",
+    "created_at": "2024-12-14T22:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T23:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868056509789491621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1403639017036464134",
+          "start": 0,
+          "username": "Cattary2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868056509789491621",
+    "in_reply_to_user_id": "1403639017036464134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867981329285210146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cattary2 我勒个去，一次性骗的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1867981329285210146",
+        "created_at": "2024-12-14T22:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T23:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868056509789491621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1403639017036464134",
+              "start": 0,
+              "username": "Cattary2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868056509789491621",
+        "in_reply_to_user_id": "1403639017036464134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867981329285210146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cattary2 我勒个去，一次性骗的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1403639017036464134",
+        "conversation_id": "1867981329285210146",
+        "created_at": "2024-12-14T17:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T18:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867981329285210146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cattary2/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/cattary2/status/1867630884264063266",
+              "start": 18,
+              "url": "https://t.co/J9ciECCxzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867981329285210146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867630884264063266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没是假的别去 我被骗了550🤣🤣🤣 https://t.co/J9ciECCxzi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24981,
+          "following_count": 934,
+          "like_count": 13691,
+          "listed_count": 36,
+          "media_count": 1240,
+          "tweet_count": 14097
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-12T09:03:25.000Z",
+        "description": "She will be loved",
+        "id": "1403639017036464134",
+        "name": "火锅炖小利",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743928202949730304/Lx8jEZI4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 89,
+          "like_count": 242,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 806
+        },
+        "username": "Cattary2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1796959341247152635",
+    "created_at": "2024-06-02T07:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T08:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797164325934952717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1541169612896628736",
+          "start": 0,
+          "username": "QINNUOMIAO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797164325934952717",
+    "in_reply_to_user_id": "1541169612896628736",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796973477104353760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QINNUOMIAO 宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1796959341247152635",
+        "created_at": "2024-06-02T07:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T08:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797164325934952717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1541169612896628736",
+              "start": 0,
+              "username": "QINNUOMIAO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797164325934952717",
+        "in_reply_to_user_id": "1541169612896628736",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796973477104353760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QINNUOMIAO 宝宝"
+      },
+      {
+        "attachments": {},
+        "author_id": "1541169612896628736",
+        "conversation_id": "1796959341247152635",
+        "created_at": "2024-06-01T18:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T19:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796973477104353760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796973477104353760",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796959341247152635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 抱抱小九🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们  / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24675,
+          "following_count": 897,
+          "like_count": 13662,
+          "listed_count": 36,
+          "tweet_count": 13185
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-26T21:20:53.000Z",
+        "description": "😡A：是千年的爱丽丝同学吗？\n😣B：我超，盒！\n😡A：那个，我...\n😫B：爱丽丝错了，爱丽丝不该在网上口嗨的。\n😠A：你爹在我手里。\n😫B：是是是，我爹和我妈都在你手里，只要别盒我，我全家人都来你手里。\n😅A：呵呵呵呵...",
+        "id": "1541169612896628736",
+        "name": "琴诺",
+        "pinned_tweet_id": "1795526946467778942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796731688544034817/TxtFoLFj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5365,
+          "following_count": 488,
+          "like_count": 15830,
+          "listed_count": 7,
+          "tweet_count": 23793
+        },
+        "username": "QINNUOMIAO",
+        "verified": false
+      }
+    ]
+  }
+}

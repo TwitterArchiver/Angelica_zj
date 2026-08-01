@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1978755542760767572",
+    "created_at": "2025-10-16T10:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T11:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978771535109185888"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1978771535109185888",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978755542760767572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "平台发私信甚至要钱，我骂都没地方骂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978755523190382592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Xzqhka4AAlOte.jpg",
+        "width": 899
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1978755523194552320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3XzqhlagAAWq2p.jpg",
+        "width": 899
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1978755542760767572",
+        "created_at": "2025-10-16T10:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T11:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978771535109185888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978771535109185888",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978755542760767572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "平台发私信甚至要钱，我骂都没地方骂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978755523190382592",
+            "3_1978755523194552320"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1978755542760767572",
+        "created_at": "2025-10-16T09:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T10:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978755542760767572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dBR2vb4ZWY",
+              "end": 87,
+              "expanded_url": "https://x.com/Angelica_zj/status/1978755542760767572/photo/1",
+              "media_key": "3_1978755523190382592",
+              "start": 64,
+              "url": "https://t.co/dBR2vb4ZWY"
+            },
+            {
+              "display_url": "pic.x.com/dBR2vb4ZWY",
+              "end": 87,
+              "expanded_url": "https://x.com/Angelica_zj/status/1978755542760767572/photo/1",
+              "media_key": "3_1978755523194552320",
+              "start": 64,
+              "url": "https://t.co/dBR2vb4ZWY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978755542760767572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈，怎么又他妈有人盗图\n我没有注册过任何一个交友软件，陌陌探探soul一类的一概不玩，也不混小圈，大家谨慎辨别\n盗图死全家 https://t.co/dBR2vb4ZWY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中  / 欢迎互关加v私联 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25288,
+          "following_count": 991,
+          "like_count": 14275,
+          "listed_count": 42,
+          "media_count": 1397,
+          "tweet_count": 15777
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

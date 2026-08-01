@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1809503652706759038",
+    "created_at": "2024-07-06T08:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T09:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809503652706759038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1354705112149729280",
+          "start": 3,
+          "username": "Aumileude"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809503652706759038",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809177373935587499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aumileude: M舔鞋的时候说爸爸的运动鞋味道真好\nS说那当然了\n这是我在得物app上买的 \n买正品上得物 专人检验 大牌保真 支持假一赔三\n海量大牌正品应有尽有\n现在新人下单还有优惠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1809503652706759038",
+        "created_at": "2024-07-06T08:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T09:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809503652706759038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1354705112149729280",
+              "start": 3,
+              "username": "Aumileude"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809503652706759038",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809177373935587499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aumileude: M舔鞋的时候说爸爸的运动鞋味道真好\nS说那当然了\n这是我在得物app上买的 \n买正品上得物 专人检验 大牌保真 支持假一赔三\n海量大牌正品应有尽有\n现在新人下单还有优惠"
+      },
+      {
+        "attachments": {},
+        "author_id": "1354705112149729280",
+        "conversation_id": "1809177373935587499",
+        "created_at": "2024-07-05T10:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T11:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809177373935587499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1809177373935587499",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 137884,
+          "like_count": 1213,
+          "quote_count": 14,
+          "reply_count": 96,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "M舔鞋的时候说爸爸的运动鞋味道真好\nS说那当然了\n这是我在得物app上买的 \n买正品上得物 专人检验 大牌保真 支持假一赔三\n海量大牌正品应有尽有\n现在新人下单还有优惠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们  / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24643,
+          "following_count": 904,
+          "like_count": 13533,
+          "listed_count": 36,
+          "tweet_count": 13356
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-28T08:17:37.000Z",
+        "description": "你对我说的都是真的吗",
+        "id": "1354705112149729280",
+        "location": "射手座B-2。  ",
+        "name": "三三",
+        "pinned_tweet_id": "1789691212699672591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796876210255093760/WTpJhO9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16313,
+          "following_count": 742,
+          "like_count": 44957,
+          "listed_count": 31,
+          "tweet_count": 19446
+        },
+        "username": "Aumileude",
+        "verified": false
+      }
+    ]
+  }
+}

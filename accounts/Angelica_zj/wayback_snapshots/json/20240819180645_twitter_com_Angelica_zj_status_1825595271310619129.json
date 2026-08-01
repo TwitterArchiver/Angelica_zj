@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1817843252760031681",
+    "created_at": "2024-08-19T18:06:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T19:06:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825595271310619129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1617162636415598593",
+          "start": 0,
+          "username": "DebbieS23013354"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825595271310619129",
+    "in_reply_to_user_id": "1617162636415598593",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817843252760031681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DebbieS23013354 你的脑袋有你女朋友的俩个那么大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1817843252760031681",
+        "created_at": "2024-08-19T18:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T19:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825595271310619129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1617162636415598593",
+              "start": 0,
+              "username": "DebbieS23013354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825595271310619129",
+        "in_reply_to_user_id": "1617162636415598593",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817843252760031681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DebbieS23013354 你的脑袋有你女朋友的俩个那么大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817843243633254400"
+          ]
+        },
+        "author_id": "1617162636415598593",
+        "conversation_id": "1817843252760031681",
+        "created_at": "2024-07-29T08:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T09:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817843252760031681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mpvjll9rkc",
+              "end": 32,
+              "expanded_url": "https://twitter.com/DebbieS23013354/status/1817843252760031681/photo/1",
+              "media_key": "3_1817843243633254400",
+              "start": 9,
+              "url": "https://t.co/MPVJlL9rkc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817843252760031681",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近特別開心✌️ https://t.co/MPVJlL9rkc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24401,
+          "following_count": 898,
+          "like_count": 13515,
+          "listed_count": 35,
+          "tweet_count": 13512
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T14:10:09.000Z",
+        "description": "Do you believe that we can just kill them all?",
+        "id": "1617162636415598593",
+        "name": "赛&ㄎ一ㄚtric",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623933446975541249/B_LXNXHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 231,
+          "like_count": 5645,
+          "listed_count": 0,
+          "tweet_count": 1789
+        },
+        "username": "DebbieS23013354",
+        "verified": false
+      }
+    ]
+  }
+}

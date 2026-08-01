@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1911381257662898321",
+    "created_at": "2025-04-13T18:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T19:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911488573045654005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1686796344646914048",
+          "start": 0,
+          "username": "izanzan0829"
+        },
+        {
+          "end": 26,
+          "id": "1491205591754473474",
+          "start": 13,
+          "username": "springin1927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911488573045654005",
+    "in_reply_to_user_id": "1686796344646914048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911467847324455061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@izanzan0829 @springin1927 当然是以自身感受为主啊，能明显感受到因内裤和大腿根摩擦的不适感就需要做手术了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1911381257662898321",
+        "created_at": "2025-04-13T18:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T19:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911488573045654005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1686796344646914048",
+              "start": 0,
+              "username": "izanzan0829"
+            },
+            {
+              "end": 26,
+              "id": "1491205591754473474",
+              "start": 13,
+              "username": "springin1927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911488573045654005",
+        "in_reply_to_user_id": "1686796344646914048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911467847324455061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@izanzan0829 @springin1927 当然是以自身感受为主啊，能明显感受到因内裤和大腿根摩擦的不适感就需要做手术了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686796344646914048",
+        "conversation_id": "1911381257662898321",
+        "created_at": "2025-04-13T17:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T18:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911467847324455061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491205591754473474",
+              "start": 0,
+              "username": "springin1927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911467847324455061",
+        "in_reply_to_user_id": "1491205591754473474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 728,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911381257662898321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@springin1927 究竟多大才算大 才需要做手术啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25328,
+          "following_count": 968,
+          "like_count": 14207,
+          "listed_count": 38,
+          "media_count": 1302,
+          "tweet_count": 14919
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-02T17:49:35.000Z",
+        "description": "I know ！",
+        "id": "1686796344646914048",
+        "name": "ngii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801524293890912256/4qdtM6y5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 21,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "izanzan0829",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T00:21:40.000Z",
+        "description": "†女的 †可以叫我小春or小困 ｜ 日常推/文盲/自由散漫/不接推广 不接置顶 不卖号/敏感内容不要转载入墙/今夜，我的嗓音是一列被截停的火车",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=PT1iuT9D",
+                "start": 0,
+                "url": "https://t.co/TMKGn0r56g"
+              }
+            ]
+          }
+        },
+        "id": "1491205591754473474",
+        "location": "自用VPN↓",
+        "name": "一九二七年春₍^𐄁ᢦ𐄁^₎⟆",
+        "pinned_tweet_id": "1890034872363962704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818981689731031040/CRhpHpuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34802,
+          "following_count": 561,
+          "like_count": 74945,
+          "listed_count": 71,
+          "media_count": 3093,
+          "tweet_count": 33785
+        },
+        "url": "https://t.co/TMKGn0r56g",
+        "username": "springin1927",
+        "verified": false
+      }
+    ]
+  }
+}

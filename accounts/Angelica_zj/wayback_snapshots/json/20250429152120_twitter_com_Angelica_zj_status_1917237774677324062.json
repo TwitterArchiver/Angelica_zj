@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1917050352723234873",
+    "created_at": "2025-04-29T15:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T16:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917237774677324062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1880607102261215232",
+          "start": 0,
+          "username": "realdaylightn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917237774677324062",
+    "in_reply_to_user_id": "1880607102261215232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917151689989329263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realdaylightn 一烦就想啃，如果指甲能留起来的话应该能证明我某段时间精神状态很好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1917151689989329263].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1917151689989329263",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1917151689989329263"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1917050352723234873",
+        "created_at": "2025-04-29T15:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T16:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917237774677324062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1880607102261215232",
+              "start": 0,
+              "username": "realdaylightn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917237774677324062",
+        "in_reply_to_user_id": "1880607102261215232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917151689989329263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realdaylightn 一烦就想啃，如果指甲能留起来的话应该能证明我某段时间精神状态很好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25358,
+          "following_count": 982,
+          "like_count": 14262,
+          "listed_count": 39,
+          "media_count": 1322,
+          "tweet_count": 15052
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T13:24:17.000Z",
+        "description": "苍白空虚的现实，就是真正的白昼",
+        "id": "1880607102261215232",
+        "location": "现实",
+        "name": "真昼",
+        "pinned_tweet_id": "1880615950409691229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881054047412813825/PH6yNxoq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 7,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 594
+        },
+        "username": "realdaylightn",
+        "verified": false
+      }
+    ]
+  }
+}

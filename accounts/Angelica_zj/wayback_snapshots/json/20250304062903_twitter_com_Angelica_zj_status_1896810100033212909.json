@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1896810100033212909",
+    "created_at": "2025-03-04T06:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T07:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896810100033212909"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/laplacemaow/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/laplacemaow/status/1896386361000902810",
+          "start": 21,
+          "url": "https://t.co/enFlIx9yD4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896810100033212909",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896386361000902810",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "首先我是友跨，其次，。呃\n算了，我是友跨 https://t.co/enFlIx9yD4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1896810100033212909",
+        "created_at": "2025-03-04T06:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T07:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896810100033212909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/laplacemaow/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/laplacemaow/status/1896386361000902810",
+              "start": 21,
+              "url": "https://t.co/enFlIx9yD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896810100033212909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896386361000902810",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "首先我是友跨，其次，。呃\n算了，我是友跨 https://t.co/enFlIx9yD4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455144569188749316",
+        "conversation_id": "1896386361000902810",
+        "created_at": "2025-03-03T02:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T03:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896386361000902810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896386361000902810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 70889,
+          "like_count": 870,
+          "quote_count": 13,
+          "reply_count": 46,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "两只小药娘在一起就像\n两只绝育的小猫\n娇生惯养得比小母猫还要娇气漂亮了\n相互依偎贴在一起\n抱在一起\n没有争斗，没有性欲\n只有温馨互相舔祗奶头\n饿了再一起觅食给对方喂饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25220,
+          "following_count": 949,
+          "like_count": 14007,
+          "listed_count": 36,
+          "media_count": 1285,
+          "tweet_count": 14608
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T12:08:04.000Z",
+        "description": "🥳喵🍥|病娇|想变好看/INTJ人格/是武装直升机/把推特当朋友圈记录发电日常/抽象锐评区推主/随缘更新|经常意识流/（长期缺朋友/需要你来主动）/键政魔怔人会屏蔽\n【已有对象:最爱的鱼鱼🐟❤️】\n门槛🚪:2✖️疯狂星期四zfb口令🧧😉",
+        "id": "1455144569188749316",
+        "location": "重庆",
+        "name": "寒糖欧格林🍥🎀",
+        "pinned_tweet_id": "1785642657592799586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861863293742407680/JSp-mM3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3929,
+          "following_count": 387,
+          "like_count": 2905,
+          "listed_count": 10,
+          "media_count": 136,
+          "tweet_count": 2127
+        },
+        "username": "laplacemaow",
+        "verified": false
+      }
+    ]
+  }
+}

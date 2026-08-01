@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1921177388081156461",
+    "created_at": "2025-05-10T12:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T13:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921178426318225880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 105,
+          "id": "1852405305696542721",
+          "start": 94,
+          "username": "EZ_life233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921178426318225880",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921177388081156461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "况且更应该控制的是某头子和高层信徒吧，以上也都是十几年前的事了，如今也大概率不会发生原帖图上的情况。我觉得还是应该像现在这样施以劝告和训诫更好，不要对手无寸铁的百姓武力压制，何苦为难底层人@EZ_life233"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921177376018624514",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqlkpQgbcAInxvb.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1921177388081156461",
+        "created_at": "2025-05-10T12:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T13:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921178426318225880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 105,
+              "id": "1852405305696542721",
+              "start": 94,
+              "username": "EZ_life233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921178426318225880",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921177388081156461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "况且更应该控制的是某头子和高层信徒吧，以上也都是十几年前的事了，如今也大概率不会发生原帖图上的情况。我觉得还是应该像现在这样施以劝告和训诫更好，不要对手无寸铁的百姓武力压制，何苦为难底层人@EZ_life233"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921177376018624514"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "1921177388081156461",
+        "created_at": "2025-05-10T12:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T13:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921177388081156461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/94ccNAlmQG",
+              "end": 165,
+              "expanded_url": "https://x.com/Angelica_zj/status/1921177388081156461/photo/1",
+              "media_key": "3_1921177376018624514",
+              "start": 142,
+              "url": "https://t.co/94ccNAlmQG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921177388081156461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想表达的是底层信徒也是受害者，苦一辈子没有分辨能力也没几年活头，自焚的是绝对少数，他们所能接触到的“教义”里从来没有提过这些内容\n对他们大力的打压反而最危害生命，小时候见过不少六旬老人因为发放相关传单反反复复被抓进局子又给放出来，以前的司法系统又不完善，出来一脸的伤，挺令人唏嘘的 https://t.co/94ccNAlmQG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25405,
+          "following_count": 988,
+          "like_count": 14361,
+          "listed_count": 37,
+          "media_count": 1334,
+          "tweet_count": 15163
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T17:40:25.000Z",
+        "description": "",
+        "id": "1852405305696542721",
+        "location": "四川省成都市郫都区",
+        "name": "EZ_life",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852405578649255936/qm6r5dDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 21,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "EZ_life233",
+        "verified": false
+      }
+    ]
+  }
+}

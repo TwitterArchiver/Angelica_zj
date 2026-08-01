@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1919294398405472654",
+    "created_at": "2025-05-05T07:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T08:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919294398405472654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761331037693710336",
+          "start": 3,
+          "username": "zayuyu07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919294398405472654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919220174814634326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zayuyu07: 你死全家了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1919294398405472654",
+        "created_at": "2025-05-05T07:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T08:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919294398405472654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761331037693710336",
+              "start": 3,
+              "username": "zayuyu07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919294398405472654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919220174814634326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zayuyu07: 你死全家了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761331037693710336",
+        "conversation_id": "1919220174814634326",
+        "created_at": "2025-05-05T02:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T03:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919220174814634326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhanjiang520/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/zhanjiang520/status/1912464407931613672",
+              "start": 6,
+              "url": "https://t.co/qJFRT8DM5g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919220174814634326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3891,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912464407931613672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你死全家了 https://t.co/qJFRT8DM5g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25374,
+          "following_count": 985,
+          "like_count": 14297,
+          "listed_count": 38,
+          "media_count": 1330,
+          "tweet_count": 15094
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T10:03:47.000Z",
+        "description": "我喜歡錢｜@ZayuK07 其他帳號非本人｜Insta：zayuyu1226｜07｜@ziy0609｜tiktok：imnotkk2｜如果你懂我的心 Coming join the GAG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "ZayuK07"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "username": "ziy0609"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zayuyu12262",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zayuyu12262",
+                "start": 0,
+                "url": "https://t.co/7gpKA7QGit"
+              }
+            ]
+          }
+        },
+        "id": "1761331037693710336",
+        "location": "提問箱➡️",
+        "name": "美味小KK",
+        "pinned_tweet_id": "1917716097698259304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917213746403119104/ni2k1HKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41598,
+          "following_count": 366,
+          "like_count": 19657,
+          "listed_count": 46,
+          "media_count": 423,
+          "tweet_count": 6788
+        },
+        "url": "https://t.co/7gpKA7QGit",
+        "username": "zayuyu07",
+        "verified": false
+      }
+    ]
+  }
+}

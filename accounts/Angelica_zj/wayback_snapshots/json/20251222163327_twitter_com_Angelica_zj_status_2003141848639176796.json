@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2003141848639176796",
+    "created_at": "2025-12-22T16:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T17:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003141848639176796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1783930046329266176",
+          "start": 3,
+          "username": "padusaviummiler"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003141848639176796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003002826851745988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @padusaviummiler: 警惕心理从业者）\n很多npd喜欢考取相关资格证成为心理咨询师，因为npd喜欢被人关注、和人交流、因为他人的痛苦和揭开他人都创伤而快乐，喜欢左右他人的人生\n有很多杀人犯和犯罪变态都是心理咨询自杀热线的接线员，接触他人的苦难和悲观会受到影响…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2003141848639176796",
+        "created_at": "2025-12-22T16:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T17:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003141848639176796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1783930046329266176",
+              "start": 3,
+              "username": "padusaviummiler"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003141848639176796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003002826851745988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @padusaviummiler: 警惕心理从业者）\n很多npd喜欢考取相关资格证成为心理咨询师，因为npd喜欢被人关注、和人交流、因为他人的痛苦和揭开他人都创伤而快乐，喜欢左右他人的人生\n有很多杀人犯和犯罪变态都是心理咨询自杀热线的接线员，接触他人的苦难和悲观会受到影响…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783930046329266176",
+        "conversation_id": "2003002826851745988",
+        "created_at": "2025-12-22T07:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T08:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003002826851745988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003002826851745988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1093,
+          "like_count": 51,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "警惕心理从业者）\n很多npd喜欢考取相关资格证成为心理咨询师，因为npd喜欢被人关注、和人交流、因为他人的痛苦和揭开他人都创伤而快乐，喜欢左右他人的人生\n有很多杀人犯和犯罪变态都是心理咨询自杀热线的接线员，接触他人的苦难和悲观会受到影响，给别人建议和有影响他人的权利会导致个体物化他人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25268,
+          "following_count": 1011,
+          "like_count": 14454,
+          "listed_count": 40,
+          "media_count": 1478,
+          "tweet_count": 16299
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T18:44:15.000Z",
+        "description": "真心为你",
+        "id": "1783930046329266176",
+        "location": "那雾汽从不跨越河畔的围栏",
+        "name": "咕咕",
+        "pinned_tweet_id": "1853657790839165353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999897214139924481/Z2bzpo8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 515,
+          "like_count": 6032,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1788
+        },
+        "username": "padusaviummiler",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1981726224473858153",
+    "created_at": "2025-10-24T14:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T15:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981726224473858153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiangyuniunai/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/xiangyuniunai/status/1981199280666005827",
+          "start": 15,
+          "url": "https://t.co/n4tn0rtaaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981726224473858153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981199280666005827",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好可爱…我会因为这个想吃橄榄 https://t.co/n4tn0rtaaN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1190,
+        "media_key": "3_1981199270825889792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G36iPW7XEAAWqFq.jpg",
+        "width": 979
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1981726224473858153",
+        "created_at": "2025-10-24T14:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T15:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981726224473858153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiangyuniunai/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/xiangyuniunai/status/1981199280666005827",
+              "start": 15,
+              "url": "https://t.co/n4tn0rtaaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981726224473858153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981199280666005827",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可爱…我会因为这个想吃橄榄 https://t.co/n4tn0rtaaN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981199270825889792"
+          ]
+        },
+        "author_id": "1861297486578753539",
+        "conversation_id": "1981199280666005827",
+        "created_at": "2025-10-23T03:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T04:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981199280666005827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qz4wBf3wxy",
+              "end": 23,
+              "expanded_url": "https://x.com/xiangyuniunai/status/1981199280666005827/photo/1",
+              "media_key": "3_1981199270825889792",
+              "start": 0,
+              "url": "https://t.co/Qz4wBf3wxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981199280666005827",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 194,
+          "impression_count": 159399,
+          "like_count": 4184,
+          "quote_count": 10,
+          "reply_count": 12,
+          "retweet_count": 202
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Qz4wBf3wxy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25343,
+          "following_count": 990,
+          "like_count": 14199,
+          "listed_count": 43,
+          "media_count": 1407,
+          "tweet_count": 15839
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T06:34:50.000Z",
+        "description": "Professional serotonin dealer since 2024 🐾 \n2024年起专业贩卖快乐血清 🐾   \nDaily doses of purrs & toe beans 🌈  \n每日供应呼噜声和猫爪豆豆 🌈\nFollow for instant joy  \n关注即享瞬间治愈",
+        "id": "1861297486578753539",
+        "location": "Inside a cardboard box 📦",
+        "name": "香芋牛奶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939626971316494336/FlcyMttI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 38,
+          "like_count": 100,
+          "listed_count": 8,
+          "media_count": 3190,
+          "tweet_count": 3199
+        },
+        "username": "xiangyuniunai",
+        "verified": true
+      }
+    ]
+  }
+}

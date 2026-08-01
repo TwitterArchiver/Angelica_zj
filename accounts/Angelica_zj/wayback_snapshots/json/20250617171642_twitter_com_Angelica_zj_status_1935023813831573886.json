@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1935023813831573886",
+    "created_at": "2025-06-17T17:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T18:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935023813831573886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/angelica_zj/st…",
+          "end": 111,
+          "expanded_url": "https://twitter.com/angelica_zj/status/1935022739238363419",
+          "start": 88,
+          "url": "https://t.co/Jz4qQtCjia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935023813831573886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935022739238363419",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉我真觉得刚入推的每个小女孩都该看看这个，非正规渠道尝到流量甜头是件很可怕的事，大数据也会疯狂推荐相关圈子里的内容给你，底线就是这样逐步放低的\n尝到诱惑不加以节制必然会遭反噬 https://t.co/Jz4qQtCjia"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1935023813831573886",
+        "created_at": "2025-06-17T17:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T18:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935023813831573886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/angelica_zj/st…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/angelica_zj/status/1935022739238363419",
+              "start": 88,
+              "url": "https://t.co/Jz4qQtCjia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935023813831573886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935022739238363419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉我真觉得刚入推的每个小女孩都该看看这个，非正规渠道尝到流量甜头是件很可怕的事，大数据也会疯狂推荐相关圈子里的内容给你，底线就是这样逐步放低的\n尝到诱惑不加以节制必然会遭反噬 https://t.co/Jz4qQtCjia"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1935022739238363419",
+        "created_at": "2025-06-17T17:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T18:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935022739238363419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935022739238363419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于《那个女孩开通了里账号》最可怕的点难道不是未成年吗？青春叛逆期的小孩很容易被带偏三观，可以说她后期逆天发言也都是被一点点引导的。不明白说sato贱的人是怎么想的，她刚入推的时候只有十四岁诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25521,
+          "following_count": 997,
+          "like_count": 14478,
+          "listed_count": 36,
+          "media_count": 1369,
+          "tweet_count": 15438
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

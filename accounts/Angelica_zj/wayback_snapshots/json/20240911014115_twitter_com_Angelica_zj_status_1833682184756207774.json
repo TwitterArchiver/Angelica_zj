@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1833580092456636583",
+    "created_at": "2024-09-11T01:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T02:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833682184756207774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1790282802300407809",
+          "start": 0,
+          "username": "yu8963278711824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833682184756207774",
+    "in_reply_to_user_id": "1790282802300407809",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833594295666020562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu8963278711824 🩷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1833580092456636583",
+        "created_at": "2024-09-11T01:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T02:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833682184756207774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790282802300407809",
+              "start": 0,
+              "username": "yu8963278711824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833682184756207774",
+        "in_reply_to_user_id": "1790282802300407809",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833594295666020562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu8963278711824 🩷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790282802300407809",
+        "conversation_id": "1833580092456636583",
+        "created_at": "2024-09-10T19:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T20:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833594295666020562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833594295666020562",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833580092456636583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24392,
+          "following_count": 910,
+          "like_count": 13553,
+          "listed_count": 35,
+          "tweet_count": 13575
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T07:27:42.000Z",
+        "description": "精神病，瞎发点东西，碎碎念，发疯，转帖什么的，可以叫我柚子，随意就好",
+        "id": "1790282802300407809",
+        "name": "侑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790282882528968704/D0w3IKP4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 70,
+          "like_count": 2012,
+          "listed_count": 1,
+          "tweet_count": 298
+        },
+        "username": "yu8963278711824",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1881427203965259854",
+    "created_at": "2025-01-21T06:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T07:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881590681267044489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1824110944248799232",
+          "start": 0,
+          "username": "lonelyxiaoye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881590681267044489",
+    "in_reply_to_user_id": "1824110944248799232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881427203965259854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lonelyxiaoye 小夜那边一个月房租大概多少啊🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1881427203965259854",
+        "created_at": "2025-01-21T06:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T07:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881590681267044489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1824110944248799232",
+              "start": 0,
+              "username": "lonelyxiaoye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881590681267044489",
+        "in_reply_to_user_id": "1824110944248799232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881427203965259854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lonelyxiaoye 小夜那边一个月房租大概多少啊🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824110944248799232",
+        "conversation_id": "1881427203965259854",
+        "created_at": "2025-01-20T19:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T20:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881427203965259854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881427203965259854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "醒来唯一一条消息是房东在催房租\n果然只有房东无论何时都惦记着你🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25147,
+          "following_count": 936,
+          "like_count": 13821,
+          "listed_count": 37,
+          "media_count": 1259,
+          "tweet_count": 14352
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T15:48:47.000Z",
+        "description": "我们向往美好和幸福、我们相互宽慰与扶持、我们一同修补这破碎的世界.（了解我请看主页第一条全部内容ww｜倾诉真实的夜@despairxiaoye）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "despairxiaoye"
+              }
+            ]
+          }
+        },
+        "id": "1824110944248799232",
+        "location": "无光の世界",
+        "name": "破碎小夜 ᜊ( ꒦ິ^꒦ິ )ᜊ",
+        "pinned_tweet_id": "1831567460312740322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833908168885460992/wKn84QOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 248,
+          "like_count": 26692,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 11039
+        },
+        "username": "lonelyxiaoye",
+        "verified": false
+      }
+    ]
+  }
+}

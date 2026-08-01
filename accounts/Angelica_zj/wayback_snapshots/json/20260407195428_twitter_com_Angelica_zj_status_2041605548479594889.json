@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2041494534237180316",
+    "created_at": "2026-04-07T19:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T20:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041605548479594889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1646958263303548928",
+          "start": 0,
+          "username": "chenhui43"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041605548479594889",
+    "in_reply_to_user_id": "1646958263303548928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041599285062726000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenhui43 还是有很多小登的，真正做模型的中年人真的会关注这些吗，更别说闲的跑去骂想单独建群的模型爱好女性了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2041494534237180316",
+        "created_at": "2026-04-07T19:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T20:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041605548479594889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1646958263303548928",
+              "start": 0,
+              "username": "chenhui43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041605548479594889",
+        "in_reply_to_user_id": "1646958263303548928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041599285062726000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenhui43 还是有很多小登的，真正做模型的中年人真的会关注这些吗，更别说闲的跑去骂想单独建群的模型爱好女性了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646958263303548928",
+        "conversation_id": "2041494534237180316",
+        "created_at": "2026-04-07T19:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T20:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041599285062726000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041599285062726000",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041494534237180316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 国内胶佬不是中年人为主吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25103,
+          "following_count": 1048,
+          "like_count": 14701,
+          "listed_count": 40,
+          "media_count": 1568,
+          "tweet_count": 16936
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T19:27:11.000Z",
+        "description": "M neet",
+        "id": "1646958263303548928",
+        "location": "☯︎天京",
+        "name": "陈晖洁🐼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727767134833446912/ysMfiW00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 203,
+          "like_count": 1099,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 77
+        },
+        "username": "chenhui43",
+        "verified": false
+      }
+    ]
+  }
+}

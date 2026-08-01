@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1888897356034412816",
+    "created_at": "2025-02-11T01:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T02:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889124982430818761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1058689624501964800",
+          "start": 0,
+          "username": "Alhanbro"
+        },
+        {
+          "end": 22,
+          "id": "1444341781902987265",
+          "start": 10,
+          "username": "13848833wer"
+        },
+        {
+          "end": 31,
+          "id": "1693450364341948416",
+          "start": 23,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889124982430818761",
+    "in_reply_to_user_id": "1058689624501964800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889098385765875979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alhanbro @13848833wer @igeekbb 说老实话我咋觉得北方口音也吞字呢，特别是北京和东北地区，语速也很快，讲话一秃噜就过去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1888897356034412816",
+        "created_at": "2025-02-11T01:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T02:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889124982430818761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1058689624501964800",
+              "start": 0,
+              "username": "Alhanbro"
+            },
+            {
+              "end": 22,
+              "id": "1444341781902987265",
+              "start": 10,
+              "username": "13848833wer"
+            },
+            {
+              "end": 31,
+              "id": "1693450364341948416",
+              "start": 23,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889124982430818761",
+        "in_reply_to_user_id": "1058689624501964800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889098385765875979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alhanbro @13848833wer @igeekbb 说老实话我咋觉得北方口音也吞字呢，特别是北京和东北地区，语速也很快，讲话一秃噜就过去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1058689624501964800",
+        "conversation_id": "1888897356034412816",
+        "created_at": "2025-02-10T23:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T00:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889098385765875979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1444341781902987265",
+              "start": 0,
+              "username": "13848833wer"
+            },
+            {
+              "end": 21,
+              "id": "1693450364341948416",
+              "start": 13,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889098385765875979",
+        "in_reply_to_user_id": "1444341781902987265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889077055075275120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@13848833wer @igeekbb 我其实也挺膈应南方口音的 吐字不清还贼娘炮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25214,
+          "following_count": 941,
+          "like_count": 13883,
+          "listed_count": 37,
+          "media_count": 1275,
+          "tweet_count": 14468
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-03T11:57:30.000Z",
+        "description": "🇮🇹",
+        "id": "1058689624501964800",
+        "location": "Florence, Tuscany",
+        "name": "✌️",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 120,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Alhanbro",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-02T16:41:42.000Z",
+        "description": "常在包头，0472单，绿帽情侣夫妻可私信，98年，182-60kg-17。QQ2319119062，备注推特",
+        "id": "1444341781902987265",
+        "location": "包头",
+        "name": "包头捅主任（单男）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809778347687440384/dJ99lkqm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 144,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "username": "13848833wer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27387,
+          "following_count": 1,
+          "like_count": 1976,
+          "listed_count": 137,
+          "media_count": 2731,
+          "tweet_count": 4480
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

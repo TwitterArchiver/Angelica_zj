@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1896055995144815017",
+    "created_at": "2025-03-03T00:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T01:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896362236958105704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1510309098302156804",
+          "start": 0,
+          "username": "Qi_owo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896362236958105704",
+    "in_reply_to_user_id": "1510309098302156804",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896306301451608412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qi_owo_ 🥺🥺宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1896055995144815017",
+        "created_at": "2025-03-03T00:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T01:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896362236958105704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1510309098302156804",
+              "start": 0,
+              "username": "Qi_owo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896362236958105704",
+        "in_reply_to_user_id": "1510309098302156804",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896306301451608412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qi_owo_ 🥺🥺宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510309098302156804",
+        "conversation_id": "1896055995144815017",
+        "created_at": "2025-03-02T21:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T22:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896306301451608412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896306301451608412",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896055995144815017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我草啊啊啊宝宝你好瘦！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25239,
+          "following_count": 948,
+          "like_count": 13985,
+          "listed_count": 36,
+          "media_count": 1284,
+          "tweet_count": 14596
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T17:32:21.000Z",
+        "description": "我来摸摸你的",
+        "id": "1510309098302156804",
+        "name": "可以当我的狗吗",
+        "pinned_tweet_id": "1816915809182319105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611768328196100096/czrVjrDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 334,
+          "like_count": 19359,
+          "listed_count": 11,
+          "media_count": 196,
+          "tweet_count": 4010
+        },
+        "username": "Qi_owo_",
+        "verified": false
+      }
+    ]
+  }
+}

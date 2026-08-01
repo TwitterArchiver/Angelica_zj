@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1983476231753609588",
+    "created_at": "2025-10-29T10:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T11:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983476231753609588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 119,
+          "expanded_url": "https://twitter.com/amber_toffee/status/1982685367594840456",
+          "start": 96,
+          "url": "https://t.co/hQ9X3DdLuz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983476231753609588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982685367594840456",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "单看这句话其实没问题，发展一段恋爱的前提应该是好好提升自身认真做自己，但以此来说明“20岁还没谈恋爱就是不正常”属实有点逆天。互相吸引的真爱无论什么时候遇到都不算晚吧，恋爱不是什么人生必选项 https://t.co/hQ9X3DdLuz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1983476231753609588",
+        "created_at": "2025-10-29T10:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T11:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983476231753609588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1982685367594840456",
+              "start": 96,
+              "url": "https://t.co/hQ9X3DdLuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983476231753609588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982685367594840456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "单看这句话其实没问题，发展一段恋爱的前提应该是好好提升自身认真做自己，但以此来说明“20岁还没谈恋爱就是不正常”属实有点逆天。互相吸引的真爱无论什么时候遇到都不算晚吧，恋爱不是什么人生必选项 https://t.co/hQ9X3DdLuz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1982682322156826927",
+        "created_at": "2025-10-27T05:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T06:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982685367594840456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982685367594840456",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 190390,
+          "like_count": 234,
+          "quote_count": 78,
+          "reply_count": 79,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982682322156826927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恋爱这种事情 不是只要你在那里一个人做自己擅长的事情 就自然会有人会对你感到好奇 然后过来喜欢你吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25340,
+          "following_count": 992,
+          "like_count": 14212,
+          "listed_count": 43,
+          "media_count": 1412,
+          "tweet_count": 15871
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ ❤︎ @noaayoyaoaya / ☭ / mtf / intp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1948717984975126819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18551,
+          "following_count": 2380,
+          "like_count": 34089,
+          "listed_count": 55,
+          "media_count": 717,
+          "tweet_count": 17013
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

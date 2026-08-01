@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1830504745062273024"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1830504752909824085",
+    "created_at": "2024-09-02T07:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T08:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1830504752909824085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hm2t1svtox",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Angelica_zj/status/1830504752909824085/photo/1",
+          "media_key": "3_1830504745062273024",
+          "start": 13,
+          "url": "https://t.co/hM2t1sVtOX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830504752909824085",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉每天就这样自己跟自己玩 https://t.co/hM2t1sVtOX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1830504745062273024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWdCXgEakAA9YbY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830504745062273024"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1830504752909824085",
+        "created_at": "2024-09-02T07:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T08:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830504752909824085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hm2t1svtox",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Angelica_zj/status/1830504752909824085/photo/1",
+              "media_key": "3_1830504745062273024",
+              "start": 13,
+              "url": "https://t.co/hM2t1sVtOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830504752909824085",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉每天就这样自己跟自己玩 https://t.co/hM2t1sVtOX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / 置顶锁评带链接均为推广 请谨慎辨别",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24374,
+          "following_count": 904,
+          "like_count": 13537,
+          "listed_count": 35,
+          "tweet_count": 13549
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

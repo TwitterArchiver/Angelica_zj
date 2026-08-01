@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1920443061064098184",
+    "created_at": "2025-05-09T02:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T03:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920662281177714745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1818359451948326912",
+          "start": 0,
+          "username": "qing2406"
+        },
+        {
+          "end": 23,
+          "id": "1780578393739931648",
+          "start": 10,
+          "username": "veronica_kcz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920662281177714745",
+    "in_reply_to_user_id": "1818359451948326912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920508420886569090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qing2406 @veronica_kcz 我也是说，不懂黑红也是红吗，这种猎奇文风接着写下去流量不敢想有多好，还是此人心理承受能力太差"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1920443061064098184",
+        "created_at": "2025-05-09T02:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T03:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920662281177714745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1818359451948326912",
+              "start": 0,
+              "username": "qing2406"
+            },
+            {
+              "end": 23,
+              "id": "1780578393739931648",
+              "start": 10,
+              "username": "veronica_kcz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920662281177714745",
+        "in_reply_to_user_id": "1818359451948326912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920508420886569090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qing2406 @veronica_kcz 我也是说，不懂黑红也是红吗，这种猎奇文风接着写下去流量不敢想有多好，还是此人心理承受能力太差"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818359451948326912",
+        "conversation_id": "1920443061064098184",
+        "created_at": "2025-05-08T15:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T16:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920508420886569090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1780578393739931648",
+              "start": 0,
+              "username": "veronica_kcz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920508420886569090",
+        "in_reply_to_user_id": "1780578393739931648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1079,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920443061064098184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@veronica_kcz 他网感不行，要是我就开始接推广接住这波流量了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25392,
+          "following_count": 987,
+          "like_count": 14334,
+          "listed_count": 38,
+          "media_count": 1334,
+          "tweet_count": 15137
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T18:54:29.000Z",
+        "description": "人活着就是为了猫咪 👿 私信骚扰牛牛变小",
+        "id": "1818359451948326912",
+        "name": "qing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818359526325940224/543NNjZV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 247,
+          "like_count": 3771,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 401
+        },
+        "username": "qing2406",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T12:46:31.000Z",
+        "description": "这象我一抽便是一辈子",
+        "id": "1780578393739931648",
+        "location": "推广自辨",
+        "name": "Yu riii",
+        "pinned_tweet_id": "1918659435393605844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787362738932715520/vatbSO7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19544,
+          "following_count": 433,
+          "like_count": 1452,
+          "listed_count": 22,
+          "media_count": 112,
+          "tweet_count": 10517
+        },
+        "username": "veronica_kcz",
+        "verified": false
+      }
+    ]
+  }
+}

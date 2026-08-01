@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2053211118890283392",
+    "created_at": "2026-05-10T10:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053423024502689969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1952890026452500480",
+          "start": 0,
+          "username": "JoanInMyHeart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053423024502689969",
+    "in_reply_to_user_id": "1952890026452500480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053338956503130322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JoanInMyHeart 这样是对的，其实可以的话我想直接注销微信，但想想还是太麻烦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2053211118890283392",
+        "created_at": "2026-05-10T10:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053423024502689969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1952890026452500480",
+              "start": 0,
+              "username": "JoanInMyHeart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053423024502689969",
+        "in_reply_to_user_id": "1952890026452500480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053338956503130322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JoanInMyHeart 这样是对的，其实可以的话我想直接注销微信，但想想还是太麻烦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952890026452500480",
+        "conversation_id": "2053211118890283392",
+        "created_at": "2026-05-10T04:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053338956503130322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053338956503130322",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053211118890283392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我前段时间卸载了抖音微博小红书，就为了和一些人彻底断联，现在终于全部删了，彻底翻篇了哈哈。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25154,
+          "following_count": 1051,
+          "like_count": 14744,
+          "listed_count": 42,
+          "media_count": 1582,
+          "tweet_count": 17092
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T00:30:49.000Z",
+        "description": "留学生 | 焦虑障碍 | 硕士延毕 | 🙏 感谢无言的关注 + 负面情绪致歉 // Int’l Student | Anxiety Disorder | Master’s (extending) | 🙏 thanks for understanding + apologies for the downbeat",
+        "id": "1952890026452500480",
+        "name": "芝诺比娅🪒Zenobia",
+        "pinned_tweet_id": "2040346251137318949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955055113548021760/565O7VYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 50,
+          "like_count": 2217,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "JoanInMyHeart",
+        "verified": false
+      }
+    ]
+  }
+}

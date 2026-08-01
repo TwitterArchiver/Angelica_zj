@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "1906340145638551624",
+    "created_at": "2025-03-30T13:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T14:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906340145638551624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mizuyiloame/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/mizuyiloame/status/1905980729223528504",
+          "start": 6,
+          "url": "https://t.co/8uLNKK2oRo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906340145638551624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905980729223528504",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的爱看 https://t.co/8uLNKK2oRo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1906340145638551624",
+        "created_at": "2025-03-30T13:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T14:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906340145638551624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mizuyiloame/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/mizuyiloame/status/1905980729223528504",
+              "start": 6,
+              "url": "https://t.co/8uLNKK2oRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906340145638551624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905980729223528504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的爱看 https://t.co/8uLNKK2oRo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1402236123494043651",
+        "conversation_id": "1905980729223528504",
+        "created_at": "2025-03-29T13:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T14:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905980729223528504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905980729223528504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 70386,
+          "like_count": 355,
+          "quote_count": 1,
+          "reply_count": 54,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好爱看丸崽的做鸡vlog啊。。。好笑又心酸。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25298,
+          "following_count": 956,
+          "like_count": 14104,
+          "listed_count": 38,
+          "media_count": 1296,
+          "tweet_count": 14775
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-08T12:08:47.000Z",
+        "description": "我最深的憂愁被你折成花",
+        "id": "1402236123494043651",
+        "name": "小泽玛丽苏",
+        "pinned_tweet_id": "1898417099917447396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904034204859727872/EYOKtp-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9086,
+          "following_count": 298,
+          "like_count": 4839,
+          "listed_count": 28,
+          "media_count": 101,
+          "tweet_count": 2115
+        },
+        "username": "MIZUYILOAME",
+        "verified": false
+      }
+    ]
+  }
+}
