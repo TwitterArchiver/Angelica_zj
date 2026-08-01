@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875623985964068864"
+      ],
+      "media_source_tweet_id": [
+        "1875623988325687782"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1876071979847131142",
+    "created_at": "2025-01-06T01:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T02:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876071979847131142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1562910548630867969",
+          "start": 3,
+          "username": "lovesickdoe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uP5GvwvgJK",
+          "end": 40,
+          "expanded_url": "https://x.com/lovesickdoe/status/1875623988325687782/photo/1",
+          "media_key": "3_1875623985964068864",
+          "start": 17,
+          "url": "https://t.co/uP5GvwvgJK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876071979847131142",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5800
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875623988325687782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovesickdoe: https://t.co/uP5GvwvgJK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1875623985964068864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgeOE-eXMAAnXKa.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875623985964068864"
+          ],
+          "media_source_tweet_id": [
+            "1875623988325687782"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1876071979847131142",
+        "created_at": "2025-01-06T01:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T02:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876071979847131142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1562910548630867969",
+              "start": 3,
+              "username": "lovesickdoe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uP5GvwvgJK",
+              "end": 40,
+              "expanded_url": "https://x.com/lovesickdoe/status/1875623988325687782/photo/1",
+              "media_key": "3_1875623985964068864",
+              "start": 17,
+              "url": "https://t.co/uP5GvwvgJK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876071979847131142",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5800
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875623988325687782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovesickdoe: https://t.co/uP5GvwvgJK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875623985964068864"
+          ]
+        },
+        "author_id": "1562910548630867969",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1875623988325687782",
+        "created_at": "2025-01-04T19:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T20:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875623988325687782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uP5GvwvgJK",
+              "end": 23,
+              "expanded_url": "https://x.com/lovesickdoe/status/1875623988325687782/photo/1",
+              "media_key": "3_1875623985964068864",
+              "start": 0,
+              "url": "https://t.co/uP5GvwvgJK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875623988325687782",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1724,
+          "impression_count": 754150,
+          "like_count": 32695,
+          "quote_count": 523,
+          "reply_count": 225,
+          "retweet_count": 5800
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uP5GvwvgJK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25101,
+          "following_count": 933,
+          "like_count": 13721,
+          "listed_count": 36,
+          "media_count": 1250,
+          "tweet_count": 14207
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T21:12:23.000Z",
+        "description": "about this account:\ni post sanrio, animals, cute items and do giveaways from time to time!\n\nplease email me for a quick response! miffylover97@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lovesickdoe.carrd.co",
+                "end": 23,
+                "expanded_url": "https://lovesickdoe.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/VsrfaGjItr"
+              }
+            ]
+          }
+        },
+        "id": "1562910548630867969",
+        "location": "ʚ go to link for more info ",
+        "name": "/ᐠ - ˕ -マ",
+        "pinned_tweet_id": "1797941028328186215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661501060878413825/8V91hoDT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160822,
+          "following_count": 310,
+          "like_count": 71830,
+          "listed_count": 682,
+          "media_count": 17708,
+          "tweet_count": 48842
+        },
+        "url": "https://t.co/VsrfaGjItr",
+        "username": "lovesickdoe",
+        "verified": true
+      }
+    ]
+  }
+}
