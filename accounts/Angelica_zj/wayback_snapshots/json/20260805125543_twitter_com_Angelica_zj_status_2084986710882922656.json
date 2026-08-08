@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1382718053020880899",
+          "name": "ENHYPEN"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1382718053020880899",
+          "name": "ENHYPEN"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1382718053020880899",
+          "name": "ENHYPEN"
+        }
+      }
+    ],
+    "conversation_id": "2084986710882922656",
+    "created_at": "2026-08-05T12:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084986710882922656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/awayshui/statu…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/awayshui/status/2084953795826680214",
+          "start": 39,
+          "url": "https://t.co/XekqX13J0x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084986710882922656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084953795826680214",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想搜个事情始末跳出来全是蹲蹲蹲求视频的，蹲你妈呢给自己爹妈吊死不就有的看了😂 https://t.co/XekqX13J0x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          }
+        ],
+        "conversation_id": "2084986710882922656",
+        "created_at": "2026-08-05T12:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084986710882922656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/awayshui/statu…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/awayshui/status/2084953795826680214",
+              "start": 39,
+              "url": "https://t.co/XekqX13J0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084986710882922656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084953795826680214",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想搜个事情始末跳出来全是蹲蹲蹲求视频的，蹲你妈呢给自己爹妈吊死不就有的看了😂 https://t.co/XekqX13J0x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814970519638491136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          }
+        ],
+        "conversation_id": "2084953795826680214",
+        "created_at": "2026-08-05T10:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084953795826680214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/awayshui/statu…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/awayshui/status/2084951837875323227",
+              "start": 162,
+              "url": "https://t.co/CyMfFyofYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084953795826680214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "说一下这个事件的始末，真的让很气愤😡\n\nMina（日籍，约26岁，在韩留学，X账号minann320、Instagram minann22）是韩团ENHYPEN成员NI-KI（西村力）的死忠粉丝（站姐），常参加签售会，成员多认识她。7月底ENHYPEN美国演唱会期间，她在前排试图让成员把向日葵递给NI-KI，但对方未接。\n\n随后NI-KI在个人直播中提到演唱会部分粉丝缺乏边界感、只想单独引起注意等（未点名），粉丝圈迅速将矛头指向Mina，指责她不尊重舞台、过度求关注等。\n\n随后出现大规模网暴：涌入其页面人身攻击、诅咒，甚至造谣其过去是陪酒女等，并持续私信骚扰。很多粉丝把Mina开盒，并且扒出了她做卖水女的事情，Mina曾公开道歉、解释（称自己把握不好距离感）、宣布关站/脱粉，但攻击未停。\n\n8月4日夜间至5日凌晨，她开直播时情绪崩溃（据传不断说“好可怕”等），SNS流传其在直播中轻生，警察到场\n关闭镜头等画面。好友随后发纪念帖（如“希望你在天堂幸福”）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 55524,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084951837875323227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说一下这个事件的始末，真的让很气愤😡\n\nMina（日籍，约26岁，在韩留学，X账号minann320、Instagram minann22）是韩团ENHYPEN成员NI-KI（西村力）的死忠粉丝（站姐），常参加签售会，成员多认识她。7月底ENHYPEN美国演唱会期间，她在前排试图让成员把向日葵递给NI-KI，但对方未接。 https://t.co/CyMfFyofYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25016,
+          "following_count": 1045,
+          "like_count": 14994,
+          "listed_count": 41,
+          "media_count": 1609,
+          "tweet_count": 17546
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T10:27:56.000Z",
+        "description": "干一行爱一行\n认真对待每个忠实客户！\n\n小特的小号：@xiaote857",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "xiaote857"
+              }
+            ]
+          }
+        },
+        "id": "1814970519638491136",
+        "name": "小特（专业版）",
+        "pinned_tweet_id": "2084544024057389354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007428889665253378/YBbeq5FU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11776,
+          "following_count": 81,
+          "like_count": 5056,
+          "listed_count": 19,
+          "media_count": 128,
+          "tweet_count": 586
+        },
+        "url": "",
+        "username": "Awayshui",
+        "verified": true
+      }
+    ]
+  }
+}

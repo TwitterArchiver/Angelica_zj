@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2083780352066441340",
+    "created_at": "2026-08-03T03:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084117736100167949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971814880375406592",
+          "start": 0,
+          "username": "kawa090109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084117736100167949",
+    "in_reply_to_user_id": "1971814880375406592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083780352066441340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawa090109 笑得我肚子痛。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24933,
+        "height": 1280,
+        "media_key": "13_2082903597004861440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082903597004861440/img/qOkfjbpbz9tHJNeW.jpg",
+        "public_metrics": {
+          "view_count": 9379110
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082903597004861440/vid/avc1/320x568/vLe9Jy-1l-bBf7ot.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082903597004861440/vid/avc1/480x852/OE2r9ItzSzYIkHNF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082903597004861440/vid/avc1/720x1280/dmnp22YJghqKce7H.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082903597004861440/pl/gFKYq8Pg5zF4g0E4.m3u8?v=1f0"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2083780352066441340",
+        "created_at": "2026-08-03T03:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084117736100167949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971814880375406592",
+              "start": 0,
+              "username": "kawa090109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084117736100167949",
+        "in_reply_to_user_id": "1971814880375406592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083780352066441340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawa090109 笑得我肚子痛。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082903597004861440"
+          ],
+          "media_source_tweet_id": [
+            "2083514618530721935"
+          ]
+        },
+        "author_id": "1971814880375406592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083780352066441340",
+        "created_at": "2026-08-02T05:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083780352066441340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K0t6GFulKc",
+              "end": 39,
+              "expanded_url": "https://x.com/2joo_E_89/status/2083514618530721935/video/1",
+              "media_key": "13_2082903597004861440",
+              "start": 16,
+              "url": "https://t.co/K0t6GFulKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083780352066441340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 485,
+          "impression_count": 278922,
+          "like_count": 2561,
+          "quote_count": 31,
+          "reply_count": 130,
+          "retweet_count": 140
+        },
+        "reply_settings": "everyone",
+        "text": "我快笑疯了啊 啊啊啊啊啊啊啊啊 https://t.co/K0t6GFulKc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25010,
+          "following_count": 1044,
+          "like_count": 14981,
+          "listed_count": 41,
+          "media_count": 1618,
+          "tweet_count": 17520
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T05:51:26.000Z",
+        "description": "我很懵逼 我只是一枚奔溃的蛋黄",
+        "id": "1971814880375406592",
+        "name": "铁路",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971820886505525249/kLeOKWA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 23,
+          "like_count": 1292,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 550
+        },
+        "url": "",
+        "username": "kawa090109",
+        "verified": false
+      }
+    ]
+  }
+}

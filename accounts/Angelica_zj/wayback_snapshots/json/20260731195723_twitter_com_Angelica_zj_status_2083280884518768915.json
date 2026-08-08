@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2083277183339119082",
+    "created_at": "2026-07-31T19:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T20:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083280884518768915"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083280884518768915",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083277183339119082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉互关可能会有讨厌他的，别着急骂我先我已经是很多年的圈外人了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083277175948705792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOlJjckaAAAnA58.jpg",
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2083277183339119082",
+        "created_at": "2026-07-31T19:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083280884518768915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083280884518768915",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083277183339119082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉互关可能会有讨厌他的，别着急骂我先我已经是很多年的圈外人了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083277175948705792"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "2083277183339119082",
+        "created_at": "2026-07-31T19:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083277183339119082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/krAnQAuCeG",
+              "end": 148,
+              "expanded_url": "https://x.com/Angelica_zj/status/2083277183339119082/photo/1",
+              "media_key": "3_2083277175948705792",
+              "start": 125,
+              "url": "https://t.co/krAnQAuCeG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083277183339119082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我对法老的感情是，曾经我有多喜欢他，后来的某段时间我就有多恨他，过了这几年后慢慢又开始理解以及释怀。\n或许心态的转变更多的要归功于，即使这些年不再了解他任何近况我也总是莫名其妙做一些偶遇他的梦。还挺惊讶的，十几岁的时候幼稚的执念居然能延续至今 https://t.co/krAnQAuCeG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25012,
+          "following_count": 1047,
+          "like_count": 14970,
+          "listed_count": 41,
+          "media_count": 1618,
+          "tweet_count": 17505
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

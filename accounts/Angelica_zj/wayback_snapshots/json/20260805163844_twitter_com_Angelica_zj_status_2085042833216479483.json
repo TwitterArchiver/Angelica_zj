@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2084886061801415032",
+    "created_at": "2026-08-05T16:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T17:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085042833216479483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1560434375195369474",
+          "start": 0,
+          "username": "Xuexu_19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085042833216479483",
+    "in_reply_to_user_id": "1560434375195369474",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085041859412562201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xuexu_19 badbad😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2084886061801415032",
+        "created_at": "2026-08-05T16:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085042833216479483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1560434375195369474",
+              "start": 0,
+              "username": "Xuexu_19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085042833216479483",
+        "in_reply_to_user_id": "1560434375195369474",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085041859412562201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuexu_19 badbad😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560434375195369474",
+        "conversation_id": "2084886061801415032",
+        "created_at": "2026-08-05T16:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085041859412562201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085041859412562201",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085030774672109748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 这样吃长久容易得胃病哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25021,
+          "following_count": 1049,
+          "like_count": 14998,
+          "listed_count": 41,
+          "media_count": 1608,
+          "tweet_count": 17547
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T01:12:18.000Z",
+        "description": "为了世界和平请不要让鸡肉卷涨价😵‍💫",
+        "id": "1560434375195369474",
+        "name": "皮质醇",
+        "pinned_tweet_id": "1954963547198505439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619516314405707776/HUYfmVL0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 218,
+          "like_count": 9113,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 3881
+        },
+        "url": "",
+        "username": "Xuexu_19",
+        "verified": false
+      }
+    ]
+  }
+}
