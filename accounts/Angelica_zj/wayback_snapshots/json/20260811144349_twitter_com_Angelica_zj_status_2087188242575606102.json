@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2087188242575606102",
+    "created_at": "2026-08-11T14:43:49.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T15:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087188242575606102"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087188242575606102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抢到了中国boy巡演的票，现在心情很复杂。我不算他的歌粉，喜欢他是三四年前的事了，目前bup浓度极低。从没去过任何演唱会live house现场，对于到场该干什么很懵逼，怕自己嗨不起来，也不知道结束合影能和他说点啥（闭目"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2087188242575606102",
+        "created_at": "2026-08-11T14:43:49.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087188242575606102"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087188242575606102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抢到了中国boy巡演的票，现在心情很复杂。我不算他的歌粉，喜欢他是三四年前的事了，目前bup浓度极低。从没去过任何演唱会live house现场，对于到场该干什么很懵逼，怕自己嗨不起来，也不知道结束合影能和他说点啥（闭目"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "is_identity_verified": false,
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "most_recent_tweet_id": "2087188242575606102",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468567542264664067/1678714146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24995,
+          "following_count": 1051,
+          "like_count": 15031,
+          "listed_count": 40,
+          "media_count": 1609,
+          "tweet_count": 17567
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

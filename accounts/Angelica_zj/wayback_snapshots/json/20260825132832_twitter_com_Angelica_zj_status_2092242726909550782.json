@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092242707783602176",
+        "3_2092242707808735232"
+      ]
+    },
+    "author_id": "1468567542264664067",
+    "conversation_id": "2092242726909550782",
+    "created_at": "2026-08-25T13:28:32.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T14:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092242726909550782"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qCUsmBgcsw",
+          "end": 35,
+          "expanded_url": "https://x.com/Angelica_zj/status/2092242726909550782/photo/1",
+          "media_key": "3_2092242707783602176",
+          "start": 12,
+          "url": "https://t.co/qCUsmBgcsw"
+        },
+        {
+          "display_url": "pic.x.com/qCUsmBgcsw",
+          "end": 35,
+          "expanded_url": "https://x.com/Angelica_zj/status/2092242726909550782/photo/1",
+          "media_key": "3_2092242707808735232",
+          "start": 12,
+          "url": "https://t.co/qCUsmBgcsw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092242726909550782",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092242707783602176"
+      },
+      {
+        "media_key": "3_2092242707808735232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "差不多四年没剪头的长度 https://t.co/qCUsmBgcsw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1464,
+        "media_key": "3_2092242707783602176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkjqFVX0AARUSL.jpg",
+        "width": 1098
+      },
+      {
+        "height": 778,
+        "media_key": "3_2092242707808735232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkjqFbXUAAHxKH.jpg",
+        "width": 583
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092242707783602176",
+            "3_2092242707808735232"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "2092242726909550782",
+        "created_at": "2026-08-25T13:28:32.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092242726909550782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCUsmBgcsw",
+              "end": 35,
+              "expanded_url": "https://x.com/Angelica_zj/status/2092242726909550782/photo/1",
+              "media_key": "3_2092242707783602176",
+              "start": 12,
+              "url": "https://t.co/qCUsmBgcsw"
+            },
+            {
+              "display_url": "pic.x.com/qCUsmBgcsw",
+              "end": 35,
+              "expanded_url": "https://x.com/Angelica_zj/status/2092242726909550782/photo/1",
+              "media_key": "3_2092242707808735232",
+              "start": 12,
+              "url": "https://t.co/qCUsmBgcsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092242726909550782",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092242707783602176"
+          },
+          {
+            "media_key": "3_2092242707808735232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "差不多四年没剪头的长度 https://t.co/qCUsmBgcsw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "is_identity_verified": false,
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "most_recent_tweet_id": "2092242726909550782",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468567542264664067/1678714146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24992,
+          "following_count": 1051,
+          "like_count": 15045,
+          "listed_count": 39,
+          "media_count": 1620,
+          "tweet_count": 17643
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

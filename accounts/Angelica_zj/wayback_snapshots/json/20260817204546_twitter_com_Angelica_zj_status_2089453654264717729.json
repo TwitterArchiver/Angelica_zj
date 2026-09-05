@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2089288870944768014",
+    "created_at": "2026-08-17T20:45:46.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T21:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089453654264717729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1560434375195369474",
+          "start": 0,
+          "username": "Xuexu_19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089453654264717729",
+    "in_reply_to_user_id": "1560434375195369474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089296039945888210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xuexu_19 还真是，一直很想带走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2089288870944768014",
+        "created_at": "2026-08-17T20:45:46.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T21:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089453654264717729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1560434375195369474",
+              "start": 0,
+              "username": "Xuexu_19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089453654264717729",
+        "in_reply_to_user_id": "1560434375195369474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089296039945888210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuexu_19 还真是，一直很想带走"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560434375195369474",
+        "conversation_id": "2089288870944768014",
+        "created_at": "2026-08-17T10:19:27.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T11:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089296039945888210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089296039945888210",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089288870944768014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 拔牙亦是如此"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "is_identity_verified": false,
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "most_recent_tweet_id": "2089453654264717729",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468567542264664067/1678714146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24999,
+          "following_count": 1051,
+          "like_count": 15035,
+          "listed_count": 39,
+          "media_count": 1616,
+          "tweet_count": 17613
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-19T01:12:18.000Z",
+        "description": "为了世界和平请不要让鸡肉卷涨价😵‍💫",
+        "id": "1560434375195369474",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089296039945888210",
+        "name": "皮质醇",
+        "pinned_tweet_id": "1954963547198505439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560434375195369474/1745946444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619516314405707776/HUYfmVL0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 216,
+          "like_count": 9107,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3903
+        },
+        "url": "",
+        "username": "Xuexu_19",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2087577171539763273",
+    "created_at": "2026-08-13T11:02:30.000Z",
+    "display_text_range": [
+      17,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T12:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087857322567586253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1617162636415598593",
+          "start": 0,
+          "username": "DebbieS23013354"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087857322567586253",
+    "in_reply_to_user_id": "1617162636415598593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087841159729340426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DebbieS23013354 光脚走路是不是吧嗒吧嗒的哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2087577171539763273",
+        "created_at": "2026-08-13T11:02:30.000Z",
+        "display_text_range": [
+          17,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087857322567586253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1617162636415598593",
+              "start": 0,
+              "username": "DebbieS23013354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087857322567586253",
+        "in_reply_to_user_id": "1617162636415598593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087841159729340426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DebbieS23013354 光脚走路是不是吧嗒吧嗒的哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617162636415598593",
+        "conversation_id": "2087577171539763273",
+        "created_at": "2026-08-13T09:58:17.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087841159729340426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087841159729340426",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087577171539763273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 我也是 扁平足…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "is_identity_verified": false,
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "most_recent_tweet_id": "2087857322567586253",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468567542264664067/1678714146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25000,
+          "following_count": 1053,
+          "like_count": 15037,
+          "listed_count": 40,
+          "media_count": 1613,
+          "tweet_count": 17579
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-22T14:10:09.000Z",
+        "description": "😈💩🫶🤡🙀👹🤲🫥😪🤥🤮🫲👋🫷🫀👄🫁🫂🫦👯👩‍🦼👯‍♀️🫶😋🫁🏝️🍊💰😂💩🏝️🥺🧦🚪",
+        "id": "1617162636415598593",
+        "is_identity_verified": false,
+        "location": "贾巴沃克岛🏝️",
+        "most_recent_tweet_id": "2087842478150033655",
+        "name": "3r EUSho",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1617162636415598593/1675348052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623933446975541249/B_LXNXHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 375,
+          "like_count": 13756,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 3567
+        },
+        "url": "",
+        "username": "DebbieS23013354",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2087950229316264369",
+    "created_at": "2026-08-13T17:11:41.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T18:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087950229316264369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/bghtnya/status/2087875171147194669",
+          "start": 6,
+          "url": "https://t.co/c3Obel2NHM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087950229316264369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087875171147194669",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉，中推圈 https://t.co/c3Obel2NHM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2087875118567706624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmfW7ma0AACeUH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1842,
+        "media_key": "3_2087875129074397185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmfXivaMAET9Qp.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2087875148519243776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmfYrLbAAACOcg.jpg",
+        "width": 1842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2087950229316264369",
+        "created_at": "2026-08-13T17:11:41.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087950229316264369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/bghtnya/status/2087875171147194669",
+              "start": 6,
+              "url": "https://t.co/c3Obel2NHM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087950229316264369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087875171147194669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉，中推圈 https://t.co/c3Obel2NHM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087875118567706624",
+            "3_2087875129074397185",
+            "3_2087875148519243776"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2087875171147194669",
+        "created_at": "2026-08-13T12:13:26.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:10:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087874545109839892",
+          "2087875171147194669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mG4fc47d4t",
+              "end": 138,
+              "expanded_url": "https://x.com/bghtnya/status/2087875171147194669/photo/1",
+              "media_key": "3_2087875118567706624",
+              "start": 115,
+              "url": "https://t.co/mG4fc47d4t"
+            },
+            {
+              "display_url": "pic.x.com/mG4fc47d4t",
+              "end": 138,
+              "expanded_url": "https://x.com/bghtnya/status/2087875171147194669/photo/1",
+              "media_key": "3_2087875129074397185",
+              "start": 115,
+              "url": "https://t.co/mG4fc47d4t"
+            },
+            {
+              "display_url": "pic.x.com/mG4fc47d4t",
+              "end": 138,
+              "expanded_url": "https://x.com/bghtnya/status/2087875171147194669/photo/1",
+              "media_key": "3_2087875148519243776",
+              "start": 115,
+              "url": "https://t.co/mG4fc47d4t"
+            },
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/bghtnya/status/2087820263052423385",
+              "start": 139,
+              "url": "https://t.co/zDglTZlSRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087875171147194669",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087875118567706624"
+          },
+          {
+            "media_key": "3_2087875129074397185"
+          },
+          {
+            "media_key": "3_2087875148519243776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 24804,
+          "like_count": 145,
+          "quote_count": 10,
+          "reply_count": 28,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087820263052423385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wc！千雪同行，我们见到了超天降快闪店捅人事件的受害者当事人wireless （她也是mtf）\n\n双手都被捅伤，胳膊上还在僵持的时候被咬了一口\n\n昨天她的包还被落在了店里面，今早回去之包的时候说还没有营业，店员在清扫地上的血迹） https://t.co/mG4fc47d4t https://t.co/zDglTZlSRh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "is_identity_verified": false,
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "most_recent_tweet_id": "2087950229316264369",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468567542264664067/1678714146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25002,
+          "following_count": 1053,
+          "like_count": 15038,
+          "listed_count": 40,
+          "media_count": 1613,
+          "tweet_count": 17582
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2087947309355270650",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10200,
+          "following_count": 2322,
+          "like_count": 181019,
+          "listed_count": 19,
+          "media_count": 4024,
+          "tweet_count": 49323
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2085837767922082302",
+    "created_at": "2026-08-07T21:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T22:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085837767922082302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/blushy00/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/blushy00/status/2058363326003044427",
+          "start": 8,
+          "url": "https://t.co/xt3cV1xhOz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085837767922082302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058363326003044427",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "亲测好搜，强推 https://t.co/xt3cV1xhOz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2085837767922082302",
+        "created_at": "2026-08-07T21:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T22:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085837767922082302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blushy00/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/blushy00/status/2058363326003044427",
+              "start": 8,
+              "url": "https://t.co/xt3cV1xhOz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085837767922082302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058363326003044427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "亲测好搜，强推 https://t.co/xt3cV1xhOz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741367021336748032",
+        "conversation_id": "2058363326003044427",
+        "created_at": "2026-05-24T01:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058363326003044427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058363326003044427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2672,
+          "impression_count": 701852,
+          "like_count": 4956,
+          "quote_count": 12,
+          "reply_count": 294,
+          "retweet_count": 173
+        },
+        "reply_settings": "everyone",
+        "text": "“클리” 有阴蒂瘾的你们可以去搜这个词！！感谢我的网友提供了这个词，搜出好多嫩嫩的韩国阴蒂😭😭！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25013,
+          "following_count": 1053,
+          "like_count": 15013,
+          "listed_count": 41,
+          "media_count": 1609,
+          "tweet_count": 17555
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T07:53:54.000Z",
+        "description": "𝐼𝒮𝐹𝒫 | 𝒞𝓁𝒾𝓉 𝐿𝑜𝓋𝑒𝓇 | 𝒞𝓁𝒾𝓉 𝒪𝓇𝑔𝒶𝓈𝓂",
+        "id": "1741367021336748032",
+        "name": "Blushy’00",
+        "pinned_tweet_id": "2053993877804306490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043969822325899264/u3-83aIz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11717,
+          "following_count": 50,
+          "like_count": 48,
+          "listed_count": 23,
+          "media_count": 22,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "blushy00",
+        "verified": false
+      }
+    ]
+  }
+}

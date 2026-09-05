@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2092223361921257787",
+    "created_at": "2026-08-26T03:34:27.000Z",
+    "display_text_range": [
+      12,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T04:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092455609274925170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1404997135360270343",
+          "start": 0,
+          "username": "_yukinaOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092455609274925170",
+    "in_reply_to_user_id": "1404997135360270343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092452393518772354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yukinaOvO 摸摸宝宝…😭现在网上还有卖的，其实可以再买一个迎迎回家抚慰小时候的自己…🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2092223361921257787",
+        "created_at": "2026-08-26T03:34:27.000Z",
+        "display_text_range": [
+          12,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092455609274925170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1404997135360270343",
+              "start": 0,
+              "username": "_yukinaOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092455609274925170",
+        "in_reply_to_user_id": "1404997135360270343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092452393518772354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yukinaOvO 摸摸宝宝…😭现在网上还有卖的，其实可以再买一个迎迎回家抚慰小时候的自己…🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1404997135360270343",
+        "conversation_id": "2092223361921257787",
+        "created_at": "2026-08-26T03:21:41.000Z",
+        "display_text_range": [
+          13,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092452393518772354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092452393518772354",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092450215156674934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 一套…！！我之前有一个迎迎搬家的时候被扔掉了，我哭了好久🥲🥲我真的觉得08年这个福娃特别特别可爱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "is_identity_verified": false,
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "most_recent_tweet_id": "2092455609274925170",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468567542264664067/1678714146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24993,
+          "following_count": 1051,
+          "like_count": 15047,
+          "listed_count": 39,
+          "media_count": 1620,
+          "tweet_count": 17652
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-16T03:00:05.000Z",
+        "description": "^⌯𖥦⌯^ ੭ 鹿角/Yukina❄️ ┆碎碎念記錄合集┆水色🩵┆中文En OK┆音游、繪畫┆毛绒大好き┆ハチワレ、湊友希那、リラックマ┆\n視監我的死全家",
+        "id": "1404997135360270343",
+        "is_identity_verified": false,
+        "location": "｡ﾟ+.雨° 雪꜆˖♡* 貓咪/ᐠ - ˕ -マ Ⳋ",
+        "most_recent_tweet_id": "2092455382220492892",
+        "name": "Yuki._.Neko",
+        "pinned_tweet_id": "2091872114077049191",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404997135360270343/1726210286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079184577940312064/VYDursNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 377,
+          "like_count": 5511,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 2401
+        },
+        "url": "",
+        "username": "_yukinaOvO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

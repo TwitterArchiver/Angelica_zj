@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2088277662854738000",
+    "created_at": "2026-08-15T15:06:50.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T16:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088643587135230153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1494708259382755328",
+          "start": 0,
+          "username": "SuzukiShinmori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088643587135230153",
+    "in_reply_to_user_id": "1494708259382755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088578360184320348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuzukiShinmori 谢谢你呀😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2088277662854738000",
+        "created_at": "2026-08-15T15:06:50.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088643587135230153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1494708259382755328",
+              "start": 0,
+              "username": "SuzukiShinmori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088643587135230153",
+        "in_reply_to_user_id": "1494708259382755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088578360184320348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuzukiShinmori 谢谢你呀😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494708259382755328",
+        "conversation_id": "2088277662854738000",
+        "created_at": "2026-08-15T10:47:39.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088578360184320348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088578360184320348",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088277662854738000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 好看"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "is_identity_verified": false,
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "most_recent_tweet_id": "2088643587135230153",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468567542264664067/1678714146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25008,
+          "following_count": 1052,
+          "like_count": 15041,
+          "listed_count": 40,
+          "media_count": 1615,
+          "tweet_count": 17593
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-18T16:20:07.000Z",
+        "description": "芝麻人每月底薪2000还是太超模了，我看只配领500让缺的来集中力量打芝麻\n\n芝麻人就是芝麻人，虽然名称带人但是跟其他人不一样，但是替换成🐷🐶畜却是不行的，涉嫌极恶劣的侮辱🐷🐶畜。可以把这种情况理解为一种最直观的芝麻🇨🇳特色\n\n红温的芝麻人不服可以去中南海当地周边的芝麻人管理部门【👮‍♂️局】进行一个举报",
+        "id": "1494708259382755328",
+        "is_identity_verified": false,
+        "location": "芝麻国 中南海",
+        "most_recent_tweet_id": "2088581840429097272",
+        "name": "うちはマダラ",
+        "pinned_tweet_id": "2055928394295247112",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494708259382755328/1751438184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940298490870931456/Py-c2DEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 600,
+          "like_count": 283757,
+          "listed_count": 9,
+          "media_count": 4044,
+          "tweet_count": 32948
+        },
+        "url": "",
+        "username": "SuzukiShinmori",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

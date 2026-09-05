@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2088277662854738000",
+    "created_at": "2026-08-15T07:36:14.000Z",
+    "display_text_range": [
+      12,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T08:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088530188250321015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1404997135360270343",
+          "start": 0,
+          "username": "_yukinaOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088530188250321015",
+    "in_reply_to_user_id": "1404997135360270343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088342781073002718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yukinaOvO 一直在溺爱我😭😭我会努力画的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2088277662854738000",
+        "created_at": "2026-08-15T07:36:14.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088530188250321015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1404997135360270343",
+              "start": 0,
+              "username": "_yukinaOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088530188250321015",
+        "in_reply_to_user_id": "1404997135360270343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088342781073002718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yukinaOvO 一直在溺爱我😭😭我会努力画的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1404997135360270343",
+        "conversation_id": "2088277662854738000",
+        "created_at": "2026-08-14T19:11:33.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T20:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088342781073002718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088342781073002718",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088277662854738000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 多画爱看"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "is_identity_verified": false,
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "most_recent_tweet_id": "2088530188250321015",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468567542264664067/1678714146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25011,
+          "following_count": 1052,
+          "like_count": 15040,
+          "listed_count": 40,
+          "media_count": 1614,
+          "tweet_count": 17590
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-16T03:00:05.000Z",
+        "description": "^⌯𖥦⌯^ ੭ 鹿角/Yukina❄️ ┆碎碎念記錄合集┆水色🩵┆中文En OK┆音游、繪畫┆毛绒大好き┆ハチワレ、湊友希那、リラックマ┆\n視監我的死全家",
+        "id": "1404997135360270343",
+        "is_identity_verified": false,
+        "location": "｡ﾟ+.雨° 雪꜆˖♡* 貓咪/ᐠ - ˕ -マ Ⳋ",
+        "most_recent_tweet_id": "2088373010353062139",
+        "name": "Yuki._.Neko",
+        "pinned_tweet_id": "2083631439694921828",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404997135360270343/1726210286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079184577940312064/VYDursNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 358,
+          "like_count": 5255,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 2271
+        },
+        "url": "",
+        "username": "_yukinaOvO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
