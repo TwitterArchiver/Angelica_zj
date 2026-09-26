@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2096866489957786054",
+    "created_at": "2026-09-07T08:21:36.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T09:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096876526675595480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1363109329662930954",
+          "start": 0,
+          "username": "nocantbutdont"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096876526675595480",
+    "in_reply_to_user_id": "1363109329662930954",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096874993129066961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nocantbutdont 🤓🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2096866489957786054",
+        "created_at": "2026-09-07T08:21:36.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096876526675595480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1363109329662930954",
+              "start": 0,
+              "username": "nocantbutdont"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096876526675595480",
+        "in_reply_to_user_id": "1363109329662930954",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096874993129066961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nocantbutdont 🤓🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363109329662930954",
+        "conversation_id": "2096866489957786054",
+        "created_at": "2026-09-07T08:15:31.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096874993129066961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096874993129066961",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096866489957786054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 🤓"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "is_identity_verified": false,
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "most_recent_tweet_id": "2096876526675595480",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468567542264664067/1678714146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24964,
+          "following_count": 1049,
+          "like_count": 15060,
+          "listed_count": 39,
+          "media_count": 1629,
+          "tweet_count": 17726
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-20T12:52:53.000Z",
+        "description": "性别男。支持一个中国\n\n之前发的不是本人\n\n接投稿，什么都可以投",
+        "id": "1363109329662930954",
+        "is_identity_verified": false,
+        "location": "泉州",
+        "most_recent_tweet_id": "2096876230905925894",
+        "name": "处男",
+        "pinned_tweet_id": "1867673361360556521",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1363109329662930954/1672121084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765115688170192896/u6lBrI9l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4873,
+          "following_count": 6975,
+          "like_count": 23261,
+          "listed_count": 13,
+          "media_count": 236,
+          "tweet_count": 7647
+        },
+        "url": "",
+        "username": "nocantbutdont",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2094604756203548972",
+    "created_at": "2026-09-01T02:13:41.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T03:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094609608707084530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1627501884704722944",
+          "start": 0,
+          "username": "fesjsvkageyqcw3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094609608707084530",
+    "in_reply_to_user_id": "1627501884704722944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094604756203548972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fesjsvkageyqcw3 好棒啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2094604756203548972",
+        "created_at": "2026-09-01T02:13:41.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T03:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094609608707084530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1627501884704722944",
+              "start": 0,
+              "username": "fesjsvkageyqcw3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094609608707084530",
+        "in_reply_to_user_id": "1627501884704722944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094604756203548972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fesjsvkageyqcw3 好棒啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627501884704722944",
+        "conversation_id": "2094604756203548972",
+        "created_at": "2026-09-01T01:54:24.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T02:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094604756203548972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094604756203548972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我合格东京大学了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "is_identity_verified": false,
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "most_recent_tweet_id": "2094609608707084530",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468567542264664067/1678714146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24984,
+          "following_count": 1051,
+          "like_count": 15053,
+          "listed_count": 38,
+          "media_count": 1627,
+          "tweet_count": 17688
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-20T02:54:22.000Z",
+        "description": "我一定要去更好的地方",
+        "id": "1627501884704722944",
+        "is_identity_verified": false,
+        "location": "喜欢没头没脑的说一些无聊的话是因为脑子不好",
+        "most_recent_tweet_id": "2094604756203548972",
+        "name": "砂ﾀｰﾝ",
+        "pinned_tweet_id": "2050916133415645522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1627501884704722944/1701615210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688390904405762048/FldU3g-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4774,
+          "following_count": 273,
+          "like_count": 5055,
+          "listed_count": 12,
+          "media_count": 426,
+          "tweet_count": 5554
+        },
+        "url": "",
+        "username": "fesjsvkageyqcw3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

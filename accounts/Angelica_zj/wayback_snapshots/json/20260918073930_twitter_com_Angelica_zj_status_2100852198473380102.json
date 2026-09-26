@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2100769254564077635",
+    "created_at": "2026-09-18T07:39:30.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T08:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100852198473380102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1418919914409242631",
+          "start": 0,
+          "username": "88BExUpvIQ7sOC8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100852198473380102",
+    "in_reply_to_user_id": "1418919914409242631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100769254564077635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@88BExUpvIQ7sOC8 好喜欢…😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100769163333730304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdubHeaAAAhsRq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100769163375742976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdubHobEAAK9vv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100769163329654784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdubHdb0AAORN8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100769163577040896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdubIYaoAAEOrt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2100769254564077635",
+        "created_at": "2026-09-18T07:39:30.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100852198473380102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1418919914409242631",
+              "start": 0,
+              "username": "88BExUpvIQ7sOC8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100852198473380102",
+        "in_reply_to_user_id": "1418919914409242631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100769254564077635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@88BExUpvIQ7sOC8 好喜欢…😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100769163333730304",
+            "3_2100769163375742976",
+            "3_2100769163329654784",
+            "3_2100769163577040896"
+          ]
+        },
+        "author_id": "1418919914409242631",
+        "conversation_id": "2100769254564077635",
+        "created_at": "2026-09-18T02:09:55.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T03:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100769254564077635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M5v6jC1xJv",
+              "end": 30,
+              "expanded_url": "https://x.com/88BExUpvIQ7sOC8/status/2100769254564077635/photo/1",
+              "media_key": "3_2100769163333730304",
+              "start": 7,
+              "url": "https://t.co/M5v6jC1xJv"
+            },
+            {
+              "display_url": "pic.x.com/M5v6jC1xJv",
+              "end": 30,
+              "expanded_url": "https://x.com/88BExUpvIQ7sOC8/status/2100769254564077635/photo/1",
+              "media_key": "3_2100769163375742976",
+              "start": 7,
+              "url": "https://t.co/M5v6jC1xJv"
+            },
+            {
+              "display_url": "pic.x.com/M5v6jC1xJv",
+              "end": 30,
+              "expanded_url": "https://x.com/88BExUpvIQ7sOC8/status/2100769254564077635/photo/1",
+              "media_key": "3_2100769163329654784",
+              "start": 7,
+              "url": "https://t.co/M5v6jC1xJv"
+            },
+            {
+              "display_url": "pic.x.com/M5v6jC1xJv",
+              "end": 30,
+              "expanded_url": "https://x.com/88BExUpvIQ7sOC8/status/2100769254564077635/photo/1",
+              "media_key": "3_2100769163577040896",
+              "start": 7,
+              "url": "https://t.co/M5v6jC1xJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100769254564077635",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100769163333730304"
+          },
+          {
+            "media_key": "3_2100769163375742976"
+          },
+          {
+            "media_key": "3_2100769163329654784"
+          },
+          {
+            "media_key": "3_2100769163577040896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "校供X白大褂 https://t.co/M5v6jC1xJv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "is_identity_verified": false,
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "most_recent_tweet_id": "2100852198473380102",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468567542264664067/1678714146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24944,
+          "following_count": 1049,
+          "like_count": 15097,
+          "listed_count": 39,
+          "media_count": 1632,
+          "tweet_count": 17779
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-24T13:04:14.000Z",
+        "description": "窗外是佛罗伦萨，桌上是死。如果今天的我远离一切，那是因为除了爱和仰望，我别无所能。\n\n可以叫我环⭕️，永远17岁的女孩子(𓈒ʚ̴̶̷̷̥ ⩊ ɞ̴̶̷𓈒)",
+        "id": "1418919914409242631",
+        "is_identity_verified": false,
+        "location": "Tsuen Wan District, Hong Kong",
+        "most_recent_tweet_id": "2100769254564077635",
+        "name": "いくら",
+        "pinned_tweet_id": "1732002153747890630",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1418919914409242631/1722329134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687315775793831936/vWjoGNuy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 878,
+          "like_count": 21002,
+          "listed_count": 9,
+          "media_count": 1106,
+          "tweet_count": 5216
+        },
+        "url": "",
+        "username": "88BExUpvIQ7sOC8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

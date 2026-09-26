@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2096329424694362141",
+    "created_at": "2026-09-05T20:07:37.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T21:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096329424694362141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/strawhatpyro/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/strawhatpyro/status/2095966904158675384",
+          "start": 5,
+          "url": "https://t.co/q3LFj4JqBV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096329424694362141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095966904158675384",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可爱死了 https://t.co/q3LFj4JqBV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2095966891307331584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZeyGFacAA3G6b.jpg",
+        "width": 2650
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2095966898441908224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZeygqbcAAr1SJ.jpg",
+        "width": 2650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2096329424694362141",
+        "created_at": "2026-09-05T20:07:37.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T21:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096329424694362141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/strawhatpyro/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/strawhatpyro/status/2095966904158675384",
+              "start": 5,
+              "url": "https://t.co/q3LFj4JqBV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096329424694362141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095966904158675384",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可爱死了 https://t.co/q3LFj4JqBV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095966891307331584",
+            "3_2095966898441908224"
+          ]
+        },
+        "author_id": "1593807897611231232",
+        "conversation_id": "2095966904158675384",
+        "created_at": "2026-09-04T20:07:05.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T21:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095966904158675384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V5ImlgY42c",
+              "end": 45,
+              "expanded_url": "https://x.com/StrawHatPyro/status/2095966904158675384/photo/1",
+              "media_key": "3_2095966891307331584",
+              "start": 22,
+              "url": "https://t.co/V5ImlgY42c"
+            },
+            {
+              "display_url": "pic.x.com/V5ImlgY42c",
+              "end": 45,
+              "expanded_url": "https://x.com/StrawHatPyro/status/2095966904158675384/photo/1",
+              "media_key": "3_2095966898441908224",
+              "start": 22,
+              "url": "https://t.co/V5ImlgY42c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095966904158675384",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095966891307331584"
+          },
+          {
+            "media_key": "3_2095966898441908224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17502,
+          "impression_count": 2690280,
+          "like_count": 170986,
+          "quote_count": 869,
+          "reply_count": 115,
+          "retweet_count": 5947
+        },
+        "reply_settings": "everyone",
+        "text": "She's trying her best https://t.co/V5ImlgY42c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "is_identity_verified": false,
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "most_recent_tweet_id": "2096329424694362141",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468567542264664067/1678714146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24961,
+          "following_count": 1049,
+          "like_count": 15050,
+          "listed_count": 39,
+          "media_count": 1627,
+          "tweet_count": 17714
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-19T03:26:43.000Z",
+        "description": "Drawing whatever I want |\nYou can use my art as long as you give credit https://t.co/yRUGxerFvk\nhttps://t.co/TEw0kEnYLE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/StrawHatPyro",
+                "end": 95,
+                "expanded_url": "https://patreon.com/StrawHatPyro",
+                "start": 72,
+                "url": "https://t.co/yRUGxerFvk"
+              },
+              {
+                "display_url": "webtoons.com/p/community/en…",
+                "end": 119,
+                "expanded_url": "https://www.webtoons.com/p/community/en/u/_zj6kui",
+                "start": 96,
+                "url": "https://t.co/TEw0kEnYLE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "strawhatpyro.straw.page",
+                "end": 23,
+                "expanded_url": "https://strawhatpyro.straw.page",
+                "start": 0,
+                "url": "https://t.co/mSR5HQVzXm"
+              }
+            ]
+          }
+        },
+        "id": "1593807897611231232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096307815086518723",
+        "name": "StrawHatPyro",
+        "pinned_tweet_id": "2093779226281566507",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1593807897611231232/1772103318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026973217941061632/qwB6-ElX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16712,
+          "following_count": 330,
+          "like_count": 31099,
+          "listed_count": 51,
+          "media_count": 1093,
+          "tweet_count": 3075
+        },
+        "url": "https://t.co/mSR5HQVzXm",
+        "username": "StrawHatPyro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

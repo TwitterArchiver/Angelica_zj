@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2099378683194773563",
+    "created_at": "2026-09-15T14:38:41.000Z",
+    "display_text_range": [
+      17,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099870524788851198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1653473992848871425",
+          "start": 0,
+          "username": "bing11413675557"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099870524788851198",
+    "in_reply_to_user_id": "1653473992848871425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099797889333842370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bing11413675557 那还真没有，我都没参与，就去买了点毛绒，新道馆的掌心系列可全了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2099378683194773563",
+        "created_at": "2026-09-15T14:38:41.000Z",
+        "display_text_range": [
+          17,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099870524788851198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653473992848871425",
+              "start": 0,
+              "username": "bing11413675557"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099870524788851198",
+        "in_reply_to_user_id": "1653473992848871425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099797889333842370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing11413675557 那还真没有，我都没参与，就去买了点毛绒，新道馆的掌心系列可全了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653473992848871425",
+        "conversation_id": "2099378683194773563",
+        "created_at": "2026-09-15T09:50:03.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T10:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099797889333842370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099797889333842370",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099378683194773563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 你不会抽中了30周年了吧？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "is_identity_verified": false,
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "most_recent_tweet_id": "2099870524788851198",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468567542264664067/1678714146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24959,
+          "following_count": 1052,
+          "like_count": 15094,
+          "listed_count": 39,
+          "media_count": 1632,
+          "tweet_count": 17774
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-02T18:58:24.000Z",
+        "description": "打打的牌！桌桌的游！聊聊的天‼",
+        "id": "1653473992848871425",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099798266086891742",
+        "name": "好运降临",
+        "pinned_tweet_id": "2037860036832292868",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653473992848871425/1752257109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943733308552359937/stR7Giyj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 86,
+          "like_count": 6018,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 2721
+        },
+        "url": "",
+        "username": "bing11413675557",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

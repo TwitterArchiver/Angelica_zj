@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2094407500850426239",
+    "created_at": "2026-09-01T05:17:57.000Z",
+    "display_text_range": [
+      14,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T06:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094655980516868123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755481615864872960",
+          "start": 0,
+          "username": "sjjsjq135000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094655980516868123",
+    "in_reply_to_user_id": "1755481615864872960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094446387291389964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjjsjq135000 好幸运！我这次的嘉宾是法老和侃迪，三厨狂喜了属于是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2094446379976536065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRD34r-asAEu930.jpg",
+        "width": 1617
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2094407500850426239",
+        "created_at": "2026-09-01T05:17:57.000Z",
+        "display_text_range": [
+          14,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T06:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094655980516868123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755481615864872960",
+              "start": 0,
+              "username": "sjjsjq135000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094655980516868123",
+        "in_reply_to_user_id": "1755481615864872960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094446387291389964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjjsjq135000 好幸运！我这次的嘉宾是法老和侃迪，三厨狂喜了属于是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094446379976536065"
+          ]
+        },
+        "author_id": "1755481615864872960",
+        "conversation_id": "2094407500850426239",
+        "created_at": "2026-08-31T15:25:06.000Z",
+        "display_text_range": [
+          13,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094446387291389964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gBXHg5eNt2",
+              "end": 80,
+              "expanded_url": "https://x.com/sjjsjq135000/status/2094446387291389964/photo/1",
+              "media_key": "3_2094446379976536065",
+              "start": 57,
+              "url": "https://t.co/gBXHg5eNt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094446387291389964",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094446379976536065"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094442860317966366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 上次见瀚哲的时候还是他23年回贵阳开livehouse的时候，小李和法老还是嘉宾😭😭😭 https://t.co/gBXHg5eNt2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "is_identity_verified": false,
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "most_recent_tweet_id": "2094655980516868123",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468567542264664067/1678714146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24984,
+          "following_count": 1051,
+          "like_count": 15053,
+          "listed_count": 38,
+          "media_count": 1628,
+          "tweet_count": 17692
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T06:40:20.000Z",
+        "description": "https://t.co/p4Z1AzEsI2\n熟悉的互关可以加我V （和我说就行）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww49812",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ww49812",
+                "start": 0,
+                "url": "https://t.co/p4Z1AzEsI2"
+              }
+            ]
+          }
+        },
+        "id": "1755481615864872960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094649295702212882",
+        "name": "电次（米饭🍚）",
+        "pinned_tweet_id": "2093723942410506580",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755481615864872960/1738770886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009133454743752704/Z92W8eu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 298,
+          "like_count": 1542,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1108
+        },
+        "url": "",
+        "username": "sjjsjq135000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

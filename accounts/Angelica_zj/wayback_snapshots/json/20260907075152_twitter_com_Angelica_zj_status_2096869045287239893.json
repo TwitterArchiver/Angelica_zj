@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2096869045287239893",
+    "created_at": "2026-09-07T07:51:52.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T08:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096869045287239893"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/potatowithsalt…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/potatowithsalty/status/2096727974703693947",
+          "start": 20,
+          "url": "https://t.co/bo2tP15Ism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096869045287239893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096727974703693947",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操发生什么事了，怎么都在讨论中国拉拉 https://t.co/bo2tP15Ism"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2096869045287239893",
+        "created_at": "2026-09-07T07:51:52.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T08:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096869045287239893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/potatowithsalt…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/potatowithsalty/status/2096727974703693947",
+              "start": 20,
+              "url": "https://t.co/bo2tP15Ism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096869045287239893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096727974703693947",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操发生什么事了，怎么都在讨论中国拉拉 https://t.co/bo2tP15Ism"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1267216493713985537",
+        "conversation_id": "2096727974703693947",
+        "created_at": "2026-09-06T22:31:19.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T23:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096727974703693947"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "les"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "wlw"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096727974703693947",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 25552,
+          "like_count": 275,
+          "quote_count": 1,
+          "reply_count": 58,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Jiejie por favor déjenme entrar al lado lesbico chino secreto, yo también soy lala\n\n#les #wlw #女同"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "is_identity_verified": false,
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "most_recent_tweet_id": "2096869045287239893",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468567542264664067/1678714146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24964,
+          "following_count": 1049,
+          "like_count": 15058,
+          "listed_count": 39,
+          "media_count": 1629,
+          "tweet_count": 17722
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-31T22:10:15.000Z",
+        "description": "2005 🦀| spiders🔝 | Biology, looml🔬| Proudly a girl kisser| Gl addict, all thai actresses are my babies| Madohomu my little lesbians.",
+        "id": "1267216493713985537",
+        "is_identity_verified": false,
+        "location": "In Pale city",
+        "most_recent_tweet_id": "2096869039725310165",
+        "name": "Lola_Y",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267216493713985537/1748884528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797427097905885184/FpQxJUDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 224,
+          "like_count": 109143,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 21752
+        },
+        "url": "",
+        "username": "Potatowithsalty",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

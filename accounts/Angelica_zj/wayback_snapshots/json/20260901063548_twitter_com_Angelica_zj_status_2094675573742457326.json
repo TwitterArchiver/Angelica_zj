@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2094615550676894113",
+    "created_at": "2026-09-01T06:35:48.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T07:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094675573742457326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1515118079621345285",
+          "start": 0,
+          "username": "sayorixixi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094675573742457326",
+    "in_reply_to_user_id": "1515118079621345285",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094663898452611426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sayorixixi 真是哭嘞😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2094663898452611426].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2094663898452611426",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2094663898452611426"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2094615550676894113",
+        "created_at": "2026-09-01T06:35:48.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094675573742457326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1515118079621345285",
+              "start": 0,
+              "username": "sayorixixi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094675573742457326",
+        "in_reply_to_user_id": "1515118079621345285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094663898452611426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sayorixixi 真是哭嘞😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "is_identity_verified": false,
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "most_recent_tweet_id": "2094675573742457326",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468567542264664067/1678714146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24985,
+          "following_count": 1051,
+          "like_count": 15053,
+          "listed_count": 38,
+          "media_count": 1628,
+          "tweet_count": 17695
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-16T00:01:25.000Z",
+        "description": "我的秘密日记簿，会分享生活还有一些碎碎念，线下查无此人__ ━(*｀∀´*)ノ亻 欢迎大家跟我互fo 努力工作生存中——",
+        "id": "1515118079621345285",
+        "is_identity_verified": false,
+        "location": "Doki Doki Literature Club",
+        "most_recent_tweet_id": "2091186994345058358",
+        "name": "飘波不定的水母🪼(:≡",
+        "pinned_tweet_id": "1816112656694272516",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1515118079621345285/1723783515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830651140041842688/LV7HAI3G_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 137,
+          "like_count": 2747,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 458
+        },
+        "url": "",
+        "username": "sayorixixi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

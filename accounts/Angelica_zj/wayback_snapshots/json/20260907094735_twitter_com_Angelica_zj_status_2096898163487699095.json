@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2096869045287239893",
+    "created_at": "2026-09-07T09:47:35.000Z",
+    "display_text_range": [
+      11,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T10:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096898163487699095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2096286557678575617",
+          "start": 0,
+          "username": "jrdh_jidu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096898163487699095",
+    "in_reply_to_user_id": "2096286557678575617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096884709704057232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jrdh_jidu 我觉得还是老中互联网环境太诡异了，线下我是真没遇见过魔怔拉拉，大家都挺平和的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2096869045287239893",
+        "created_at": "2026-09-07T09:47:35.000Z",
+        "display_text_range": [
+          11,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T10:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096898163487699095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2096286557678575617",
+              "start": 0,
+              "username": "jrdh_jidu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096898163487699095",
+        "in_reply_to_user_id": "2096286557678575617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096884709704057232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jrdh_jidu 我觉得还是老中互联网环境太诡异了，线下我是真没遇见过魔怔拉拉，大家都挺平和的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096286557678575617",
+        "conversation_id": "2096869045287239893",
+        "created_at": "2026-09-07T08:54:07.000Z",
+        "display_text_range": [
+          13,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096884709704057232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096884709704057232",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096870096069369953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 哇，还是动漫小说故事里的美好，现实生活中总感觉反差好大哦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "is_identity_verified": false,
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "most_recent_tweet_id": "2096898163487699095",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468567542264664067/1678714146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24966,
+          "following_count": 1050,
+          "like_count": 15060,
+          "listed_count": 39,
+          "media_count": 1629,
+          "tweet_count": 17728
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T17:18:58.000Z",
+        "description": "提问↓\nhttps://t.co/kTCT4N0HQE还不了解可以发什么，所以不知道写什么\n我以前就说过要这么做\n这里自由吗？我想说点奇怪的话",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jrdh72559",
+                "end": 27,
+                "expanded_url": "https://ngl.link/jrdh72559",
+                "start": 4,
+                "url": "https://t.co/kTCT4N0HQE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "这又是啥子.com",
+                "end": 23,
+                "expanded_url": "http://xn--for80b44j93mxx4c.com",
+                "start": 0,
+                "url": "https://t.co/7ZNGlurmsb"
+              }
+            ]
+          }
+        },
+        "id": "2096286557678575617",
+        "is_identity_verified": false,
+        "location": "在哪啊在哪啊，这个该怎么填？",
+        "most_recent_tweet_id": "2096896011042181543",
+        "name": "肽芙布冯v",
+        "pinned_tweet_id": "2096779250061988163",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096286557678575617/1788629319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096287263659601920/9u7RmJkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/7ZNGlurmsb",
+        "username": "jrdh_jidu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

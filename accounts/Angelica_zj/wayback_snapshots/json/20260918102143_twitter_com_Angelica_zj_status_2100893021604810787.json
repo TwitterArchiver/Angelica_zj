@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1468567542264664067",
+    "conversation_id": "2100770103176679823",
+    "created_at": "2026-09-18T10:21:43.000Z",
+    "display_text_range": [
+      10,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T11:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100893021604810787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1403639017036464134",
+          "start": 0,
+          "username": "Cattary2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100893021604810787",
+    "in_reply_to_user_id": "1403639017036464134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100884097271050313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cattary2 已经换力，抢的第一批今天刚到(=´∀｀)人(´∀｀=)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2100770103176679823",
+        "created_at": "2026-09-18T10:21:43.000Z",
+        "display_text_range": [
+          10,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100893021604810787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1403639017036464134",
+              "start": 0,
+              "username": "Cattary2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100893021604810787",
+        "in_reply_to_user_id": "1403639017036464134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100884097271050313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cattary2 已经换力，抢的第一批今天刚到(=´∀｀)人(´∀｀=)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1403639017036464134",
+        "conversation_id": "2100770103176679823",
+        "created_at": "2026-09-18T09:46:15.000Z",
+        "display_text_range": [
+          13,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T10:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100884097271050313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100884097271050313",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100770103176679823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 准备换18吗 我还在想要不就换个基础款 但是还没发售"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "不画画了，专心做平面牛马中/ 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "is_identity_verified": false,
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "most_recent_tweet_id": "2100893021604810787",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468567542264664067/1678714146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24944,
+          "following_count": 1049,
+          "like_count": 15099,
+          "listed_count": 39,
+          "media_count": 1632,
+          "tweet_count": 17782
+        },
+        "url": "",
+        "username": "Angelica_zj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-12T09:03:25.000Z",
+        "description": "清水推 不扩列不聊骚 欢迎和我互动 全猫肯定bot 可以给我发你家的小猫ᴖᗜᴖ",
+        "id": "1403639017036464134",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100884097271050313",
+        "name": "火锅炖小利",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1403639017036464134/1703424325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000909516628688896/K-JROsQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 97,
+          "like_count": 379,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 1403
+        },
+        "url": "",
+        "username": "Cattary2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
